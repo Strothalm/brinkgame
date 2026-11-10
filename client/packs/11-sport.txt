@@ -1,0 +1,225 @@
+@id sport
+@name Sport
+@icon ⚽
+@color #7bd148
+@desc Fußball, Olympia, Motorsport, Tennis, US-Sport, Regeln und Legenden.
+
+# Fußball: Bundesliga
+1 | Welcher Verein ist deutscher Rekordmeister? | FC Bayern München
+1 | Welche Farben trägt Borussia Dortmund? | Schwarz und Gelb
+1 | In welcher Stadt spielt der FC Schalke 04? | Gelsenkirchen
+1 | Wie viele Vereine spielen in der 1. Bundesliga? | 18
+2 | Wie heißt das Stadion von Borussia Dortmund? | Signal Iduna Park | Auch „Westfalenstadion“.
+2 | Welcher Verein wurde 2024 zum ersten Mal deutscher Meister, ohne ein Ligaspiel zu verlieren? | Bayer 04 Leverkusen
+2 | Welcher Verein trägt den Spitznamen „Die Fohlen“? | Borussia Mönchengladbach
+2 | In welcher Stadt spielt Eintracht Frankfurt? | Frankfurt am Main
+3 | In welchem Jahr wurde die Bundesliga gegründet? | 1963
+3 | Welcher Stürmer schoss in der Saison 2020/21 41 Tore und brach damit den Rekord von Gerd Müller? | Robert Lewandowski
+3 | Welcher Verein trägt den Spitznamen „Die Eisernen“? | 1. FC Union Berlin
+3 | Welcher Verein spielte von 1963 bis 2018 ununterbrochen in der Bundesliga und hatte dafür eine Stadionuhr? | Hamburger SV
+4 | Welcher Trainer führte Leverkusen 2024 zur Meisterschaft? | Xabi Alonso
+4 | Welcher Verein wurde 1998 als Aufsteiger direkt deutscher Meister? | 1. FC Kaiserslautern
+4 | Wie heißt die Trophäe für den deutschen Meister? | Meisterschale
+4 | Welcher Spieler hat die meisten Bundesliga-Tore aller Zeiten erzielt? | Gerd Müller | 365 Tore.
+5 | Welcher Verein gewann 2009 überraschend die Meisterschaft unter Trainer Felix Magath? | VfL Wolfsburg
+5 | Welcher Spieler hat die meisten Bundesligaspiele bestritten? | Karl-Heinz Körbel | 602 Spiele für Eintracht Frankfurt.
+5 | Welcher Verein war 1963 der erste Bundesliga-Meister? | 1. FC Köln | Saison 1963/64.
+5 | Welcher Verein wurde 2007 unter Trainer Armin Veh deutscher Meister? | VfB Stuttgart
+
+# Fußball: Welt und Europa
+1 | Welches Land ist Rekordweltmeister im Fußball der Männer? | Brasilien
+1 | Wie viele Spieler stehen pro Team beim Anpfiff auf dem Platz? | Elf
+1 | Wie oft wurde Deutschland bei den Männern Weltmeister? | Viermal
+1 | Wie lange dauert ein Fußballspiel regulär? | 90 Minuten
+2 | Welches Land gewann die WM 2022 in Katar? | Argentinien
+2 | Wer schoss 2014 im WM-Finale das Siegtor für Deutschland? | Mario Götze
+2 | Für welchen Verein spielte Lionel Messi die meiste Zeit seiner Karriere? | FC Barcelona
+2 | Welches Land gewann die EM 2024 in Deutschland? | Spanien
+3 | Wie endete das WM-Halbfinale 2014 zwischen Deutschland und Brasilien? | 7:1
+3 | Welcher Verein hat die Champions League am häufigsten gewonnen? | Real Madrid
+3 | In welchem Jahr gewann Deutschland das „Wunder von Bern“? | 1954
+3 | Welcher Spieler ist WM-Rekordtorschütze mit 16 Toren? | Miroslav Klose
+4 | Welches Land richtete die erste Fußball-WM 1930 aus und gewann sie? | Uruguay
+4 | Wie heißt die Auszeichnung für den besten Fußballer des Jahres? | Ballon d'Or
+4 | Welches Land wurde 2004 sensationell Europameister unter Otto Rehhagel? | Griechenland
+4 | In welchem Jahr wurde Deutschland zuletzt Europameister der Männer? | 1996
+5 | Welcher Engländer schoss 1966 im WM-Finale drei Tore, darunter das „Wembley-Tor“? | Geoff Hurst
+5 | Welcher Verein gewann 1999 im Finale gegen Bayern mit zwei Toren in der Nachspielzeit? | Manchester United
+5 | Wie heißt das Stadion des FC Barcelona? | Camp Nou
+5 | Welcher Kameruner war bei der WM 1994 mit 42 Jahren der älteste Torschütze der WM-Geschichte? | Roger Milla
+
+# Olympia
+1 | Wie oft finden Olympische Sommerspiele statt? | Alle vier Jahre
+1 | Welche Medaille bekommt der Sieger? | Gold
+1 | Welche Farbe haben die fünf olympischen Ringe auf weißem Grund nicht: Blau, Gelb, Schwarz, Grün, Rot oder Lila? | Lila
+1 | In welcher Stadt fanden die Sommerspiele 2024 statt? | Paris
+2 | In welchem Land entstanden die antiken Olympischen Spiele? | Griechenland
+2 | Welcher Sprinter aus Jamaika gewann achtmal Olympia-Gold? | Usain Bolt
+2 | In welcher Stadt fanden die Sommerspiele 1972 in Deutschland statt? | München
+2 | Welcher Schwimmer gewann 23 olympische Goldmedaillen? | Michael Phelps
+3 | In welcher Stadt finden die Sommerspiele 2028 statt? | Los Angeles
+3 | Wer gilt als Begründer der Olympischen Spiele der Neuzeit? | Pierre de Coubertin
+3 | In welcher Stadt fanden die Sommerspiele 1936 statt? | Berlin
+3 | Wie viele Disziplinen hat ein Zehnkampf? | Zehn
+4 | Welcher US-Leichtathlet gewann 1936 in Berlin vier Goldmedaillen? | Jesse Owens
+4 | In welcher Stadt fanden die Winterspiele 2022 statt? | Peking
+4 | Wie lautet das olympische Motto auf Deutsch, ohne den Zusatz „gemeinsam“? | Schneller, höher, stärker | Lateinisch „Citius, altius, fortius“.
+4 | In welcher Stadt fanden die Sommerspiele 2021 statt, die als „2020“ zählten? | Tokio
+5 | Welche rumänische Turnerin bekam 1976 als Erste die Note 10,0? | Nadia Comăneci
+5 | In welcher Stadt fanden 1896 die ersten Spiele der Neuzeit statt? | Athen
+5 | Welche fünf Disziplinen bilden den Modernen Fünfkampf traditionell? | Fechten, Schwimmen, Reiten, Schießen, Laufen | Reiten wird nach 2024 durch einen Hindernislauf ersetzt.
+5 | Welche deutsche Dressurreiterin hat acht olympische Goldmedaillen gewonnen, die letzte 2024 in Paris? | Isabell Werth
+
+# Motorsport
+1 | In welcher Rennserie fuhr Michael Schumacher? | Formel 1
+1 | Welche Farbe haben die Autos von Ferrari traditionell? | Rot
+1 | Welche Flagge zeigt das Ende eines Rennens an? | Schwarz-weiß karierte Flagge | „Zielflagge“ gilt.
+1 | Wie viele Räder hat ein Formel-1-Auto? | Vier
+2 | Wie viele WM-Titel gewann Michael Schumacher? | Sieben
+2 | Welcher Brite hat ebenfalls sieben Formel-1-Titel? | Lewis Hamilton
+2 | Welcher Deutsche wurde von 2010 bis 2013 viermal in Folge Weltmeister? | Sebastian Vettel
+2 | In welchem Fürstentum fährt die Formel 1 durch enge Straßen am Hafen? | Monaco
+3 | Welcher Niederländer wurde 2021 erstmals Formel-1-Weltmeister? | Max Verstappen
+3 | Wie heißt das 24-Stunden-Rennen in Frankreich? | 24 Stunden von Le Mans
+3 | Für welches Team wurde Vettel viermal Weltmeister? | Red Bull Racing
+3 | Welcher Deutsche wurde 2016 Weltmeister und trat danach zurück? | Nico Rosberg
+4 | Wie heißt die berühmte Rennstrecke in der Eifel mit der Nordschleife? | Nürburgring
+4 | Welcher brasilianische Fahrer starb 1994 in Imola? | Ayrton Senna
+4 | Welcher Italiener ist mit neun Titeln die Legende der Motorrad-WM und trägt die 46? | Valentino Rossi
+4 | Welcher Österreicher überlebte 1976 einen Feuerunfall am Nürburgring und wurde dreimal Weltmeister? | Niki Lauda
+5 | Wie heißt die Rallye, die früher von Paris nach Afrika führte? | Rallye Dakar
+5 | Welcher Argentinier gewann in den 1950ern fünf Formel-1-Titel? | Juan Manuel Fangio
+5 | Welcher Franzose ist mit neun Titeln Rekordweltmeister im Rallyesport? | Sébastien Loeb
+5 | Wie heißt das berühmte 500-Meilen-Rennen in den USA? | Indianapolis 500 | Kurz „Indy 500“.
+
+# Tennis und Rückschlagspiele
+1 | Womit schlägt man beim Tennis den Ball? | Schläger
+1 | Auf welchem Belag wird in Wimbledon gespielt? | Rasen
+1 | Welche Farbe hat ein Tennisball üblicherweise? | Gelb
+1 | Wie nennt man den Spielstand 40:40 im Tennis? | Einstand | Englisch „Deuce“.
+2 | Welcher Deutsche gewann 1985 mit 17 Jahren Wimbledon? | Boris Becker
+2 | Welche Deutsche gewann 22 Grand-Slam-Titel im Einzel? | Steffi Graf
+2 | Wie viele Grand-Slam-Turniere gibt es pro Jahr? | Vier
+2 | Welcher Spanier gewann 14-mal die French Open? | Rafael Nadal
+3 | Auf welchem Belag wird bei den French Open gespielt? | Sand
+3 | Welcher Schweizer gewann achtmal Wimbledon? | Roger Federer
+3 | Welcher Serbe hat die meisten Grand-Slam-Titel bei den Männern? | Novak Đoković
+3 | Wie nennt man null Punkte im Tennis auf Englisch? | Love
+4 | Was schlägt man beim Badminton über das Netz? | Federball | Fachwort „Shuttlecock“.
+4 | Welche Amerikanerin gewann 23 Grand-Slam-Titel im Einzel? | Serena Williams
+4 | In welcher Stadt finden die Australian Open statt? | Melbourne
+4 | Welches Land dominiert den Tischtennissport seit Jahrzehnten? | China
+5 | Was gelang Steffi Graf 1988 mit allen vier Grand Slams plus Olympia-Gold? | Golden Slam
+5 | Welcher Deutsche ist Rekord-Europameister im Tischtennis? | Timo Boll
+5 | Wie heißt das Stadion des Finales der US Open in New York? | Arthur Ashe Stadium
+5 | Welcher Schwede gewann fünfmal in Folge Wimbledon von 1976 bis 1980? | Björn Borg
+
+# US-Sport
+1 | Welche Sportart wird in der NBA gespielt? | Basketball
+1 | Wie heißt das Finale der NFL? | Super Bowl
+1 | Welche Sportart wird in der NHL gespielt? | Eishockey
+1 | Wie viele Punkte gibt ein normaler Korb aus der Nahdistanz im Basketball? | Zwei
+2 | Für welches Team spielte Michael Jordan bei seinen sechs Titeln? | Chicago Bulls
+2 | Wie viele Punkte gibt ein Touchdown? | Sechs
+2 | Welcher Deutsche wurde 2011 mit den Dallas Mavericks NBA-Champion? | Dirk Nowitzki
+2 | Wie nennt man im Baseball einen Schlag, nach dem der Schlagmann alle Bases umrundet? | Home Run
+3 | Welcher Quarterback gewann sieben Super Bowls? | Tom Brady
+3 | Welcher Basketballer trug bei den Lakers die 8 und die 24 und starb 2020? | Kobe Bryant
+3 | Wie heißt die Trophäe der NHL? | Stanley Cup
+3 | Wie viele Spieler stehen beim Basketball pro Team auf dem Feld? | Fünf
+4 | Welcher Spieler ist bester Punktesammler der NBA-Geschichte? | LeBron James
+4 | Welches Team hat zusammen mit den Patriots die meisten Super Bowls gewonnen? | Pittsburgh Steelers | Beide je sechs.
+4 | Wie heißt die Meisterschaftsserie im Baseball? | World Series
+4 | Welche Nation wurde 2023 Basketball-Weltmeister? | Deutschland
+5 | Welcher Basketballer erzielte 1962 in einem Spiel 100 Punkte? | Wilt Chamberlain
+5 | Welcher Kanadier gilt als bester Eishockeyspieler aller Zeiten, „The Great One“? | Wayne Gretzky
+5 | Welcher Deutsche führte die Nationalmannschaft 2023 als Kapitän zum WM-Titel im Basketball? | Dennis Schröder
+5 | Wie heißt die Trophäe für den Super-Bowl-Sieger? | Vince Lombardi Trophy
+
+# Wintersport
+1 | Womit fährt man beim Skifahren den Berg hinunter? | Ski
+1 | Auf welchem Untergrund wird Eishockey gespielt? | Eis
+1 | Wie nennt man das Brett, mit dem man seitlich stehend den Hang hinunterfährt? | Snowboard
+1 | Welche Sportart verbindet Langlauf und Schießen? | Biathlon
+2 | Wie heißt die Serie von vier Skisprung-Wettkämpfen rund um den Jahreswechsel? | Vierschanzentournee
+2 | Wie heißt der Schlitten, in dem zwei oder vier Sportler durch einen Eiskanal rasen? | Bob
+2 | Welche Sportart wird mit Steinen und Besen auf dem Eis gespielt? | Curling
+2 | Wie heißt die Scheibe beim Eishockey? | Puck
+3 | Wie heißt die berüchtigte Abfahrt in Kitzbühel? | Streif
+3 | Welcher Rodler aus Bayern wurde als „Hackl Schorsch“ bekannt? | Georg Hackl
+3 | Welche deutsche Biathletin gewann zwölf WM-Titel und trat 2012 mit 25 zurück? | Magdalena Neuner
+3 | In welchen vier Orten wird die Vierschanzentournee ausgetragen? | Oberstdorf, Garmisch-Partenkirchen, Innsbruck, Bischofshofen
+4 | Welcher Skispringer gewann 2002 als Erster alle vier Springen der Tournee? | Sven Hannawald
+4 | Welcher Norweger ist mit acht Olympiasiegen der erfolgreichste Biathlet? | Ole Einar Bjørndalen
+4 | Welche US-Skirennläuferin hat die meisten Weltcupsiege aller Zeiten? | Mikaela Shiffrin
+4 | Wie nennt man beim Skispringen den kritischen Punkt der Schanze? | K-Punkt | Auch „Konstruktionspunkt“.
+5 | Welche Eisschnellläuferin aus Berlin gewann fünf olympische Goldmedaillen? | Claudia Pechstein
+5 | Welcher Österreicher gewann 67 Weltcuprennen und acht Gesamtweltcups? | Marcel Hirscher
+5 | Wie heißt die Sportart, bei der man bäuchlings und kopfvoran auf einem Schlitten fährt? | Skeleton
+5 | Welche Eiskunstläuferin aus Karl-Marx-Stadt gewann 1984 und 1988 Olympia-Gold? | Katarina Witt
+
+# Regeln und Begriffe
+1 | Welche Karte zeigt der Schiedsrichter beim Platzverweis? | Rote Karte
+1 | Wie viele Punkte bringt ein Sieg in der Bundesliga? | Drei
+1 | In welcher Sportart gibt es einen „Strike“ mit zehn Pins? | Bowling
+1 | Wie nennt man beim Fußball ein Tor ins eigene Netz? | Eigentor
+2 | Aus wie vielen Metern wird ein Elfmeter geschossen? | Elf
+2 | Wie viele Spieler stehen beim Handball pro Team auf dem Feld? | Sieben
+2 | Wie nennt man drei Tore eines Spielers in einem Spiel? | Hattrick
+2 | Wie nennt man beim Golf einen Schlag unter Par? | Birdie
+3 | Wie viele Spieler stehen beim Volleyball pro Team auf dem Feld? | Sechs
+3 | Wie hoch hängt ein Basketballkorb? | 3,05 Meter
+3 | Wie nennt man im Boxen den Sieg durch Niederschlag? | Knockout | Kurz „K. o.“.
+3 | Wie viele Löcher hat ein normaler Golfplatz? | 18
+4 | Wie viele Punkte braucht man für einen Satzgewinn im Tischtennis? | Elf
+4 | Wie nennt man beim Golf zwei Schläge unter Par? | Eagle
+4 | Wie schwer ist die Kugel beim Kugelstoßen der Männer? | 7,26 Kilogramm
+4 | Wie viele Felder hat eine Dartscheibe mit Zahlen? | 20
+5 | Wie hoch ist die höchste mögliche Punktzahl mit drei Darts? | 180
+5 | Wie viele Punkte hat ein perfektes Spiel im Bowling? | 300
+5 | Wie lang ist die Bahn beim Schwimmen in einem olympischen Becken? | 50 Meter
+5 | Wie nennt man beim Fechten die drei Waffen? | Florett, Degen und Säbel
+
+# Legenden des Sports
+1 | Welcher Boxer nannte sich „The Greatest“? | Muhammad Ali
+1 | Welcher Portugiese trägt die Nummer 7 und wird „CR7“ genannt? | Cristiano Ronaldo
+1 | Welcher Sprinter hält den Weltrekord über 100 Meter mit 9,58 Sekunden? | Usain Bolt
+1 | Welcher Argentinier gilt für viele als bester Fußballer und wurde 2022 Weltmeister? | Lionel Messi
+2 | Welcher Deutsche wurde „der Kaiser“ genannt? | Franz Beckenbauer
+2 | Welcher Brasilianer wurde dreimal Weltmeister und gilt als „König des Fußballs“? | Pelé
+2 | Welcher Argentinier erzielte 1986 ein Tor mit der „Hand Gottes“? | Diego Maradona
+2 | Welcher Golfer trägt sonntags Rot und gewann 15 Major-Turniere? | Tiger Woods
+3 | Welcher deutsche Boxer wurde 1936 mit seinem Sieg über Joe Louis berühmt? | Max Schmeling
+3 | Welche Brüder aus der Ukraine dominierten jahrelang das Schwergewichtsboxen? | Vitali und Wladimir Klitschko
+3 | Welcher Radfahrer verlor wegen Dopings alle sieben Tour-de-France-Titel? | Lance Armstrong
+3 | Welcher Deutsche gewann 1997 als bisher Einziger die Tour de France? | Jan Ullrich
+4 | Welcher Handballtrainer mit markantem Schnauzbart führte Deutschland 2007 zum WM-Titel? | Heiner Brand
+4 | Welcher Basketballer wurde durch den Film „Space Jam“ auch im Kino bekannt? | Michael Jordan
+4 | Welcher Kenianer lief 2019 als erster Mensch einen Marathon unter zwei Stunden? | Eliud Kipchoge
+4 | Welcher Schwimmer gewann 1972 in München sieben Goldmedaillen? | Mark Spitz
+5 | Welcher Niederländer prägte den „Totalen Fußball“ und trug die 14? | Johan Cruyff
+5 | Welche Hochspringerin aus Deutschland gewann 1972 mit 16 Jahren Gold und 1984 noch einmal? | Ulrike Meyfarth
+5 | Welcher Belgier gilt als größter Radrennfahrer aller Zeiten, genannt „der Kannibale“? | Eddy Merckx
+5 | Welcher Tscheche gewann 1952 bei Olympia die 5000 Meter, die 10.000 Meter und den Marathon? | Emil Zátopek
+
+# Rekorde und Zahlen
+1 | Wie viele Minuten dauert eine Halbzeit im Fußball? | 45
+1 | Wie viele Ringe hat die olympische Flagge? | Fünf
+1 | Wie viele Spieler hat eine Fußballmannschaft inklusive Torwart? | Elf
+1 | Wie lang ist eine Stadionrunde in der Leichtathletik? | 400 Meter
+2 | Wie viele Etappen hat die Tour de France üblicherweise? | 21
+2 | Wie viele Runden hat ein Titelkampf im Profiboxen höchstens? | Zwölf
+2 | Wie viele Felder hat ein Schachbrett? | 64
+2 | Wie hoch ist das Netz beim Tennis in der Mitte, gerundet in Zentimetern? | 91 | 90 gelten lassen.
+3 | Wie viele Kilometer umfasst ein Ironman insgesamt? | 226 | 3,8 Schwimmen, 180 Rad, 42,2 Laufen.
+3 | Wie breit ist ein Fußballtor in Metern? | 7,32
+3 | Wie viele Spieler stehen beim Rugby Union pro Team auf dem Feld? | 15
+3 | Wie viele Minuten dauert ein Handballspiel? | 60
+4 | Wie hoch ist ein Fußballtor in Metern? | 2,44
+4 | Wie viele Minuten dauert ein Viertel in der NBA? | Zwölf
+4 | Wie viele Punkte ist die schwarze Kugel beim Snooker wert? | Sieben
+4 | Wie hoch ist das höchstmögliche Break beim Snooker? | 147
+5 | In welcher Zeit lief Usain Bolt 2009 den Weltrekord über 200 Meter? | 19,19 Sekunden
+5 | Wie weit sprang Mike Powell 1991 beim Weitsprung-Weltrekord? | 8,95 Meter
+5 | Wie hoch sprang Javier Sotomayor 1993 beim Hochsprung-Weltrekord? | 2,45 Meter
+5 | Wie viele Tore erzielte Lionel Messi im Kalenderjahr 2012? | 91

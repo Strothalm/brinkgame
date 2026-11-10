@@ -1,0 +1,225 @@
+@id youtuber
+@name YouTuber
+@icon ▶️
+@color #ff5a4e
+@desc Deutsche und internationale YouTuber, ihre Kanäle, Formate, Rekorde und die Geschichte der Plattform.
+
+# Deutsche YouTuber: Wer ist das?
+1 | Welcher YouTuber mit blauen Haaren veröffentlichte 2019 „Die Zerstörung der CDU“? | Rezo
+1 | Welcher Minecraft-YouTuber hat ein Schwein namens Edgar als Markenzeichen? | Paluten
+1 | Welche Beauty-YouTuberin sang 2017 „How it is (wap bap …)“? | BibisBeautyPalace | Bianca Claßen, damals Heinicke.
+1 | Welcher YouTuber aus Aachen wurde mit Tanz- und Effektvideos und „Songs aus der Bohne“ bekannt? | Julien Bam
+2 | Welcher YouTuber kommentierte in „LeNews“ Nachrichten und interviewte 2015 Angela Merkel? | LeFloid
+2 | Welches Zwillingsduo machte bis 2019 Musik und Comedy und hieß mit Nachnamen Lochmann? | Die Lochis
+2 | Welcher YouTuber spielt die Kunstfigur „Sandra“ und nennt sich Freshtorge? | Torge Oelrich | Auch „Freshtorge“ gilt.
+2 | Welcher Auto-YouTuber aus Dortmund betreibt den Kanal „JP Performance“? | Jean Pierre Kraemer | Kurz „JP“.
+3 | Welche Chemikerin erklärte auf „maiLab“ Wissenschaft? | Mai Thi Nguyen-Kim
+3 | Welcher Journalist betreibt den Kanal „MrWissen2go“? | Mirko Drotschmann
+3 | Welcher YouTuber deckt mit Fake-Produkten und Aktionen Missstände auf und schlich sich 2024 als Maskottchen ins EM-Eröffnungsspiel? | Marvin Wildhage
+3 | Welcher YouTuber macht unter dem Namen „Tomatolix“ Selbstexperimente? | Felix Michels | Auch „Tomatolix“ gilt.
+4 | Welcher YouTuber führt in „Leeroy will's wissen!“ Interviews? | Leeroy Matata
+4 | Welcher YouTuber und Musiker baute das „Kliemannsland“ auf? | Fynn Kliemann
+4 | Welcher YouTuber heißt bürgerlich Nicolas Lazaridis? | Inscope21
+4 | Welche Back-YouTuberin betreibt „Sallys Welt“? | Saliha Özcan | Kurz „Sally“.
+5 | Welcher Creator stand laut Favikon im Januar 2026 auf Platz eins der deutschen YouTuber, mit Challenge-Videos? | Doktor Light
+5 | Welches Trio bestand aus Phil, TC und OG und hörte 2015 auf? | Y-Titty
+5 | Welcher YouTuber aus der Schweiz macht Comedy unter dem Namen „Aditotoro“? | Adrian Vogt | Auch „Aditotoro“ gilt.
+5 | Welcher Comedian wurde auf YouTube als „Slavik Junge“ bekannt? | Mark Filatov | Auch „Slavik“ gilt.
+
+# Echte Namen
+1 | Wie heißt Paluten mit Vornamen? | Patrick | Patrick Mayer.
+1 | Wie heißt MrBeast mit Vornamen? | Jimmy | Jimmy Donaldson.
+1 | Wie heißt Julien Bam mit Vornamen? | Julien | Julien Budorovits.
+1 | Wie heißt PewDiePie mit Vornamen? | Felix | Felix Kjellberg.
+2 | Wie heißt Bibi von „BibisBeautyPalace“ mit vollem Namen? | Bianca Claßen | Geboren als Bianca Heinicke.
+2 | Wie heißt LeFloid mit Vornamen? | Florian
+2 | Wie heißt Gronkh mit bürgerlichem Namen? | Erik Range
+2 | Wie heißt der YouTuber hinter „GermanLetsPlay“ mit Vornamen? | Manuel
+3 | Wie heißen die Lochis mit Vornamen? | Heiko und Roman
+3 | Wie heißt der YouTuber hinter „ungespielt“? | Simon Unge
+3 | Wie heißt Shirin David mit bürgerlichem Vornamen? | Barbara | Barbara Shirin Davidavičius.
+3 | Wie heißt der britische YouTuber KSI mit Spitznamen, der für seine Vornamen steht? | JJ | Olajide Olayinka Williams Olatunji.
+4 | Wie heißt ConCrafter mit bürgerlichem Namen? | Luca Scharpenberg
+4 | Wie heißt iBlali mit bürgerlichem Namen? | Viktor Roth
+4 | Wie heißt Markiplier mit bürgerlichem Namen? | Mark Fischbach
+4 | Wie heißt Kelly von „Kelly MissesVlog“ mit Nachnamen? | Svirakova
+5 | Wie heißt Jacksepticeye mit bürgerlichem Namen? | Seán McLoughlin
+5 | Wie heißt Julia Beautx mit bürgerlichem Namen? | Julia Willecke
+5 | Wie heißt Kuchen TV mit bürgerlichem Namen? | Tim Heldt
+5 | Wie heißt MKBHD mit bürgerlichem Namen? | Marques Brownlee
+
+# Internationale Stars
+1 | Welcher YouTuber hat die meisten Abonnenten der Welt? | MrBeast
+1 | Welcher schwedische Gamer war jahrelang der meistabonnierte Einzel-YouTuber? | PewDiePie
+1 | Welche Brüder heißen Logan und Jake und boxen inzwischen? | Paul | Logan Paul und Jake Paul.
+1 | Welche fünf Freunde aus Texas sind für Trickshots bekannt? | Dude Perfect
+2 | Welche Serie stellte MrBeast 2021 mit 456 Teilnehmern in echt nach? | Squid Game
+2 | Welche britische Gruppe um KSI veranstaltet jedes Jahr ein Charity-Fußballspiel? | Sidemen
+2 | Gegen welche Boxlegende kämpfte Jake Paul im November 2024 live auf Netflix? | Mike Tyson
+2 | Welches indische Musiklabel lieferte sich mit PewDiePie ein Rennen um Platz eins? | T-Series
+3 | Welcher frühere NASA-Ingenieur baut Glitzerbomben gegen Paketdiebe? | Mark Rober
+3 | Welcher Minecraft-YouTuber zeigte 2022 nach Jahren mit Maske sein Gesicht? | Dream
+3 | Welcher Tech-YouTuber testet Smartphones und Autos unter dem Kürzel MKBHD? | Marques Brownlee
+3 | Welcher Kanal von Michael Stevens beginnt mit „Hey, Vsauce, Michael here“? | Vsauce
+4 | In welchem Land lebt PewDiePie seit 2022? | Japan
+4 | Welcher YouTuber reiste 2025 in 50 Tagen durch alle 50 US-Bundesstaaten und sammelte Spenden? | Ryan Trahan
+4 | Welcher Mukbang-YouTuber enthüllte 2024 im Video „Two Steps Ahead“ einen heimlichen Gewichtsverlust? | Nikocado Avocado
+4 | Welcher Vlogger aus New York prägte ab 2015 den täglichen Vlog mit Boosted Board und Drohne? | Casey Neistat
+5 | Welcher kanadische Tech-YouTuber betreibt „Linus Tech Tips“? | Linus Sebastian
+5 | Welcher Physiker betreibt den Kanal „Veritasium“? | Derek Muller
+5 | Welches Duo moderiert die tägliche Show „Good Mythical Morning“? | Rhett und Link
+5 | Welcher beliebte Minecraft-YouTuber mit Schweine-Skin starb 2022 an Krebs? | Technoblade
+
+# Formate und Kanäle
+1 | Wie nennt man Videos, in denen jemand ein Spiel spielt und kommentiert? | Let's Play
+1 | Wie nennt man ein Video-Tagebuch? | Vlog
+1 | Wie nennt man Videos, in denen jemand Leute hereinlegt? | Prank
+1 | Wie nennt man ein Video, in dem jemand ein neues Produkt auspackt? | Unboxing
+2 | Welcher Münchner Kanal erklärt mit bunten Animationen und Vögeln die Welt? | Kurzgesagt | Englisch „Kurzgesagt – In a Nutshell“.
+2 | Wie heißt das Minecraft-Team von Paluten, GermanLetsPlay, Zombey und Maudado? | Freedom Squad
+2 | Wie heißt die Buchreihe von Paluten? | Freedom
+2 | Wie nennt man Videos, in denen jemand zeigt, was er eingekauft hat? | Haul
+3 | Wie nennt man Videos, in denen jemand vor der Kamera große Mengen isst? | Mukbang
+3 | Wofür steht „ASMR“ sinngemäß? | Kribbeln durch leise Geräusche | Autonomous Sensory Meridian Response.
+3 | Wie heißt das funk-Format, in dem Reporter gesellschaftliche Themen selbst ausprobieren und das mit Y beginnt? | Y-Kollektiv
+3 | Wie nennt man Videos, in denen YouTuber persönliche Erlebnisse erzählen? | Storytime
+4 | Wie heißt das Content-Netzwerk von ARD und ZDF für junge Leute? | funk
+4 | Wie nennt man Videos, in denen sich jemand öffentlich entschuldigt? | Apology Video | Auch „Entschuldigungsvideo“.
+4 | Wie heißt der Kanal von Philipp Dettmer auf Deutsch? | Dinge Erklärt – Kurzgesagt
+4 | Welches Netzwerk verließ Simon Unge 2014 mit einem viel beachteten Video? | Mediakraft
+5 | Wie heißt der Zweitkanal von Rezo, auf dem er Videos und Themen kommentiert? | Rezo ja lol ey
+5 | Wie heißt der Kanal, auf dem Mirko Drotschmann Geschichte erklärt? | MrWissen2go Geschichte
+5 | Wie nennt man lange Video-Analysen zu einem Thema, die oft über eine Stunde dauern? | Video-Essay
+5 | Womit werden die Gäste in der YouTube-Interviewshow „Hot Ones“ gequält? | Mit scharfen Chicken Wings
+
+# YouTube: Plattform und Geschichte
+1 | Welchem Konzern gehört YouTube? | Google | Mutterkonzern Alphabet.
+1 | Welche Farbe hat der Play-Button im YouTube-Logo? | Rot
+1 | Wie heißen die kurzen Hochkant-Videos bei YouTube? | Shorts
+1 | Was klickt man, um keinen neuen Upload zu verpassen? | Glocke | Auch „Abonnieren“.
+2 | In welchem Jahr wurde YouTube gegründet? | 2005
+2 | Wie heißt das erste YouTube-Video? | Me at the zoo
+2 | Für wie viele Abonnenten gibt es den silbernen Play-Button? | 100.000
+2 | Für wie viele Abonnenten gibt es den goldenen Play-Button? | Eine Million
+3 | In welchem Jahr kaufte Google YouTube? | 2006
+3 | Für wie viele Abonnenten gibt es den Diamant-Play-Button? | Zehn Millionen
+3 | Welcher Mitgründer ist im ersten Video vor Elefanten zu sehen? | Jawed Karim
+3 | Was zeigt YouTube seit November 2021 nicht mehr öffentlich an? | Die Zahl der Dislikes
+4 | Für wie viel Geld kaufte Google YouTube? | 1,65 Milliarden Dollar
+4 | Wie heißen die drei Gründer von YouTube? | Chad Hurley, Steve Chen und Jawed Karim
+4 | Wer ist seit 2023 Chef von YouTube? | Neal Mohan
+4 | Wie heißt das Bezahlabo ohne Werbung? | YouTube Premium
+5 | Wer leitete YouTube von 2014 bis 2023? | Susan Wojcicki
+5 | In welcher kalifornischen Stadt sitzt YouTube? | San Bruno
+5 | Bei welchem früheren Arbeitgeber lernten sich die drei YouTube-Gründer kennen? | PayPal
+5 | Für wie viele Abonnenten gibt es den roten Diamant-Play-Button? | 100 Millionen
+
+# Rekorde und Zahlen
+1 | Welches Kinderlied ist das meistgesehene YouTube-Video? | Baby Shark Dance
+1 | Welches Video erreichte 2012 als erstes eine Milliarde Aufrufe? | Gangnam Style
+1 | Welcher Kanal überholte 2024 T-Series bei den Abonnenten? | MrBeast
+1 | Welcher Song von Luis Fonsi war lange das meistgesehene Video? | Despacito
+2 | Welches YouTube-eigene Video von 2018 ist eines der unbeliebtesten der Geschichte? | YouTube Rewind 2018
+2 | Welcher Einzelperson-Kanal erreichte 2019 als erster 100 Millionen Abonnenten? | PewDiePie
+2 | Welcher Kinderkanal mit animierten Liedern gehört zu den meistabonnierten der Welt? | Cocomelon
+2 | Welches Musikvideo von Rick Astley wird für Streiche verlinkt? | Never Gonna Give You Up
+3 | Wie viele Aufrufe hat „Baby Shark Dance“ als erstes Video überschritten? | Zehn Milliarden
+3 | Welcher deutsche Kanal mit Erklärvideos hat auf seinem englischen Hauptkanal über 20 Millionen Abonnenten? | Kurzgesagt
+3 | Aus welchem Land kommt der Kanal „Like Nastya“ ursprünglich? | Russland
+3 | Welcher Kanal eines Jungen, der Spielzeug testet, machte seinen Star zum bestbezahlten Kind auf YouTube? | Ryan's World
+4 | Welcher Kanal knackte 2025 als erster die Marke von 400 Millionen Abonnenten? | MrBeast
+4 | Wie lang ist das erste YouTube-Video ungefähr? | 19 Sekunden
+4 | Welcher deutsche Fußball-Kanal mit Freistoß-Videos hat über acht Millionen Abonnenten? | freekickerz
+4 | In welchem Zoo wurde das erste YouTube-Video gedreht? | San Diego Zoo
+5 | An welchem Datum wurde das erste YouTube-Video hochgeladen? | 23. April 2005
+5 | Welcher deutsche Kanal testet Produkte mit Gewalt und heißt wie ein Prüfverfahren? | HaerteTest
+5 | Welches virale Video von 2007 zeigt einen Jungen, dem sein Bruder in den Finger beißt? | Charlie Bit My Finger
+5 | Welches Video von 2006 zeigt einen Tanz durch die Musikgeschichte und war jahrelang das meistgesehene? | Evolution of Dance
+
+# Musik und Karrieren
+1 | Welche frühere YouTuberin landete 2024 mit „Bauch Beine Po“ einen Hit? | Shirin David
+1 | Welcher Sänger wurde als Kind über YouTube-Cover entdeckt und sang „Baby“? | Justin Bieber
+1 | Welcher YouTuber gründete mit Logan Paul die Getränkemarke Prime? | KSI
+1 | In welcher Sportart tritt Jake Paul an? | Boxen
+2 | Welche frühere YouTuberin wurde Rapperin und saß 2023 in der DSDS-Jury? | Katja Krasavice
+2 | In welcher Show auf Prime Video kämpften bei MrBeast 1000 Kandidaten um Geld? | Beast Games
+2 | Bei welcher Wrestling-Liga steht Logan Paul unter Vertrag? | WWE
+2 | Welches Duschschaum-Produkt machte Bibi ab 2015 zur Unternehmerin? | Bilou
+3 | Wie heißt die Kosmetikmarke von Dagi Bee? | Beetique
+3 | Welcher US-YouTuber gewann 2023 den United-States-Titel der WWE? | Logan Paul
+3 | Wie heißt die Schokoladenmarke von MrBeast? | Feastables
+3 | Welches Burger-Angebot startete MrBeast 2020 über Lieferdienste? | MrBeast Burger
+4 | Welche YouTuberin gründete die Kaffeemarke „Chamberlain Coffee“? | Emma Chamberlain
+4 | Welcher YouTuber spendete 2019 mit „Team Trees“ für 20 Millionen Bäume? | MrBeast | Zusammen mit Mark Rober.
+4 | Wie heißt die Müllsammel-Aktion von MrBeast und Mark Rober von 2021? | Team Seas
+4 | In welcher US-Stadt hat MrBeast seine Studios? | Greenville | In North Carolina.
+5 | Welcher kanadische Sänger wurde durch Cover auf Vine und YouTube bekannt und sang „Stitches“? | Shawn Mendes
+5 | Gegen welchen britischen Boxer verlor Jake Paul 2023 zum ersten Mal einen Profikampf? | Tommy Fury
+5 | Welche kanadische Sängerin lud als Teenager Cover auf YouTube hoch und wurde 2015 mit „Here“ bekannt? | Alessia Cara
+5 | Welcher australische Sänger begann als YouTuber und sang später „Youth“ und „Rush“? | Troye Sivan
+
+# Skandale und Schlagzeilen
+1 | Welche Partei griff Rezo 2019 in seinem bekanntesten Video an? | CDU
+1 | Welcher Satiriker deckte 2022 den Masken-Skandal um Fynn Kliemann auf? | Jan Böhmermann
+1 | Welcher US-YouTuber löste 2018 mit einem Video aus einem japanischen Wald Empörung aus? | Logan Paul
+1 | Welche YouTuberin zog sich 2022 nach der Trennung von Julian Claßen aus der Öffentlichkeit zurück? | Bibi | Bianca Claßen.
+2 | Wie viele Aufrufe erreichte „Die Zerstörung der CDU“ ungefähr: zwei, zwanzig oder zweihundert Millionen? | Zwanzig Millionen
+2 | Welcher YouTuber sorgte 2016 in Hamburg mit einem „Bombenprank“ für einen Gerichtsprozess? | ApoRed
+2 | Welches Produkt soll Fynn Kliemann laut der Recherche falsch deklariert haben? | Masken | Corona-Schutzmasken.
+2 | Welche Plattform sperrt Kanäle nach drei Verwarnungen, den sogenannten „Strikes“? | YouTube
+3 | Wie nennt man es, wenn YouTube einem Video die Werbeeinnahmen entzieht? | Demonetarisierung
+3 | Wie nannte die Szene 2017 den Einbruch der Werbeeinnahmen? | Adpocalypse
+3 | Welcher frühere MrBeast-Mitarbeiter warf ihm 2024 in Videos Betrug bei Gewinnspielen vor? | DogPack404
+3 | Welches Netzwerk stand 2014 im Mittelpunkt des Streits mit Simon Unge? | Mediakraft
+4 | Wie heißt das System, mit dem Rechteinhaber Videos automatisch erkennen lassen? | Content ID
+4 | Welcher YouTuber verlor 2017 seinen Vertrag mit Disney nach antisemitischen Witzen? | PewDiePie
+4 | Welcher Beauty-YouTuber stritt 2019 öffentlich mit Tati Westbrook? | James Charles
+4 | Welches Lunch-Produkt von MrBeast geriet 2024 wegen Schimmel-Vorwürfen in die Kritik? | Lunchly
+5 | Wie heißt die EU-Urheberrechtsreform, gegen die 2019 viele YouTuber wegen „Upload-Filtern“ protestierten, nach ihrem Artikel? | Artikel 13 | Später Artikel 17.
+5 | Welcher YouTuber deckte 2023 in einer Videoreihe den Krypto-Betrug hinter „CryptoZoo“ auf? | Coffeezilla
+5 | Wessen Krypto-Projekt war „CryptoZoo“? | Logan Paul
+5 | Welcher Kommentar-YouTuber heißt bürgerlich Tim Heldt? | Kuchen TV
+
+# Gaming auf YouTube
+1 | In welchem Spiel wurde Paluten groß? | Minecraft
+1 | Welches Spiel machte Ninja und viele YouTuber 2018 berühmt? | Fortnite
+1 | Wie heißt das jährliche Minecraft-Projekt deutscher Creator? | Craft Attack
+1 | Welcher Let's Player heißt bürgerlich Erik Range? | Gronkh
+2 | Welcher YouTuber heißt mit Vornamen Manuel und gehört zum Freedom Squad? | GermanLetsPlay
+2 | Mit welchem Horrorspiel-Genre wurden Markiplier und PewDiePie groß? | Indie-Horror | Zum Beispiel „Amnesia“ oder „Five Nights at Freddy's“.
+2 | Wie heißt der Gruß, mit dem PewDiePie seine Videos beendete? | Brofist
+2 | Aus welchem Land kommt Jacksepticeye? | Irland
+3 | Wie heißt das Kölner Kollektiv, das seit 2011 täglich Let's Plays hochlädt? | PietSmiet
+3 | Wie nennt man Minecraft-Videos, in denen jemand versucht, das Spiel möglichst schnell durchzuspielen? | Speedrun
+3 | Wie heißt die Minecraft-Reihe von Dream, in der Freunde ihn jagen? | Minecraft Manhunt
+3 | Wie heißt der Minecraft-Server mit Rollenspiel-Geschichten rund um Dream? | Dream SMP
+4 | Welcher YouTuber gehört zum Freedom Squad und hat einen Namen, der an einen Untoten erinnert? | Zombey
+4 | Wie heißt der Minecraft-YouTuber mit orangem Fuchs-Avatar aus dem Freedom Squad? | Maudado
+4 | Wie heißt das Minecraft-Hardcore-Format mit 100 Tagen Überleben? | 100 Days
+4 | Wie heißt der YouTuber, der mit Roblox- und Minecraft-Videos für Kinder groß wurde und mit Vornamen Luca heißt? | ConCrafter | Luca Scharpenberg.
+5 | Welcher YouTuber spielte 2010 als einer der ersten in Deutschland Minecraft als Let's Play? | Gronkh
+5 | Wie heißt der Minecraft-YouTuber, der 2020 des Schummelns bei Speedruns überführt wurde? | Dream
+5 | Wie nennt man den Minecraft-Server-Typ „Survival Multiplayer“ abgekürzt? | SMP
+5 | Wie heißt der Spielmodus auf Minecraft-Servern wie Hypixel, bei dem man gegnerische Betten zerstört? | Bed Wars
+
+# Creator-Wissen
+1 | Wie nennt man das kleine Vorschaubild eines Videos? | Thumbnail
+1 | Wie nennt man reißerische Titel, die mehr versprechen, als das Video hält? | Clickbait
+1 | Wie nennt man die Leute, die einem Kanal folgen? | Abonnenten
+1 | Wie nennt man die Zusammenarbeit zweier Creator in einem Video? | Collab | Kurz für „Collaboration“.
+2 | Wie nennt man Werbung, bei der ein Produkt im Video bezahlt gezeigt wird? | Produktplatzierung | Auch „Sponsoring“.
+2 | Wie nennt man das Programm, das entscheidet, welche Videos vorgeschlagen werden? | Algorithmus
+2 | Was muss man in Deutschland bei bezahlten Inhalten ins Video schreiben? | Werbung | Auch „Anzeige“.
+2 | Wie nennt man den Bereich mit Videos, die gerade besonders oft geschaut werden? | Trends
+3 | Wie nennt man bezahlte Mitgliedschaften für einen einzelnen Kanal? | Kanalmitgliedschaft
+3 | Wie heißt die Kennzahl für den Anteil der Leute, die nach dem Sehen des Thumbnails klicken? | Klickrate | Englisch CTR.
+3 | Wie heißen hervorgehobene bezahlte Nachrichten im Livestream-Chat? | Super Chat
+3 | Wie viele Abonnenten braucht man mindestens für das volle Partnerprogramm mit Werbeeinnahmen? | 1000
+4 | Wie viele Stunden Wiedergabezeit in zwölf Monaten braucht man für das Partnerprogramm bei langen Videos? | 4000
+4 | Wie heißt die Kennzahl für Einnahmen pro 1000 Aufrufe? | RPM | Auch „CPM“ gelten lassen.
+4 | Wie nennt man die Stelle im Video, an der ein Sponsor vorgestellt wird? | Ad-Read | Auch „Sponsor-Segment“.
+4 | Wie heißt das Werkzeug, in dem Creator ihre Statistiken sehen? | YouTube Studio
+5 | Wie nennt man es, wenn der Algorithmus ein Video kaum noch ausspielt, ohne dass der Creator informiert wird? | Shadowban
+5 | Wie heißt die Kennzahl dafür, wie lange Zuschauer im Schnitt dranbleiben? | Zuschauerbindung | Englisch „Audience Retention“.
+5 | Wie heißt der jährliche Branchentreff für Creator in Kalifornien? | VidCon
+5 | Wie nennt man die Technik, zwei Thumbnails oder Titel gegeneinander zu testen? | A/B-Test

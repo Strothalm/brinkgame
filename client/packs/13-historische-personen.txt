@@ -1,0 +1,225 @@
+@id historische-personen
+@name Historische Personen
+@icon 🏛️
+@color #c9a36b
+@desc Herrscher, Entdecker, Erfinder, Denker und Künstler aus allen Epochen. Gesucht ist fast immer ein Name.
+
+# Antike
+1 | Welcher römische Feldherr wurde an den Iden des März 44 v. Chr. ermordet? | Julius Caesar
+1 | Welche ägyptische Königin hatte Beziehungen mit Caesar und Marcus Antonius? | Kleopatra
+1 | Welcher makedonische König eroberte ein Reich von Griechenland bis Indien und trägt den Beinamen „der Große“? | Alexander der Große
+1 | Welcher junge Pharao wurde durch sein 1922 entdecktes Grab weltberühmt? | Tutanchamun
+2 | Welcher griechische Philosoph musste den Schierlingsbecher trinken? | Sokrates
+2 | Wer war der erste römische Kaiser? | Augustus | Geboren als Octavian.
+2 | Welcher Feldherr aus Karthago zog mit Elefanten über die Alpen? | Hannibal
+2 | Welcher römische Kaiser soll Rom angezündet und dabei gesungen haben? | Nero
+3 | Welcher Philosoph war Lehrer von Alexander dem Großen? | Aristoteles
+3 | Welcher Sklave führte 73 v. Chr. einen großen Aufstand gegen Rom an? | Spartacus
+3 | Welcher griechische Dichter soll „Ilias“ und „Odyssee“ verfasst haben? | Homer
+3 | Welcher römische Kaiser machte das Christentum salonfähig und gründete Konstantinopel? | Konstantin der Große
+4 | Welcher Cheruskerfürst besiegte im Jahr 9 n. Chr. drei römische Legionen? | Arminius | Auch „Hermann der Cherusker“ gilt.
+4 | Welcher Athener Staatsmann ließ den Parthenon bauen? | Perikles
+4 | Welcher Mathematiker soll in der Badewanne „Heureka!“ gerufen haben? | Archimedes
+4 | Welcher römische Kaiser und Philosoph schrieb die „Selbstbetrachtungen“? | Mark Aurel
+5 | Welche Pharaonin regierte Ägypten rund 20 Jahre lang und ließ sich mit Königsbart darstellen? | Hatschepsut
+5 | Welcher persische König wurde 490 v. Chr. bei Marathon von den Athenern geschlagen? | Dareios I. | Xerxes ist falsch, er kam zehn Jahre später.
+5 | Welcher römische Redner und Politiker wurde 43 v. Chr. auf Befehl von Marcus Antonius getötet? | Cicero
+5 | Welcher König von Babylon ließ um 1750 v. Chr. eine berühmte Gesetzessammlung in Stein meißeln? | Hammurabi
+
+# Mittelalter
+1 | Welche französische Nationalheldin wurde 1431 als Ketzerin verbrannt? | Jeanne d'Arc | Auch „Johanna von Orléans“ gilt.
+1 | Welcher Frankenkönig wurde im Jahr 800 zum Kaiser gekrönt? | Karl der Große
+1 | Welcher englische König wird in den Robin-Hood-Geschichten als „Löwenherz“ erwähnt? | Richard I. | „Richard Löwenherz“ reicht.
+1 | Welcher venezianische Kaufmann reiste im 13. Jahrhundert bis nach China? | Marco Polo
+2 | Welcher Mongolenherrscher gründete das größte zusammenhängende Landreich der Geschichte? | Dschingis Khan
+2 | Welcher Kaiser mit rotem Bart ertrank 1190 auf einem Kreuzzug? | Friedrich I. Barbarossa
+2 | Welcher Mann gilt als Erfinder des Buchdrucks mit beweglichen Lettern in Europa? | Johannes Gutenberg
+2 | Welcher Normanne eroberte 1066 England? | Wilhelm der Eroberer
+3 | Welcher Sultan eroberte 1187 Jerusalem von den Kreuzfahrern zurück? | Saladin
+3 | Welche Äbtissin vom Rhein wurde für ihre Schriften zur Heilkunde berühmt? | Hildegard von Bingen
+3 | Welcher Dichter aus Florenz schrieb die „Göttliche Komödie“? | Dante Alighieri
+3 | Welcher Heilige aus Assisi gründete einen Bettelorden und predigte den Tieren? | Franz von Assisi
+4 | Welcher Staufer-Kaiser wurde „Staunen der Welt“ genannt und schrieb ein Buch über die Falkenjagd? | Friedrich II.
+4 | Welcher walachische Fürst war wegen seiner Grausamkeit als „der Pfähler“ bekannt und Vorbild für Dracula? | Vlad III. | Auch „Vlad Țepeș“ oder „Vlad Drăculea“.
+4 | Welcher osmanische Sultan eroberte 1453 Konstantinopel? | Mehmed II.
+4 | Welcher deutsche König ging 1077 im Büßergewand nach Canossa? | Heinrich IV.
+5 | Welcher Herrscher des Mali-Reichs gilt als einer der reichsten Menschen der Geschichte? | Mansa Musa
+5 | Welche Herzogin von Aquitanien war nacheinander Königin von Frankreich und von England? | Eleonore von Aquitanien
+5 | Welcher Theologe aus Italien schrieb die „Summa theologica“? | Thomas von Aquin
+5 | Welcher Ostfrankenkönig besiegte 955 die Ungarn auf dem Lechfeld und wurde 962 Kaiser? | Otto I. | Auch „Otto der Große“ gilt.
+
+# Entdecker und Abenteurer
+1 | Wer erreichte 1492 Amerika, obwohl er nach Indien wollte? | Christoph Kolumbus
+1 | Wer betrat 1969 als erster Mensch den Mond? | Neil Armstrong
+1 | Welcher Italiener gab dem Kontinent Amerika seinen Namen? | Amerigo Vespucci
+1 | Welcher Engländer umsegelte im 18. Jahrhundert die Welt und wurde auf Hawaii getötet? | James Cook
+2 | Wer leitete die erste Weltumsegelung, starb aber unterwegs auf den Philippinen? | Ferdinand Magellan
+2 | Wer flog 1961 als erster Mensch ins All? | Juri Gagarin
+2 | Wer fand als erster Europäer den Seeweg nach Indien um Afrika herum? | Vasco da Gama
+2 | Welcher Norweger erreichte 1911 als Erster den Südpol? | Roald Amundsen
+3 | Welcher Neuseeländer bestieg 1953 mit Tenzing Norgay als Erster den Mount Everest? | Edmund Hillary
+3 | Welcher deutsche Naturforscher bereiste um 1800 Südamerika und gilt als „zweiter Entdecker Amerikas“? | Alexander von Humboldt
+3 | Welcher Wikinger erreichte um das Jahr 1000 Nordamerika? | Leif Eriksson
+3 | Welcher Pilot überquerte 1927 als Erster allein und ohne Zwischenstopp den Atlantik? | Charles Lindbergh
+4 | Welcher Brite verlor das Rennen zum Südpol und starb 1912 auf dem Rückweg? | Robert Falcon Scott
+4 | Welche Pilotin verschwand 1937 beim Versuch, die Erde zu umrunden? | Amelia Earhart
+4 | Welcher Spanier eroberte das Aztekenreich? | Hernán Cortés
+4 | Welcher schottische Missionar suchte die Quellen des Nils und wurde mit den Worten „Dr. … , nehme ich an?“ begrüßt? | David Livingstone
+5 | Welcher Spanier eroberte das Inkareich? | Francisco Pizarro
+5 | Welche Russin flog 1963 als erste Frau ins All? | Walentina Tereschkowa
+5 | Welcher marokkanische Reisende legte im 14. Jahrhundert rund 120.000 Kilometer zurück? | Ibn Battuta
+5 | Welcher Südtiroler bestieg als Erster alle Achttausender? | Reinhold Messner
+
+# Erfinder und Forscher
+1 | Welcher Physiker entwickelte die Relativitätstheorie? | Albert Einstein
+1 | Welcher Engländer soll durch einen fallenden Apfel auf die Schwerkraft gekommen sein? | Isaac Newton
+1 | Welcher Naturforscher begründete die Evolutionstheorie? | Charles Darwin
+1 | Welche Forscherin erhielt als erste Person zwei Nobelpreise? | Marie Curie
+2 | Welcher Amerikaner ließ die Glühbirne patentieren und gründete General Electric? | Thomas Edison
+2 | Welcher Italiener sagte angeblich „Und sie bewegt sich doch“? | Galileo Galilei
+2 | Wer baute 1886 das erste Automobil mit Verbrennungsmotor? | Carl Benz
+2 | Wer erhielt 1876 das Patent auf das Telefon? | Alexander Graham Bell
+3 | Welcher Astronom stellte die Sonne statt der Erde in den Mittelpunkt? | Nikolaus Kopernikus
+3 | Welcher schottische Arzt entdeckte 1928 das Penicillin? | Alexander Fleming
+3 | Welcher Physiker entdeckte 1895 in Würzburg die später nach ihm benannten Strahlen? | Wilhelm Conrad Röntgen
+3 | Welcher Erfinder serbischer Herkunft setzte den Wechselstrom durch und gab einer Automarke den Namen? | Nikola Tesla
+4 | Welcher Schwede erfand das Dynamit und stiftete einen berühmten Preis? | Alfred Nobel
+4 | Welcher Berliner Ingenieur baute 1941 den ersten funktionsfähigen Computer, die Z3? | Konrad Zuse
+4 | Welche britische Mathematikerin gilt als erste Programmiererin der Geschichte? | Ada Lovelace
+4 | Welcher britische Mathematiker half, den Enigma-Code zu knacken? | Alan Turing
+5 | Welcher Mönch begründete mit Erbsenkreuzungen die Vererbungslehre? | Gregor Mendel
+5 | Welcher Arzt entdeckte 1882 den Erreger der Tuberkulose? | Robert Koch
+5 | Welche Physikerin lieferte die Erklärung für die Kernspaltung, ging beim Nobelpreis aber leer aus? | Lise Meitner
+5 | Welcher Engländer führte 1796 die erste Pockenimpfung durch? | Edward Jenner
+
+# Könige und Kaiserinnen
+1 | Welcher französische König wurde „Sonnenkönig“ genannt? | Ludwig XIV.
+1 | Welche britische Königin regierte von 1952 bis 2022? | Elisabeth II.
+1 | Welcher Korse krönte sich 1804 selbst zum Kaiser der Franzosen? | Napoleon Bonaparte
+1 | Welche Kaiserin von Österreich ist als „Sisi“ bekannt? | Elisabeth von Österreich-Ungarn
+2 | Welcher englische König hatte sechs Ehefrauen? | Heinrich VIII.
+2 | Welche britische Königin gab einem ganzen Zeitalter im 19. Jahrhundert ihren Namen? | Victoria
+2 | Welcher bayerische König ließ Neuschwanstein bauen? | Ludwig II.
+2 | Welche Königin von Frankreich wurde 1793 hingerichtet? | Marie Antoinette
+3 | Welcher Preußenkönig wurde „der Alte Fritz“ genannt? | Friedrich II. | Auch „Friedrich der Große“ gilt.
+3 | Welche Zarin deutscher Herkunft trägt den Beinamen „die Große“? | Katharina II.
+3 | Welche Habsburgerin regierte im 18. Jahrhundert 40 Jahre lang und hatte 16 Kinder? | Maria Theresia
+3 | Wer war der letzte deutsche Kaiser? | Wilhelm II.
+4 | Welcher Zar gründete Sankt Petersburg? | Peter der Große | Peter I.
+4 | Welche englische Königin besiegte 1588 die spanische Armada? | Elisabeth I.
+4 | Welcher Kaiser sagte, in seinem Reich gehe die Sonne nicht unter? | Karl V.
+4 | Wer war der letzte Zar von Russland? | Nikolaus II.
+5 | Welcher sächsische Kurfürst trug den Beinamen „der Starke“? | August der Starke | Friedrich August I.
+5 | Welcher osmanische Sultan belagerte 1529 Wien und wird „der Prächtige“ genannt? | Süleyman I.
+5 | Welcher Kaiser ließ die ersten Teile der Chinesischen Mauer verbinden und wurde mit einer Terrakotta-Armee begraben? | Qin Shihuangdi
+5 | Welcher schwedische König fiel 1632 in der Schlacht bei Lützen? | Gustav II. Adolf
+
+# Politik im 19. und 20. Jahrhundert
+1 | Welcher US-Präsident schaffte die Sklaverei ab und wurde 1865 erschossen? | Abraham Lincoln
+1 | Wer war der erste Bundeskanzler der Bundesrepublik Deutschland? | Konrad Adenauer
+1 | Welcher US-Präsident sagte 1963 „Ich bin ein Berliner“? | John F. Kennedy
+1 | Welcher Südafrikaner saß 27 Jahre im Gefängnis und wurde dann Präsident? | Nelson Mandela
+2 | Welcher Inder führte sein Land mit gewaltlosem Widerstand in die Unabhängigkeit? | Mahatma Gandhi
+2 | Welcher Reichskanzler wurde „Eiserner Kanzler“ genannt? | Otto von Bismarck
+2 | Welcher britische Premier führte sein Land durch den Zweiten Weltkrieg? | Winston Churchill
+2 | Welcher sowjetische Staatschef stand für „Glasnost“ und „Perestroika“? | Michail Gorbatschow
+3 | Welcher Bundeskanzler kniete 1970 in Warschau nieder? | Willy Brandt
+3 | Wer war der erste Präsident der USA? | George Washington
+3 | Wer führte 1917 die Oktoberrevolution in Russland an? | Lenin | Wladimir Iljitsch Uljanow.
+3 | Welche Britin wurde 1979 Premierministerin und „Eiserne Lady“ genannt? | Margaret Thatcher
+4 | Welcher Bundeskanzler gilt als „Kanzler der Einheit“? | Helmut Kohl
+4 | Wer rief 1949 die Volksrepublik China aus? | Mao Zedong
+4 | Welcher General führte den Befreiungskampf in Südamerika und gab Bolivien den Namen? | Simón Bolívar
+4 | Welcher Türke gründete 1923 die Republik Türkei? | Mustafa Kemal Atatürk
+5 | Welcher Sozialdemokrat rief am 9. November 1918 die Republik aus? | Philipp Scheidemann
+5 | Wer war die erste Bundeskanzlerin Deutschlands? | Angela Merkel
+5 | Welcher Italiener einte im 19. Jahrhundert mit seinen „Rothemden“ Italien? | Giuseppe Garibaldi
+5 | Wer war der erste Reichspräsident der Weimarer Republik? | Friedrich Ebert
+
+# Kunst und Musik
+1 | Wer malte die Mona Lisa? | Leonardo da Vinci
+1 | Welcher taube Komponist schrieb die „Ode an die Freude“? | Ludwig van Beethoven
+1 | Welcher Komponist aus Salzburg galt als Wunderkind? | Wolfgang Amadeus Mozart
+1 | Welcher Maler schnitt sich einen Teil seines Ohres ab? | Vincent van Gogh
+2 | Wer malte die Decke der Sixtinischen Kapelle? | Michelangelo
+2 | Welcher Spanier begründete den Kubismus und malte „Guernica“? | Pablo Picasso
+2 | Welcher Komponist war Thomaskantor in Leipzig? | Johann Sebastian Bach
+2 | Welcher Maler ist für zerfließende Uhren und seinen Schnurrbart bekannt? | Salvador Dalí
+3 | Welcher Niederländer malte die „Nachtwache“? | Rembrandt
+3 | Welche mexikanische Malerin ist für ihre Selbstporträts bekannt? | Frida Kahlo
+3 | Welcher Nürnberger malte den „Feldhasen“ und die „Betenden Hände“? | Albrecht Dürer
+3 | Welcher Komponist schrieb den „Ring des Nibelungen“? | Richard Wagner
+4 | Welcher Norweger malte „Der Schrei“? | Edvard Munch
+4 | Welcher Wiener malte „Der Kuss“? | Gustav Klimt
+4 | Welcher Franzose malte Seerosen und gab dem Impressionismus den Namen? | Claude Monet
+4 | Welcher Komponist schrieb „Die vier Jahreszeiten“? | Antonio Vivaldi
+5 | Welcher Romantiker malte den „Wanderer über dem Nebelmeer“? | Caspar David Friedrich
+5 | Welcher Barockmaler aus Delft malte das „Mädchen mit dem Perlenohrgehänge“? | Jan Vermeer
+5 | Welcher Komponist schrieb „Schwanensee“ und „Der Nussknacker“? | Pjotr Tschaikowski
+5 | Welche Pianistin und Komponistin war auf dem 100-Mark-Schein abgebildet? | Clara Schumann
+
+# Dichter und Denker
+1 | Wer schrieb „Faust“? | Johann Wolfgang von Goethe
+1 | Wer schrieb „Romeo und Julia“? | William Shakespeare
+1 | Welche Brüder sammelten „Hänsel und Gretel“ und „Rotkäppchen“? | Brüder Grimm | Jacob und Wilhelm Grimm.
+1 | Welches jüdische Mädchen schrieb im Amsterdamer Versteck ein weltberühmtes Tagebuch? | Anne Frank
+2 | Wer schrieb „Die Räuber“ und „Wilhelm Tell“? | Friedrich Schiller
+2 | Welcher Philosoph schrieb mit Friedrich Engels das „Kommunistische Manifest“? | Karl Marx
+2 | Welcher Däne schrieb „Die kleine Meerjungfrau“? | Hans Christian Andersen
+2 | Welcher Wiener Arzt begründete die Psychoanalyse? | Sigmund Freud
+3 | Welcher Philosoph aus Königsberg schrieb die „Kritik der reinen Vernunft“? | Immanuel Kant
+3 | Welcher Philosoph schrieb „Also sprach Zarathustra“? | Friedrich Nietzsche
+3 | Wer schrieb „Die Verwandlung“, in der Gregor Samsa als Käfer aufwacht? | Franz Kafka
+3 | Wer schrieb „Die Buddenbrooks“? | Thomas Mann
+4 | Wer schrieb „Don Quijote“? | Miguel de Cervantes
+4 | Wer schrieb „Krieg und Frieden“? | Leo Tolstoi
+4 | Welcher Franzose schrieb „Ich denke, also bin ich“? | René Descartes
+4 | Wer schrieb „Der Steppenwolf“ und „Siddhartha“? | Hermann Hesse
+5 | Welcher Dramatiker schrieb „Mutter Courage und ihre Kinder“? | Bertolt Brecht
+5 | Welcher Italiener schrieb das Buch „Der Fürst“ über Machtpolitik? | Niccolò Machiavelli
+5 | Welcher Dichter schrieb „Deutschland. Ein Wintermärchen“? | Heinrich Heine
+5 | Welcher chinesische Gelehrte lehrte um 500 v. Chr. Tugend und Respekt vor den Eltern? | Konfuzius
+
+# Mutige Menschen und Rebellen
+1 | Welcher Mönch löste 1517 mit 95 Thesen die Reformation aus? | Martin Luther
+1 | Welcher US-Bürgerrechtler hielt die Rede „I Have a Dream“? | Martin Luther King
+1 | Welche Ordensfrau kümmerte sich in Kalkutta um Arme und Sterbende? | Mutter Teresa
+1 | Welche Studentin der „Weißen Rose“ wurde 1943 hingerichtet? | Sophie Scholl
+2 | Welche Frau weigerte sich 1955 in Montgomery, ihren Sitzplatz im Bus freizugeben? | Rosa Parks
+2 | Welche britische Krankenschwester gilt als Begründerin der modernen Krankenpflege? | Florence Nightingale
+2 | Welcher Offizier verübte am 20. Juli 1944 ein Attentat auf Hitler? | Claus Schenk Graf von Stauffenberg
+2 | Welcher argentinische Arzt wurde zur Ikone der kubanischen Revolution? | Che Guevara
+3 | Welcher Unternehmer rettete rund 1200 Juden und wurde durch einen Spielberg-Film bekannt? | Oskar Schindler
+3 | Welcher Schweizer gründete das Rote Kreuz? | Henry Dunant
+3 | Welcher Schreiner versuchte 1939 allein, Hitler im Bürgerbräukeller zu töten? | Georg Elser
+3 | Welche Britin kämpfte als Suffragette für das Frauenwahlrecht? | Emmeline Pankhurst
+4 | Welcher schottische Freiheitskämpfer wurde durch den Film „Braveheart“ bekannt? | William Wallace
+4 | Welche entflohene Sklavin führte Dutzende Menschen über die „Underground Railroad“ in die Freiheit? | Harriet Tubman
+4 | Welcher Theologe gehörte zum Widerstand und wurde im April 1945 in Flossenbürg hingerichtet? | Dietrich Bonhoeffer
+4 | Welcher tschechische Reformator wurde 1415 in Konstanz verbrannt? | Jan Hus
+5 | Welcher Bauernführer und Prediger wurde 1525 nach der Schlacht bei Frankenhausen hingerichtet? | Thomas Müntzer
+5 | Welche Sozialistin wurde 1919 mit Karl Liebknecht ermordet? | Rosa Luxemburg
+5 | Welche Französin verfasste 1791 die „Erklärung der Rechte der Frau und Bürgerin“? | Olympe de Gouges
+5 | Welcher Anführer der Haitianischen Revolution war selbst als Sklave geboren? | Toussaint Louverture
+
+# Wer hat das gesagt?
+1 | Wer soll gesagt haben: „Ich kam, sah und siegte“? | Julius Caesar | Lateinisch „Veni, vidi, vici“.
+1 | Wer sagte beim ersten Schritt auf dem Mond: „Ein kleiner Schritt für einen Menschen …“? | Neil Armstrong
+1 | Wer sagte: „Ich habe einen Traum“? | Martin Luther King
+1 | Wem wird der Satz zugeschrieben: „Ich weiß, dass ich nichts weiß“? | Sokrates
+2 | Wem wird fälschlich der Satz zugeschrieben: „Sollen sie doch Kuchen essen“? | Marie Antoinette
+2 | Wer sagte 1989 sinngemäß: „Wer zu spät kommt, den bestraft das Leben“? | Michail Gorbatschow
+2 | Wer soll vor dem Reichstag in Worms gesagt haben: „Hier stehe ich, ich kann nicht anders“? | Martin Luther
+2 | Welcher König soll gesagt haben: „Der Staat bin ich“? | Ludwig XIV.
+3 | Wer sagte 1961: „Niemand hat die Absicht, eine Mauer zu errichten“? | Walter Ulbricht
+3 | Wer versprach den Briten 1940 „Blut, Mühsal, Tränen und Schweiß“? | Winston Churchill
+3 | Welcher US-Präsident forderte 1987 in Berlin: „Mr. Gorbachev, tear down this wall!“? | Ronald Reagan
+3 | Wer sagte: „Gott würfelt nicht“? | Albert Einstein
+4 | Wer sagte 1989 nach dem Mauerfall: „Jetzt wächst zusammen, was zusammengehört“? | Willy Brandt
+4 | Wer soll beim Überschreiten des Rubikon gesagt haben: „Die Würfel sind gefallen“? | Julius Caesar
+4 | Welcher Preußenkönig schrieb: „Jeder soll nach seiner Façon selig werden“? | Friedrich II. | Friedrich der Große.
+4 | Welcher US-Präsident sagte: „Frage nicht, was dein Land für dich tun kann …“? | John F. Kennedy
+5 | Wer sagte 1989 bei einer Pressekonferenz zur neuen Reiseregelung: „Das tritt nach meiner Kenntnis … ist das sofort, unverzüglich“? | Günter Schabowski
+5 | Welcher Philosoph schrieb: „Der Mensch ist dem Menschen ein Wolf“? | Thomas Hobbes | Ursprünglich vom römischen Dichter Plautus.
+5 | Welcher Philosoph schrieb: „Gott ist tot“? | Friedrich Nietzsche
+5 | Welchem römischen Kaiser wird der Satz „Geld stinkt nicht“ zugeschrieben, mit dem er seine Latrinensteuer verteidigte? | Vespasian | Lateinisch „Pecunia non olet“.

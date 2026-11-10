@@ -1,0 +1,225 @@
+@id orte
+@name Orte & Sehenswürdigkeiten
+@icon 🗼
+@color #ff8a3d
+@desc Wahrzeichen, Bauwerke, Reiseziele und berühmte Plätze.
+
+# Wahrzeichen Europas
+1 | In welcher Stadt steht Big Ben? | London
+1 | In welcher Stadt steht der Schiefe Turm? | Pisa
+1 | In welcher Stadt steht der Kölner Dom? | Köln
+1 | In welchem Land steht der Eiffelturm? | Frankreich
+2 | In welcher Stadt steht das Atomium? | Brüssel
+2 | In welcher Stadt steht der Petersdom? | Rom | Genauer in der Vatikanstadt. Beides gilt.
+2 | In welcher Stadt steht die Tower Bridge? | London
+2 | In welcher Stadt steht die Karlsbrücke? | Prag
+3 | In welcher Stadt steht die Alhambra? | Granada
+3 | In welcher Stadt steht die Hagia Sophia? | Istanbul
+3 | In welcher Stadt steht die Kleine Meerjungfrau? | Kopenhagen
+3 | In welcher Stadt steht der Markusdom? | Venedig
+4 | In welcher Stadt steht die Basilius-Kathedrale mit den bunten Zwiebeltürmen? | Moskau
+4 | In welcher Stadt steht der Torre de Belém? | Lissabon
+4 | In welcher Stadt steht das Manneken Pis? | Brüssel
+4 | In welcher Stadt steht die Fischerbastei? | Budapest
+5 | In welcher Stadt steht die Mezquita, eine Moschee, in die eine Kathedrale gebaut wurde? | Córdoba
+5 | Wie heißt der prähistorische Steinkreis in Südengland? | Stonehenge
+5 | In welcher Stadt steht der Dom mit der Kuppel von Brunelleschi? | Florenz
+5 | In welcher norwegischen Stadt liegt das Hanseviertel Bryggen? | Bergen
+
+# Deutschland entdecken
+1 | In welcher Stadt steht das Brandenburger Tor? | Berlin
+1 | In welcher Stadt findet das Oktoberfest statt? | München
+1 | In welcher Stadt steht die Elbphilharmonie? | Hamburg
+1 | Welches Märchenschloss in Bayern ließ König Ludwig II. bauen? | Neuschwanstein
+2 | In welcher Stadt steht die Frauenkirche, die 2005 wiedereröffnet wurde? | Dresden
+2 | In welcher Stadt steht das Holstentor? | Lübeck
+2 | In welcher Stadt liegt die Reeperbahn? | Hamburg
+2 | In welcher Stadt steht die Porta Nigra? | Trier
+3 | In welcher Stadt steht das Völkerschlachtdenkmal? | Leipzig
+3 | Wie heißt der berühmte Felsen am Rhein, auf dem der Sage nach eine Nixe sitzt? | Loreley
+3 | In welcher Stadt steht die Wartburg? | Eisenach
+3 | In welcher Stadt steht das Schloss Sanssouci? | Potsdam
+4 | In welcher Stadt steht der höchste Kirchturm der Welt? | Ulm | Das Ulmer Münster ist rund 161 Meter hoch.
+4 | In welcher Stadt stehen die Bremer Stadtmusikanten als Statue? | Bremen
+4 | Wie heißt die Felsformation mit Brücke in der Sächsischen Schweiz? | Bastei
+4 | In welcher Stadt wurde Karl der Große im Dom begraben? | Aachen
+5 | Auf welcher Insel stehen die Kreidefelsen mit dem Königsstuhl? | Rügen
+5 | Bei welcher bayerischen Stadt an der Donau steht die Gedenkstätte Walhalla? | Regensburg | Sie steht in Donaustauf bei Regensburg.
+5 | In welcher Stadt steht die Schwebebahn? | Wuppertal
+5 | Wie heißt das ehemalige Steinkohlebergwerk in Essen, das Welterbe ist? | Zeche Zollverein
+
+# Wahrzeichen der Welt
+1 | In welcher Stadt steht die Freiheitsstatue? | New York
+1 | In welchem Land steht die Chinesische Mauer? | China
+1 | In welchem Land stehen die Pyramiden von Gizeh? | Ägypten
+1 | In welcher Stadt steht das Opernhaus mit den segelförmigen Dächern? | Sydney
+2 | In welchem Land steht das Taj Mahal? | Indien
+2 | In welchem Land liegt Machu Picchu? | Peru
+2 | In welcher Stadt steht der Burj Khalifa? | Dubai
+2 | In welcher Stadt steht die Christusstatue Cristo Redentor? | Rio de Janeiro
+3 | In welchem Land liegt die Felsenstadt Petra? | Jordanien
+3 | In welchem Land liegt die Tempelanlage Angkor Wat? | Kambodscha
+3 | In welcher Stadt steht die Verbotene Stadt? | Peking
+3 | In welcher Stadt steht der CN Tower? | Toronto
+4 | In welchem Land liegt die Maya-Stadt Chichén Itzá? | Mexiko
+4 | In welcher Stadt stehen die Petronas Towers? | Kuala Lumpur
+4 | In welcher Stadt steht das Hotel Marina Bay Sands mit dem Pool auf dem Dach? | Singapur
+4 | In welcher Stadt steht die Space Needle? | Seattle
+5 | In welcher Stadt steht die Hassan-II.-Moschee direkt am Atlantik? | Casablanca
+5 | In welchem Land steht der buddhistische Tempel Borobudur? | Indonesien
+5 | In welcher Stadt steht die Shwedagon-Pagode? | Yangon | Auch „Rangun“ gilt.
+5 | In welchem Land stehen die Felsenkirchen von Lalibela? | Äthiopien
+
+# Naturwunder
+1 | Wie heißt die große Schlucht in Arizona? | Grand Canyon
+1 | Wie heißen die Wasserfälle an der Grenze zwischen den USA und Kanada? | Niagarafälle
+1 | Wie heißt das Polarlicht im Norden mit lateinischem Namen? | Aurora borealis | Auch „Nordlicht“ gelten lassen.
+1 | Wie heißt der rote Felsen im Zentrum Australiens? | Uluru | Auch „Ayers Rock“ gilt.
+2 | In welchem Land liegen die meisten Geysire Europas, darunter der „Große Geysir“? | Island
+2 | Wie heißt der älteste Nationalpark der Welt in den USA? | Yellowstone
+2 | Wie heißen die Wasserfälle an der Grenze zwischen Argentinien und Brasilien? | Iguazú-Wasserfälle
+2 | In welchem Land liegt die Halong-Bucht? | Vietnam
+3 | In welchem Land liegt der Nationalpark Plitvicer Seen? | Kroatien
+3 | In welchem Land liegt die Serengeti zum größten Teil? | Tansania
+3 | Wie heißen die Klippen an der Westküste Irlands? | Cliffs of Moher
+3 | In welchem Land liegen die weißen Kalkterrassen von Pamukkale? | Türkei
+4 | In welchem Landesteil des Vereinigten Königreichs liegt der Giant's Causeway mit seinen Basaltsäulen? | Nordirland
+4 | In welchem Land liegt der Milford Sound? | Neuseeland
+4 | In welchem Land liegt der Tafelberg bei Kapstadt? | Südafrika
+4 | Wie heißt die Landschaft in der Türkei mit den Feenkaminen und Heißluftballons? | Kappadokien
+5 | In welchem Land liegt der Zhangjiajie-Nationalpark mit den Sandsteinsäulen aus „Avatar“? | China
+5 | In welchem Land liegt der Torres-del-Paine-Nationalpark? | Chile
+5 | Wie heißt der rosa gefärbte See im Senegal? | Lac Rose | Auch „Retba-See“ gilt.
+5 | In welchem US-Bundesstaat liegt der Antelope Canyon? | Arizona
+
+# Berühmte Plätze und Straßen
+1 | In welcher Stadt liegt der Times Square? | New York
+1 | In welcher Stadt liegt der Rote Platz? | Moskau
+1 | In welcher Stadt liegt der Alexanderplatz? | Berlin
+1 | In welcher Stadt liegt der Markusplatz? | Venedig
+2 | In welcher Stadt liegt die Champs-Élysées? | Paris
+2 | In welcher Stadt liegt der Piccadilly Circus? | London
+2 | In welcher Stadt liegt der Hollywood Boulevard mit dem Walk of Fame? | Los Angeles
+2 | In welcher Stadt liegt die Spanische Treppe? | Rom
+3 | In welcher Stadt liegt der Platz des Himmlischen Friedens? | Peking
+3 | In welcher Stadt liegt die Flaniermeile La Rambla? | Barcelona
+3 | In welcher Stadt liegt die Wall Street? | New York
+3 | In welcher Stadt liegt der Stephansplatz mit dem Stephansdom? | Wien
+4 | In welcher Stadt liegt der Platz Djemaa el Fna mit Gauklern und Garküchen? | Marrakesch
+4 | In welcher Stadt liegt die Kreuzung Shibuya Crossing? | Tokio
+4 | In welcher Stadt liegt der Trafalgar Square? | London
+4 | In welcher Stadt liegt die Königsallee, kurz „Kö“? | Düsseldorf
+5 | In welcher Stadt liegt der Zócalo, einer der größten Plätze der Welt? | Mexiko-Stadt
+5 | In welcher Stadt liegt der Plaza de Mayo? | Buenos Aires
+5 | In welcher Stadt liegt der Grote Markt mit dem Rathaus und den Zunfthäusern, der oft als schönster Platz Europas gilt? | Brüssel | Französisch „Grand-Place“.
+5 | In welcher iranischen Stadt liegt der riesige Platz Naqsch-e Dschahan? | Isfahan
+
+# Burgen, Schlösser und Paläste
+1 | In welcher Stadt steht der Buckingham Palace? | London
+1 | Wie heißt das Schloss des Sonnenkönigs bei Paris? | Versailles
+1 | In welcher Stadt steht das Weiße Haus? | Washington, D.C.
+1 | In welcher Stadt steht der Kreml? | Moskau
+2 | In welcher Stadt steht das Schloss Schönbrunn? | Wien
+2 | In welcher Stadt steht das berühmte Schloss über dem Neckar, das nur noch eine Ruine ist? | Heidelberg
+2 | In welcher Stadt steht der Dogenpalast? | Venedig
+2 | In welcher schottischen Stadt thront eine Burg auf einem erloschenen Vulkan? | Edinburgh
+3 | In welcher Stadt steht der Topkapı-Palast? | Istanbul
+3 | In welcher Stadt steht das Schloss Charlottenburg? | Berlin
+3 | Wie heißt die Burg der Hohenzollern-Dynastie auf der Schwäbischen Alb? | Burg Hohenzollern
+3 | In welchem Land steht Schloss Windsor? | England | Auch „Vereinigtes Königreich“ gilt.
+4 | In welcher Stadt steht die Prager Burg, zu der auch der Veitsdom gehört? | Prag
+4 | In welcher Stadt steht der Winterpalast mit der Eremitage? | Sankt Petersburg
+4 | Wie heißt das Loire-Schloss mit der berühmten Doppelwendeltreppe? | Chambord
+4 | In welcher Stadt steht der Potala-Palast? | Lhasa
+5 | In welcher Stadt steht der Palast Palácio da Pena in den Hügeln bei Lissabon? | Sintra
+5 | Wie heißt die Burg in Rumänien, die als „Draculas Schloss“ vermarktet wird? | Schloss Bran | Auch „Törzburg“ gilt.
+5 | Wie heißt das dänische Schloss, in dem Shakespeares „Hamlet“ spielt? | Schloss Kronborg | Es steht in Helsingør.
+5 | In welcher Stadt steht der Zwinger? | Dresden
+
+# Museen und Kultur
+1 | In welchem Museum hängt die Mona Lisa? | Louvre
+1 | In welcher Stadt liegt der Louvre? | Paris
+1 | In welcher Stadt liegt die Museumsinsel? | Berlin
+1 | In welcher Stadt steht die Sixtinische Kapelle? | Rom | Genauer in der Vatikanstadt.
+2 | In welcher Stadt liegt das British Museum? | London
+2 | In welcher Stadt liegt das Van-Gogh-Museum? | Amsterdam
+2 | In welcher Stadt liegt der Prado? | Madrid
+2 | In welcher Stadt liegen die Uffizien? | Florenz
+3 | In welcher Stadt liegt das Guggenheim-Museum von Frank Gehry mit der Titanfassade? | Bilbao
+3 | In welcher Stadt liegt das Deutsche Museum für Technik und Naturwissenschaft? | München
+3 | In welcher Stadt hängt Rembrandts „Nachtwache“? | Amsterdam | Im Rijksmuseum.
+3 | In welcher Stadt liegt das Museum of Modern Art, kurz MoMA? | New York
+4 | In welcher Stadt liegt das Pergamonmuseum? | Berlin
+4 | In welcher Stadt liegt die Eremitage? | Sankt Petersburg
+4 | In welcher Stadt wird die Büste der Nofretete ausgestellt? | Berlin | Im Neuen Museum.
+4 | In welcher Stadt liegt die Mailänder Scala? | Mailand
+5 | In welcher Stadt hängt Leonardo da Vincis „Das Abendmahl“ an einer Klosterwand? | Mailand
+5 | In welcher Stadt liegt das Museum Centre Pompidou? | Paris
+5 | In welcher deutschen Stadt findet alle fünf Jahre die Kunstausstellung documenta statt? | Kassel
+5 | In welcher Stadt hängt Picassos „Guernica“? | Madrid | Im Museo Reina Sofía.
+
+# Brücken, Türme und Technik
+1 | In welcher Stadt steht der Fernsehturm am Alexanderplatz? | Berlin
+1 | Aus welchem Material besteht der Eiffelturm? | Eisen | „Stahl“ nicht streng abwerten, genau genommen ist es Schmiedeeisen.
+1 | In welcher Stadt steht das Empire State Building? | New York
+1 | Welche Farbe hat die Golden Gate Bridge? | Rot | Offiziell „International Orange“.
+2 | In welcher Stadt steht die Rialtobrücke? | Venedig
+2 | In welcher Stadt führt die Brooklyn Bridge über den East River? | New York
+2 | Wie heißt der Tunnel unter dem Ärmelkanal? | Eurotunnel | Auch „Kanaltunnel“ gilt.
+2 | In welcher Stadt steht das Riesenrad London Eye? | London
+3 | In welcher Stadt steht die Brücke Ponte Vecchio mit den Läden darauf? | Florenz
+3 | In welcher Stadt steht der Tokyo Skytree? | Tokio
+3 | Wie heißt der längste Eisenbahntunnel der Welt in der Schweiz? | Gotthard-Basistunnel
+3 | In welcher Stadt steht die Kettenbrücke über die Donau? | Budapest
+4 | Welche zwei Länder verbindet die Öresundbrücke? | Dänemark und Schweden
+4 | In welchem Land steht das Viaduc de Millau, eine der höchsten Brücken der Welt? | Frankreich
+4 | In welcher Stadt steht der Fernsehturm „Telemichel“? | Hamburg | Offiziell Heinrich-Hertz-Turm.
+4 | Wie heißt der Staudamm am Colorado River bei Las Vegas? | Hoover Dam
+5 | In welchem Land steht der Drei-Schluchten-Damm? | China
+5 | In welcher Stadt steht das Hochhaus „The Shard“? | London
+5 | Wie heißt die Brücke von Mostar auf Bosnisch, die 1993 zerstört und wieder aufgebaut wurde? | Stari Most | „Alte Brücke“ gilt auch.
+5 | In welcher Stadt steht der Fernsehturm Oriental Pearl Tower? | Shanghai
+
+# Reiseziele und Urlaub
+1 | Zu welchem Land gehört Mallorca? | Spanien
+1 | In welchem Land liegt die Insel Bali? | Indonesien
+1 | In welchem US-Bundesstaat liegt Disney World? | Florida
+1 | In welchem Land macht man Urlaub an der Côte d'Azur? | Frankreich
+2 | In welchem Land liegt die Toskana? | Italien
+2 | Zu welchem Land gehört Ibiza? | Spanien
+2 | In welcher Stadt liegt der Strand Copacabana? | Rio de Janeiro
+2 | In welchem Land liegt die Urlaubsregion Algarve? | Portugal
+3 | In welchem Land liegt Phuket? | Thailand
+3 | Zu welchem Land gehört die Insel Santorin? | Griechenland
+3 | In welchem Land liegt die Stadt Dubrovnik? | Kroatien
+3 | In welchem Land liegt die Küstenstadt Antalya? | Türkei
+4 | Zu welchem Land gehört die Insel Madeira? | Portugal
+4 | In welchem Land liegt Cancún? | Mexiko
+4 | Zu welchem Land gehört Sansibar? | Tansania
+4 | In welchem Land liegt der Badeort Hurghada? | Ägypten
+5 | Zu welchem Land gehört die Insel Bora Bora? | Frankreich | Französisch-Polynesien.
+5 | In welchem Land liegt der Skiort Zermatt? | Schweiz
+5 | In welchem Land liegen die Cinque Terre? | Italien
+5 | Zu welchem Land gehören die Azoren? | Portugal
+
+# Orte aus Geschichte und Legende
+1 | In welcher Stadt stand bis 1989 die Mauer, die Ost und West teilte? | Berlin
+1 | Welche Stadt wurde im Jahr 79 vom Vesuv verschüttet? | Pompeji
+1 | In welcher Stadt wurde Jesus der Bibel nach geboren? | Bethlehem
+1 | Wie heißt die Gefängnisinsel in der Bucht von San Francisco? | Alcatraz
+2 | In welcher Stadt liegt die Klagemauer? | Jerusalem
+2 | In welchem Land liegt Troja? | Türkei
+2 | In welcher saudischen Stadt steht die Kaaba? | Mekka
+2 | In welcher Stadt wurde 1989 die Friedliche Revolution mit den Montagsdemonstrationen bekannt? | Leipzig
+3 | In welcher französischen Region landeten die Alliierten am D-Day 1944? | Normandie
+3 | In welcher Stadt wurde John F. Kennedy 1963 erschossen? | Dallas
+3 | In welcher Stadt in der Ukraine explodierte 1986 ein Reaktor in der Nähe? | Tschernobyl | Auch „Prypjat“ gelten lassen.
+3 | Wie hieß der Grenzübergang in Berlin zwischen amerikanischem und sowjetischem Sektor? | Checkpoint Charlie
+4 | In welcher Stadt schlug Martin Luther der Überlieferung nach seine Thesen an? | Wittenberg
+4 | Auf welcher Insel starb Napoleon in der Verbannung? | St. Helena
+4 | In welcher Stadt fanden nach dem Zweiten Weltkrieg die Prozesse gegen NS-Hauptkriegsverbrecher statt? | Nürnberg
+4 | In welcher Stadt wurde 1914 Erzherzog Franz Ferdinand erschossen? | Sarajevo
+5 | In welchem Ort in Belgien wurde Napoleon 1815 endgültig besiegt? | Waterloo
+5 | In welcher Stadt wurde 1648 neben Osnabrück der Westfälische Friede geschlossen? | Münster
+5 | Wie heißt die Stadt im heutigen Irak, in der die Hängenden Gärten gestanden haben sollen? | Babylon
+5 | In welcher Stadt wurde 1949 das Grundgesetz verkündet? | Bonn

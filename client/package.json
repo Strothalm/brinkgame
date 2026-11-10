@@ -1,0 +1,70 @@
+{
+  "name": "brinkgame",
+  "productName": "Brinkgame",
+  "version": "1.0.0",
+  "description": "Brinkgame – Quizshow für Freunde, mit Voice, Kamera und Moderator",
+  "author": "Brinkgame",
+  "license": "UNLICENSED",
+  "private": true,
+  "main": "src/main/main.cjs",
+  "scripts": {
+    "packs": "node scripts/build-packs.mjs",
+    "build": "node scripts/build-packs.mjs && node scripts/build.mjs",
+    "watch": "node scripts/build.mjs --watch",
+    "start": "npm run build && electron .",
+    "dist": "npm run build && electron-builder --win --x64",
+    "dist:dir": "npm run build && electron-builder --win --x64 --dir"
+  },
+  "dependencies": {
+    "preact": "^10.26.0"
+  },
+  "devDependencies": {
+    "@fontsource/anton": "^5.2.0",
+    "@fontsource/barlow": "^5.2.0",
+    "@fontsource/barlow-condensed": "^5.2.0",
+    "@fontsource/chakra-petch": "^5.2.0",
+    "@fontsource/hanken-grotesk": "^5.2.0",
+    "@fontsource/ibm-plex-mono": "^5.2.0",
+    "@fontsource/instrument-serif": "^5.2.0",
+    "@fontsource/jetbrains-mono": "^5.2.0",
+    "@fontsource/pixelify-sans": "^5.2.0",
+    "@fontsource/press-start-2p": "^5.2.0",
+    "@fontsource/zilla-slab": "^5.2.0",
+    "electron": "^39.0.0",
+    "electron-builder": "^26.0.0",
+    "esbuild": "^0.25.0",
+    "flag-icons": "^7.5.0",
+    "resedit": "^2.0.3"
+  },
+  "build": {
+    "appId": "de.brinkgame.app",
+    "productName": "Brinkgame",
+    "directories": {
+      "output": "release",
+      "buildResources": "build"
+    },
+    "files": [
+      "src/main/**",
+      "dist/**",
+      "package.json"
+    ],
+    "asar": true,
+    "afterPack": "scripts/after-pack.cjs",
+    "win": {
+      "target": [
+        "portable",
+        "zip"
+      ],
+      "signAndEditExecutable": false
+    },
+    "portable": {
+      "artifactName": "Brinkgame-${version}-portable.exe"
+    },
+    "artifactName": "Brinkgame-${version}-win-x64.${ext}",
+    "electronLanguages": [
+      "de",
+      "en-US"
+    ],
+    "compression": "normal"
+  }
+}

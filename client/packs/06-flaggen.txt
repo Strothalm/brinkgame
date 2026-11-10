@@ -1,0 +1,226 @@
+@id flaggen
+@name Flaggen
+@icon 🚩
+@color #ff5a4e
+@desc Die Flagge wird gezeigt, gesucht ist das Land oder Gebiet. 200 Flaggen aus aller Welt.
+@type flags
+
+# Europa: die Bekannten
+1 | de | Deutschland
+1 | fr | Frankreich
+1 | it | Italien
+1 | es | Spanien
+2 | gb | Vereinigtes Königreich | Auch „Großbritannien“ gilt.
+2 | ch | Schweiz
+2 | at | Österreich
+2 | nl | Niederlande | Luxemburg sieht fast gleich aus, hat aber ein helleres Blau.
+3 | se | Schweden
+3 | gr | Griechenland
+3 | pt | Portugal
+3 | pl | Polen
+4 | be | Belgien
+4 | dk | Dänemark
+4 | no | Norwegen
+4 | ie | Irland | Nicht verwechseln mit der Elfenbeinküste (dort ist Orange links).
+5 | fi | Finnland
+5 | cz | Tschechien
+5 | hu | Ungarn
+5 | hr | Kroatien
+
+# Europa: Osten und Norden
+1 | tr | Türkei
+1 | ua | Ukraine
+1 | ru | Russland
+1 | ro | Rumänien | Der Tschad hat fast dieselbe Flagge. Beides gelten lassen.
+2 | bg | Bulgarien
+2 | rs | Serbien
+2 | is | Island
+2 | lu | Luxemburg | Die Niederlande haben fast dieselbe Flagge mit dunklerem Blau.
+3 | sk | Slowakei
+3 | si | Slowenien
+3 | ee | Estland
+3 | lt | Litauen
+4 | lv | Lettland
+4 | al | Albanien
+4 | ba | Bosnien und Herzegowina
+4 | mk | Nordmazedonien
+5 | me | Montenegro
+5 | md | Moldau | Auch „Moldawien“ oder „Republik Moldau“ gilt.
+5 | by | Belarus | Auch „Weißrussland“ gilt.
+5 | mt | Malta
+
+# Asien: die Großen
+1 | jp | Japan
+1 | cn | China
+1 | in | Indien
+1 | kr | Südkorea
+2 | th | Thailand
+2 | vn | Vietnam
+2 | id | Indonesien | Monaco hat praktisch dieselbe Flagge. Beides gelten lassen.
+2 | il | Israel
+3 | sa | Saudi-Arabien
+3 | pk | Pakistan
+3 | ph | Philippinen
+3 | my | Malaysia
+4 | sg | Singapur
+4 | ae | Vereinigte Arabische Emirate
+4 | ir | Iran
+4 | iq | Irak
+5 | np | Nepal
+5 | lk | Sri Lanka
+5 | bd | Bangladesch
+5 | mn | Mongolei
+
+# Asien: für Kenner
+1 | kp | Nordkorea
+1 | af | Afghanistan
+1 | qa | Katar | Bahrain sieht ähnlich aus, ist aber rot statt weinrot.
+1 | kz | Kasachstan
+2 | sy | Syrien
+2 | lb | Libanon
+2 | jo | Jordanien
+2 | kh | Kambodscha
+3 | mm | Myanmar
+3 | la | Laos
+3 | uz | Usbekistan
+3 | ge | Georgien
+4 | am | Armenien
+4 | az | Aserbaidschan
+4 | kw | Kuwait
+4 | om | Oman
+5 | bt | Bhutan
+5 | kg | Kirgisistan
+5 | tj | Tadschikistan
+5 | tm | Turkmenistan
+
+# Afrika: Norden, Westen, Süden
+1 | za | Südafrika
+1 | eg | Ägypten
+1 | ma | Marokko
+1 | ng | Nigeria
+2 | ke | Kenia
+2 | gh | Ghana
+2 | tn | Tunesien
+2 | dz | Algerien
+3 | et | Äthiopien
+3 | sn | Senegal
+3 | cm | Kamerun
+3 | ci | Elfenbeinküste | Auch „Côte d'Ivoire“ gilt. Irland ist spiegelverkehrt.
+4 | tz | Tansania
+4 | ug | Uganda
+4 | ao | Angola
+4 | cd | Demokratische Republik Kongo | „Kongo“ allein reicht nicht, es gibt zwei.
+5 | zw | Simbabwe
+5 | mg | Madagaskar
+5 | ly | Libyen
+5 | sd | Sudan
+
+# Afrika: für Kenner
+1 | so | Somalia
+1 | ml | Mali
+1 | na | Namibia
+1 | rw | Ruanda
+2 | mz | Mosambik
+2 | zm | Sambia
+2 | bw | Botswana
+2 | ne | Niger
+3 | td | Tschad | Rumänien hat fast dieselbe Flagge. Beides gelten lassen.
+3 | bf | Burkina Faso
+3 | gn | Guinea
+3 | cg | Republik Kongo | Auch „Kongo-Brazzaville“ gilt.
+4 | mw | Malawi
+4 | tg | Togo
+4 | bj | Benin
+4 | lr | Liberia
+5 | sl | Sierra Leone
+5 | er | Eritrea
+5 | ga | Gabun
+5 | mr | Mauretanien
+
+# Amerika: Nord und Süd
+1 | us | USA | Auch „Vereinigte Staaten“ gilt.
+1 | ca | Kanada
+1 | br | Brasilien
+1 | mx | Mexiko
+2 | ar | Argentinien
+2 | co | Kolumbien
+2 | cl | Chile
+2 | pe | Peru
+3 | cu | Kuba
+3 | jm | Jamaika
+3 | uy | Uruguay
+3 | ve | Venezuela
+4 | ec | Ecuador
+4 | bo | Bolivien
+4 | py | Paraguay
+4 | pa | Panama
+5 | cr | Costa Rica
+5 | gt | Guatemala
+5 | hn | Honduras
+5 | do | Dominikanische Republik
+
+# Amerika: Mittelamerika und Karibik
+1 | ht | Haiti
+1 | bs | Bahamas
+1 | pr | Puerto Rico
+1 | ni | Nicaragua
+2 | sv | El Salvador
+2 | tt | Trinidad und Tobago
+2 | bb | Barbados
+2 | bz | Belize
+3 | gy | Guyana
+3 | sr | Suriname
+3 | lc | St. Lucia
+3 | gd | Grenada
+4 | ag | Antigua und Barbuda
+4 | dm | Dominica
+4 | kn | St. Kitts und Nevis
+4 | vc | St. Vincent und die Grenadinen
+5 | aw | Aruba
+5 | cw | Curaçao
+5 | bm | Bermuda
+5 | ky | Kaimaninseln | Auch „Cayman Islands“ gilt.
+
+# Ozeanien und Inselstaaten
+1 | au | Australien
+1 | nz | Neuseeland
+1 | fj | Fidschi
+1 | pg | Papua-Neuguinea
+2 | mv | Malediven
+2 | mu | Mauritius
+2 | sc | Seychellen
+2 | cy | Zypern
+3 | ws | Samoa
+3 | to | Tonga
+3 | cv | Kap Verde | Auch „Cabo Verde“ gilt.
+3 | bh | Bahrain
+4 | sb | Salomonen
+4 | vu | Vanuatu
+4 | km | Komoren
+4 | st | São Tomé und Príncipe
+5 | ki | Kiribati
+5 | pw | Palau
+5 | fm | Mikronesien
+5 | mh | Marshallinseln
+
+# Kleinstaaten, Regionen und Besonderes
+1 | eu | Europäische Union | Auch „Europa“ oder „Europarat“ gilt.
+1 | va | Vatikanstadt
+1 | mc | Monaco | Indonesien hat praktisch dieselbe Flagge. Beides gelten lassen.
+1 | gb-sct | Schottland
+2 | gb-eng | England
+2 | gb-wls | Wales
+2 | li | Liechtenstein
+2 | hk | Hongkong
+3 | tw | Taiwan
+3 | ps | Palästina
+3 | xk | Kosovo
+3 | sm | San Marino
+4 | ad | Andorra
+4 | gl | Grönland
+4 | fo | Färöer
+4 | un | Vereinte Nationen | Auch „UNO“ gilt.
+5 | nr | Nauru
+5 | tv | Tuvalu
+5 | tl | Osttimor | Auch „Timor-Leste“ gilt.
+5 | bn | Brunei

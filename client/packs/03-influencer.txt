@@ -1,0 +1,225 @@
+@id influencer
+@name Influencer & Social Media
+@icon 📱
+@color #ff6fb5
+@desc TikTok, Instagram, Trends, Marken, Jugendsprache und die bekanntesten Gesichter im Netz.
+
+# Deutsche Influencer: Wer ist das?
+1 | Welche Fitness-Influencerin aus Karlsruhe ist für ihre Workout-Videos bekannt? | Pamela Reif
+1 | Welcher TikToker mit optischen Tricks hat den größten deutschen TikTok-Account? | Younes Zarou
+1 | Welche Zwillinge aus dem Raum Stuttgart wurden auf Musical.ly weltbekannt? | Lisa und Lena
+1 | Welche GNTM-Siegerin von 2014 ist heute Influencerin und Unternehmerin? | Stefanie Giesinger
+2 | Welcher Jurist erklärt auf TikTok Rechtsfragen unter dem Namen „Herr Anwalt“? | Tim Hendrik Walter | Auch „Herr Anwalt“ gilt.
+2 | Welche Mode-Influencerin aus Hamburg sitzt bei Fashion Weeks in der ersten Reihe? | Caro Daur
+2 | Welcher Parfüm-Influencer trägt weiße Anzüge und ruft „Power!“? | Jeremy Fragrance
+2 | Welcher TikToker heißt bürgerlich Tim Kampmann und war 2024 im Dschungelcamp? | Twenty4tim
+3 | Welche Influencerin war mit Fußballer Mats Hummels verheiratet? | Cathy Hummels
+3 | Welche Mode-Influencerin wurde mit dem Blog „Ohh Couture“ bekannt? | Leonie Hanne
+3 | Welche Fitness-Influencerin aus Rosenheim wurde durch ihre Abnehm-Geschichte bekannt? | Sophia Thiel
+3 | Welches Berliner Paar zeigt sein Familienleben und heißt mit Nachnamen Jindaoui? | Nader und Louisa Jindaoui
+4 | Welcher Fitness-Creator aus Österreich ist für Selbstexperimente und Challenges bekannt und trat bei „7 vs. Wild“ an? | Sascha Huber
+4 | Welcher Fitness-Influencer gründete die Marke „More Nutrition“? | Christian Wolf
+4 | Welche Influencerin hieß früher Nowak und nahm 2015 an „Der Bachelor“ teil? | Sarah Harrison
+4 | Welcher Influencer und Sänger ist mit Sarah Harrison verheiratet? | Dominic Harrison
+5 | Welcher Mode-Creator stand laut Favikon im Januar 2026 auf Platz zwei der deutschen YouTuber? | Marlon Noah
+5 | Welche Creatorin mit DIY- und Zimmer-Videos stand laut Favikon im Januar 2026 auf Platz drei? | Jessie Bluegrey
+5 | Welcher deutsche Tänzer gehört laut Kolsquare zu den zehn größten TikTokern des Landes? | Rick Azas
+5 | Welcher Creator mit Sketchen über Schule und Alltag stand laut Favikon im Januar 2026 auf Platz zehn? | Mohi
+
+# TikTok
+1 | Aus welchem Land stammt TikTok? | China
+1 | Wie hieß die App, die 2018 in TikTok aufging? | Musical.ly
+1 | Wie heißt die Startseite mit den empfohlenen Videos? | For You Page | Kurz „FYP“, deutsch „Für dich“.
+1 | Welcher TikToker hat die meisten Follower der Welt? | Khaby Lame
+2 | Wie heißt der Konzern hinter TikTok? | ByteDance
+2 | Welche Tänzerin erreichte 2020 als Erste 100 Millionen Follower? | Charli D'Amelio
+2 | Wie nennt man ein Video, das neben einem anderen Video läuft? | Duett
+2 | Wie nennt man es, wenn man einen Ausschnitt eines fremden Videos vor das eigene setzt? | Stitch
+3 | Wie heißt die chinesische Schwester-App von TikTok? | Douyin
+3 | Wer ist Chef von TikTok? | Shou Zi Chew
+3 | In welchem Land wurde Khaby Lame geboren? | Senegal | Er wuchs in Italien auf.
+3 | Welche Creatorin hält mit einem Lippensynchron-Video zu „M to the B“ den Like-Rekord? | Bella Poarch
+4 | Wen überholte Khaby Lame 2022 bei den Followern? | Charli D'Amelio
+4 | Wie heißt die Schnitt-App von ByteDance? | CapCut
+4 | In welchem Monat war TikTok in den USA kurz abgeschaltet? | Januar 2025
+4 | Wie lang durften TikTok-Videos am Anfang höchstens sein? | 15 Sekunden
+5 | Wer gründete ByteDance? | Zhang Yiming
+5 | Welche Jugendliche erfand den Tanz „Renegade“? | Jalaiah Harmon
+5 | Welches große Land verbot TikTok im Jahr 2020 vollständig? | Indien
+5 | Wie hieß die Creator-WG in Los Angeles, die Ende 2019 gegründet wurde? | Hype House
+
+# Instagram
+1 | Welchem Konzern gehört Instagram? | Meta
+1 | Wie heißen Beiträge, die nach 24 Stunden verschwinden? | Storys
+1 | Wie heißen die kurzen Hochkant-Videos bei Instagram? | Reels
+1 | Welche Person hat die meisten Follower auf Instagram? | Cristiano Ronaldo
+2 | In welchem Jahr startete Instagram? | 2010
+2 | In welchem Jahr kaufte Facebook Instagram? | 2012
+2 | Für wie viel Geld kaufte Facebook Instagram? | Eine Milliarde Dollar
+2 | Welches Foto eines Lebensmittels war ab 2019 jahrelang der meistgelikte Beitrag? | Ein Ei
+3 | Welcher Beitrag löste das Ei 2022 als meistgelikten ab? | Lionel Messi mit dem WM-Pokal
+3 | Wer gründete Instagram zusammen mit Mike Krieger? | Kevin Systrom
+3 | Wer leitet Instagram? | Adam Mosseri
+3 | Wie heißt die Text-App, die Instagram 2023 startete? | Threads
+4 | Von welcher App übernahm Instagram 2016 die Idee der Storys? | Snapchat
+4 | Welche Frau hat die meisten Follower auf Instagram? | Selena Gomez
+4 | Wie heißt das kostenpflichtige Abo für den blauen Haken? | Meta Verified
+4 | Wie hieß der Bereich für lange Videos, den Instagram 2018 startete und später einstellte? | IGTV
+5 | Wie hieß die Vorgänger-App, aus der Instagram entstand? | Burbn
+5 | Was zeigt das erste Foto, das Kevin Systrom 2010 hochlud? | Einen Hund
+5 | Welche zwei Fußballer saßen 2022 auf einem Werbefoto gemeinsam am Schachbrett? | Lionel Messi und Cristiano Ronaldo
+5 | Welche Marke warb mit dem Schachfoto von Messi und Ronaldo? | Louis Vuitton
+
+# Internationale Stars
+1 | Welche Reality-Familie um Kim, Khloé und Kourtney prägt seit Jahren Instagram? | Kardashians
+1 | Welche jüngere Schwester von Kendall Jenner wurde mit Kosmetik reich? | Kylie Jenner
+1 | Welche Sängerin gründete die Marke „Rare Beauty“? | Selena Gomez
+1 | Welcher TikToker reagiert stumm mit ausgestreckten Händen auf umständliche Lifehacks? | Khaby Lame
+2 | Wie heißt die Shapewear-Marke von Kim Kardashian? | Skims
+2 | Welche TikTok-Tänzerin wurde Popsängerin und sang „Diet Pepsi“? | Addison Rae
+2 | Wie heißt die Schwester von Charli D'Amelio? | Dixie D'Amelio
+2 | Welcher Creator ist für Zaubertricks bekannt, die durch Videoschnitt entstehen? | Zach King
+3 | Welche italienische Influencerin geriet 2023 wegen eines Weihnachtskuchens in einen Spendenskandal? | Chiara Ferragni | Der „Pandoro-Skandal“.
+3 | Wie heißt die Hautpflegemarke von Hailey Bieber? | Rhode
+3 | Welche Unternehmerin gründete „Huda Beauty“? | Huda Kattan
+3 | Welcher umstrittene Influencer wurde Ende 2022 in Rumänien festgenommen? | Andrew Tate
+4 | Welche Creatorin aus Miami machte „Get Ready With Me“-Videos groß? | Alix Earle
+4 | Welche YouTuberin gründete eine Kaffeemarke unter ihrem Nachnamen? | Emma Chamberlain
+4 | Aus welcher russischen Teilrepublik stammt der kleinwüchsige Internetstar Hasbulla? | Dagestan
+4 | Welche Creatorin sang 2021 „Build a Bitch“? | Bella Poarch
+5 | Wie heißt die Frau, die 2024 als „Hawk Tuah Girl“ viral ging? | Haliey Welch
+5 | Welche Creatorin prägte 2024 den Spruch „very demure, very mindful“? | Jools Lebron
+5 | Welches Kosmetikunternehmen kaufte 2025 die Marke Rhode für rund eine Milliarde Dollar? | e.l.f.
+5 | Mit welchem italienischen Rapper war Chiara Ferragni verheiratet? | Fedez
+
+# Trends und Challenges
+1 | Bei welcher Challenge kippte man sich 2014 einen Eimer Eiswasser über den Kopf? | Ice Bucket Challenge
+1 | Welche Schokolade mit grüner Füllung löste 2024 lange Schlangen aus? | Dubai-Schokolade
+1 | Welches Plüschmonster mit spitzen Zähnen hing 2025 an unzähligen Taschen? | Labubu
+1 | Welches Spielzeug zum Drehen zwischen den Fingern war 2017 überall? | Fidget Spinner
+2 | Für die Erforschung welcher Krankheit sammelte die Ice Bucket Challenge Geld? | ALS
+2 | Welche zwei Dinge stecken in der Füllung der Dubai-Schokolade? | Pistaziencreme und Teigfäden | Die Teigfäden heißen Kadayif oder Engelshaar.
+2 | Welche chinesische Firma verkauft die Labubus? | Pop Mart
+2 | Welcher Thermobecher mit Henkel wurde 2024 zum Statussymbol? | Stanley Cup | Das Modell „Quencher“.
+3 | Bei welcher Challenge von 2016 erstarrten alle wie Schaufensterpuppen? | Mannequin Challenge
+3 | Welcher Tanz-Trend von 2013 begann mit einer Person und endete im Chaos? | Harlem Shake
+3 | Welche Sängerin von BLACKPINK machte Labubu weltweit bekannt? | Lisa
+3 | Wie heißt die YouTube-Serie mit singenden Köpfen in Kloschüsseln? | Skibidi Toilet
+4 | Bei welcher Challenge von 2016 musste eine geworfene Flasche stehend landen? | Bottle Flip Challenge
+4 | Welcher Künstler aus Hongkong erfand die Figur Labubu? | Kasing Lung
+4 | Wie heißt der Hersteller der originalen Dubai-Schokolade? | Fix Dessert Chocolatier
+4 | Welcher Song lief bei der Mannequin Challenge meistens? | Black Beatles | Von Rae Sremmurd.
+5 | Wie heißt der Hai mit Turnschuhen aus dem „Italian Brainrot“? | Tralalero Tralala
+5 | Wie heißt das Krokodil-Flugzeug aus dem „Italian Brainrot“? | Bombardiro Crocodilo
+5 | Wie nannte man den Sommer 2024 nach einem Album von Charli XCX? | Brat Summer
+5 | Welche Zahl wurde 2025 als Meme so groß, dass Dictionary.com sie zum Wort des Jahres machte? | 67 | Gesprochen „six seven“.
+
+# Marken und Produkte
+1 | Wie heißt der Duschschaum von Bibi? | Bilou
+1 | Welche Rapperin verkauft den Eistee „DirTea“? | Shirin David
+1 | Welcher Rapper brachte die Pizza „Gangstarella“ heraus? | Capital Bra
+1 | Wie heißt die Marke von Pamela Reif für Lebensmittel? | Naturally Pam
+2 | Wie heißt der Eistee von Capital Bra? | BraTee
+2 | Wie heißt die Kosmetikmarke von Kylie Jenner? | Kylie Cosmetics
+2 | Welche Fitness-Marke mit Proteinpulver und „Chunky Flavour“ wird von sehr vielen Influencern beworben? | More Nutrition
+2 | Wie heißt das Getränk von Logan Paul und KSI? | Prime
+3 | Wie heißt das Modelabel, das Stefanie Giesinger mitgründete? | nu-in
+3 | Wie heißt die Kosmetikmarke von Rihanna? | Fenty Beauty
+3 | Wie heißt die Schokoladenmarke von MrBeast? | Feastables
+3 | Wie heißt die Kosmetikmarke von Dagi Bee? | Beetique
+4 | Wie heißt die Berliner Marke für Getränkepulver, die mit vielen Creatorn eigene Sorten macht? | Holy
+4 | Wie heißt die Tequila-Marke von Kendall Jenner? | 818
+4 | Wie heißt der Energydrink von MontanaBlack? | Gönrgy
+4 | Wie heißt die Kaffeemarke von Emma Chamberlain? | Chamberlain Coffee
+5 | Wie hieß die Kosmetikmarke von Kim Kardashian vor der Umbenennung? | KKW Beauty
+5 | Wie heißt die Tequila-Marke von Dwayne Johnson? | Teremana
+5 | Wie heißt die Kosmetikmarke von Selena Gomez? | Rare Beauty
+5 | Wie heißt das Lunchpaket von MrBeast, KSI und Logan Paul? | Lunchly
+
+# Jugendsprache
+1 | Was bedeutet „cringe“? | Peinlich | Zum Fremdschämen.
+1 | Was bedeutet „sus“? | Verdächtig | Von „suspicious“.
+1 | Was bedeutet „Digga“? | Kumpel | Eine Anrede unter Freunden.
+1 | Was bedeutet „lost“? | Ahnungslos | Verloren, planlos.
+2 | Welches Wort wurde zum Jugendwort des Jahres 2024 gewählt? | Aura
+2 | Welches Wort wurde zum Jugendwort des Jahres 2021 gewählt? | cringe
+2 | Was bedeutet „Rizz“? | Charme beim Flirten | Von „Charisma“.
+2 | Was bedeutet „slay“? | Etwas richtig gut machen
+3 | Welches Wort wurde zum Jugendwort des Jahres 2023 gewählt? | goofy
+3 | Welches Wort wurde zum Jugendwort des Jahres 2022 gewählt? | smash
+3 | Was bedeutet „delulu“? | Realitätsfern | Von „delusional“.
+3 | Was bedeutet „Sigma“ in der Netzsprache? | Ein cooler Einzelgänger
+4 | Welcher Ausdruck wurde zum Jugendwort des Jahres 2025 gewählt? | Das crazy
+4 | Welches Wort wurde zum Jugendwort des Jahres 2020 gewählt? | lost
+4 | Was bedeutet „no cap“? | Ohne Lüge | Ganz ehrlich.
+4 | Aus welcher Sprache stammt „Talahon“ und was heißt es wörtlich? | Arabisch, „komm her“
+5 | Welches Wort wurde zum Jugendwort des Jahres 2018 gewählt? | Ehrenmann/Ehrenfrau
+5 | Welcher Ausdruck wurde zum Jugendwort des Jahres 2017 gewählt? | I bims
+5 | Welches Wort für Handy-Zombies wurde zum Jugendwort des Jahres 2015 gewählt? | Smombie
+5 | Welchen Ausdruck wählte Oxford zum Wort des Jahres 2024? | Brain rot
+
+# Apps und Plattformen
+1 | Welche App hat einen weißen Geist auf gelbem Grund als Logo? | Snapchat
+1 | Wie heißt Twitter seit 2023? | X
+1 | Wer gründete Facebook? | Mark Zuckerberg
+1 | Welche Messenger-App mit grünem Logo gehört zu Meta? | WhatsApp
+2 | Wer kaufte Twitter im Jahr 2022? | Elon Musk
+2 | Welche App fordert einmal täglich zu einem ungestellten Foto mit beiden Kameras auf? | BeReal
+2 | Wie nennt man bei Snapchat die Serie von Tagen, an denen man sich gegenseitig Snaps schickt? | Flammen | Englisch „Snapstreak“.
+2 | Wie hieß der Konzern Meta bis 2021? | Facebook
+3 | Auf welcher Plattform sammelt man Bilder auf Pinnwänden? | Pinterest
+3 | Welches berufliche Netzwerk gehört zu Microsoft? | LinkedIn
+3 | Auf welcher Plattform heißen die Themenforen „Subreddits“? | Reddit
+3 | Welche Chat-App mit Servern wurde 2015 für Gamer gestartet? | Discord
+4 | Wie viel zahlte Elon Musk für Twitter? | 44 Milliarden Dollar
+4 | In welchem Jahr kaufte Facebook WhatsApp? | 2014
+4 | Wer gründete Snapchat? | Evan Spiegel
+4 | Aus welchem Land kommt BeReal? | Frankreich
+5 | Welche App für Sechs-Sekunden-Videos wurde 2017 eingestellt? | Vine
+5 | Wer schlug 2007 als Erster vor, das Rautezeichen als Hashtag zu benutzen? | Chris Messina
+5 | Welche Twitter-Alternative mit Schmetterling-Logo ging aus einem Projekt von Jack Dorsey hervor? | Bluesky
+5 | Wer war bei Myspace automatisch der erste Freund jedes neuen Nutzers? | Tom | Tom Anderson.
+
+# Reality und Promis im Netz
+1 | Wer sucht in „Germany's Next Topmodel“ nach Models? | Heidi Klum
+1 | Was verteilt der Bachelor an die Kandidatinnen, die bleiben dürfen? | Rosen
+1 | In welchem Land steht das Dschungelcamp normalerweise? | Australien
+1 | Welche Dating-Show spielt in einer Villa und trägt die Liebe und eine Insel im Namen? | Love Island
+2 | Wer wurde 2025 Dschungelkönigin? | Lilly Becker
+2 | Welche Familie zeigt ihr Luxusleben in einer Doku-Soap bei RTLZWEI? | Die Geissens
+2 | In welcher Netflix-Show verlieren Singles Geld, wenn sie sich zu nahe kommen? | Too Hot to Handle
+2 | Auf welchem Sender läuft „Germany's Next Topmodel“? | ProSieben
+3 | Wer wurde 2024 Dschungelkönigin? | Lucy Diakovska
+3 | In welcher Show streiten Promi-Paare in einem einfachen Haus um den Titel „Promipaar des Jahres“? | Das Sommerhaus der Stars
+3 | In welcher Show werden Paare getrennt und von Verführern auf die Probe gestellt? | Temptation Island
+3 | Welcher Parfüm-Influencer verließ 2022 „Promi Big Brother“ freiwillig? | Jeremy Fragrance
+4 | Wer wurde 2023 Dschungelkönigin? | Djamila Rowe
+4 | Wer wurde 2022 Dschungelkönig? | Filip Pavlović
+4 | In welchem Land wurde das Dschungelcamp 2022 ausnahmsweise gedreht? | Südafrika
+4 | Welche Show mit Realitystars spielt an einem Strand in Thailand? | Kampf der Realitystars
+5 | Mit welcher Girlgroup wurde Lucy Diakovska bekannt? | No Angels
+5 | Wer gewann 2006 die erste Staffel von „Germany's Next Topmodel“? | Lena Gercke
+5 | In welcher Dating-Show müssen Singles ihr vorher berechnetes „Perfect Match“ finden? | Are You the One?
+5 | Wie heißt die Dating-Show, in der eine Frau unter Frauen ihre Partnerin sucht? | Princess Charming
+
+# Begriffe und Abkürzungen
+1 | Wie nennt man ein Foto, das man von sich selbst macht? | Selfie
+1 | Welches Zeichen steht vor einem Hashtag? | Raute
+1 | Wie nennt man Menschen, die im Netz viele Follower haben und Produkte empfehlen? | Influencer
+1 | Wie nennt man es, wenn sich ein Beitrag rasend schnell verbreitet? | Viral gehen
+2 | Wofür steht „GRWM“? | Get Ready With Me
+2 | Wofür steht „OOTD“? | Outfit of the Day
+2 | Wofür steht „DM“? | Direct Message | Direktnachricht.
+2 | Wofür steht „IRL“? | In Real Life
+3 | Wofür steht „FOMO“? | Fear of Missing Out | Die Angst, etwas zu verpassen.
+3 | Wie nennt man eine Welle der Empörung im Netz? | Shitstorm
+3 | Wie nennt man es, wenn jemand ohne Erklärung nicht mehr antwortet? | Ghosting
+3 | Wie nennt man es, wenn eine Person nach einem Fehltritt öffentlich boykottiert wird? | Canceln | Auch „Cancel Culture“.
+4 | Wofür steht „UGC“? | User Generated Content
+4 | Wie nennt man es, wenn sich jemand im Netz mit falscher Identität ausgibt, um andere zu täuschen? | Catfishing
+4 | Wie nennt man endloses Scrollen durch schlechte Nachrichten? | Doomscrolling
+4 | Wie nennt man ein aufreizendes Foto, das Aufmerksamkeit bringen soll? | Thirst Trap
+5 | Wie nennt man Influencer, die Tipps zu Geld und Aktien geben? | Finfluencer
+5 | Wie nennt man es, wenn Eltern ständig Fotos ihrer Kinder posten? | Sharenting
+5 | Wie nennt man den Trend, Followern vom Kauf gehypter Produkte abzuraten? | Deinfluencing
+5 | Wie nennt man computergenerierte Figuren wie Lil Miquela, die wie echte Creator posten? | Virtuelle Influencer

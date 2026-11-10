@@ -1,0 +1,225 @@
+@id allgemeinwissen
+@name Allgemeinwissen
+@icon 💡
+@color #f2e24b
+@desc Bunter Mix: Sprache, Essen, Tiere, Alltag, Geschichte, Politik und Kurioses.
+
+# Sprache und Sprichwörter
+1 | Vervollständige: „Wer anderen eine Grube gräbt, …“ | … fällt selbst hinein.
+1 | Vervollständige: „Der frühe Vogel …“ | … fängt den Wurm.
+1 | Wie viele Buchstaben hat das deutsche Alphabet ohne Umlaute und ß? | 26
+1 | Wie heißt das Gegenteil von „Synonym“? | Antonym
+2 | Vervollständige: „Was Hänschen nicht lernt, …“ | … lernt Hans nimmermehr.
+2 | Wie nennt man ein Wort, das vorwärts und rückwärts gleich gelesen wird, wie „Otto“? | Palindrom
+2 | Welches Tier kauft man sprichwörtlich „im Sack“? | Katze
+2 | Aus welcher Sprache stammt das Wort „Kindergarten“, das weltweit benutzt wird? | Deutsch
+3 | Wie nennt man die Mehrzahl von „Kaktus“ korrekt? | Kakteen
+3 | Was bedeutet die lateinische Wendung „Carpe diem“? | Nutze den Tag | Wörtlich „Pflücke den Tag“.
+3 | Wie heißt die Wortart von „schnell“, „schön“ und „laut“? | Adjektiv | Auch „Eigenschaftswort“.
+3 | Welche Sprache hat weltweit die meisten Muttersprachler? | Mandarin | „Chinesisch“ gilt.
+4 | Wie nennt man ein Wort wie „Teekesselchen“, das zwei Bedeutungen hat, etwa „Bank“? | Homonym
+4 | Was bedeutet das französische „Déjà-vu“ wörtlich? | Schon gesehen
+4 | Welcher Fall folgt im Hochdeutschen auf die Präposition „wegen“? | Genitiv
+4 | Wie nennt man eine Übertreibung als Stilmittel? | Hyperbel
+5 | Wie nennt man einen Widerspruch in sich wie „schwarzer Schimmel“ oder „bittersüß“? | Oxymoron
+5 | Welche Sprache wurde 1887 von Ludwik Zamenhof als Welthilfssprache erfunden? | Esperanto
+5 | Wie heißt das Stilmittel, bei dem benachbarte Wörter mit demselben Laut beginnen, wie „Milch macht müde Männer munter“? | Alliteration
+5 | Wie heißt der Satz, der alle Buchstaben des Alphabets enthält? | Pangramm
+
+# Essen und Trinken
+1 | Aus welchem Land stammt die Pizza? | Italien
+1 | Aus welcher Frucht wird Wein gemacht? | Trauben
+1 | Welches Getreide ist die Hauptzutat von Popcorn? | Mais
+1 | Aus welchem Land stammt Sushi? | Japan
+2 | Aus welcher Pflanze wird Schokolade gewonnen? | Kakao | Aus den Bohnen des Kakaobaums.
+2 | Welche Hülsenfrucht ist die Hauptzutat von Hummus? | Kichererbse
+2 | Welche Zutat macht Brot durch Gärung locker? | Hefe | Auch „Sauerteig“ gelten lassen.
+2 | Aus welchem Land stammt der Feta-Käse? | Griechenland
+3 | Wie heißt die grüne, scharfe Paste, die zu Sushi gereicht wird? | Wasabi
+3 | Welches Gewürz ist das teuerste der Welt? | Safran
+3 | Aus welcher Stadt stammt die Sachertorte? | Wien
+3 | Welche Frucht ist die Hauptzutat von Guacamole? | Avocado
+4 | Wie heißt das italienische Dessert aus Löffelbiskuit, Mascarpone und Kaffee? | Tiramisu
+4 | Wie heißt die spanische Reispfanne aus Valencia? | Paella
+4 | Aus welcher Pflanze wird Tequila hergestellt? | Agave | Genauer die Blaue Agave.
+4 | Wie heißt der japanische Reiswein? | Sake
+5 | Wie nennt man den fünften Geschmackssinn neben süß, sauer, salzig und bitter? | Umami
+5 | Aus welchem Land stammt das Gericht Kimchi? | Korea
+5 | Welche Nuss ist botanisch gar keine Nuss, sondern eine Hülsenfrucht? | Erdnuss
+5 | Wie heißt die Einheit, in der die Schärfe von Chilis gemessen wird? | Scoville
+
+# Tiere
+1 | Welches ist das größte Landtier der Erde? | Afrikanischer Elefant | „Elefant“ reicht.
+1 | Welches Tier wird „König der Tiere“ genannt? | Löwe
+1 | Wie viele Beine hat eine Spinne? | Acht
+1 | Welches ist das schnellste Landtier? | Gepard
+2 | Welches ist das größte Tier, das je gelebt hat? | Blauwal
+2 | Welches Tier hat den längsten Hals? | Giraffe
+2 | Welcher Vogel ist der größte der Welt und kann nicht fliegen? | Strauß
+2 | Wie nennt man ein Tier, das Pflanzen und Fleisch frisst? | Allesfresser | Fachwort „Omnivore“.
+3 | Wie viele Herzen hat ein Oktopus? | Drei
+3 | Welches Säugetier kann als einziges aktiv fliegen? | Fledermaus
+3 | Welches Tier ist das Wappentier Australiens neben dem Emu? | Känguru
+3 | Zu welcher Tiergruppe gehört der Delfin? | Säugetiere | Genauer zu den Walen.
+4 | Welches Säugetier legt Eier und hat einen Entenschnabel? | Schnabeltier
+4 | Welcher Vogel fliegt als schnellstes Tier im Sturzflug über 300 km/h? | Wanderfalke
+4 | Wie nennt man eine Gruppe von Wölfen? | Rudel
+4 | Welches Tier schläft bis zu 20 Stunden am Tag und frisst fast nur Eukalyptus? | Koala
+5 | Welches Tier hat das schwerste Gehirn aller Lebewesen? | Pottwal
+5 | Wie nennt man Tiere, die nur in einem bestimmten Gebiet vorkommen? | Endemisch | Auch „Endemiten“.
+5 | Welches Insekt überträgt Malaria? | Anopheles-Mücke | „Stechmücke“ oder „Moskito“ gelten.
+5 | Welches Tier kann seinen Magen ausstülpen, um außerhalb des Körpers zu verdauen: Seestern oder Seeigel? | Seestern
+
+# Alltag und Technik
+1 | Wie viele Minuten hat eine Stunde? | 60
+1 | Welche Farbe entsteht, wenn man Blau und Gelb mischt? | Grün
+1 | Wie viele Tage hat ein Schaltjahr? | 366
+1 | Wofür steht die Abkürzung „WLAN“ sinngemäß? | Drahtloses lokales Netzwerk | Wireless Local Area Network.
+2 | Welche Firma stellt das iPhone her? | Apple
+2 | Wie viele Bit hat ein Byte? | Acht
+2 | Wofür steht die Abkürzung „PDF“? | Portable Document Format
+2 | Welche Münze ist die kleinste im Euro-Bargeld? | 1 Cent
+3 | Wie heißt der Erfinder des World Wide Web? | Tim Berners-Lee
+3 | Wofür steht „USB“? | Universal Serial Bus
+3 | Welche Notrufnummer gilt in der ganzen EU? | 112
+3 | In welchem Jahr kam das erste iPhone auf den Markt? | 2007
+4 | Wofür steht „GPS“? | Global Positioning System
+4 | Wie heißt das Betriebssystem mit dem Pinguin als Maskottchen? | Linux
+4 | Was bedeutet die Abkürzung „DIN“ auf dem DIN-A4-Blatt? | Deutsches Institut für Normung
+4 | Wie viele Zentimeter ist ein DIN-A4-Blatt hoch? | 29,7
+5 | Wofür steht „HTTP“? | Hypertext Transfer Protocol
+5 | Wie heißt die Tastaturbelegung im deutschsprachigen Raum nach den ersten sechs Buchstaben? | QWERTZ
+5 | Wofür steht die Abkürzung „SIM“ bei der SIM-Karte? | Subscriber Identity Module
+5 | In welchem Jahr wurde das Euro-Bargeld eingeführt? | 2002
+
+# Geschichte kompakt
+1 | In welchem Jahr fiel die Berliner Mauer? | 1989
+1 | In welchem Jahr endete der Zweite Weltkrieg? | 1945
+1 | Welches Schiff sank 1912 nach der Kollision mit einem Eisberg? | Titanic
+1 | In welchem Jahr begann der Erste Weltkrieg? | 1914
+2 | An welchem Datum ist der Tag der Deutschen Einheit? | 3. Oktober
+2 | In welchem Jahr landeten die ersten Menschen auf dem Mond? | 1969
+2 | In welchem Jahr begann die Französische Revolution? | 1789
+2 | In welchem Jahr wurde die Bundesrepublik Deutschland gegründet? | 1949
+3 | In welchem Jahr wurde das Deutsche Kaiserreich gegründet? | 1871
+3 | Wie lange dauerte der Dreißigjährige Krieg in Jahreszahlen? | 1618 bis 1648
+3 | In welchem Jahr wurde die Berliner Mauer gebaut? | 1961
+3 | In welchem Jahr entdeckte Kolumbus Amerika? | 1492
+4 | In welchem Jahr endete das Weströmische Reich nach traditioneller Zählung? | 476
+4 | In welchem Jahr erklärten die USA ihre Unabhängigkeit? | 1776
+4 | In welchem Jahr wurde der Euro als Buchgeld eingeführt? | 1999
+4 | In welchem Jahr wurden die Vereinten Nationen gegründet? | 1945
+5 | In welchem Jahr fand die Schlacht bei Hastings statt? | 1066
+5 | In welchem Jahr brach die Pest, der „Schwarze Tod“, in Europa aus? | 1347 | 1346 bis 1348 gelten lassen.
+5 | In welchem Jahr wurde die Magna Carta unterzeichnet? | 1215
+5 | In welchem Jahr zerfiel die Sowjetunion? | 1991
+
+# Politik und Gesellschaft
+1 | Wie heißt das deutsche Parlament? | Bundestag
+1 | Wie heißt die Währung in Deutschland? | Euro
+1 | Welche Farben hat die deutsche Flagge von oben nach unten? | Schwarz, Rot, Gold
+1 | Ab welchem Alter darf man in Deutschland bei der Bundestagswahl wählen? | 18
+2 | Wie heißt die deutsche Verfassung? | Grundgesetz
+2 | Wer wählt in Deutschland den Bundeskanzler? | Der Bundestag
+2 | In welcher Stadt hat das Europäische Parlament seinen offiziellen Sitz? | Straßburg
+2 | Wie viele Sterne hat die Flagge der Europäischen Union? | Zwölf
+3 | Wie heißt das höchste deutsche Gericht? | Bundesverfassungsgericht
+3 | In welcher Stadt sitzt das Bundesverfassungsgericht? | Karlsruhe
+3 | Wie viele Mitgliedstaaten hat die EU seit dem Brexit? | 27
+3 | Wie lautet der erste Satz von Artikel 1 des Grundgesetzes? | Die Würde des Menschen ist unantastbar.
+4 | Wie heißt die Länderkammer in Deutschland? | Bundesrat
+4 | In welcher Stadt sitzt die Europäische Zentralbank? | Frankfurt am Main
+4 | Wie lange dauert eine Amtszeit des Bundespräsidenten? | Fünf Jahre
+4 | In welcher Stadt hat die UNO ihren Hauptsitz? | New York
+5 | Wie heißt das Gremium, das den Bundespräsidenten wählt? | Bundesversammlung
+5 | In welcher Stadt sitzt der Internationale Strafgerichtshof? | Den Haag
+5 | Welche fünf Staaten haben einen ständigen Sitz im UN-Sicherheitsrat? | USA, Russland, China, Frankreich, Vereinigtes Königreich
+5 | Wie viele Artikel umfasst der Grundrechtekatalog am Anfang des Grundgesetzes? | 19
+
+# Zahlen und Maße
+1 | Wie viele Seiten hat ein Würfel? | Sechs
+1 | Wie viele Monate haben 31 Tage? | Sieben
+1 | Wie viel ist ein Dutzend? | Zwölf
+1 | Wie viele Gramm hat ein Kilogramm? | 1000
+2 | Wie viele Sekunden hat eine Stunde? | 3600
+2 | Wie viele Nullen hat eine Million? | Sechs
+2 | Wie viele Ecken hat ein Oktagon? | Acht
+2 | Wie viele Karten hat ein Skatblatt? | 32
+3 | Wie viele Felder hat ein Schachbrett? | 64
+3 | Welche römische Zahl steht für 50? | L
+3 | Wie viele Zentimeter hat ein Zoll, gerundet auf zwei Nachkommastellen? | 2,54
+3 | Wie viele Zähne hat ein erwachsener Mensch mit Weisheitszähnen? | 32
+4 | Wie viele Meter hat eine Seemeile? | 1852
+4 | Wie viele Kilometer lang ist ein Marathon, auf eine Nachkommastelle genau? | 42,2 | Genau 42,195 Kilometer.
+4 | Welche römische Zahl steht für 1000? | M
+4 | Wie viele Nullen hat eine Milliarde? | Neun
+5 | Wie viele Liter fasst ein Barrel Erdöl ungefähr? | 159
+5 | Wie viele Sekunden hat ein Tag? | 86.400
+5 | Wie nennt man eine Zahl mit 100 Nullen? | Googol
+5 | Wie viele Karat hat reines Gold? | 24
+
+# Wirtschaft und Marken
+1 | Welche Firma hat einen angebissenen Apfel als Logo? | Apple
+1 | Welches Unternehmen hat das goldene „M“ als Logo? | McDonald's
+1 | Aus welchem Land kommt IKEA? | Schweden
+1 | Welcher Autohersteller hat einen Stern als Logo? | Mercedes-Benz
+2 | Welches Unternehmen gründete Bill Gates mit Paul Allen? | Microsoft
+2 | Aus welchem Land kommt LEGO? | Dänemark
+2 | In welcher Stadt hat Volkswagen seinen Hauptsitz? | Wolfsburg
+2 | Welches Unternehmen gründete Jeff Bezos 1994 als Online-Buchhandel? | Amazon
+3 | Wofür stehen die Buchstaben „BMW“? | Bayerische Motoren Werke
+3 | Aus welchem Land kommt Samsung? | Südkorea
+3 | Wie heißt der wichtigste deutsche Aktienindex? | DAX
+3 | Aus welcher fränkischen Stadt stammen Adidas und Puma? | Herzogenaurach
+4 | Wie heißt der Mutterkonzern von Google? | Alphabet
+4 | Wofür steht „Haribo“? | Hans Riegel Bonn
+4 | Aus welchem Land kommt Nokia? | Finnland
+4 | Wie heißt die Währung der Schweiz? | Schweizer Franken
+5 | Wofür steht der Name „Adidas“? | Adolf „Adi“ Dassler | Der Gründer.
+5 | Wie heißt die Währung Japans? | Yen
+5 | Wofür steht „Aldi“? | Albrecht Diskont
+5 | Welche Börse gilt als älteste der Welt? | Amsterdam | Gegründet 1602.
+
+# Religion und Mythen
+1 | Wie heißt das heilige Buch des Christentums? | Bibel
+1 | Wie heißt das heilige Buch des Islam? | Koran
+1 | Wie heißt der griechische Göttervater? | Zeus
+1 | An welchem Fest feiern Christen die Geburt Jesu? | Weihnachten
+2 | Wie heißt der Fastenmonat im Islam? | Ramadan
+2 | Wie heißt der römische Kriegsgott, nach dem ein Planet benannt ist? | Mars
+2 | Wie heißt der nordische Donnergott mit dem Hammer? | Thor
+2 | Wie viele Gebote erhielt Mose der Bibel nach auf dem Berg Sinai? | Zehn
+3 | Wie heißt das heilige Buch des Judentums? | Tora | Auch „Tanach“ gelten lassen.
+3 | Wie heißt die griechische Göttin der Weisheit? | Athene
+3 | Wie heißt der Hammer von Thor? | Mjölnir
+3 | Wie heißt der Fluss der Unterwelt in der griechischen Sage? | Styx
+4 | Welcher Held der griechischen Sage war nur an der Ferse verwundbar? | Achilles
+4 | Wie heißt das Ungeheuer mit Stierkopf im Labyrinth von Kreta? | Minotaurus
+4 | In welcher Stadt wurde Buddha der Überlieferung nach erleuchtet? | Bodhgaya
+4 | Wie heißt der ägyptische Sonnengott? | Ra | Auch „Re“.
+5 | Wie heißt der Weltenbaum der nordischen Mythologie? | Yggdrasil
+5 | Wie heißt der dreiköpfige Hund, der den Eingang der Unterwelt bewacht? | Kerberos | Auch „Zerberus“.
+5 | Wie heißt das höchste Fest im Judentum, der Versöhnungstag? | Jom Kippur
+5 | Wie heißt der hinduistische Gott mit dem Elefantenkopf? | Ganesha
+
+# Kurioses und Rekorde
+1 | Welches Organ pumpt das Blut durch den Körper? | Herz
+1 | Welche Farbe hat ein Smaragd? | Grün
+1 | Wie heißt das Buch, in dem Weltrekorde gesammelt werden? | Guinness-Buch der Rekorde
+1 | Welches Tier ist das Wappentier von Berlin? | Bär
+2 | Welches Brettspiel dreht sich um Straßen, Häuser und Hotels? | Monopoly
+2 | Wie viele Ringe hat das olympische Symbol? | Fünf
+2 | Welche Blume löste im 17. Jahrhundert in den Niederlanden eine Spekulationsblase aus? | Tulpe
+2 | Wie heißt das meistverkaufte Spielzeug aus bunten Steinen? | LEGO
+3 | Welches Land hat mehr Schafe als Einwohner und liegt im Südpazifik? | Neuseeland
+3 | Welcher Planet hat den längsten Tag: Er dauert länger als sein Jahr. | Venus
+3 | Wie heißt der Würfel mit sechs Farben, den Ernő Rubik erfand? | Zauberwürfel | Auch „Rubik's Cube“.
+3 | Wie heißt die Angst vor Spinnen? | Arachnophobie
+4 | Welches Lebensmittel verdirbt bei richtiger Lagerung praktisch nie? | Honig
+4 | Welches Land hat die Form eines langen, schmalen Streifens an der Westküste Südamerikas? | Chile
+4 | Wie heißt die Angst vor engen Räumen? | Klaustrophobie
+4 | Welche Stadt war Gastgeber der ersten Olympischen Spiele der Neuzeit 1896? | Athen
+5 | Zwischen welchen zwei Seiten fand 1896 der kürzeste Krieg der Geschichte statt, der rund 40 Minuten dauerte? | Großbritannien und Sansibar
+5 | Welches Tier hat fingerabdruckähnliche Muster, die denen des Menschen sehr ähneln? | Koala
+5 | Wie heißt die Angst vor der Zahl 13? | Triskaidekaphobie
+5 | Welches Land hat keine eigene Armee und liegt in Mittelamerika? | Costa Rica

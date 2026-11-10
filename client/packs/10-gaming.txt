@@ -1,0 +1,225 @@
+@id gaming
+@name Gaming
+@icon 🎮
+@color #5b7cfa
+@desc Videospiele von Mario bis Minecraft: Figuren, Konsolen, E-Sport, Studios und Spielewissen.
+
+# Nintendo
+1 | Wie heißt der Klempner mit roter Mütze und Schnurrbart? | Mario
+1 | Wie heißt der Bruder von Mario mit der grünen Mütze? | Luigi
+1 | Welches gelbe Pokémon ist der Begleiter von Ash? | Pikachu
+1 | Wie heißt die Prinzessin, die Mario immer wieder rettet? | Prinzessin Peach
+2 | Wie heißt der Held in „The Legend of Zelda“? | Link | Zelda ist die Prinzessin.
+2 | Wie heißt der Erzfeind von Mario, eine stachelige Riesenschildkröte? | Bowser
+2 | Wie heißt der Affe mit der roten Krawatte? | Donkey Kong
+2 | Wie heißt die Hybridkonsole von Nintendo, die 2017 erschien? | Nintendo Switch
+3 | Wie heißt der grüne Dinosaurier, auf dem Mario reitet? | Yoshi
+3 | Wie heißt das Königreich, in dem Zelda meistens spielt? | Hyrule
+3 | Wie heißt der rosa Held, der Gegner einsaugt? | Kirby
+3 | Welcher Gegenstand in „Mario Kart“ trifft immer den Führenden? | Blauer Panzer
+4 | Wie heißt die Kopfgeldjägerin aus „Metroid“? | Samus Aran
+4 | Wie heißt der Bösewicht in den meisten Zelda-Spielen? | Ganon | Auch „Ganondorf“.
+4 | Wie hieß die Nintendo-Konsole von 2006 mit Bewegungssteuerung? | Wii
+4 | Wie heißt der böse Doppelgänger von Mario in Gelb und Lila? | Wario
+5 | Wer erfand Mario, Zelda und Donkey Kong? | Shigeru Miyamoto
+5 | Wie heißt der Waschbär, bei dem man in „Animal Crossing“ sein Haus abbezahlt? | Tom Nook
+5 | Was stellte Nintendo bei seiner Gründung 1889 her? | Spielkarten | Hanafuda-Karten.
+5 | Wie hieß die Nachfolgerin des Game Boy Color von 2001? | Game Boy Advance
+
+# Minecraft
+1 | Aus welchen Formen besteht die Welt von Minecraft? | Blöcke | Auch „Würfel“.
+1 | Wie heißt das grüne Monster, das explodiert? | Creeper
+1 | Wie heißt die Standard-Spielfigur mit türkisem Shirt? | Steve
+1 | Welcher hellblaue Edelstein ist in Minecraft für Werkzeug und Rüstung besonders begehrt? | Diamant
+2 | Wie heißt die Feuerdimension voller Lava? | Nether
+2 | Wie heißt der Endboss von Minecraft? | Enderdrache
+2 | Welches Material braucht man für ein Netherportal? | Obsidian
+2 | Wie heißt der große, schwarze Gegner, der wütend wird, wenn man ihn anschaut? | Enderman
+3 | Wer programmierte Minecraft ursprünglich? | Markus Persson | Bekannt als „Notch“.
+3 | Welches Unternehmen kaufte Minecraft 2014 für 2,5 Milliarden Dollar? | Microsoft
+3 | Wie heißt das schwedische Studio hinter Minecraft? | Mojang
+3 | Mit welchem Material betreibt man Schaltungen in Minecraft? | Redstone
+4 | Wie heißt die weibliche Standard-Spielfigur? | Alex
+4 | Wie viele Augen braucht man höchstens, um ein Endportal zu aktivieren? | Zwölf | Enderaugen.
+4 | Was setzt man auf vier Blöcke Seelensand, um den Wither zu beschwören? | Drei Witherskelettschädel
+4 | Wie heißt der blinde Boss, der in der „Tiefen Dunkelheit“ lebt? | Wächter | Englisch „Warden“.
+5 | In welchem Jahr erschien die Vollversion 1.0 von Minecraft? | 2011
+5 | Wie heißt das Material, das Diamant seit Version 1.16 übertrifft? | Netherit
+5 | Wie heißt der Flügel-Gegenstand, mit dem man gleiten kann? | Elytra
+5 | Wie heißt die jährliche Veranstaltung, auf der neue Minecraft-Updates angekündigt werden? | Minecraft Live | Früher „MineCon“.
+
+# Shooter und Battle Royale
+1 | In welchem Spiel springt man aus einem fliegenden Bus und baut Wände? | Fortnite
+1 | Wie heißt die Währung in Fortnite? | V-Bucks
+1 | Wie heißt die Shooter-Reihe mit den Untertiteln „Modern Warfare“ und „Black Ops“? | Call of Duty
+1 | Welches Studio entwickelt Fortnite? | Epic Games
+2 | Wie heißt der Taktik-Shooter von Valve, der 2023 als „2“ neu erschien? | Counter-Strike
+2 | Wie heißt der Taktik-Shooter von Riot Games mit Agenten wie Jett und Sage? | Valorant
+2 | Wie heißt der Battle-Royale-Modus von Call of Duty? | Warzone
+2 | Wie heißt der Battle-Royale-Shooter von Respawn mit „Legenden“? | Apex Legends
+3 | Welches Spiel machte Battle Royale 2017 groß und trägt den Namen seines Schöpfers? | PUBG | PlayerUnknown's Battlegrounds.
+3 | Wie heißt der gepanzerte Held der Halo-Reihe? | Master Chief
+3 | Wie heißt die berühmteste Karte in Counter-Strike mit zwei Bombenplätzen in der Wüste? | Dust II
+3 | Welcher Helden-Shooter von Blizzard hat Figuren wie Tracer und Reinhardt? | Overwatch
+4 | Welcher Shooter von 1993 gilt als Wegbereiter des Genres und spielt auf dem Mars und in der Hölle? | Doom
+4 | Wie heißt der Physiker mit Brechstange in „Half-Life“? | Gordon Freeman
+4 | Wie heißt die teuerste Scharfschützen-Waffe in Counter-Strike? | AWP
+4 | In welchem Spiel von Ubisoft belagern Spezialeinheiten Gebäude Raum für Raum? | Rainbow Six Siege
+5 | Wie heißt das Studio hinter Counter-Strike und Half-Life? | Valve
+5 | Aus welchem Spiel entstand Counter-Strike ursprünglich als Mod? | Half-Life
+5 | Wie heißt der Extraction-Shooter aus Russland, der das Genre prägte? | Escape from Tarkov
+5 | Welches Studio entwickelte das erste „Halo“ und später „Destiny“? | Bungie
+
+# Rollenspiele und Abenteuer
+1 | In welcher Spielreihe fängt man Monster mit Bällen? | Pokémon
+1 | Wie heißt der Hexer in „The Witcher“? | Geralt von Riva
+1 | In welcher Spielreihe stiehlt man Autos und sorgt in Städten wie Los Santos für Chaos? | Grand Theft Auto | Kurz „GTA“.
+1 | Wie heißen die drei Starter-Typen in Pokémon? | Pflanze, Feuer, Wasser
+2 | In welchem Rollenspiel ruft der Held „Fus Ro Dah“? | Skyrim | The Elder Scrolls V.
+2 | Welches Spiel von FromSoftware wurde 2022 Spiel des Jahres und spielt im Zwischenland? | Elden Ring
+2 | Wie heißt der Cowboy in „Red Dead Redemption 2“? | Arthur Morgan
+2 | Wie heißt das Mädchen, das Joel in „The Last of Us“ begleitet? | Ellie
+3 | Aus welchem Land kommt das Studio CD Projekt Red? | Polen
+3 | Wie heißt der Kriegsgott in „God of War“? | Kratos
+3 | Wie heißt die Archäologin aus „Tomb Raider“? | Lara Croft
+3 | Welches Rollenspiel von Larian wurde 2023 Spiel des Jahres? | Baldur's Gate 3
+4 | Wie heißt die Stadt in „Cyberpunk 2077“? | Night City
+4 | Wie heißt der Held mit dem riesigen Schwert in „Final Fantasy VII“? | Cloud Strife
+4 | Wie heißt die Jägerin mit Bogen in „Horizon Zero Dawn“? | Aloy
+4 | Wie heißt das französische Rollenspiel, das 2025 Spiel des Jahres wurde? | Clair Obscur: Expedition 33
+5 | Welches deutsche Rollenspiel von Piranha Bytes erschien 2001 und spielt in einer Strafkolonie? | Gothic
+5 | Wie heißt der Schöpfer der „Dark Souls“-Reihe? | Hidetaka Miyazaki
+5 | Wie heißt der Schatzsucher in „Uncharted“? | Nathan Drake
+5 | Wie heißt die Hauptfigur in „Red Dead Redemption“, dem ersten Teil? | John Marston
+
+# Konsolen und Technik
+1 | Welche Firma stellt die PlayStation her? | Sony
+1 | Welche Firma stellt die Xbox her? | Microsoft
+1 | Womit steuert man ein Spiel an der Konsole? | Controller | Auch „Gamepad“.
+1 | Wie heißt die tragbare Konsole von Nintendo aus dem Jahr 1989? | Game Boy
+2 | Welche Konsole galt jahrzehntelang als meistverkaufte aller Zeiten? | PlayStation 2 | Die Nintendo Switch liegt sehr nah dran.
+2 | Wie heißt die Plattform von Valve für PC-Spiele? | Steam
+2 | Wofür steht „FPS“ bei der Bildrate? | Frames per second | Bilder pro Sekunde.
+2 | Wie heißt der Handheld-PC von Valve? | Steam Deck
+3 | In welchem Jahr erschien die erste PlayStation in Europa? | 1995
+3 | Welche Firma baute die Konsolen Mega Drive und Dreamcast? | Sega
+3 | Wie heißt die Technik, die Licht in Spielen physikalisch berechnet? | Raytracing
+3 | Welche Firma stellt die GeForce-Grafikkarten her? | Nvidia
+4 | Wie hieß die Bewegungskamera für die Xbox 360? | Kinect
+4 | Wie heißt die VR-Brille von Meta? | Quest | Früher Oculus Quest.
+4 | Wie heißt das Abo von Microsoft mit einer Spielebibliothek? | Game Pass
+4 | In welchem Jahr erschien die PlayStation 5? | 2020
+5 | Welche Konsole von Magnavox gilt 1972 als erste Heimkonsole? | Magnavox Odyssey
+5 | Wie hieß die Konsole von Atari aus dem Jahr 1977? | Atari 2600
+5 | Wie hieß die erfolglose Nintendo-Konsole zwischen Wii und Switch? | Wii U
+5 | Wie hieß der rote 3D-Flop von Nintendo aus dem Jahr 1995? | Virtual Boy
+
+# E-Sport und Online-Spiele
+1 | Wie heißt das MOBA von Riot Games mit der „Kluft der Beschwörer“? | League of Legends
+1 | In welchem Spiel sucht man als Crewmate den „Impostor“? | Among Us
+1 | In welchem Spiel schießt man mit Autos Tore? | Rocket League
+1 | Wie hieß die Fußballreihe von EA Sports bis 2023? | FIFA
+2 | Wie heißt die Fußballreihe von EA Sports seit 2023? | EA Sports FC
+2 | Wie heißt das MOBA von Valve? | Dota 2
+2 | Wie heißt das wichtigste Dota-2-Turnier? | The International
+2 | Wie heißt das Online-Rollenspiel von Blizzard mit Horde und Allianz? | World of Warcraft
+3 | Welcher südkoreanische LoL-Spieler gilt als bester aller Zeiten? | Faker
+3 | Wie heißt die größte deutsche Spielemesse in Köln? | Gamescom
+3 | Wie heißt die Plattform, auf der Kinder eigene Spiele bauen und „Robux“ ausgeben? | Roblox
+3 | Wie viele Spieler stehen bei League of Legends pro Team auf dem Feld? | Fünf
+4 | Wie heißt die E-Sport-Organisation mit Samurai-Logo und Sitz in Berlin, die Carlos „ocelote“ Rodríguez gründete? | G2 Esports
+4 | Wie heißt das Strategiespiel, das in Südkorea zum Volkssport wurde? | StarCraft
+4 | Welches Team gewann 2018 und 2019 als erstes zweimal The International? | OG
+4 | Wie heißt das Kartenspiel von Blizzard im Warcraft-Universum? | Hearthstone
+5 | Welcher Teenager gewann 2019 die Fortnite-WM im Solo und drei Millionen Dollar? | Bugha | Kyle Giersdorf.
+5 | Welcher deutsche Dota-Spieler gewann 2017 mit Team Liquid The International? | KuroKy | Kuro Salehi Takhasomi.
+5 | Wie nennt man die von Valve gesponserten Top-Turniere in Counter-Strike? | Major
+5 | Wie heißt das kostenlose Autobattler-Spiel im LoL-Client? | Teamfight Tactics
+
+# Klassiker und Retro
+1 | Welcher gelbe Kreis frisst Punkte und flieht vor Geistern? | Pac-Man
+1 | In welchem Spiel stapelt man fallende Blöcke zu Reihen? | Tetris
+1 | Wie heißt der blaue Igel von Sega? | Sonic
+1 | In welchem Spiel von 1972 spielt man Tischtennis mit zwei Strichen und einem Punkt? | Pong
+2 | In welchem Spiel schießt man reihenweise Aliens ab, die von oben herunterkommen? | Space Invaders
+2 | Aus welchem Land stammt Tetris? | Sowjetunion | Auch „Russland“.
+2 | Wie heißt die Lebenssimulation, in der man Figuren ohne Leiter im Pool lassen kann? | Die Sims
+2 | Wie heißen die vier Geister in Pac-Man, zumindest einer davon? | Blinky, Pinky, Inky, Clyde | Ein Name reicht.
+3 | Wer erfand Tetris? | Alexei Paschitnow
+3 | In welchem Spiel trat Mario 1981 zum ersten Mal auf? | Donkey Kong
+3 | Wie heißt das deutsche Aufbauspiel mit kleinen Wuselfiguren von Blue Byte? | Die Siedler
+3 | Welche Strategiereihe hat Untertitel wie „Age of Kings“? | Age of Empires
+4 | Wie hieß Mario in seinem ersten Spiel? | Jumpman
+4 | Welches Adventure von LucasArts von 1990 handelt von einem Möchtegern-Piraten namens Guybrush? | The Secret of Monkey Island
+4 | Wie heißt die Aufbaureihe aus Deutschland mit Jahreszahlen wie 1602 und 1800? | Anno
+4 | Welches Spiel von 1996 machte Lara Croft berühmt? | Tomb Raider
+5 | Welches Atari-Spiel zu einem Spielberg-Film wurde 1983 in der Wüste vergraben? | E.T. the Extra-Terrestrial
+5 | Wie heißt das Sega-Maskottchen aus den 1980ern, das von Sonic abgelöst wurde? | Alex Kidd
+5 | Wie heißt der Cheat-Code „hoch, hoch, runter, runter, links, rechts, links, rechts, B, A“? | Konami-Code
+5 | Welches Studio entwickelte „Doom“ und „Quake“? | id Software
+
+# Indie und moderne Hits
+1 | In welchem Spiel wirft man wütende Vögel auf Schweine? | Angry Birds
+1 | In welchem Handyspiel fängt man Pokémon draußen in der echten Welt? | Pokémon GO
+1 | In welchem Spiel rennt man als Bohne durch bunte Hindernisparcours? | Fall Guys
+1 | In welchem Bauernhofspiel erbt man den Hof des Großvaters im Pixel-Look? | Stardew Valley
+2 | In welchem Spiel von Supergiant flieht Zagreus aus der Unterwelt? | Hades
+2 | In welchem Spiel kämpft man in einem Pizzarestaurant gegen Animatronics? | Five Nights at Freddy's
+2 | In welchem Spiel fängt man seit 2024 „Pals“ und lässt sie in Fabriken arbeiten? | Palworld
+2 | In welchem Spiel entscheidet man als Mensch im Untergrund, ob man Monster tötet oder verschont? | Undertale
+3 | In welchem Koop-Spiel sammelt man Schrott auf verlassenen Monden für „die Firma“? | Lethal Company
+3 | In welchem Spiel spielt man einen kleinen Ritter im Insektenreich Heilandsnest? | Hollow Knight
+3 | Welches Kartenspiel mit Poker-Blättern wurde 2024 zum Indie-Überraschungshit? | Balatro
+3 | In welchem Spiel muss man als Paar zusammenarbeiten, nachdem man in Puppen verwandelt wurde? | It Takes Two
+4 | Wie heißt die Fortsetzung von „Hollow Knight“, die 2025 nach jahrelangem Warten erschien? | Silksong | Hollow Knight: Silksong.
+4 | Wer entwickelte „Stardew Valley“ ganz allein? | Eric Barone | Bekannt als „ConcernedApe“.
+4 | In welchem Spiel klettert man als Madeline auf einen Berg? | Celeste
+4 | In welchem Koop-Hit von 2024 kämpft man für „Über-Erde“ gegen Käfer und Roboter? | Helldivers 2
+5 | Wer entwickelte „Undertale“? | Toby Fox
+5 | In welchem Detektiv-Rollenspiel ohne Kämpfe spielt man einen Polizisten mit Gedächtnisverlust in Revachol? | Disco Elysium
+5 | In welchem Spiel erkundet man ein Sonnensystem, das alle 22 Minuten untergeht? | Outer Wilds
+5 | In welchem Indie-Spiel überlebt man gegen Monsterhorden, während die Waffen von allein angreifen? | Vampire Survivors
+
+# Figuren und Welten
+1 | Wie heißt der Gegenspieler von Sonic, ein verrückter Wissenschaftler? | Dr. Eggman | Auch „Dr. Robotnik“.
+1 | In welcher Spielreihe gibt es den Pokéball? | Pokémon
+1 | Wie heißt der Fuchs mit den zwei Schwänzen aus „Sonic“? | Tails
+1 | Wie heißt der orange Beuteldachs von PlayStation? | Crash Bandicoot
+2 | Wie heißt der lila Drache von PlayStation? | Spyro
+2 | Wie heißt der Protagonist in „Assassin's Creed II“? | Ezio Auditore
+2 | In welcher Stadt spielt „GTA V“? | Los Santos
+2 | Wie heißt die KI, die den Master Chief in „Halo“ begleitet? | Cortana
+3 | Wie heißen die drei spielbaren Hauptfiguren in „GTA V“? | Michael, Franklin und Trevor
+3 | Wie heißt die böse KI in „Portal“? | GLaDOS
+3 | Wie heißt der Agent mit dem Barcode im Nacken? | Agent 47 | Aus „Hitman“.
+3 | Wie heißt der Schlangen-Agent aus „Metal Gear Solid“? | Solid Snake
+4 | Wie heißt der Sohn von Kratos in „God of War“ von 2018? | Atreus
+4 | In welcher fiktiven Stadt spielt „Resident Evil 2“? | Raccoon City
+4 | Wie heißt der Konzern hinter dem Virus in „Resident Evil“? | Umbrella Corporation
+4 | Wie heißt die Unterwasserstadt in „BioShock“? | Rapture
+5 | Wie heißt der Schöpfer von „Metal Gear“ und „Death Stranding“? | Hideo Kojima
+5 | Wie heißt der Protagonist von „GTA IV“, ein Einwanderer aus Osteuropa? | Niko Bellic
+5 | Wie heißt das Raumschiff von Commander Shepard in „Mass Effect“? | Normandy
+5 | Wie heißt das Königreich in „Dark Souls“? | Lordran
+
+# Spielewissen und Rekorde
+1 | Welches Spiel ist das meistverkaufte aller Zeiten? | Minecraft
+1 | Wie nennt man einen Fehler im Spiel, der seltsame Dinge passieren lässt? | Bug | Auch „Glitch“.
+1 | Wie nennt man es, wenn man ein Spiel so schnell wie möglich durchspielt? | Speedrun
+1 | Wofür steht „NPC“? | Non-Player Character | Nicht-Spieler-Charakter.
+2 | Welches Studio entwickelt die GTA-Reihe? | Rockstar Games
+2 | Wofür steht „MMO“? | Massively Multiplayer Online
+2 | Wie nennt man bezahlte Zusatzinhalte für ein Spiel? | DLC | Downloadable Content.
+2 | Wofür steht „GG“ am Ende einer Runde? | Good Game
+3 | Aus welchem Land kommt der Publisher Ubisoft? | Frankreich
+3 | Wie heißt die Altersfreigabe für Spiele in Deutschland? | USK
+3 | Wie heißt die jährliche Preisverleihung von Geoff Keighley? | The Game Awards
+3 | In welchem Jahr erschien „GTA V“? | 2013
+4 | Wie nennt man zufällige Belohnungskisten, die man kaufen kann? | Lootboxen
+4 | Welche japanische Firma steht hinter „Resident Evil“, „Monster Hunter“ und „Street Fighter“? | Capcom
+4 | Welches Studio aus Frankfurt entwickelte „Far Cry“ und „Crysis“? | Crytek
+4 | Wie heißt das Genre, das nach „Metroid“ und „Castlevania“ benannt ist? | Metroidvania
+5 | Welches Unternehmen kaufte Microsoft 2023 für rund 69 Milliarden Dollar? | Activision Blizzard
+5 | Wie heißt das Genre mit Zufallsleveln und dauerhaftem Tod, benannt nach einem Spiel von 1980? | Roguelike
+5 | Welcher Autor von „Game of Thrones“ schrieb an der Hintergrundgeschichte von „Elden Ring“ mit? | George R. R. Martin
+5 | Wie heißt die Engine von Epic Games? | Unreal Engine

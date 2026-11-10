@@ -1,0 +1,225 @@
+@id streamer
+@name Streamer & Twitch
+@icon 📡
+@color #b57bff
+@desc Deutsche und internationale Streamer, ihre Events, Ligen, Rekorde und alles rund um Twitch und Kick.
+
+# Deutsche Streamer: Wer ist das?
+1 | Welcher Streamer aus Buxtehude nennt sich kurz „Monte“? | MontanaBlack
+1 | Welcher Streamer nennt sich „König des Internets“ und trägt gern eine Krone? | Knossi
+1 | Welcher Let's-Play-Pionier begrüßt seit Jahren mit ruhiger Stimme und heißt bürgerlich Erik Range? | Gronkh
+1 | Welcher Hamburger Streamer ist für Pokémon-Karten und Clash Royale bekannt? | Trymacs
+2 | Welcher Streamer wird von seinen Fans „Hänno“ genannt? | HandOfBlood
+2 | Welcher Berliner Streamer heißt bei Twitch „eliasn97“? | Elias Nerlich
+2 | Welcher Streamer moderiert mit Reeze den Podcast „Edeltalk“? | Papaplatte
+2 | Welches Kölner Let's-Play-Kollektiv besteht aus Piet, Brammen, Jay, Sep und Chris? | PietSmiet
+3 | Welcher League-of-Legends-Streamer heißt bürgerlich Frederik Hinteregger? | NoWay4u
+3 | Welcher Streamer überträgt fast täglich Minecraft oder GeoGuessr und ist seit über zehn Jahren aktiv? | BastiGHG
+3 | Welche Streamerin heißt bürgerlich Pia Scholz und ist für politische Themen bekannt? | Shurjoka
+3 | Welcher Streamer mit bürgerlichem Namen Kilian Heinrich darf dem Namen nach nicht tanzen? | Tanzverbot
+4 | Welcher LoL-Streamer gilt als „LoL-Legende“ der deutschen Szene und heißt Niklot Stüber? | Tolkin
+4 | Welcher frühere Fußballprofi von Hertha BSC streamt mit Elias Nerlich und gründete mit ihm einen Verein? | Sidney Friede
+4 | Welcher Streamer ist als Danny bekannt und lebt inzwischen auf der Insel Madeira? | xTheSolutionTV
+4 | Welcher Valorant-Streamer gehörte im August 2026 zu den 20 meistgesehenen deutschen Kanälen? | KubaFPS
+5 | Welcher Streamer aus Wien gewann im August 2026 in 30 Tagen rund 104.000 Follower dazu? | Krokoboss
+5 | Welcher Kanal zeigt interaktiv Live-Sport und stand im August 2026 unter den 20 größten deutschen Twitch-Kanälen? | Spontent
+5 | Welches Hamburger Streamer-Kollektiv ist aus der StarCraft-Szene entstanden und sendet fast täglich aus einem Studio? | Bonjwa
+5 | Welcher FIFA-Streamer war laut EarlyGame im August 2026 mit rund 30.700 Zuschauern im Schnitt die Nummer eins in Deutschland? | Elias Nerlich | Twitch-Name „eliasn97“.
+
+# Echte Namen
+1 | Wie heißt MontanaBlack mit Vornamen? | Marcel | Marcel Eris.
+1 | Wie heißt Knossi mit bürgerlichem Namen? | Jens Knossalla
+1 | Wie heißt der US-Streamer „Ninja“ mit Vornamen? | Tyler | Tyler Blevins.
+1 | Wie heißt Gronkh mit Vornamen? | Erik | Erik Range.
+2 | Wie heißt Trymacs mit bürgerlichem Namen? | Maximilian Stemmler
+2 | Wie heißt Papaplatte mit bürgerlichem Namen? | Kevin Teller
+2 | Wie heißt HandOfBlood mit bürgerlichem Namen? | Maximilian Knabe
+2 | Wie heißt der Streamer hinter „eliasn97“? | Elias Nerlich
+3 | Wie heißt unsympathischTV mit bürgerlichem Namen? | Sascha Hellinger
+3 | Wie heißt Rewinside mit bürgerlichem Namen? | Sebastian Meyer
+3 | Wie heißt der kanadische Streamer xQc mit bürgerlichem Namen? | Félix Lengyel
+3 | Wie heißt IShowSpeed mit bürgerlichem Namen? | Darren Watkins Jr.
+4 | Wie heißt Pokimane mit bürgerlichem Namen? | Imane Anys
+4 | Wie heißt Tanzverbot mit bürgerlichem Namen? | Kilian Heinrich
+4 | Wie heißt Shurjoka mit bürgerlichem Namen? | Pia Scholz
+4 | Wie heißt der Streamer Dr Disrespect mit bürgerlichem Namen? | Guy Beahm
+5 | Wie heißt Amouranth mit bürgerlichem Namen? | Kaitlyn Siragusa
+5 | Wie heißt der Streamer Shroud mit bürgerlichem Namen? | Michael Grzesiek
+5 | Wie heißt NoWay4u mit bürgerlichem Namen? | Frederik Hinteregger
+5 | Wie heißt der Streamer Tfue mit bürgerlichem Namen? | Turner Tenney
+
+# Events und Projekte
+1 | Wie heißt die Survival-Show, bei der Creator allein in der Wildnis ausgesetzt werden? | 7 vs. Wild
+1 | Wie heißt das jährliche Minecraft-Großprojekt deutscher Creator? | Craft Attack
+1 | Wer erfand „7 vs. Wild“? | Fritz Meinecke
+1 | In welchem Spiel bauen die Teilnehmer bei „Craft Attack“ gemeinsam eine Welt? | Minecraft
+2 | In welchem Land spielte die erste Staffel von „7 vs. Wild“? | Schweden
+2 | Mit welchem Rapper veranstaltete Knossi 2020 das „Angelcamp“? | Sido
+2 | Wie heißt das Fußballturnier von Elias Nerlich für Creator-Teams? | Eligella Cup
+2 | Wie heißt der jährliche Spenden-Livestream von Gronkh, PietSmiet und Freunden? | Friendly Fire
+3 | In welchem Land spielte die zweite Staffel von „7 vs. Wild“? | Panama
+3 | Wer gewann die zweite Staffel von „7 vs. Wild“ in Panama? | Otto Bulletproof | Otto Karasch.
+3 | Gegen wen boxte Trymacs 2022 bei „The Great Fight Night“? | MckyTV
+3 | Wie heißt das Format von Dave, bei dem Creator ohne Geld um die Wette quer durch Länder reisen? | The Race
+4 | In welchem Land spielte die dritte Staffel von „7 vs. Wild“, die erste mit Zweierteams? | Kanada
+4 | Mit welchem Fitness-Creator trat Knossi in der dritten Staffel von „7 vs. Wild“ als Team an? | Sascha Huber
+4 | Wie heißt die jährliche Boxveranstaltung des spanischen Streamers Ibai? | La Velada del Año
+4 | Wie heißt die offizielle Messe von Twitch für Streamer und Fans? | TwitchCon
+5 | Welches Zweierteam gewann die dritte Staffel von „7 vs. Wild“? | Hannah Assil und Ann-Kathrin Bendixen | Bendixen ist als „Affe auf Bike“ bekannt.
+5 | In welchem Land spielte die vierte Staffel von „7 vs. Wild“? | Neuseeland
+5 | Wie nannte Kai Cenat seine Rekord-Subathons? | Mafiathon
+5 | Wie heißt das Halloween-Format, das Knossi 2020 nach dem Angelcamp veranstaltete? | Horrorcamp
+
+# Creator-Fußball
+1 | In welcher Sportart treten Creator in der „Baller League“ und der „Icon League“ an? | Fußball | Kleinfeld-Hallenfußball.
+1 | Welcher Weltmeister von 2014 gründete mit Elias Nerlich die Icon League? | Toni Kroos
+1 | Welcher frühere Barça-Verteidiger erfand die „Kings League“? | Gerard Piqué
+1 | Wie viele Feldspieler plus Torwart stehen in der Baller League pro Team auf dem Platz: sechs oder elf? | Sechs | Fünf Feldspieler und ein Torwart.
+2 | Welche zwei Weltmeister von 2014 stehen als Gesichter hinter der Baller League? | Mats Hummels und Lukas Podolski
+2 | Wie heißt das Team von HandOfBlood, das es in League of Legends und in der Baller League gibt? | Eintracht Spandau
+2 | In welchem Land startete die Kings League 2023? | Spanien
+2 | Wie heißt der Fußballverein, den Elias Nerlich und Sidney Friede in Berlin gründeten? | Delay Sports Berlin
+3 | Welcher Unternehmer gründete die Baller League? | Felix Starck
+3 | Welcher spanische Streamer ist Präsident des Kings-League-Teams „Porcinos FC“? | Ibai Llanos
+3 | In welcher Stadt trägt Eintracht Spandau dem Namen nach seine Heimat? | Berlin
+3 | Wie viele Spieler pro Team stehen in der Icon League auf dem Feld, den Torwart mitgezählt? | Fünf
+4 | In welchem Jahr startete die Baller League in Deutschland? | 2024
+4 | In welchem Jahr startete die Icon League? | 2024
+4 | Wie nennt man in der Kings League die Sonderkarten, die Teams vor dem Spiel ziehen? | Geheimwaffen | Spanisch „armas secretas“, etwa Elfmeter oder doppelt zählende Tore.
+4 | In welcher Stadt wurden die Spieltage der ersten Baller-League-Saison ausgetragen? | Köln
+5 | Welcher Berliner Creator und Fußballer führte in der Baller League das Team „Calcio Berlin“ an? | Nader Jindaoui
+5 | In welches Land expandierte die Baller League 2025 mit einem eigenen Ableger und Stars wie KSI? | Vereinigtes Königreich | Baller League UK.
+5 | Wie heißt das große Finalturnier der Kings League mit Teams aus mehreren Ländern? | Kings World Cup | Auch „Kings League World Cup“.
+5 | Wie nennt man in der Baller League die Sonderregeln wie „3 Play“, die am Ende jeder Halbzeit ausgelost werden? | Gamechanger
+
+# Twitch-Wissen
+1 | Welche Farbe hat das Logo von Twitch? | Lila
+1 | Wie nennt man ein bezahltes Monatsabo für einen Kanal? | Sub | Kurz für „Subscription“.
+1 | Wie heißt das Textfenster neben dem Stream, in dem Zuschauer schreiben? | Chat
+1 | Welchem Konzern gehört Twitch? | Amazon
+2 | Wie heißt die Währung, mit der man auf Twitch „cheeren“ kann? | Bits
+2 | Wie nennt man es, wenn ein Streamer am Ende seine Zuschauer zu einem anderen Kanal schickt? | Raid
+2 | Wie heißt die meistgesehene Kategorie ohne Spiel, in der einfach geredet wird? | Just Chatting
+2 | Wie nennt man kurze Ausschnitte aus einem Stream, die Zuschauer erstellen können? | Clips
+3 | In welchem Jahr kaufte Amazon Twitch? | 2014
+3 | Wie nennt man einen Stream, dessen Laufzeit sich mit jedem neuen Sub verlängert? | Subathon
+3 | Wie heißt die Aufzeichnung eines vergangenen Streams? | VOD | Video on Demand.
+3 | Wie nennt man die Helfer mit grünem Schwert, die den Chat sauber halten? | Moderatoren | Kurz „Mods“.
+4 | Aus welcher Plattform ging Twitch 2011 hervor? | Justin.tv
+4 | Wie heißt die Stufe über „Affiliate“ im Twitch-Programm? | Partner
+4 | Wie heißt die Anzeige, die startet, wenn viele Zuschauer kurz hintereinander Subs und Bits dalassen? | Hype Train
+4 | Wie viele Follower braucht man mindestens für den Affiliate-Status? | 50
+5 | Wie heißt das berühmte graue Emote mit dem Gesicht eines früheren Justin.tv-Mitarbeiters? | Kappa
+5 | Welches Emote zeigt den lachenden Spanier „El Risitas“? | KEKW
+5 | Welches bekannte Emote entfernte Twitch im Januar 2021 nach Äußerungen des abgebildeten Mannes? | PogChamp
+5 | Wie heißen die zwei Hauptgründer von Justin.tv, die später Twitch aufbauten? | Justin Kan und Emmett Shear
+
+# Internationale Streamer
+1 | Welcher Streamer aus New York stellte mit seinen „Mafiathons“ Sub-Rekorde auf? | Kai Cenat
+1 | Welcher junge Streamer ist für sein Bellen und seine Liebe zu Cristiano Ronaldo bekannt? | IShowSpeed
+1 | Welcher Streamer mit bunten Haaren wurde 2018 mit Fortnite weltberühmt? | Ninja
+1 | Welcher spanische Streamer hält den Zuschauerrekord auf Twitch? | Ibai | Ibai Llanos, aufgestellt bei „La Velada del Año“.
+2 | Welcher kanadische Ex-Overwatch-Profi unterschrieb 2023 einen Riesenvertrag bei Kick? | xQc
+2 | Welche marokkanisch-kanadische Streamerin gehört zu den bekanntesten Frauen auf Twitch? | Pokimane
+2 | Mit welchem Rapper spielte Ninja 2018 Fortnite und brach damit einen Zuschauerrekord? | Drake
+2 | Welcher Streamer mit Vokuhila, Sonnenbrille und Schnurrbart nennt sich „The Two-Time“? | Dr Disrespect
+3 | Welcher Streamer erreichte im September 2025 als Erster eine Million aktive Subs? | Kai Cenat
+3 | Zu welcher Plattform wechselte Ninja 2019 exklusiv? | Mixer | Die Plattform von Microsoft wurde 2020 eingestellt.
+3 | Welcher frühere Counter-Strike-Profi gilt als einer der besten Shooter-Spieler unter den Streamern? | Shroud
+3 | Welcher Streamer ist für World of Warcraft, Reaktionsvideos und ein unaufgeräumtes Zimmer bekannt? | Asmongold
+4 | Welcher Streamer hielt vor Kai Cenat den Sub-Rekord nach einem 31-tägigen Subathon im Jahr 2021? | Ludwig | Ludwig Ahgren.
+4 | Welcher spanische Streamer stellte 2021 bei der Enthüllung seines Fortnite-Skins einen Zuschauerrekord auf? | TheGrefg
+4 | Welcher Streamer wurde mit Rainbow Six Siege ab 2023 zu einem der größten Kanäle? | Jynxzi
+4 | Welche Streamerin ist Miteigentümerin von 100 Thieves und streamt auf YouTube? | Valkyrae
+5 | Welcher US-Streamer wechselte 2023 zu Kick und ist für Streams mit Prominenten bekannt? | Adin Ross
+5 | Welcher Streamer aus Arkansas wurde 2024 mit Reaktionen und Horror-Spielen einer der meistabonnierten? | CaseOh
+5 | Wie heißt die Streamer-Gruppe um Kai Cenat? | AMP | Any Means Possible.
+5 | Wie heißt die Streamer-Organisation, die Asmongold mitgründete? | OTK | One True King.
+
+# Plattformen und Rekorde
+1 | Wie heißt die grüne Konkurrenzplattform zu Twitch, die 2022 startete? | Kick
+1 | Auf welcher Videoplattform von Google kann man ebenfalls live streamen? | YouTube
+1 | Welche Chat-App mit Servern und Sprachkanälen nutzen fast alle Streamer für ihre Community? | Discord
+1 | Wie nennt man die Person, die live überträgt? | Streamer
+2 | Welches Programm mit drei Buchstaben nutzen die meisten Streamer zum Senden? | OBS | Open Broadcaster Software.
+2 | Welche Streaming-Plattform von Microsoft wurde 2020 eingestellt? | Mixer
+2 | Welche Farbe hat das Logo von Kick? | Grün
+2 | Wie heißt das Twitch-Vorteilspaket für Amazon-Prime-Kunden mit einem Gratis-Sub pro Monat? | Prime Gaming
+3 | Mit welchem Online-Casino sind die Gründer von Kick verbunden? | Stake
+3 | In welcher Stadt hat Twitch seinen Hauptsitz? | San Francisco
+3 | Wie nennt man die Verzögerung zwischen Kamera und Zuschauern? | Delay | Auch „Latenz“.
+3 | Wie nennt man es, wenn jemand mit einem Fake-Notruf die Polizei zu einem Streamer schickt? | Swatting
+4 | Wie nennt man Streams aus dem echten Leben, etwa beim Reisen? | IRL | In Real Life.
+4 | Wie nennt man es, wenn Zuschauer den Stream nutzen, um den Streamer im Spiel zu finden? | Stream Sniping
+4 | Welcher Twitch-Chef führte die Plattform von 2011 bis 2023? | Emmett Shear
+4 | Wer ist seit 2023 Chef von Twitch? | Dan Clancy
+5 | Wie heißt die Twitch-Funktion, mit der Zuschauer Kanalpunkte auf den Ausgang einer Runde setzen? | Vorhersagen | Englisch „Predictions“.
+5 | Wie heißt die Grafikkarten-Technik von Nvidia, die viele Streamer statt der CPU zum Kodieren nutzen? | NVENC
+5 | Wie heißt das Protokoll, über das Streams klassisch an Twitch gesendet werden? | RTMP
+5 | Wie nennt man die kleinen Abzeichen, die Subs im Chat neben ihrem Namen tragen? | Sub-Badges
+
+# Spiele und Formate
+1 | Welches Kartenspiel-Öffnen machte Trymacs besonders bekannt? | Pokémon-Karten
+1 | Welche Fußballsimulation streamt Elias Nerlich vor allem? | EA Sports FC | Früher „FIFA“.
+1 | Welches Glücksspiel-Thema brachte Knossi früher viele Zuschauer und viel Kritik? | Online-Casino | Slots.
+1 | In welchem Spiel wurde Gronkh mit seinem Let's Play ab 2010 groß? | Minecraft
+2 | Welchen Modus spielen FIFA-Streamer, um am Wochenende Belohnungen zu erspielen? | Weekend League
+2 | Wie nennt man das Öffnen virtueller Kartenpakete im Stream? | Pack Opening
+2 | Welches Spiel machte HandOfBlood durch sein Team Eintracht Spandau noch populärer? | League of Legends
+2 | In welchem Minecraft-Projekt kämpfen Zweierteams in einer schrumpfenden Welt, bis ein Team übrig bleibt? | Varo
+3 | Wie heißt das Rollenspiel-Server-Genre in GTA V, das Streamer seit 2019 immer wieder spielen? | GTA RP | Roleplay.
+3 | Wie nennt man Videos, in denen Streamer auf Clips oder andere Videos reagieren? | Reaction
+3 | Welches Geografie-Ratespiel mit Street-View-Bildern ist bei Streamern beliebt? | GeoGuessr
+3 | Wie nennt man es, wenn ein Streamer 24 Stunden am Stück sendet? | 24-Stunden-Stream
+4 | Wie heißt der Modus in World of Warcraft Classic, in dem ein Charakter nach dem Tod für immer weg ist? | Hardcore
+4 | Wie nennt man Spiele wie „Only Up!“ oder „Chained Together“, bei denen ein Fehler den ganzen Fortschritt kostet? | Rage Games
+4 | Welches Kletterspiel ohne Speicherpunkte wurde 2023 bei Streamern zum Sommerhit? | Only Up!
+4 | Wie heißt das Spiel, in dem man sich mit einem Hammer in einem Topf einen Berg hochzieht? | Getting Over It
+5 | Wie heißt das Format, bei dem mehrere Streamer aneinandergekettet einen Höllenturm erklimmen? | Chained Together
+5 | Wie heißt das Koop-Kletterspiel von 2025, in dem Pfadfinder einen Berg besteigen? | Peak
+5 | Welches Horrorspiel mit Geisterjagd und Sprachsteuerung war 2020 ein Streaming-Hit? | Phasmophobia
+5 | Wie heißt das Koop-Horrorspiel von 2025 mit Robotern, die wertvolle Gegenstände bergen? | R.E.P.O.
+
+# Sprache der Community
+1 | Was bedeutet „GG“ im Chat? | Good Game
+1 | Wie nennt man jemanden, der im Chat nur mitliest und nie schreibt? | Lurker
+1 | Was schreibt der Chat, wenn etwas gut läuft: W oder L? | W | Für „Win“.
+1 | Was bedeutet „AFK“? | Away from Keyboard
+2 | Wie nennt man Zuschauer, die im Chat Hinweise zum Spiel geben, die keiner wollte? | Backseat Gamer | „Backseating“.
+2 | Was bedeutet es, wenn ein Streamer „tilted“ ist? | Er ist genervt und spielt deshalb schlechter
+2 | Wie nennt man jemanden, der absichtlich provoziert, um Reaktionen zu bekommen? | Troll
+2 | Was bedeutet „POV“? | Point of View
+3 | Wie nennt man es, wenn jemand etwas vorwegnimmt, das im Spiel oder in der Serie noch kommt? | Spoiler
+3 | Wie heißt die Abkürzung für „Greatest of All Time“? | GOAT
+3 | Wie nennt man es, wenn ein Streamer von der Plattform ausgeschlossen wird? | Bann
+3 | Wie nennt man Inhalte, die absichtlich Wut auslösen sollen, damit viele klicken? | Ragebait
+4 | Was bedeutet „OP“ im Gaming? | Overpowered | Zu stark.
+4 | Was bedeutet „NPC“ als Beleidigung? | Jemand ohne eigene Meinung, der sich wie eine Spielfigur verhält
+4 | Wie nennt man eine einseitige Beziehung von Zuschauern zu einem Streamer, den sie zu kennen glauben? | Parasozial
+4 | Was bedeutet „Copium“? | Sich etwas schönreden | Aus „cope“ und „opium“.
+5 | Was bedeutet die Abkürzung „TOS“, gegen die Streamer nicht verstoßen dürfen? | Terms of Service | Nutzungsbedingungen.
+5 | Wie nennt man es, wenn sehr viele Zuschauer gleichzeitig denselben Text in den Chat kopieren? | Copypasta
+5 | Was bedeutet „DMCA“ für Streamer, die Musik laufen lassen? | Urheberrechtsbeschwerde nach US-Recht | Digital Millennium Copyright Act.
+5 | Wie nennt man die Zuschauer, die schon bei sehr kleinen Zahlen dabei waren? | OGs | „Original Gangster“.
+
+# Nebenprojekte
+1 | Wie heißt der Energydrink von MontanaBlack? | Gönrgy
+1 | Wie heißt der Podcast von Papaplatte und Reeze? | Edeltalk
+1 | Welcher Streamer veröffentlichte das Buch „Vom Junkie zum YouTuber“? | MontanaBlack
+1 | Wie heißt das Getränk von Logan Paul und KSI, das 2022 einen Hype auslöste? | Prime
+2 | Wie heißt das E-Sport- und Fußballteam von HandOfBlood? | Eintracht Spandau
+2 | In welcher RTL-Tanzshow trat Knossi 2023 an? | Let's Dance
+2 | Wie heißt die Schokoladenmarke von MrBeast? | Feastables
+2 | Welcher Streamer gründete die Agentur „INSTINCT3“? | HandOfBlood
+3 | Mit welchem Kartenspiel wurde Knossi als Spieler und Kommentator bekannt, bevor er Streamer wurde? | Poker
+3 | Wie heißt das Snack-Angebot von MrBeast, KSI und Logan Paul von 2024? | Lunchly
+3 | Welcher Streamer gründete die Organisation „100 Thieves“? | Nadeshot | Matthew Haag.
+3 | Mit welcher Booster-Marke aus Deutschland arbeiten viele Streamer mit eigenen Sorten zusammen? | LevlUp | Auch „Holy“ gelten lassen.
+4 | Wie heißt der Eistee von Rapperin und Ex-YouTuberin Shirin David? | DirTea
+4 | Wie heißt die Spielshow von MrBeast auf Prime Video mit 1000 Kandidaten? | Beast Games
+4 | Welche E-Sport-Organisation mit rotem Logo wurde ab 2010 mit Call-of-Duty-Trickshots auf YouTube groß? | FaZe Clan
+4 | Wie heißt die Marke für Gaming-Stühle, die viele Streamer bewerben und die aus Singapur stammt? | Secretlab
+5 | Welche Streamerin gründete die Hautpflege-Marke „RFLCT“, die 2021 nach Kritik eingestellt wurde? | Valkyrae
+5 | Welcher Streamer gründete mit „Offbrand“ eine eigene Kreativagentur und veranstaltet Schachboxen? | Ludwig
+5 | Wie heißt das Keks-Unternehmen von Pokimane? | Myna Snacks
+5 | Welcher Streamer gründete die Gaming-Organisation „Moist Esports“? | MoistCr1TiKaL | Charles „Cr1TiKaL“ White.

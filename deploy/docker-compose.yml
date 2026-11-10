@@ -1,0 +1,60 @@
+# Brinkgame auf einem eigenen Server: Spielserver, TLS (Caddy) und TURN (coturn) für Voice und Kamera.
+# Start:  cp .env.example .env  →  Werte eintragen  →  docker compose up -d --build
+services:
+  brinkgame:
+    build:
+      context: ..
+      dockerfile: deploy/Dockerfile
+    restart: unless-stopped
+    environment:
+      SERVER_NAME: ${SERVER_NAME:-Brinkgame Server}
+      SERVER_PASSWORD: ${SERVER_PASSWORD:-}
+      MAX_LOBBIES: ${MAX_LOBBIES:-50}
+      STUN_URLS: stun:${DOMAIN}:3478
+      TURN_URLS: turn:${DOMAIN}:3478?transport=udp,turn:${DOMAIN}:3478?transport=tcp
+      TURN_SECRET: ${TURN_SECRET}
+    expose:
+      - "8787"
+
+  caddy:
+    image: caddy:2
+    restart: unless-stopped
+    ports:
+      - "80:80"
+      - "443:443"
+    environment:
+      DOMAIN: ${DOMAIN}
+    volumes:
+      - ./Caddyfile:/etc/caddy/Caddyfile:ro
+      - caddy_data:/data
+      - caddy_config:/config
+    depends_on:
+      - brinkgame
+
+  coturn:
+    image: coturn/coturn:4.6
+    restart: unless-stopped
+    # Host-Netz, weil TURN viele UDP-Ports braucht
+    network_mode: host
+    command:
+      - --listening-port=3478
+      - --fingerprint
+      - --use-auth-secret
+      - --static-auth-secret=${TURN_SECRET}
+      - --realm=${DOMAIN}
+      - --external-ip=${PUBLIC_IP}
+      - --min-port=49160
+      - --max-port=49400
+      - --no-cli
+      - --no-tls
+      - --no-dtls
+      - --no-multicast-peers
+      - --denied-peer-ip=10.0.0.0-10.255.255.255
+      - --denied-peer-ip=172.16.0.0-172.31.255.255
+      - --denied-peer-ip=192.168.0.0-192.168.255.255
+      - --denied-peer-ip=127.0.0.0-127.255.255.255
+      - --log-file=stdout
+
+volumes:
+  caddy_data:
+  caddy_config:

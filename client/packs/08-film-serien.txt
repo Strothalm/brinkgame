@@ -1,0 +1,225 @@
+@id film-serien
+@name Film & Serien
+@icon 🎬
+@color #ff6fb5
+@desc Blockbuster, Serienhits, Animation, Zitate, Schauspieler und deutsches Fernsehen.
+
+# Blockbuster
+1 | In welchem Film versinkt ein Luxusdampfer mit Jack und Rose an Bord? | Titanic
+1 | Welcher Zauberschüler hat eine Narbe in Form eines Blitzes? | Harry Potter
+1 | In welcher Filmreihe kämpfen Jedi mit Lichtschwertern? | Star Wars
+1 | Wie heißt der Park voller geklonter Dinosaurier im Film von 1993? | Jurassic Park
+2 | Wie heißt der Hobbit, der den Ring zum Schicksalsberg trägt? | Frodo Beutlin
+2 | Welcher Film von James Cameron spielt auf dem Mond Pandora? | Avatar
+2 | In welchem Film schluckt Neo die rote Pille? | Matrix
+2 | Welcher Geheimagent hat die Nummer 007? | James Bond
+3 | Welcher Film über den „Vater der Atombombe“ gewann 2024 sieben Oscars? | Oppenheimer
+3 | Welcher Hai-Film von Steven Spielberg ließ 1975 die Strände leerer werden? | Der weiße Hai
+3 | In welchem Film reist Marty McFly mit einem DeLorean durch die Zeit? | Zurück in die Zukunft
+3 | Welcher Regisseur drehte „Inception“, „Interstellar“ und „The Dark Knight“? | Christopher Nolan
+4 | Welcher Film mit Margot Robbie kam 2023 am selben Tag wie „Oppenheimer“ ins Kino? | Barbie
+4 | In welchem Film sagt ein Außerirdischer „nach Hause telefonieren“? | E.T. – Der Außerirdische
+4 | Welcher Film von 1959 gewann als erster elf Oscars, was später nur „Titanic“ und „Die Rückkehr des Königs“ schafften? | Ben Hur
+4 | Wie heißt das Raumschiff von Han Solo? | Millennium Falke
+5 | Welcher Film aus Südkorea gewann 2020 als erster nicht englischsprachiger Film den Oscar für den besten Film? | Parasite
+5 | Welcher deutsche Antikriegsfilm von Netflix gewann 2023 vier Oscars? | Im Westen nichts Neues
+5 | Wie heißt der Computer, der in „2001: Odyssee im Weltraum“ die Crew bedroht? | HAL 9000
+5 | Welcher Regisseur drehte „Pulp Fiction“ und „Kill Bill“? | Quentin Tarantino
+
+# Serienhits
+1 | In welcher Serie kämpfen die Häuser Stark und Lannister um den Eisernen Thron? | Game of Thrones
+1 | In welcher Serie leben Homer, Marge, Bart, Lisa und Maggie in Springfield? | Die Simpsons
+1 | In welcher Serie spielen Kinder in Hawkins gegen Monster aus dem „Upside Down“? | Stranger Things
+1 | In welcher Sitcom treffen sich sechs Freunde im Café „Central Perk“? | Friends
+2 | In welcher Serie wird ein Chemielehrer zum Drogenkoch? | Breaking Bad
+2 | In welcher koreanischen Serie spielen verschuldete Menschen tödliche Kinderspiele? | Squid Game
+2 | In welcher Serie tragen Bankräuber rote Overalls und Dalí-Masken? | Haus des Geldes
+2 | In welcher Serie besucht eine Tochter der Addams Family die Nevermore Academy? | Wednesday
+3 | Wie heißt der Chemielehrer in „Breaking Bad“? | Walter White
+3 | In welcher Serie arbeitet Michael Scott bei der Papierfirma Dunder Mifflin? | The Office
+3 | In welcher Serie erzählt Ted seinen Kindern, wie er ihre Mutter kennengelernt hat? | How I Met Your Mother
+3 | In welcher Serie jagt der Hexer Geralt von Riva Monster? | The Witcher
+4 | In welcher Serie verschwinden in der Kleinstadt Winden Kinder und es geht um Zeitreisen? | Dark
+4 | Wie heißt der Anwalt aus „Breaking Bad“, der eine eigene Serie bekam? | Saul Goodman | Die Serie heißt „Better Call Saul“.
+4 | In welcher Serie spielt eine Waise in den 1960ern Schach auf Weltklasseniveau? | Das Damengambit
+4 | In welcher Serie streiten die Kinder des Medienmoguls Logan Roy um die Nachfolge? | Succession
+5 | In welcher Serie von 1990 fragt sich eine Kleinstadt, wer Laura Palmer getötet hat? | Twin Peaks
+5 | In welcher Serie arbeiten Angestellte bei Lumon mit getrenntem Arbeits- und Privatgedächtnis? | Severance
+5 | In welcher Serie leitet Carmy Berzatto einen Sandwichladen in Chicago? | The Bear
+5 | Wie heißt die Mafiafamilie aus New Jersey in der gleichnamigen HBO-Serie? | Die Sopranos
+
+# Animation und Disney
+1 | Wie heißt der Clownfisch, den sein Vater Marlin sucht? | Nemo
+1 | Wie heißt der Schneemann in „Die Eiskönigin“? | Olaf
+1 | Wie heißt der Cowboy in „Toy Story“? | Woody
+1 | Wie heißt der grüne Oger, der in einem Sumpf lebt? | Shrek
+2 | Wie heißt der Löwe, der in „Der König der Löwen“ König wird? | Simba
+2 | Wie heißen die gelben Helfer von Gru? | Minions
+2 | Wie heißt die Maus, die das Maskottchen von Disney ist? | Micky Maus
+2 | Wie heißt die Ratte, die in „Ratatouille“ kocht? | Remy
+3 | Wie heißt der böse Onkel von Simba? | Scar
+3 | Welches japanische Studio produzierte „Chihiros Reise ins Zauberland“? | Studio Ghibli
+3 | Wie heißt der Dieb, in den sich Rapunzel in „Rapunzel – Neu verföhnt“ verliebt? | Flynn Rider | Eigentlich Eugene Fitzherbert.
+3 | Wie heißt der Roboter, der auf der vermüllten Erde aufräumt? | WALL·E
+4 | In welchem Pixar-Film steuern Gefühle wie Freude und Kummer ein Mädchen? | Alles steht Kopf
+4 | Wie heißt der Regisseur von „Chihiros Reise“ und „Mein Nachbar Totoro“? | Hayao Miyazaki
+4 | Welcher Pixar-Film spielt am mexikanischen Tag der Toten? | Coco
+4 | Wie heißt der Drache von Hicks in „Drachenzähmen leicht gemacht“? | Ohnezahn
+5 | Welcher Film war 1937 der erste abendfüllende Zeichentrickfilm von Disney? | Schneewittchen und die sieben Zwerge
+5 | Welcher Film war 1995 der erste komplett computeranimierte Kinofilm? | Toy Story
+5 | Welcher Anime-Film von Makoto Shinkai handelt von zwei Jugendlichen, die die Körper tauschen? | Your Name.
+5 | Wie heißt der chinesische Animationsfilm, der 2025 zum erfolgreichsten Animationsfilm aller Zeiten wurde? | Ne Zha 2
+
+# Superhelden
+1 | Welcher Held wurde von einer Spinne gebissen? | Spider-Man
+1 | Wie heißt Batman mit bürgerlichem Namen? | Bruce Wayne
+1 | Welcher Held kommt vom Planeten Krypton? | Superman
+1 | Welche Farbe hat der Hulk? | Grün
+2 | Wie heißt Iron Man mit bürgerlichem Namen? | Tony Stark
+2 | Wie heißt der Hammer von Thor? | Mjölnir
+2 | Aus welchem fiktiven Land kommt Black Panther? | Wakanda
+2 | Wie heißt der Erzfeind von Batman mit dem Clownsgesicht? | Joker
+3 | Wie heißt der Bösewicht, der in „Infinity War“ mit den Fingern schnippt? | Thanos
+3 | Wie heißt Spider-Man mit bürgerlichem Namen? | Peter Parker
+3 | Aus welchem Metall bestehen die Krallen von Wolverine? | Adamantium
+3 | Welcher Schauspieler spielte Iron Man? | Robert Downey Jr.
+4 | Wie heißt die Stadt, in der Batman lebt? | Gotham City
+4 | Welcher Schauspieler starb 2008 kurz nach seiner Rolle als Joker in „The Dark Knight“? | Heath Ledger
+4 | Wie heißt der Söldner mit dem großen Mundwerk, den Ryan Reynolds spielt? | Deadpool
+4 | Wie viele Infinity-Steine gibt es? | Sechs
+5 | Wie heißt Wonder Woman mit bürgerlichem Namen? | Diana Prince
+5 | Welcher Comicautor hatte bis 2019 in fast jedem Marvel-Film einen Kurzauftritt? | Stan Lee
+5 | Welcher Film eröffnete 2008 das Marvel Cinematic Universe? | Iron Man
+5 | Aus welchem Material besteht der Schild von Captain America? | Vibranium
+
+# Berühmte Zitate
+1 | Aus welcher Filmreihe stammt „Möge die Macht mit dir sein“? | Star Wars
+1 | Welcher Agent stellt sich mit „Mein Name ist …“ und seinem Nachnamen zuerst vor? | James Bond
+1 | Aus welchem Film stammt „Hakuna Matata“? | Der König der Löwen
+1 | Welcher Roboter-Killer sagt „I'll be back“? | Terminator
+2 | Aus welchem Film stammt „Ich bin der König der Welt!“? | Titanic
+2 | Aus welchem Film stammt „Ich bin dein Vater“? | Star Wars: Das Imperium schlägt zurück | „Star Wars“ reicht.
+2 | Aus welcher Filmreihe stammt „Mein Schatz!“? | Der Herr der Ringe
+2 | Aus welchem Film stammt „Houston, wir haben ein Problem“? | Apollo 13
+3 | Aus welchem Film stammt „Das Leben ist wie eine Schachtel Pralinen“? | Forrest Gump
+3 | Aus welcher Serie stammt „Winter is coming“? | Game of Thrones
+3 | Aus welchem Film stammt „Ich mache ihm ein Angebot, das er nicht ablehnen kann“? | Der Pate
+3 | Aus welchem Film stammt „Warum so ernst?“ („Why so serious?“)? | The Dark Knight
+4 | Aus welchem Film stammt „Schau mir in die Augen, Kleines“? | Casablanca
+4 | Aus welchem Film stammt „Hier ist Johnny!“? | Shining
+4 | Aus welcher Serie stammt „Bazinga!“? | The Big Bang Theory
+4 | Aus welchem Film stammt „Du kannst nicht vorbei!“? | Der Herr der Ringe: Die Gefährten | „Der Herr der Ringe“ reicht.
+5 | Aus welchem Film stammt „Die erste Regel lautet: Ihr verliert kein Wort darüber“? | Fight Club
+5 | Aus welchem Film stammt „Say hello to my little friend!“? | Scarface
+5 | Aus welchem Film stammt „Ich liebe den Geruch von Napalm am Morgen“? | Apocalypse Now
+5 | Aus welchem Film stammt „Sie brauchen ein größeres Boot“? | Der weiße Hai
+
+# Schauspielerinnen und Schauspieler
+1 | Welcher Schauspieler spielte Jack in „Titanic“? | Leonardo DiCaprio
+1 | Welcher Schauspieler spielte Captain Jack Sparrow? | Johnny Depp
+1 | Welcher frühere Wrestler heißt „The Rock“? | Dwayne Johnson
+1 | Welcher Schauspieler spielte Harry Potter? | Daniel Radcliffe
+2 | Welche Schauspielerin spielte Hermine Granger? | Emma Watson
+2 | Welcher Österreicher spielte den Terminator? | Arnold Schwarzenegger
+2 | Welcher Schauspieler macht in „Mission: Impossible“ seine Stunts selbst? | Tom Cruise
+2 | Welche Schauspielerin spielte Katniss Everdeen in „Die Tribute von Panem“? | Jennifer Lawrence
+3 | Welcher Schauspieler spielte Forrest Gump? | Tom Hanks
+3 | Welcher Schauspieler spielte den Joker im Film von 2019? | Joaquin Phoenix
+3 | Welcher Schauspieler spielt Spider-Man seit 2016 im Marvel-Universum? | Tom Holland
+3 | Welche Schauspielerin spielte die Hauptrolle in „Pretty Woman“? | Julia Roberts
+4 | Welcher Österreicher gewann zwei Oscars für Filme von Quentin Tarantino? | Christoph Waltz
+4 | Welcher Schauspieler spielte Neo in „Matrix“ und John Wick? | Keanu Reeves
+4 | Welche Schauspielerin hat mit 21 die meisten Oscar-Nominierungen als Darstellerin? | Meryl Streep
+4 | Welcher Schauspieler spielte Paul Atreides in „Dune“ und Willy Wonka in „Wonka“? | Timothée Chalamet
+5 | Welcher Brite spielte Hannibal Lecter in „Das Schweigen der Lämmer“? | Anthony Hopkins
+5 | Welche deutsche Schauspielerin wurde 2024 für „Anatomie eines Falls“ für den Oscar nominiert? | Sandra Hüller
+5 | Welcher Schauspieler verkörperte James Bond von 2006 bis 2021? | Daniel Craig
+5 | Welche Schauspielerin gewann vier Oscars als Hauptdarstellerin und hält damit den Rekord? | Katharine Hepburn
+
+# Deutsches Kino und Fernsehen
+1 | Wie heißt die Krimireihe, die sonntags um 20:15 Uhr im Ersten läuft? | Tatort
+1 | Welche Show moderierte Thomas Gottschalk viele Jahre am Samstagabend? | Wetten, dass..?
+1 | Wie heißt die Nachrichtensendung der ARD um 20 Uhr? | Tagesschau
+1 | In welcher Show sucht Heidi Klum Models? | Germany's Next Topmodel
+2 | In welcher Filmreihe spielt Elyas M'Barek den Lehrer Zeki Müller? | Fack ju Göhte
+2 | Welcher Komiker drehte „Der Schuh des Manitu“? | Michael „Bully“ Herbig
+2 | In welcher RTL-Show kämpfen Promis im australischen Dschungel? | Ich bin ein Star – Holt mich hier raus! | „Dschungelcamp“ gilt.
+2 | Welcher Moderator stellt in „Wer wird Millionär?“ die Fragen? | Günther Jauch
+3 | Welcher deutsche Film von 1998 zeigt Franka Potente, die durch Berlin rennt? | Lola rennt
+3 | Welcher Film zeigt eine Familie, die der Mutter nach der Wende die DDR vorspielt? | Good Bye, Lenin!
+3 | Welcher Entertainer moderierte „TV total“ und erfand „Schlag den Raab“? | Stefan Raab
+3 | Welcher Schauspieler spielt in „Keinohrhasen“ und „Honig im Kopf“ und führt selbst Regie? | Til Schweiger
+4 | Welcher Film über einen Stasi-Hauptmann gewann 2007 den Oscar? | Das Leben der Anderen
+4 | Welcher Film von 1981 spielt fast komplett in einem deutschen U-Boot? | Das Boot
+4 | Welches Duo moderiert „Joko & Klaas gegen ProSieben“? | Joko Winterscheidt und Klaas Heufer-Umlauf
+4 | Welche Serie über das Berlin der 1920er lief ab 2017 und ist eine der teuersten deutschen Produktionen? | Babylon Berlin
+5 | Welcher Stummfilm von Fritz Lang von 1927 zeigt eine Zukunftsstadt mit Maschinenmensch? | Metropolis
+5 | Welcher Regisseur drehte „Der Himmel über Berlin“? | Wim Wenders
+5 | Welcher Film mit Bruno Ganz zeigt die letzten Tage Hitlers im Führerbunker? | Der Untergang
+5 | Welche ZDF-Satiresendung moderiert Jan Böhmermann? | ZDF Magazin Royale
+
+# Fantasy und Science-Fiction
+1 | Wie heißt die Zauberschule von Harry Potter? | Hogwarts
+1 | Wie heißt der kleine grüne Jedi-Meister? | Yoda
+1 | Wie heißt der Zauberer mit grauem Bart und Hut in „Der Herr der Ringe“? | Gandalf
+1 | Auf welchem Gleis fährt der Hogwarts-Express ab? | Gleis 9¾
+2 | Wie heißt der dunkle Zauberer, dessen Namen man nicht nennen darf? | Lord Voldemort
+2 | Wie heißt das Raumschiff von Captain Kirk? | Enterprise
+2 | Wie heißt das Land, in dem „Der Herr der Ringe“ spielt? | Mittelerde
+2 | Wie heißt der Wüstenplanet in „Dune“? | Arrakis
+3 | Wie heißen die vier Häuser von Hogwarts? | Gryffindor, Slytherin, Hufflepuff, Ravenclaw
+3 | Wie heißt der Vulkanier mit den spitzen Ohren in „Star Trek“? | Spock
+3 | Wie heißt die kostbare Substanz in „Dune“? | Spice | Auch „Gewürz“ oder „Melange“.
+3 | Wie heißt die Heimat der Hobbits? | Auenland
+4 | Welcher Autor schrieb „Der Herr der Ringe“? | J. R. R. Tolkien
+4 | Wie heißt der Elf, der im zweiten Harry-Potter-Teil eine Socke bekommt? | Dobby
+4 | Welcher Film von Ridley Scott von 1982 handelt von Replikanten in Los Angeles? | Blade Runner
+4 | Wie heißt die Heldin, die in „Alien“ gegen das Monster kämpft? | Ellen Ripley
+5 | Wie heißt der Drache, den Bilbo im „Hobbit“ trifft? | Smaug
+5 | Wie heißt das Schwert von Aragorn? | Andúril
+5 | In welcher Sprache ist die Inschrift auf dem Einen Ring verfasst? | Schwarze Sprache | Die Sprache von Mordor.
+5 | Wie heißt die Hauptstadt von Westeros in „Game of Thrones“? | Königsmund | Englisch „King's Landing“.
+
+# Horror, Krimi und Action
+1 | Welcher Clown lauert in Stephen Kings „Es“ in der Kanalisation? | Pennywise
+1 | Welcher Meisterdetektiv lebt in der Baker Street 221b? | Sherlock Holmes
+1 | Welcher Archäologe trägt Hut und Peitsche? | Indiana Jones
+1 | In welcher Filmreihe fährt Dominic Toretto schnelle Autos? | Fast & Furious
+2 | Welcher Polizist kämpft in „Stirb langsam“ barfuß im Hochhaus? | John McClane
+2 | Welcher Killer trägt in „Halloween“ eine weiße Maske? | Michael Myers
+2 | In welchem Film jagt die Puppe Billy auf dem Dreirad Menschen in Fallen? | Saw
+2 | Welcher Mann rächt in einer Actionreihe seinen Hund? | John Wick
+3 | Welcher Regisseur drehte „Psycho“ und „Die Vögel“? | Alfred Hitchcock
+3 | Wie heißt der Mörder mit dem Klingenhandschuh aus der Elm Street? | Freddy Krueger
+3 | Welcher Autor schrieb „Es“, „Shining“ und „Carrie“? | Stephen King
+3 | In welchem Film lautet die Auflösung, dass der Kinderpsychologe selbst tot ist? | The Sixth Sense
+4 | Welcher Belgier mit Schnurrbart ermittelt in „Mord im Orient-Express“? | Hercule Poirot
+4 | Wie heißt der Killer mit der Hockeymaske aus „Freitag der 13.“? | Jason Voorhees
+4 | In welchem Film von 1973 wird ein Mädchen von einem Dämon besessen? | Der Exorzist
+4 | In welchem Thriller ruft Brad Pitt am Ende verzweifelt „Was ist in der Kiste?“? | Sieben
+5 | In welchem Hotel spielt „Shining“? | Overlook Hotel
+5 | Welcher Regisseur drehte „Get Out“ und „Nope“? | Jordan Peele
+5 | Wie heißt der geheimnisvolle Gangsterboss in „Die üblichen Verdächtigen“? | Keyser Söze
+5 | Welcher Film von 1960 hat eine berühmte Mordszene unter der Dusche? | Psycho
+
+# Preise und Rekorde
+1 | Wie heißt der wichtigste Filmpreis der Welt? | Oscar | Offiziell „Academy Award“.
+1 | In welchem Stadtteil von Los Angeles sitzt die US-Filmindustrie? | Hollywood
+1 | Welche Farbe hat der Teppich bei Filmpremieren? | Rot
+1 | Welcher Streamingdienst hat ein rotes „N“ als Logo? | Netflix
+2 | Welcher Film ist der erfolgreichste aller Zeiten an den Kinokassen? | Avatar
+2 | Wie heißt das Filmfestival in Berlin? | Berlinale
+2 | Wie heißt der Preis für die schlechtesten Filme des Jahres? | Goldene Himbeere
+2 | In welcher französischen Stadt wird die Goldene Palme vergeben? | Cannes
+3 | Wie heißt der Hauptpreis der Berlinale? | Goldener Bär
+3 | Welche Zeichentrickserie ist die am längsten laufende Primetime-Serie der USA? | Die Simpsons
+3 | Wie heißt die indische Filmindustrie in Mumbai? | Bollywood
+3 | Wie heißt der wichtigste Fernsehpreis der USA? | Emmy
+4 | Welcher Regisseur drehte sowohl „Titanic“ als auch „Avatar“? | James Cameron
+4 | Wie heißt der Hauptpreis der Filmfestspiele von Venedig? | Goldener Löwe
+4 | Wie heißt der Bond-Film, mit dem die Reihe 1962 begann? | James Bond jagt Dr. No
+4 | Welcher Komponist hat die meisten Oscar-Nominierungen unter den lebenden Personen? | John Williams
+5 | Welcher Mann hält mit 22 gewonnenen Oscars den Rekord? | Walt Disney
+5 | Welcher Film von 1927 gilt als erster abendfüllender Tonfilm? | Der Jazzsänger
+5 | Welcher Film gewann 2023 sieben Oscars und spielt im Multiversum? | Everything Everywhere All at Once
+5 | Wie heißt der wichtigste deutsche Filmpreis, benannt nach einer Figur? | Lola | Offiziell „Deutscher Filmpreis“.

@@ -1,0 +1,225 @@
+@id wissenschaft
+@name Wissenschaft & Natur
+@icon 🔬
+@color #3ecf8e
+@desc Weltall, Körper, Chemie, Physik, Mathe, Tiere, Erde und Technik.
+
+# Weltall
+1 | Wie heißt der Planet, auf dem wir leben? | Erde
+1 | Welcher Planet wird „Roter Planet“ genannt? | Mars
+1 | Wie heißt der Stern im Zentrum unseres Sonnensystems? | Sonne
+1 | Wie heißt der natürliche Begleiter der Erde? | Mond
+2 | Wie heißt der größte Planet unseres Sonnensystems? | Jupiter
+2 | Welcher Planet ist für seine auffälligen Ringe bekannt? | Saturn
+2 | Wie viele Planeten hat unser Sonnensystem? | Acht
+2 | Wie heißt unsere Galaxie? | Milchstraße
+3 | Welcher Planet ist der Sonne am nächsten? | Merkur
+3 | Welcher Himmelskörper gilt seit 2006 nicht mehr als Planet? | Pluto
+3 | Wie heißt die Raumstation, die seit 1998 die Erde umkreist? | ISS | Internationale Raumstation.
+3 | Wie lange braucht das Licht der Sonne ungefähr bis zur Erde? | Acht Minuten | Genau rund 8 Minuten und 20 Sekunden.
+4 | Welcher Planet ist der heißeste im Sonnensystem? | Venus
+4 | Wie heißt der sonnennächste Stern nach der Sonne? | Proxima Centauri | „Alpha Centauri“ gelten lassen.
+4 | Wie heißt die Theorie zur Entstehung des Universums vor rund 13,8 Milliarden Jahren? | Urknall
+4 | Wie heißt das Weltraumteleskop, das 2021 als Nachfolger von Hubble gestartet ist? | James-Webb-Teleskop
+5 | Wie heißt der größte Mond des Sonnensystems? | Ganymed | Ein Mond des Jupiter.
+5 | Wie heißt die Grenze eines Schwarzen Lochs, hinter der nichts mehr entkommt? | Ereignishorizont
+5 | Wie heißt der höchste Vulkan des Sonnensystems auf dem Mars? | Olympus Mons
+5 | Wie heißt die Raumsonde, die 1977 startete und als erstes Menschenwerk den interstellaren Raum erreichte? | Voyager 1
+
+# Der menschliche Körper
+1 | Welches Organ ist für das Atmen zuständig? | Lunge
+1 | Wie viele Sinne hat der Mensch nach der klassischen Zählung? | Fünf
+1 | Welches Organ steuert den ganzen Körper und sitzt im Kopf? | Gehirn
+1 | Welche Farbe hat sauerstoffreiches Blut? | Hellrot | „Rot“ reicht.
+2 | Wie heißt das größte Organ des Menschen? | Haut
+2 | Wie viele Knochen hat ein erwachsener Mensch ungefähr? | 206
+2 | Wie heißt der längste Knochen des Menschen? | Oberschenkelknochen | Fachwort „Femur“.
+2 | Welches Organ filtert das Blut und bildet Urin? | Niere
+3 | Wie heißt der rote Blutfarbstoff? | Hämoglobin
+3 | Welches Organ produziert Insulin? | Bauchspeicheldrüse
+3 | Wie heißt der kleinste Knochen des Menschen? | Steigbügel | Er sitzt im Mittelohr.
+3 | Wie viele Chromosomen hat eine menschliche Körperzelle? | 46 | 23 Paare.
+4 | Welche Blutgruppe gilt als Universalspender für rote Blutkörperchen? | 0 negativ
+4 | Wie heißt der größte Muskel des Menschen? | Großer Gesäßmuskel | Musculus gluteus maximus.
+4 | Wie heißt die Hauptschlagader? | Aorta
+4 | In welchem Organ sitzen Hammer, Amboss und Steigbügel? | Ohr
+5 | Wie heißen die „Kraftwerke“ der Zelle? | Mitochondrien
+5 | Wie heißt der Teil des Gehirns, der vor allem für Gleichgewicht und Bewegungskoordination zuständig ist? | Kleinhirn
+5 | Wie heißt das Hormon, das den Schlaf-Wach-Rhythmus steuert? | Melatonin
+5 | Wie heißt der Nerv, der das Auge mit dem Gehirn verbindet? | Sehnerv | Fachwort „Nervus opticus“.
+
+# Chemie
+1 | Wie lautet die chemische Formel von Wasser? | H2O
+1 | Welches Gas brauchen Menschen zum Atmen? | Sauerstoff
+1 | Welches Metall ist bei Zimmertemperatur flüssig? | Quecksilber
+1 | Woraus besteht Eis? | Wasser
+2 | Welches Gas macht den größten Anteil der Luft aus? | Stickstoff
+2 | Wie lautet das chemische Symbol für Gold? | Au
+2 | Welches Element hat das Symbol „Fe“? | Eisen
+2 | Welches Gas atmen wir aus und nehmen Pflanzen auf? | Kohlenstoffdioxid | CO2.
+3 | Wie lautet die chemische Formel von Kochsalz? | NaCl | Natriumchlorid.
+3 | Welches Element steht im Periodensystem an erster Stelle? | Wasserstoff
+3 | Welchen pH-Wert hat reines Wasser? | 7
+3 | Aus welchem Element bestehen Diamanten? | Kohlenstoff
+4 | Welches Element hat das Symbol „Ag“? | Silber
+4 | Welches Edelgas wird in Luftballons gefüllt, damit sie schweben? | Helium
+4 | Welches Element hat das Symbol „Na“? | Natrium
+4 | Wie nennt man eine Reaktion, bei der Wärme frei wird? | Exotherm
+5 | Welches Element hat das Symbol „W“? | Wolfram
+5 | Wer stellte 1869 das Periodensystem der Elemente auf? | Dmitri Mendelejew | Unabhängig auch Lothar Meyer.
+5 | Welches Element ist das häufigste im Universum? | Wasserstoff
+5 | Welche Säure steckt im Magensaft? | Salzsäure
+
+# Physik
+1 | Welche Kraft lässt Dinge zu Boden fallen? | Schwerkraft | Auch „Gravitation“.
+1 | Bei wie viel Grad Celsius gefriert Wasser? | 0
+1 | Bei wie viel Grad Celsius kocht Wasser auf Meereshöhe? | 100
+1 | Was ist schneller: Licht oder Schall? | Licht
+2 | In welcher Einheit misst man elektrische Spannung? | Volt
+2 | In welcher Einheit misst man Kraft? | Newton
+2 | Wie schnell ist das Licht ungefähr, in Kilometern pro Sekunde? | 300.000
+2 | In welcher Einheit misst man elektrische Leistung? | Watt
+3 | Wie lautet die berühmteste Formel von Einstein? | E = mc²
+3 | Wie heißt der absolute Nullpunkt in Grad Celsius? | −273,15 | „Minus 273“ gilt.
+3 | In welcher Einheit misst man den elektrischen Widerstand? | Ohm
+3 | Wie schnell ist der Schall in der Luft ungefähr, in Metern pro Sekunde? | 343 | 330 bis 345 gelten lassen.
+4 | In welcher Einheit misst man die Frequenz? | Hertz
+4 | Wie heißt das Teilchen, aus dem Licht besteht? | Photon
+4 | Welche drei Teilchen bilden ein Atom? | Protonen, Neutronen, Elektronen
+4 | Wie nennt man die Änderung der Tonhöhe, wenn ein Krankenwagen vorbeifährt? | Dopplereffekt
+5 | Wie heißt das 2012 am CERN nachgewiesene Teilchen, das anderen Teilchen Masse verleiht? | Higgs-Boson
+5 | In welcher Einheit misst man die Stoffmenge? | Mol
+5 | Wie heißt das Prinzip, nach dem man Ort und Impuls eines Teilchens nicht gleichzeitig genau kennen kann? | Unschärferelation | Von Werner Heisenberg.
+5 | Wie heißt der Zustand der Materie neben fest, flüssig und gasförmig, der in Sternen vorkommt? | Plasma
+
+# Mathematik
+1 | Wie viel ist 7 mal 8? | 56
+1 | Wie viele Ecken hat ein Dreieck? | Drei
+1 | Wie viel ist die Hälfte von 150? | 75
+1 | Wie viele Grad hat ein rechter Winkel? | 90
+2 | Wie lauten die ersten drei Ziffern der Kreiszahl Pi? | 3,14
+2 | Wie viel Grad hat die Winkelsumme im Dreieck? | 180
+2 | Wie viel ist 12 zum Quadrat? | 144
+2 | Wie nennt man eine Zahl, die nur durch 1 und sich selbst teilbar ist? | Primzahl
+3 | Wie viel ist die Wurzel aus 169? | 13
+3 | Wie lautet der Satz des Pythagoras? | a² + b² = c²
+3 | Wie viele Flächen hat eine Pyramide mit quadratischer Grundfläche? | Fünf
+3 | Welche ist die einzige gerade Primzahl? | 2
+4 | Wie heißt ein Vieleck mit zwölf Ecken? | Zwölfeck | Fachwort „Dodekagon“.
+4 | Wie viel ist 2 hoch 10? | 1024
+4 | Wie nennt man die Zahlenfolge 1, 1, 2, 3, 5, 8, 13? | Fibonacci-Folge
+4 | Wie viel ist 15 Prozent von 200? | 30
+5 | Wie heißt die Zahl e mit etwa 2,718 nach ihrem Namensgeber? | Eulersche Zahl
+5 | Wie nennt man zwei Primzahlen mit dem Abstand 2, zum Beispiel 11 und 13? | Primzahlzwillinge
+5 | Wie viel ist die Fakultät von 5? | 120
+5 | Wie heißt der Körper mit 20 gleichseitigen Dreiecken als Flächen? | Ikosaeder
+
+# Pflanzen und Tiere
+1 | Wie nennt man Tiere, die ihre Jungen säugen? | Säugetiere
+1 | Aus welchem Insekt wird ein Schmetterling? | Raupe
+1 | Welches Tier produziert Honig? | Biene
+1 | Was brauchen Pflanzen neben Wasser und Luft vor allem zum Wachsen? | Licht
+2 | Wie heißt der Vorgang, bei dem Pflanzen aus Licht Energie gewinnen? | Photosynthese
+2 | Wie heißt der grüne Farbstoff der Pflanzen? | Chlorophyll
+2 | Welches Tier ist das größte lebende Reptil? | Leistenkrokodil | Auch „Salzwasserkrokodil“ oder „Krokodil“.
+2 | Wie viele Beine haben Insekten? | Sechs
+3 | Zu welcher Tierklasse gehören Frösche? | Amphibien
+3 | Welcher Baum kann am höchsten wachsen? | Küstenmammutbaum | „Mammutbaum“ reicht.
+3 | Wie nennt man Tiere ohne Wirbelsäule? | Wirbellose
+3 | Welches Tier ist am engsten mit dem Menschen verwandt? | Schimpanse | Auch „Bonobo“ gilt.
+4 | Wie heißt die Lehre von den Pilzen? | Mykologie
+4 | Wie nennt man Tiere, deren Körpertemperatur von der Umgebung abhängt? | Wechselwarm
+4 | Wie heißt das Molekül, das die Erbinformation trägt? | DNA | Deutsch „DNS“.
+4 | Welche Tiergruppe hat acht Beine und gehört nicht zu den Insekten? | Spinnentiere
+5 | Wie heißt das größte Lebewesen der Erde, ein Pilz in Oregon, mit deutschem Namen? | Hallimasch | Ein Dunkler Hallimasch mit rund neun Quadratkilometern.
+5 | Wie nennt man das Zusammenleben zweier Arten zum gegenseitigen Nutzen? | Symbiose
+5 | Wie heißt das Bärtierchen, das Vakuum und extreme Kälte überlebt, mit Fachnamen? | Tardigrada | „Bärtierchen“ oder „Wasserbär“ gelten ebenfalls.
+5 | Wie heißt der Fachbegriff für die Verwandlung von der Larve zum erwachsenen Tier? | Metamorphose
+
+# Erde und Wetter
+1 | Wie nennt man gefrorenen Regen in kleinen Kugeln? | Hagel
+1 | Welches Gerät misst die Temperatur? | Thermometer
+1 | Wie nennt man das Beben der Erdoberfläche? | Erdbeben
+1 | Wie viele Jahreszeiten gibt es in Mitteleuropa? | Vier
+2 | Wie heißt die Schicht der Atmosphäre, die uns vor UV-Strahlung schützt? | Ozonschicht
+2 | Wie nennt man flüssiges Gestein im Erdinneren? | Magma
+2 | Welches Gerät misst den Luftdruck? | Barometer
+2 | Wie heißt die Skala, mit der früher die Stärke von Erdbeben angegeben wurde? | Richterskala
+3 | Wie heißt die äußerste feste Schicht der Erde? | Erdkruste
+3 | Wie hieß der Urkontinent, in dem alle Landmassen vereint waren? | Pangaea
+3 | Wie nennt man eine Riesenwelle, die durch ein Seebeben ausgelöst wird? | Tsunami
+3 | Welches Gas gilt als wichtigster Treiber des menschengemachten Klimawandels? | Kohlenstoffdioxid | CO2.
+4 | Wie heißt die Skala für die Windstärke von 0 bis 12? | Beaufortskala
+4 | Wie alt ist die Erde ungefähr? | 4,5 Milliarden Jahre
+4 | Wie heißt die unterste Schicht der Atmosphäre, in der das Wetter stattfindet? | Troposphäre
+4 | Wie nennt man die Theorie, nach der sich die Kontinente auf Platten bewegen? | Plattentektonik
+5 | Woraus besteht der innere Erdkern hauptsächlich? | Eisen und Nickel
+5 | Wie heißt das Erdzeitalter, in dem die Dinosaurier ausstarben? | Kreidezeit
+5 | Wie heißt der härteste natürliche Stoff? | Diamant
+5 | Wie heißt die Skala von 1 bis 10 für die Härte von Mineralen? | Mohs-Skala
+
+# Technik und Erfindungen
+1 | Welches Fahrzeug fährt auf Schienen? | Zug
+1 | Womit fliegt man ins Weltall? | Rakete
+1 | Welche Energiequelle nutzt eine Solarzelle? | Sonnenlicht
+1 | Welches Gerät vergrößert weit entfernte Sterne? | Teleskop | Auch „Fernrohr“.
+2 | Welche Brüder schafften 1903 den ersten Motorflug? | Brüder Wright
+2 | Welche Maschine von James Watt trieb die industrielle Revolution an? | Dampfmaschine
+2 | Wie heißt das Raumfahrtunternehmen von Elon Musk? | SpaceX
+2 | Welches Gerät vergrößert winzige Dinge wie Zellen? | Mikroskop
+3 | Wie hieß die Rakete, die Menschen zum Mond brachte? | Saturn V
+3 | Wie hieß der erste künstliche Satellit im All, gestartet 1957? | Sputnik
+3 | Welcher deutsche Ingenieur erfand den nach ihm benannten Selbstzünder-Motor? | Rudolf Diesel
+3 | Wofür steht die Abkürzung „KI“? | Künstliche Intelligenz
+4 | Wie heißt das Verfahren, mit dem Kernkraftwerke Energie gewinnen? | Kernspaltung
+4 | Wie hieß das Klonschaf, das 1996 geboren wurde? | Dolly
+4 | Wie heißt der Erfinder des Dynamos und Gründer eines Münchner Elektrokonzerns? | Werner von Siemens
+4 | Wie heißt das Zahlensystem, mit dem Computer rechnen? | Binärsystem | Auch „Dualsystem“.
+5 | Wie heißt die Genschere, für die 2020 der Chemie-Nobelpreis vergeben wurde? | CRISPR/Cas9 | „CRISPR“ reicht.
+5 | Wie heißt das Gesetz, nach dem sich die Zahl der Transistoren auf einem Chip regelmäßig verdoppelt? | Mooresches Gesetz
+5 | Wie hieß das Zeppelin-Luftschiff, das 1937 in Lakehurst verbrannte? | Hindenburg
+5 | Wie heißt die Kernreaktion, die in der Sonne Energie erzeugt? | Kernfusion
+
+# Medizin und Gesundheit
+1 | Welcher Arzt behandelt Zähne? | Zahnarzt
+1 | Welches Vitamin steckt besonders in Zitronen und Orangen? | Vitamin C
+1 | Womit hört ein Arzt Herz und Lunge ab? | Stethoskop
+1 | Wie nennt man die Körpertemperatur über 38 Grad? | Fieber
+2 | Welches Vitamin bildet der Körper mit Hilfe von Sonnenlicht? | Vitamin D
+2 | Wie nennt man Medikamente gegen Bakterien? | Antibiotika
+2 | Wie heißt die Krankheit, bei der der Blutzucker dauerhaft zu hoch ist? | Diabetes
+2 | Wie nennt man einen Arzt für Kinder? | Kinderarzt | Fachwort „Pädiater“.
+3 | Welcher Mangel führte bei Seefahrern früher zu Skorbut? | Vitamin-C-Mangel
+3 | Wie nennt man eine Krankheit, die sich über die ganze Welt ausbreitet? | Pandemie
+3 | Wie nennt man eine Entzündung des Wurmfortsatzes? | Blinddarmentzündung | Fachwort „Appendizitis“.
+3 | Welches Organ ist bei einer Hepatitis entzündet? | Leber
+4 | Wie heißt der Eid, auf den sich Ärzte traditionell berufen? | Eid des Hippokrates
+4 | Wie heißt der Fachbegriff für Bluthochdruck? | Hypertonie
+4 | Wie nennt man ein Scheinmedikament ohne Wirkstoff? | Placebo
+4 | Welche Krankheit wurde als bisher einzige beim Menschen weltweit ausgerottet? | Pocken
+5 | Wie heißt der Fachbegriff für einen Herzinfarkt? | Myokardinfarkt
+5 | Wie heißt die Technik hinter den ersten zugelassenen Corona-Impfstoffen von Biontech und Moderna? | mRNA
+5 | Wie heißt das Verfahren, bei dem mit Magnetfeldern Schnittbilder des Körpers entstehen? | MRT | Magnetresonanztomografie.
+5 | Wer führte 1967 die erste Herztransplantation durch? | Christiaan Barnard
+
+# Rekorde der Natur
+1 | Welches ist das größte Tier im Meer? | Blauwal
+1 | Welches Tier ist für seine Langsamkeit bekannt und hängt in Bäumen? | Faultier
+1 | Welcher Vogel kann rückwärts fliegen und ist winzig? | Kolibri
+1 | Welches ist das größte Raubtier an Land? | Eisbär | Auch „Kodiakbär“ gelten lassen.
+2 | Welches Tier wird am ältesten: der Grönlandhai oder die Riesenschildkröte? | Grönlandhai | Er kann mehrere hundert Jahre alt werden.
+2 | Welche ist die größte Raubkatze? | Tiger | Genauer der Sibirische Tiger.
+2 | Welcher Fisch ist der größte der Welt? | Walhai
+2 | Welches Tier hat das beste Gedächtnis der Redensart nach? | Elefant
+3 | Welche ist die größte Blume der Welt, die nach Aas riecht? | Rafflesia | Auch „Titanenwurz“ gelten lassen.
+3 | Welche ist die längste Schlange der Welt? | Netzpython
+3 | Welcher Vogel hat die größte Flügelspannweite? | Wanderalbatros | „Albatros“ reicht.
+3 | Welches Säugetier ist das kleinste der Welt: eine Fledermaus oder eine Maus? | Fledermaus | Die Hummelfledermaus. Auch die Etruskerspitzmaus wird genannt.
+4 | Welches Tier hat den stärksten Biss? | Leistenkrokodil | „Krokodil“ reicht.
+4 | Welches ist das giftigste Landtier, eine Schlange aus Australien? | Inlandtaipan
+4 | Welcher Baum gilt als ältester einzelner Baum der Welt, eine Kiefer in Kalifornien? | Langlebige Kiefer | „Methuselah“ gilt ebenfalls.
+4 | Welches Tier taucht am tiefsten von allen Säugetieren? | Cuvier-Schnabelwal | „Schnabelwal“ reicht, auch „Pottwal“ gelten lassen.
+5 | Welches Tier gilt als lautestes der Erde? | Pottwal | Seine Klicks erreichen über 230 Dezibel.
+5 | Welches ist das schnellste Tier im Wasser? | Segelfisch | Auch „Schwarzer Marlin“ gelten lassen.
+5 | Welches Tier gilt als biologisch unsterblich, weil es sich zurückverwandeln kann? | Qualle | Die Art Turritopsis dohrnii.
+5 | Welcher Zugvogel legt jedes Jahr die längste Strecke zurück, von der Arktis in die Antarktis? | Küstenseeschwalbe

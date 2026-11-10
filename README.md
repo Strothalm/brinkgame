@@ -1,0 +1,164 @@
+# Brinkgame
+
+Quizshow für eure Runde: Ein Moderator leitet, alle anderen buzzern und antworten im Sprachchat.
+Board mit Kategorien und Punktwerten, Risiko-Felder, Finale, Teams und Einzelspieler gemischt,
+Kamera-Leiste, vier Designs, 13 Fragenpakete mit 2600 Fragen und ein Paket-Editor.
+
+```
+client/   Windows-App (Electron) und Web-Oberfläche
+server/   Spielserver (Node.js, WebSocket)
+deploy/   Docker-Dateien für den eigenen Server (Spielserver, TLS, TURN)
+tools/    Testlauf mit mehreren Clients, Icon-Erzeugung
+```
+
+## 1. Die App bauen (Windows-exe)
+
+Voraussetzung: [Node.js 20 oder neuer](https://nodejs.org).
+
+```bash
+cd client
+npm install
+npm run dist
+```
+
+Danach liegen in `client/release/`:
+
+- `Brinkgame-1.0.0-portable.exe`: eine einzelne Datei, startet ohne Installation.
+- `Brinkgame-1.0.0-win-x64.zip`: entpackter Ordner, startet schneller als die portable Datei.
+
+Die exe ist nicht signiert. Windows zeigt beim ersten Start „Der Computer wurde durch Windows
+geschützt“. Mit „Weitere Informationen“ und „Trotzdem ausführen“ geht es weiter. Wer das
+vermeiden will, braucht ein Code-Signing-Zertifikat.
+
+Zum Entwickeln: `npm start` baut und öffnet die App direkt.
+
+## 2. Den Server starten
+
+### Schnell zum Ausprobieren (ein PC im Heimnetz)
+
+```bash
+cd client && npm install && npm run build   # baut auch die Web-Oberfläche
+cd ../server && npm install && npm start
+```
+
+Der Server hört auf Port 8787. In der App als Adresse `IP-des-PCs:8787` eintragen.
+Im selben Netz funktionieren Voice und Kamera ohne weitere Einrichtung.
+
+### Dauerhaft auf einem Server (z. B. Hetzner Cloud)
+
+Ein kleiner Server reicht (2 vCPU, 4 GB RAM). Voice und Kamera laufen direkt zwischen den
+Spielern. Der Server vermittelt nur, und über TURN läuft der Verkehr der Spieler, die sich nicht
+direkt erreichen.
+
+1. Server mit Ubuntu anlegen, Docker installieren: `curl -fsSL https://get.docker.com | sh`
+2. Eine (Sub-)Domain per A-Eintrag auf die IP des Servers zeigen lassen, z. B. `brink.example.de`.
+3. Firewall (Hetzner Cloud Firewall oder `ufw`) öffnen:
+
+   | Port | Protokoll | Zweck |
+   |---|---|---|
+   | 80, 443 | TCP | Spielserver mit TLS |
+   | 3478 | TCP und UDP | TURN |
+   | 49160 bis 49400 | UDP | TURN-Medienports |
+
+4. Projekt auf den Server kopieren, dann:
+
+   ```bash
+   cd deploy
+   cp .env.example .env
+   nano .env            # DOMAIN, PUBLIC_IP, TURN_SECRET (openssl rand -hex 32) eintragen
+   docker compose up -d --build
+   ```
+
+5. In der App als Adresse nur die Domain eintragen, z. B. `brink.example.de`.
+
+Caddy holt das TLS-Zertifikat selbst. `https://brink.example.de` zeigt zusätzlich die
+Web-Oberfläche: Damit kann man ohne Installation im Browser mitspielen oder einen
+Gastgeber-Bildschirm am Fernseher öffnen. Im Browser gibt es kein Anti-Cheat.
+
+Mehrere Server: Jeder Server ist unabhängig. In der App lassen sich beliebig viele eintragen.
+
+Einstellungen des Servers (Umgebungsvariablen): `PORT`, `SERVER_NAME`, `SERVER_PASSWORD`,
+`MAX_LOBBIES`, `STUN_URLS`, `TURN_URLS`, `TURN_SECRET` (oder `TURN_USER` und `TURN_PASS`).
+
+## 3. So läuft eine Runde
+
+1. Namen eingeben, Server wählen, Lobby erstellen. Wer die Lobby erstellt, moderiert.
+2. Die anderen treten mit dem fünfstelligen Code bei. Die App bleibt verbunden, solange man in der
+   Lobby ist, und verbindet sich nach einem Abbruch von selbst neu. Der Platz bleibt reserviert.
+3. Der Moderator wählt Pakete (und auf Wunsch einzelne Kategorien), stellt die Regeln ein und
+   startet. Mit „Board ansehen“ kann er vorher Kategorien und einzelne Fragen austauschen.
+4. Wer dran ist, wählt ein Feld. Der Moderator liest vor und gibt die Buzzer frei (Taste `B`).
+5. Gebuzzert wird mit der Leertaste. Der Server entscheidet, wer zuerst war, und gleicht dabei
+   unterschiedliche Verbindungszeiten aus. Wer zu früh drückt, ist kurz gesperrt.
+6. Wer antwortet, bleibt laut. Alle anderen dürfen weiterreden, werden aber leiser gestellt
+   (Standard 20 %). Jeder stellt diesen Wert für sich ein: Einstellungen → Sprachchat.
+7. Der Moderator sieht die Lösung und drückt `R` (richtig) oder `F` (falsch). Punkte werden
+   automatisch verteilt. `Rückgängig` nimmt den letzten Schritt zurück.
+
+**Teams:** Im Modus „Teams und Einzelspieler“ kann jeder ein Team gründen, einem beitreten oder
+allein bleiben. Teams und Einzelspieler stehen in derselben Wertung. Im Modus „Jeder für sich“
+gibt es keine Teams. Der Sprachkanal ist immer für alle offen.
+
+**Voreinstellungen:** Regeln und Paketauswahl lassen sich unter einem Namen speichern und später
+mit einem Klick laden.
+
+## 4. Fragenpakete
+
+Mitgeliefert: YouTuber, Streamer & Twitch, Influencer & Social Media, Orte & Sehenswürdigkeiten,
+Welt & Geografie, Flaggen, Allgemeinwissen, Film & Serien, Musik, Gaming, Sport,
+Wissenschaft & Natur, Historische Personen. Je 200 Fragen in 10 Kategorien.
+
+Unter „Fragenpakete“ in der App:
+
+- Suchleiste über Frage, Antwort und Kategorie, dazu Filter nach Wert und Status.
+- Einzelne Fragen ausschalten, ändern oder löschen. Die Treffer einer Suche lassen sich auf
+  einmal ausschalten oder löschen.
+- Eigene Fragen und Kategorien hinzufügen, auch mit Bild.
+- Neue Pakete anlegen, Pakete kopieren, als Datei exportieren und importieren.
+- Mitgelieferte Pakete lassen sich jederzeit zurücksetzen.
+
+Viele Fragen auf einmal: „Als Text einfügen“ nimmt Zeilen in diesem Format an.
+
+```
+# Hauptstädte
+1 | Die Hauptstadt von Frankreich. | Paris
+2 | Die Hauptstadt von Kanada. | Ottawa | nicht Toronto
+```
+
+Die erste Zahl ist der Wert (1 bis 5 für 100 bis 500), der letzte Teil ein optionaler Hinweis
+für den Moderator. Eine Kategorie ist spielbar, sobald sie für jeden Wert mindestens eine aktive
+Frage hat. Die mitgelieferten Pakete liegen im selben Format in `client/packs/`.
+
+Die Fragen wurden von Hand geschrieben und geprüft, bei 2600 Stück können trotzdem Fehler dabei
+sein, vor allem bei Creatorn, deren Zahlen sich schnell ändern. Der Moderator hat immer das
+letzte Wort und kann Punkte korrigieren.
+
+## 5. Anti-Cheat
+
+Der Moderator schaltet es in den Regeln ein. Jeder Spieler bekommt dann eine Erklärung und muss
+zustimmen. Wer ablehnt, schaut zu.
+
+Während einer laufenden Runde sendet die App alle 2,5 Sekunden an den Server:
+
+- die Titel der offenen Fenster und die Namen der Programme dazu,
+- ob das Spielfenster im Vordergrund ist und welches Fenster stattdessen vorn liegt,
+- die Anzahl der Bildschirme.
+
+Nur der Moderator sieht das: live im Reiter „Anti-Cheat“ und als Protokoll, das sich als Datei
+speichern lässt. Ereignisse während einer offenen Frage sind markiert. Bildschirminhalte,
+Tastatureingaben und Dateien werden nicht übertragen. In der Lobby und nach dem Spiel wird nichts
+gesendet. Der Server speichert das Protokoll nur im Arbeitsspeicher, bis die Lobby endet.
+
+Grenzen: Ein Handy neben der Tastatur sieht niemand. Browser zeigen nur den Titel des aktiven
+Tabs. Wer im Browser statt in der App spielt, wird nicht überwacht, das zeigt die Lobby an.
+Es ist eine Abschreckung und eine Entscheidungshilfe für den Moderator, kein Beweis.
+
+## 6. Technik in Kürze
+
+- Der Server ist die einzige Wahrheit für Punkte, Buzzer und Zeiten. Die Antworten stehen nur
+  beim Moderator und auf dem Server, nie bei den Spielern.
+- Voice und Kamera: WebRTC direkt zwischen allen Teilnehmern. Bei vielen Spielern senkt die App
+  Auflösung und Bildrate der Kamera automatisch. Bei 15 bis 20 Kameras braucht jeder eine
+  ordentliche Leitung (etwa 2 Mbit/s Upload). Ton allein ist deutlich genügsamer.
+- Tests: `cd server && npm test` prüft die Spiellogik. `node tools/e2e.cjs` spielt mit sechs
+  Browsern eine Runde durch und legt Screenshots ab (braucht `npm install playwright`).

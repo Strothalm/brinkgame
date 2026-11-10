@@ -1,0 +1,23 @@
+name: Windows-App bauen
+on:
+  workflow_dispatch:
+  push:
+    tags: ['v*']
+jobs:
+  build:
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - run: npm ci
+        working-directory: client
+      - run: npm run dist
+        working-directory: client
+      - uses: actions/upload-artifact@v4
+        with:
+          name: Brinkgame-Windows
+          path: |
+            client/release/*.exe
+            client/release/*.zip

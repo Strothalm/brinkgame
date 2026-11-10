@@ -1,0 +1,225 @@
+@id musik
+@name Musik
+@icon 🎵
+@color #b57bff
+@desc Pop, Rock, Deutschrap, Klassik, Instrumente, Bands und Musikgeschichte.
+
+# Popstars international
+1 | Welche Sängerin ist mit der „Eras Tour“ um die Welt gereist? | Taylor Swift
+1 | Welcher „King of Pop“ sang „Thriller“ und „Billie Jean“? | Michael Jackson
+1 | Welche Sängerin heißt mit Spitznamen „Queen B“ und war bei Destiny's Child? | Beyoncé
+1 | Welcher Kanadier wurde als Teenager über YouTube entdeckt und sang „Baby“? | Justin Bieber
+2 | Welcher Brite sang „Shape of You“ und „Perfect“? | Ed Sheeran
+2 | Welche Sängerin aus Barbados sang „Umbrella“ und „Diamonds“? | Rihanna
+2 | Welche Sängerin gewann mit „Bad Guy“ 2020 gleich mehrere Grammys? | Billie Eilish
+2 | Welche Britin nannte ihre Alben „19“, „21“, „25“ und „30“? | Adele
+3 | Welcher Sänger aus Kanada singt „Blinding Lights“? | The Weeknd
+3 | Welche Sängerin trug 2010 ein Kleid aus rohem Fleisch? | Lady Gaga
+3 | Welche Sängerin landete 2021 mit „drivers license“ einen Welthit? | Olivia Rodrigo
+3 | Welche „Queen of Pop“ sang „Like a Virgin“ und „Vogue“? | Madonna
+4 | Welcher Sänger von One Direction veröffentlichte solo „As It Was“? | Harry Styles
+4 | Welche Sängerin sang 2024 den Sommerhit „Espresso“? | Sabrina Carpenter
+4 | Welcher Puertoricaner ist einer der meistgestreamten Künstler der Welt und singt fast nur auf Spanisch? | Bad Bunny
+4 | Welche britische Sängerin mit kosovo-albanischen Wurzeln sang „Levitating“ und „Houdini“? | Dua Lipa
+5 | Welche Sängerin wurde 2024 mit dem Album „The Rise and Fall of a Midwest Princess“ zum Star? | Chappell Roan
+5 | Welcher Sänger nannte sich zeitweise nur noch mit einem Symbol und sang „Purple Rain“? | Prince
+5 | Welche Kolumbianerin sang den WM-Song „Waka Waka“? | Shakira
+5 | Welcher Rapper und Sänger aus Toronto begann als Schauspieler in der Serie „Degrassi“? | Drake
+
+# Rock und Bands
+1 | Welche Band aus Liverpool sang „Hey Jude“ und „Let It Be“? | The Beatles
+1 | Welche Band sang „We Will Rock You“ und „Bohemian Rhapsody“? | Queen
+1 | Welche australische Band sang „Highway to Hell“? | AC/DC
+1 | Wie hieß der Sänger von Queen? | Freddie Mercury
+2 | Welche Band um Mick Jagger hat eine Zunge als Logo? | The Rolling Stones
+2 | Welche Band um Kurt Cobain sang „Smells Like Teen Spirit“? | Nirvana
+2 | Welche britische Band um Chris Martin sang „Viva la Vida“? | Coldplay
+2 | Welche Band sang „Stairway to Heaven“? | Led Zeppelin
+3 | Welche Band veröffentlichte das Album „The Dark Side of the Moon“? | Pink Floyd
+3 | Welche irische Band um Bono sang „With or Without You“? | U2
+3 | Welche Band sang „Sweet Child o' Mine“? | Guns N' Roses
+3 | Welche Metal-Band sang „Enter Sandman“ und „Nothing Else Matters“? | Metallica
+4 | Welche Band aus Hannover sang „Wind of Change“? | Scorpions
+4 | Welche Band um die Brüder Gallagher sang „Wonderwall“? | Oasis
+4 | Welche US-Band sang „Hotel California“? | Eagles
+4 | Welche Band sang „In the End“ und „Numb“? | Linkin Park
+5 | Welcher Gitarrist spielte 1969 in Woodstock die US-Hymne auf der E-Gitarre? | Jimi Hendrix
+5 | Welche Band um Jim Morrison sang „Light My Fire“? | The Doors
+5 | Welche italienische Rockband gewann 2021 den Eurovision Song Contest? | Måneskin
+5 | Welche Band sang „Smoke on the Water“? | Deep Purple
+
+# Deutsche Musik
+1 | Welche Sängerin sang „Atemlos durch die Nacht“? | Helene Fischer
+1 | Welche Berliner Band sang „Westerland“ und nennt sich „die beste Band der Welt“? | Die Ärzte
+1 | Welche Band um Till Lindemann ist für Pyrotechnik bekannt? | Rammstein
+1 | Welcher Sänger aus Bochum sang „Männer“ und „Bochum“? | Herbert Grönemeyer
+2 | Welche Düsseldorfer Band sang „Tage wie diese“? | Die Toten Hosen
+2 | Welche Sängerin sang 1983 „99 Luftballons“? | Nena
+2 | Welche Sängerin gewann 2010 den Eurovision Song Contest mit „Satellite“? | Lena | Lena Meyer-Landrut.
+2 | Welcher Sänger mit Hut sang „Sonderzug nach Pankow“? | Udo Lindenberg
+3 | Welche Band aus Magdeburg sang „Durch den Monsun“? | Tokio Hotel
+3 | Welcher Sänger sang „Ein Hoch auf uns“ zur WM 2014? | Andreas Bourani
+3 | Welche Elektro-Pioniere aus Düsseldorf sangen „Autobahn“ und „Das Model“? | Kraftwerk
+3 | Welcher Sänger aus Österreich sang „Rock Me Amadeus“? | Falco
+4 | Welche Sängerin gewann 1982 mit „Ein bißchen Frieden“ den Grand Prix? | Nicole
+4 | Welche Band aus Bautzen sang „Symphonie“ und „Das Beste“? | Silbermond
+4 | Welcher Sänger machte „Über sieben Brücken musst du gehn“ im Westen bekannt? | Peter Maffay | Das Original stammt von der DDR-Band Karat.
+4 | Welche Band um Campino hieß früher „ZK“? | Die Toten Hosen
+5 | Welche Band um Sängerin Judith Holofernes sang „Nur ein Wort“ und „Denkmal“? | Wir sind Helden
+5 | Welcher Komponist aus Frankfurt schrieb die Filmmusik zu „Der König der Löwen“ und „Interstellar“? | Hans Zimmer
+5 | Welcher Sänger sang 1982 „Major Tom (völlig losgelöst)“? | Peter Schilling
+5 | Welcher Sänger sang 1965 „Marmor, Stein und Eisen bricht“? | Drafi Deutscher
+
+# Deutschrap und Hip-Hop
+1 | Welcher US-Rapper heißt bürgerlich Marshall Mathers? | Eminem
+1 | Welcher Rapper aus Berlin gründete das Label „ersguterjunge“? | Bushido
+1 | Welcher Rapper trägt eine Pandamaske? | Cro
+1 | Welcher US-Rapper gründete die Marke „Yeezy“? | Kanye West | Nennt sich heute „Ye“.
+2 | Welcher Berliner Rapper trägt eine verchromte Totenkopfmaske? | Sido
+2 | Welche Stuttgarter Gruppe sang 1992 „Die da!?!“? | Die Fantastischen Vier
+2 | Welcher Rapper aus Compton gewann 2018 den Pulitzer-Preis? | Kendrick Lamar
+2 | Welcher Rapper sang mit Capital Bra „Tilidin“? | Samra
+3 | Welcher Berliner Rapper sang „Cherry Lady“ und sammelte Nummer-eins-Hits in Serie? | Capital Bra
+3 | Welcher Rapper aus Offenbach nennt sich „Hafti“? | Haftbefehl
+3 | Welche Rapperin sang mit Juju als Duo SXTN? | Nura
+3 | Welcher US-Rapper wurde 1996 in Las Vegas erschossen? | Tupac Shakur | Auch „2Pac“.
+4 | Welcher Rapper nennt sich „der Boss“ und gründete das Label „Alpha Music Empire“? | Kollegah
+4 | Welche Rapperin aus der Schweiz sang „Sonnenbrille“ und „Bonnie & Clyde“? | Loredana
+4 | Welcher Rapper aus Ludwigshafen sang „Roller“ und mit Udo Lindenberg „Komet“? | Apache 207
+4 | Welcher US-Rapper und Produzent gründete Beats Electronics? | Dr. Dre
+5 | Welche Stuttgarter Gruppe um Max Herre sang 1997 „A-N-N-A“? | Freundeskreis
+5 | Welcher Rapper veröffentlichte 2001 das Album „The Blueprint“? | Jay-Z
+5 | Welche Rapgruppe aus New York nannte ihr Debüt „Enter the Wu-Tang (36 Chambers)“? | Wu-Tang Clan
+5 | Welcher Rapper aus Bietigheim-Bissingen landete 2017 mit „Was du Liebe nennst“ einen Rekordhit? | Bausa
+
+# Klassik
+1 | Welcher Komponist schrieb die „Kleine Nachtmusik“? | Wolfgang Amadeus Mozart
+1 | Welcher Komponist schrieb „Für Elise“? | Ludwig van Beethoven
+1 | Wie nennt man ein großes Ensemble aus Streichern, Bläsern und Schlagwerk? | Orchester
+1 | Wie nennt man die Person, die ein Orchester leitet? | Dirigent
+2 | Welcher Komponist schrieb die „Brandenburgischen Konzerte“? | Johann Sebastian Bach
+2 | Wie viele Sinfonien vollendete Beethoven? | Neun
+2 | In welcher Stadt wurde Mozart geboren? | Salzburg
+2 | Welcher Komponist schrieb den „Messias“ mit dem „Halleluja“? | Georg Friedrich Händel
+3 | Welcher Komponist schrieb die Oper „Die Zauberflöte“? | Wolfgang Amadeus Mozart
+3 | Welcher Wiener „Walzerkönig“ schrieb „An der schönen blauen Donau“? | Johann Strauss (Sohn)
+3 | Welcher Italiener schrieb die Opern „Aida“ und „La traviata“? | Giuseppe Verdi
+3 | Welcher Komponist schrieb den „Hochzeitsmarsch“ aus dem „Sommernachtstraum“? | Felix Mendelssohn Bartholdy
+4 | Welcher Pole schrieb fast nur Klavierwerke wie die „Nocturnes“? | Frédéric Chopin
+4 | Welcher Komponist schrieb den „Boléro“? | Maurice Ravel
+4 | In welcher Stadt finden jedes Jahr die Richard-Wagner-Festspiele statt? | Bayreuth
+4 | Welcher Komponist schrieb die Opern „La Bohème“ und „Tosca“? | Giacomo Puccini
+5 | Welcher Komponist schrieb „Clair de Lune“? | Claude Debussy
+5 | Welcher Komponist schrieb die „Unvollendete“ Sinfonie? | Franz Schubert
+5 | Welcher Russe schrieb „Le sacre du printemps“, dessen Uraufführung 1913 einen Skandal auslöste? | Igor Strawinsky
+5 | Welcher Komponist schrieb die „Carmina Burana“? | Carl Orff
+
+# Instrumente und Musiklehre
+1 | Wie viele Saiten hat eine normale Gitarre? | Sechs
+1 | Welches Instrument hat schwarze und weiße Tasten? | Klavier
+1 | Mit welchem Instrument gibt man im Rock den Takt vor? | Schlagzeug
+1 | Welches Blechblasinstrument hat einen Zug statt Ventilen? | Posaune
+2 | Wie viele Saiten hat eine Geige? | Vier
+2 | Wie viele Linien hat ein Notensystem? | Fünf
+2 | Zu welcher Instrumentengruppe gehört das Saxofon? | Holzblasinstrumente
+2 | Wie heißt das größte Streichinstrument im Orchester? | Kontrabass
+3 | Wie viele Tasten hat ein normales Klavier? | 88
+3 | Wie heißt die höchste Gesangsstimme? | Sopran
+3 | Wie heißt die tiefste männliche Gesangsstimme? | Bass
+3 | Wie nennt man acht Töne Abstand, also vom C zum nächsten C? | Oktave
+4 | Was bedeutet die Anweisung „forte“? | Laut
+4 | Was bedeutet die Anweisung „piano“ in der Musik? | Leise
+4 | Wie heißt das australische Blasinstrument der Aborigines? | Didgeridoo
+4 | Wie heißt die Tonleiter aus fünf Tönen? | Pentatonik
+5 | Was bedeutet die Tempoangabe „allegro“? | Schnell | Wörtlich „heiter, lebhaft“.
+5 | Wie heißt das indische Saiteninstrument, das Ravi Shankar berühmt machte? | Sitar
+5 | Wie heißt das elektronische Instrument, das man spielt, ohne es zu berühren? | Theremin
+5 | Wie nennt man das Lauterwerden in der Musik? | Crescendo
+
+# Hits und Ohrwürmer
+1 | Welcher Song aus „Die Eiskönigin“ beginnt auf Deutsch mit „Ich lass los“? | Let It Go
+1 | Welches Kinderlied über eine Hai-Familie wurde zum meistgesehenen YouTube-Video? | Baby Shark
+1 | Welches Weihnachtslied von Wham! kehrt jedes Jahr in die Charts zurück? | Last Christmas
+1 | Welcher Song von Luis Fonsi und Daddy Yankee war 2017 der Sommerhit? | Despacito
+2 | Welcher Südkoreaner tanzte 2012 den Reiter-Tanz zu seinem Welthit? | Psy | Der Song heißt „Gangnam Style“.
+2 | Welches Weihnachtslied von Mariah Carey erreicht jedes Jahr wieder Platz eins? | All I Want for Christmas Is You
+2 | Welcher Song von Pharrell Williams aus „Ich – Einfach unverbesserlich 2“ machte 2014 alle fröhlich? | Happy
+2 | Welcher Hit von Los del Río kam 1996 mit einem Tanz für alle? | Macarena
+3 | Welcher Rick-Astley-Song ist die Grundlage des „Rickroll“-Streichs? | Never Gonna Give You Up
+3 | Welcher Song von Gloria Gaynor ist die Hymne aller Verlassenen? | I Will Survive
+3 | Welcher Song von Journey fordert auf, nicht aufzuhören zu glauben? | Don't Stop Believin'
+3 | Welcher ABBA-Song gewann 1974 den Eurovision Song Contest? | Waterloo
+4 | Welcher Song von a-ha hatte 1985 ein Musikvideo im Bleistiftzeichnungs-Stil? | Take On Me
+4 | Welcher Song von Toto handelt vom Regen in einem ganzen Kontinent? | Africa
+4 | Welcher Song von Europe beginnt mit einer berühmten Keyboard-Fanfare? | The Final Countdown
+4 | Welcher Song der Village People wird mit vier Buchstaben getanzt? | Y.M.C.A.
+5 | Welcher Song von Kate Bush von 1985 wurde 2022 durch „Stranger Things“ erneut ein Welthit? | Running Up That Hill
+5 | Welcher Song von Eiffel 65 ist „blau“ und stammt aus dem Jahr 1998? | Blue (Da Ba Dee)
+5 | Welcher Song von Haddaway fragt 1993, was Liebe ist? | What Is Love
+5 | Welcher Song von O-Zone wurde 2004 als „Numa Numa“ bekannt? | Dragostea din tei
+
+# Musikgeschichte und Rekorde
+1 | Welcher „King of Rock 'n' Roll“ lebte in Graceland? | Elvis Presley
+1 | Wie viele Mitglieder hatten die Beatles? | Vier
+1 | Welche schwedische Band besteht aus Agnetha, Björn, Benny und Anni-Frid? | ABBA
+1 | Wie heißt der wichtigste Musikpreis der USA mit dem Grammophon als Trophäe? | Grammy
+2 | Welches Album von Michael Jackson gilt als meistverkauftes aller Zeiten? | Thriller
+2 | Welcher Beatle wurde 1980 in New York erschossen? | John Lennon
+2 | Welches Festival fand 1969 auf einer Farm im Staat New York statt? | Woodstock
+2 | Welcher Musiksender ging 1981 mit „Video Killed the Radio Star“ auf Sendung? | MTV
+3 | Welcher Reggae-Musiker aus Jamaika sang „No Woman, No Cry“? | Bob Marley
+3 | Wie heißt das berühmte Benefizkonzert von 1985 für Afrika? | Live Aid
+3 | Welche südkoreanische Boyband machte K-Pop weltweit groß? | BTS
+3 | Welches Land hat den Eurovision Song Contest zusammen mit Irland am häufigsten gewonnen? | Schweden | Beide je siebenmal.
+4 | Welches Tonträgerformat kam 1982 auf den Markt und löste die Schallplatte ab? | CD
+4 | In welcher US-Stadt entstand in den 1960ern das Label Motown? | Detroit
+4 | Welcher Jazztrompeter mit rauer Stimme sang „What a Wonderful World“? | Louis Armstrong
+4 | Welcher „Club“ vereint Musiker, die mit 27 Jahren starben, wie Hendrix, Joplin und Cobain? | Club 27
+5 | In welchem New Yorker Stadtteil entstand in den 1970ern der Hip-Hop? | Bronx
+5 | Welche Sängerin hat die meisten Grammys aller Zeiten gewonnen? | Beyoncé
+5 | Welcher Schweizer gewann 2024 den Eurovision Song Contest mit „The Code“? | Nemo
+5 | Welches Format der Fraunhofer-Gesellschaft machte Musikdateien in den 1990ern klein? | MP3
+
+# Filmmusik und Musicals
+1 | Aus welchem Disney-Film stammt „Hakuna Matata“? | Der König der Löwen
+1 | Aus welchem Film stammt der Song „My Heart Will Go On“? | Titanic
+1 | Welches Musical spielt in einem Pariser Opernhaus mit einem maskierten Mann? | Das Phantom der Oper
+1 | Wer singt „Let It Go“ im Film: Anna oder Elsa? | Elsa
+2 | Welcher Komponist schrieb die Musik zu „Star Wars“, „Harry Potter“ und „Indiana Jones“? | John Williams
+2 | Welches Musical erzählt mit ABBA-Songs von einer Hochzeit in Griechenland? | Mamma Mia!
+2 | Welche Sängerin singt den Bond-Song „Skyfall“? | Adele
+2 | Welches Musical handelt von singenden Katzen? | Cats
+3 | Welcher Italiener schrieb die Musik zu „Spiel mir das Lied vom Tod“? | Ennio Morricone
+3 | Welches Musical von Lin-Manuel Miranda erzählt per Hip-Hop von einem US-Gründervater? | Hamilton
+3 | Aus welchem Film stammt der Song „Eye of the Tiger“? | Rocky III
+3 | Welcher Song aus „8 Mile“ brachte Eminem einen Oscar? | Lose Yourself
+4 | Welches Musical spielt im Paris der Revolution von 1832 und heißt auf Deutsch „Die Elenden“? | Les Misérables
+4 | Wer singt „Shallow“ im Film „A Star Is Born“ mit Bradley Cooper? | Lady Gaga
+4 | Welches Musical erzählt die Vorgeschichte der Hexen von Oz? | Wicked
+4 | Welche Band liefert den Soundtrack zum Film „Bohemian Rhapsody“? | Queen
+5 | Welcher Komponist schrieb „Das Phantom der Oper“ und „Cats“? | Andrew Lloyd Webber
+5 | Wer sang den Bond-Song „No Time to Die“? | Billie Eilish
+5 | Aus welchem Film stammt Whitney Houstons „I Will Always Love You“? | Bodyguard
+5 | Welcher Komponist schrieb die Musik zu „Der Herr der Ringe“? | Howard Shore
+
+# Echte Namen und Spitznamen
+1 | Wie lautet der Künstlername von Stefani Germanotta? | Lady Gaga
+1 | Wie nennen sich die Fans von Taylor Swift? | Swifties
+1 | Welcher Rapper nennt sich auch „Slim Shady“? | Eminem
+1 | Welcher Sänger wurde „The King“ genannt? | Elvis Presley
+2 | Wie lautet der Künstlername von Abel Tesfaye? | The Weeknd
+2 | Wie lautet der Künstlername von Paul Würdig? | Sido
+2 | Wie lautet der Künstlername von Reginald Dwight? | Elton John
+2 | Welcher Musiker wurde „The Boss“ genannt? | Bruce Springsteen
+3 | Wie lautet der Künstlername von Anis Ferchichi? | Bushido
+3 | Wie lautet der Künstlername von Robyn Fenty? | Rihanna
+3 | Wie lautet der Künstlername von Farrokh Bulsara? | Freddie Mercury
+3 | Wie lautet der Künstlername von Carlo Waibel? | Cro
+4 | Wie lautet der Künstlername von Shawn Carter? | Jay-Z
+4 | Wie lautet der Künstlername von Aubrey Graham? | Drake
+4 | Wie lautet der Künstlername von Johann Hölzel? | Falco
+4 | Wie lautet der Künstlername von Gordon Sumner? | Sting
+5 | Wie lautet der Künstlername von Wladislaw Balowazki? | Capital Bra
+5 | Wie lautet der Künstlername von Robert Zimmerman? | Bob Dylan
+5 | Wie lautet der Künstlername von Volkan Yaman? | Apache 207
+5 | Wie lautet der Künstlername von David Robert Jones? | David Bowie
