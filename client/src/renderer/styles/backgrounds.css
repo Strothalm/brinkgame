@@ -1,0 +1,48 @@
+/* Photo backgrounds. The photo sits behind everything, a layer in the theme's own background
+   color dims it, and the panels become slightly see-through so the picture stays visible. */
+.backdrop { overflow: hidden; }
+.bg-photo { position: absolute; inset: 0; background-size: cover; background-position: center; will-change: transform; }
+.bg-dim { position: absolute; inset: 0; background: var(--bg); }
+html[data-photo] .backdrop { background: none !important; }
+
+/* panels over a photo */
+html[data-photo] :is(.panel, .modpanel, .join-bar, .server-row, .lobby-row, .lib-card, .preset-list li, .empty, .chat) {
+  background: color-mix(in srgb, var(--panel) 82%, transparent);
+  backdrop-filter: blur(10px);
+}
+html[data-photo] :is(.topbar, .room-foot) {
+  background: color-mix(in srgb, var(--bg2) 84%, transparent);
+  backdrop-filter: blur(10px);
+}
+html[data-photo] :is(.pod, .team-card, .award, .ranking li, .mod-who, .wager, .pack-card, .cam-view) {
+  backdrop-filter: blur(6px);
+}
+html[data-photo] .pod { background: color-mix(in srgb, var(--panel) 78%, transparent); }
+html[data-photo] .pack-card { background: color-mix(in srgb, var(--bg2) 80%, transparent); }
+html[data-photo] .pack-card.on { background: color-mix(in srgb, var(--c) 16%, color-mix(in srgb, var(--bg2) 80%, transparent)); }
+html[data-photo] .tile.used { background: color-mix(in srgb, var(--bg) 35%, transparent); }
+html[data-photo] .home-foot { background: none; }
+
+/* text directly on the photo needs a little help in dark and light themes alike */
+html[data-photo] :is(.home-tag, .turn-banner, .stage-note, .screen-head h1, .list-head h2, .round-tag) { text-shadow: 0 1px 8px color-mix(in srgb, var(--bg) 70%, transparent); }
+html[data-photo] .home-tag, html[data-photo] .home-meta { color: var(--text); opacity: 0.85; }
+
+/* picker */
+.bg-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(8.2rem, 1fr)); gap: 0.5rem; width: 100%; }
+.bg-tile { position: relative; aspect-ratio: 16 / 10; display: flex; align-items: flex-end; border: var(--bw) solid var(--line2); border-radius: var(--radius); background: var(--panel2) center / cover no-repeat; overflow: hidden; text-align: left; }
+.bg-tile span { width: 100%; padding: 1.2rem 0.5rem 0.35rem; font-size: 0.74rem; font-weight: 600; line-height: 1.15; color: #fff; background: linear-gradient(to top, rgba(0, 0, 0, 0.72), transparent); }
+.bg-tile.plain { align-items: center; justify-content: center; }
+.bg-tile.plain span, .bg-tile.own:not([style]) span { background: none; color: var(--muted); text-align: center; padding: 0.4rem; font-size: 0.8rem; }
+.bg-tile.own:not([style]) { align-items: center; border-style: dashed; }
+.bg-tile:hover { border-color: var(--accent); }
+.bg-tile.on { border-color: var(--accent); box-shadow: 0 0 0 2px var(--accent); }
+.bg-tile.on::after { content: '✓'; position: absolute; top: 0.3rem; right: 0.3rem; display: grid; place-items: center; width: 1.2rem; height: 1.2rem; border-radius: 50%; background: var(--accent); color: var(--accent-ink); font-size: 0.75rem; font-weight: 700; }
+
+/* settings and editor text sits on a soft panel so it stays readable */
+html[data-photo] .settings-body, html[data-photo] .editor-body .q-panel, html[data-photo] .editor-body .cat-list {
+  padding: 1.25rem; border-radius: var(--radius-lg);
+  background: color-mix(in srgb, var(--panel) 82%, transparent); backdrop-filter: blur(10px);
+}
+html[data-photo] .editor-body .q-panel, html[data-photo] .editor-body .cat-list { padding: 1rem; }
+html[data-photo] .settings-body { max-width: 44rem; }
+.logo.xl { gap: 0.4em; }

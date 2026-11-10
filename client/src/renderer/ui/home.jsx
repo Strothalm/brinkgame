@@ -5,6 +5,7 @@ import * as act from '../actions.js';
 import { Btn, Icon, Logo, Field, Toggle, Modal, Empty } from './common.jsx';
 
 export const THEMES = [
+  { id: 'schlicht', name: 'Schlicht', desc: 'Ruhig, grau, ohne Effekte' },
   { id: 'neon', name: 'Neon', desc: 'Dunkel, Leuchtkanten, scharfe Ecken' },
   { id: 'studio', name: 'Studio', desc: 'Abendshow in Blau und Gold' },
   { id: 'papier', name: 'Papier', desc: 'Hell, ruhig, wie gedruckt' },

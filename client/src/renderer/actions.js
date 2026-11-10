@@ -41,7 +41,12 @@ export async function init() {
 }
 
 export function applyTheme() {
-  document.documentElement.dataset.theme = S.settings.theme;
+  const root = document.documentElement;
+  root.dataset.theme = S.settings.theme;
+  const bg = S.settings.bg;
+  const photo = bg && bg.id !== 'none' && (bg.id !== 'custom' || bg.custom);
+  if (photo) root.dataset.photo = '1';
+  else delete root.dataset.photo;
 }
 
 export function saveSettings() {

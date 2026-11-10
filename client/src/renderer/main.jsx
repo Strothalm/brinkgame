@@ -4,7 +4,9 @@ import './styles/base.css';
 import './styles/screens.css';
 import './styles/game.css';
 import './styles/themes.css';
+import './styles/backgrounds.css';
 import { S, useStore, closeModal } from './store.js';
+import { bgUrl } from './backgrounds.js';
 import { init } from './actions.js';
 import { Toasts, Modal, Btn } from './ui/common.jsx';
 import { Home, Servers, Browser } from './ui/home.jsx';
@@ -56,6 +58,17 @@ function ModalHost() {
   }
 }
 
+function Backdrop() {
+  const bg = S.settings.bg;
+  const url = bgUrl(bg);
+  return (
+    <div class="backdrop" aria-hidden="true">
+      {url && <div class="bg-photo" style={{ backgroundImage: `url("${url}")`, filter: bg.blur ? `blur(${bg.blur}px)` : 'none', transform: bg.blur ? `scale(${1 + bg.blur / 120})` : 'none' }} />}
+      {url && <div class="bg-dim" style={{ opacity: bg.dim / 100 }} />}
+    </div>
+  );
+}
+
 function App() {
   useStore();
   if (!S.ready) return <div class="screen center" />;
@@ -70,7 +83,7 @@ function App() {
   }
   return (
     <div class="app">
-      <div class="backdrop" aria-hidden="true" />
+      <Backdrop />
       {screen}
       <ModalHost />
       <Toasts />

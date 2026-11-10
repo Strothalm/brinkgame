@@ -35,6 +35,12 @@ function copyStatic() {
   for (const f of fs.readdirSync(flagsSrc)) {
     if (f.endsWith('.svg')) fs.copyFileSync(path.join(flagsSrc, f), path.join(flagsDst, f));
   }
+  const bgSrc = path.join(root, 'src/renderer/backgrounds');
+  if (fs.existsSync(bgSrc)) {
+    const bgDst = path.join(dist, 'backgrounds');
+    fs.mkdirSync(bgDst, { recursive: true });
+    for (const f of fs.readdirSync(bgSrc)) fs.copyFileSync(path.join(bgSrc, f), path.join(bgDst, f));
+  }
   const icon = path.join(root, 'build/icon.png');
   if (fs.existsSync(icon)) fs.copyFileSync(icon, path.join(dist, 'icon.png'));
 }

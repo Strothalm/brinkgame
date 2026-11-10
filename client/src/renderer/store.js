@@ -1,7 +1,8 @@
 import { useEffect, useReducer } from 'preact/hooks';
 
 export const DEFAULT_SETTINGS = {
-  theme: 'neon',
+  theme: 'schlicht',
+  bg: { id: 'wald-lichtung', dim: 45, blur: 0, custom: '' }, // 'none' = nur die Farbe des Designs, 'custom' = eigenes Bild
   sfx: true,
   sfxVolume: 60,
   audio: {

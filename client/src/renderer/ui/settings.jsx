@@ -1,6 +1,8 @@
 import { useEffect, useRef, useState } from 'preact/hooks';
-import { S, go, emit } from '../store.js';
+import { S, go, emit, toast } from '../store.js';
 import * as act from '../actions.js';
+import { BACKGROUNDS, BG_CREDITS, bgThumb } from '../backgrounds.js';
+import { pickFile, imageToDataUrl } from '../packs.js';
 import * as rtc from '../rtc.js';
 import { sfx } from '../sfx.js';
 import { Btn, Field, Toggle, Seg, Slider, Modal } from './common.jsx';
@@ -67,6 +69,53 @@ function CamPreview() {
   return <video class={`cam-preview ${S.settings.video.mirror ? 'mirror' : ''}`} ref={ref} autoplay muted playsInline />;
 }
 
+function BackgroundPicker() {
+  const bg = S.settings.bg;
+  const set = (patch) => {
+    S.settings.bg = { ...bg, ...patch };
+    act.saveSettings();
+  };
+  const custom = async () => {
+    const file = await pickFile('image/*');
+    if (!file) return;
+    try {
+      set({ id: 'custom', custom: await imageToDataUrl(file, 1920) });
+    } catch {
+      toast('Das Bild konnte nicht gelesen werden.', 'bad');
+    }
+  };
+  const photo = bg.id !== 'none' && (bg.id !== 'custom' || bg.custom);
+  return (
+    <>
+      <Field label="Hintergrund" hint="Nur für dich. Jeder wählt seinen eigenen.">
+        <div class="bg-grid">
+          <button type="button" class={`bg-tile plain ${bg.id === 'none' ? 'on' : ''}`} onClick={() => set({ id: 'none' })}>
+            <span>Nur Farbe</span>
+          </button>
+          {BACKGROUNDS.map((b) => (
+            <button type="button" key={b.id} class={`bg-tile ${bg.id === b.id ? 'on' : ''}`} style={{ backgroundImage: `url("${bgThumb(b.id)}")` }} onClick={() => set({ id: b.id })} title={b.name} aria-label={b.name}>
+              <span>{b.name}</span>
+            </button>
+          ))}
+          <button type="button" class={`bg-tile own ${bg.id === 'custom' ? 'on' : ''}`} style={bg.custom ? { backgroundImage: `url("${bg.custom}")` } : undefined} onClick={custom} title="Eigenes Bild von diesem PC">
+            <span>{bg.custom ? 'Eigenes Bild ändern' : 'Eigenes Bild …'}</span>
+          </button>
+        </div>
+      </Field>
+      {photo && (
+        <>
+          <Field label="Abdunkeln" hint="Mehr Abdunkeln macht Texte besser lesbar.">
+            <Slider value={bg.dim} min={0} max={90} onChange={(dim) => set({ dim })} />
+          </Field>
+          <Field label="Unschärfe">
+            <Slider value={bg.blur} min={0} max={20} suffix=" px" onChange={(blur) => set({ blur })} />
+          </Field>
+        </>
+      )}
+    </>
+  );
+}
+
 function DesignTab() {
   const s = S.settings;
   return (
@@ -74,6 +123,7 @@ function DesignTab() {
       <Field label="Design" hint="Wechselt sofort, auch mitten in der Runde. Jeder stellt es für sich ein.">
         <ThemeSwitch />
       </Field>
+      <BackgroundPicker />
       <Toggle
         checked={s.sfx}
         onChange={(v) => {
@@ -100,6 +150,7 @@ function DesignTab() {
           <Btn icon="monitor" onClick={() => window.brink.app.toggleFullscreen()}>Vollbild umschalten (F11)</Btn>
         </Field>
       )}
+      <p class="muted small">{BG_CREDITS}</p>
     </>
   );
 }

@@ -33,6 +33,9 @@
 .theme-switch.compact .theme-chip { display: flex; gap: 0.5rem; padding: 0.35rem 0.7rem 0.35rem 0.35rem; }
 .theme-switch.compact .theme-swatch { width: 1.8rem; height: 1.3rem; }
 .theme-switch.compact .theme-name { font-size: 0.82rem; }
+[data-preview='schlicht'] .theme-swatch i:nth-child(1) { background: #21252b; }
+[data-preview='schlicht'] .theme-swatch i:nth-child(2) { background: #2a3a55; }
+[data-preview='schlicht'] .theme-swatch i:nth-child(3) { background: #4d8fe8; }
 [data-preview='neon'] .theme-swatch i:nth-child(1) { background: #06070c; }
 [data-preview='neon'] .theme-swatch i:nth-child(2) { background: #19e3ff; }
 [data-preview='neon'] .theme-swatch i:nth-child(3) { background: #ff2d87; }

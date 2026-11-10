@@ -102,6 +102,17 @@ gibt es keine Teams. Der Sprachkanal ist immer für alle offen.
 **Voreinstellungen:** Regeln und Paketauswahl lassen sich unter einem Namen speichern und später
 mit einem Klick laden.
 
+## 3b. Aussehen
+
+Unter Einstellungen → Design wählt jeder für sich:
+
+- ein **Design**: Schlicht (Standard, ruhig und grau), Neon, Studio, Papier oder Arcade,
+- einen **Hintergrund**: Wald, Berge, Strand, Stadt bei Nacht, Sternenhimmel oder ein eigenes Bild
+  von deinem PC. „Nur Farbe" schaltet das Foto aus. Abdunkeln und Unschärfe sind einstellbar.
+
+Die Fotos stammen von Unsplash (Unsplash-Lizenz: frei nutzbar, keine Namensnennung nötig).
+Fotografen, soweit bekannt, stehen unter dem Reiter in der App.
+
 ## 4. Fragenpakete
 
 Mitgeliefert: YouTuber, Streamer & Twitch, Influencer & Social Media, Orte & Sehenswürdigkeiten,

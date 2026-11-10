@@ -1,6 +1,47 @@
 /* Four complete looks. Each one changes type, shapes, surfaces and motion, not only colors. */
 
 /* =====================================================================
+   SCHLICHT: ruhig und unauffällig, Systemschrift, keine Leuchteffekte
+   ===================================================================== */
+[data-theme='schlicht'] {
+  --bg: #15171b; --bg2: #1b1e23; --panel: #21252b; --panel2: #292e36;
+  --line: #2f353e; --line2: #444c58;
+  --text: #eceff3; --muted: #9ba4b0;
+  --accent: #4d8fe8; --accent-ink: #ffffff; --accent2: #e0a43a;
+  --good: #3fb27f; --bad: #e5534b; --warn: #e3a008;
+  --tile-bg: #2a3a55; --tile-ink: #ffffff; --cat-bg: #343b47; --cat-ink: #ffffff;
+  --clue-bg: #232a38; --clue-ink: #ffffff;
+  --font-display: 'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', Roboto, Arial, sans-serif;
+  --font-body: 'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', Roboto, Arial, sans-serif;
+  --font-mono: Consolas, 'Cascadia Mono', ui-monospace, monospace;
+  --font-clue: var(--font-body);
+  --display-case: none; --display-track: 0;
+  --radius: 8px; --radius-lg: 12px; --bw: 1px;
+  --shadow: 0 8px 24px rgba(0, 0, 0, 0.35);
+}
+[data-theme='schlicht'] .backdrop { background: var(--bg); }
+[data-theme='schlicht'] h1 { font-size: 1.5rem; font-weight: 600; }
+[data-theme='schlicht'] h2 { font-size: 1.1rem; font-weight: 600; }
+[data-theme='schlicht'] h3 { font-size: 0.8rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; }
+[data-theme='schlicht'] .label, [data-theme='schlicht'] .tag, [data-theme='schlicht'] .round-tag { font-family: var(--font-body); letter-spacing: 0.02em; text-transform: none; font-size: 0.75rem; }
+[data-theme='schlicht'] .btn { font-weight: 600; font-size: 0.92rem; }
+[data-theme='schlicht'] .logo { font-weight: 700; letter-spacing: 0.02em; }
+[data-theme='schlicht'] .logo-mark i { border-radius: 3px; opacity: 1; background: #4a5260; }
+[data-theme='schlicht'] .logo-mark i:nth-child(2) { background: var(--accent); }
+[data-theme='schlicht'] .logo-word b { font-weight: 700; color: var(--accent); }
+[data-theme='schlicht'] .tile { font-weight: 600; border: 0; background: var(--tile-bg); box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.08); animation: none; font-size: clamp(1.3rem, 6.4cqh, 3.6rem); }
+[data-theme='schlicht'] .board.pickable .tile:not(.used):hover { background: #355283; transform: none; box-shadow: inset 0 0 0 2px var(--accent); }
+[data-theme='schlicht'] .tile.used { background: transparent; box-shadow: inset 0 0 0 1px var(--line); }
+[data-theme='schlicht'] .board-cat { border: 0; background: var(--cat-bg); }
+[data-theme='schlicht'] .cat-title { font-weight: 600; font-size: clamp(0.8rem, 2.4cqh, 1.25rem); }
+[data-theme='schlicht'] .clue-text { font-weight: 500; }
+[data-theme='schlicht'] .clue-card { border: 0; box-shadow: var(--shadow); }
+[data-theme='schlicht'] .buzzer.open { animation: none; box-shadow: 0 0.3rem 0 color-mix(in srgb, var(--bad) 55%, #000); }
+[data-theme='schlicht'] .dd-splash { font-weight: 700; text-transform: none; letter-spacing: -0.01em; }
+[data-theme='schlicht'] .rank-score, [data-theme='schlicht'] .pod-score, [data-theme='schlicht'] .clue-val { font-weight: 600; }
+[data-theme='schlicht'] .seg button.on { color: #fff; }
+
+/* =====================================================================
    NEON: dark control room, cut corners, thin glowing lines
    ===================================================================== */
 [data-theme='neon'] {
