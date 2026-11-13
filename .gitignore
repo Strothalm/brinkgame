@@ -4,3 +4,4 @@ client/release/
 client/src/renderer/builtin-packs.json
 shots/
 deploy/.env
+VERBINDUNG.txt

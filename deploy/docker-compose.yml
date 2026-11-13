@@ -1,5 +1,12 @@
-# Brinkgame auf einem eigenen Server: Spielserver, TLS (Caddy) und TURN (coturn) für Voice und Kamera.
-# Start:  cp .env.example .env  →  Werte eintragen  →  docker compose up -d --build
+# Brinkgame auf einem eigenen Server: Spielserver und TURN (coturn) für Sprache und Kamera.
+# TLS über Caddy ist optional und nur nötig, wenn ihr eine Domain habt.
+#
+# Ohne Domain (nur IP):   cp .env.example .env  →  PUBLIC_IP und TURN_SECRET eintragen
+#                         docker compose up -d --build
+#                         In der App als Server die IP eintragen, z. B. 203.0.113.10
+# Mit Domain (HTTPS):     zusätzlich DOMAIN und HTTP_BIND=127.0.0.1 in .env eintragen
+#                         docker compose --profile https up -d --build
+#                         In der App als Server die Domain eintragen, z. B. brink.example.de
 services:
   brinkgame:
     build:
@@ -10,20 +17,23 @@ services:
       SERVER_NAME: ${SERVER_NAME:-Brinkgame Server}
       SERVER_PASSWORD: ${SERVER_PASSWORD:-}
       MAX_LOBBIES: ${MAX_LOBBIES:-50}
-      STUN_URLS: stun:${DOMAIN}:3478
-      TURN_URLS: turn:${DOMAIN}:3478?transport=udp,turn:${DOMAIN}:3478?transport=tcp
+      # Ohne Domain wird die IP-Adresse für STUN und TURN benutzt
+      STUN_URLS: stun:${DOMAIN:-${PUBLIC_IP}}:3478
+      TURN_URLS: turn:${DOMAIN:-${PUBLIC_IP}}:3478?transport=udp,turn:${DOMAIN:-${PUBLIC_IP}}:3478?transport=tcp
       TURN_SECRET: ${TURN_SECRET}
-    expose:
-      - "8787"
+    ports:
+      # Standard: von außen erreichbar (Betrieb ohne Domain). Mit Caddy auf 127.0.0.1 stellen.
+      - "${HTTP_BIND:-0.0.0.0}:8787:8787"
 
   caddy:
     image: caddy:2
+    profiles: ["https"]
     restart: unless-stopped
     ports:
       - "80:80"
       - "443:443"
     environment:
-      DOMAIN: ${DOMAIN}
+      DOMAIN: ${DOMAIN:-}   # Pflicht, sobald das Profil "https" benutzt wird
     volumes:
       - ./Caddyfile:/etc/caddy/Caddyfile:ro
       - caddy_data:/data
@@ -41,7 +51,7 @@ services:
       - --fingerprint
       - --use-auth-secret
       - --static-auth-secret=${TURN_SECRET}
-      - --realm=${DOMAIN}
+      - --realm=${DOMAIN:-${PUBLIC_IP}}
       - --external-ip=${PUBLIC_IP}
       - --min-port=49160
       - --max-port=49400

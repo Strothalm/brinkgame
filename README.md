@@ -44,36 +44,83 @@ cd ../server && npm install && npm start
 Der Server hört auf Port 8787. In der App als Adresse `IP-des-PCs:8787` eintragen.
 Im selben Netz funktionieren Voice und Kamera ohne weitere Einrichtung.
 
-### Dauerhaft auf einem Server (z. B. Hetzner Cloud)
+### Dauerhaft auf einem Server: ein Befehl
 
+Auf einem Linux-Server (egal bei welchem Anbieter) den Quellcode entpacken, in den Ordner
+wechseln und eingeben:
+
+```bash
+sudo bash install-server.sh
+```
+
+Das Skript installiert Docker, erkennt die IP-Adresse, erzeugt alle Schlüssel, öffnet die
+Ports auf dem Server (wenn dort eine Firewall läuft), startet alles und schreibt am Ende die
+**Verbindungsdaten** in die Konsole und in die Datei `VERBINDUNG.txt`. Es muss nichts
+konfiguriert werden. Das erste Mal dauert es einige Minuten, weil der Server gebaut wird.
+
+Danach in der App unter „Server hinzufügen" die angezeigte Adresse eintragen.
+
+Optionen: `--domain brink.example.de` (HTTPS), `--no-domain`, `--password GEHEIM`,
+`--name "Mein Server"`, `--remove` (stoppt und entfernt den Server). Erneut ausführen ist
+ungefährlich, Einstellungen und Schlüssel bleiben erhalten.
+
+Wichtig: Eine Firewall **beim Anbieter** (zum Beispiel im Webpanel) kann das Skript nicht
+ändern. Die offenen Ports stehen in der Ausgabe des Skripts.
+
+Wer lieber von Hand arbeitet, findet die einzelnen Schritte hier:
+
+### Dauerhaft auf einem Server von Hand (Docker, mit oder ohne Domain)
+
+Gilt für jeden Linux-Server, egal bei welchem Anbieter (Hetzner, NovaCloud, eigener Rechner).
 Ein kleiner Server reicht (2 vCPU, 4 GB RAM). Voice und Kamera laufen direkt zwischen den
 Spielern. Der Server vermittelt nur, und über TURN läuft der Verkehr der Spieler, die sich nicht
 direkt erreichen.
 
-1. Server mit Ubuntu anlegen, Docker installieren: `curl -fsSL https://get.docker.com | sh`
-2. Eine (Sub-)Domain per A-Eintrag auf die IP des Servers zeigen lassen, z. B. `brink.example.de`.
-3. Firewall (Hetzner Cloud Firewall oder `ufw`) öffnen:
+**Eine Domain ist nicht nötig.** Die Windows-App verbindet sich auch direkt mit der IP-Adresse
+des Servers. Eine Domain mit HTTPS braucht man nur, wenn jemand im **Browser** (z. B. iPad) mit
+Mikrofon und Kamera spielen soll, denn Browser erlauben beides nur über HTTPS.
 
-   | Port | Protokoll | Zweck |
-   |---|---|---|
-   | 80, 443 | TCP | Spielserver mit TLS |
-   | 3478 | TCP und UDP | TURN |
-   | 49160 bis 49400 | UDP | TURN-Medienports |
+1. Linux-Server mit Docker: `curl -fsSL https://get.docker.com | sh`
+2. Firewall (beim Anbieter oder `ufw`) öffnen:
 
-4. Projekt auf den Server kopieren, dann:
+   | Port | Protokoll | Zweck | Wann |
+   |---|---|---|---|
+   | 8787 | TCP | Spielserver | ohne Domain |
+   | 80, 443 | TCP | Spielserver mit HTTPS | mit Domain |
+   | 3478 | TCP und UDP | TURN (Sprache und Kamera) | immer |
+   | 49160 bis 49400 | UDP | TURN-Medienports | immer |
+
+3. Projekt auf den Server kopieren und Einstellungen anlegen:
 
    ```bash
    cd deploy
    cp .env.example .env
-   nano .env            # DOMAIN, PUBLIC_IP, TURN_SECRET (openssl rand -hex 32) eintragen
+   openssl rand -hex 32     # Ausgabe als TURN_SECRET verwenden
+   nano .env                # PUBLIC_IP und TURN_SECRET eintragen
+   ```
+
+4. Starten, **ohne Domain**:
+
+   ```bash
    docker compose up -d --build
    ```
 
-5. In der App als Adresse nur die Domain eintragen, z. B. `brink.example.de`.
+   In der App als Server nur die IP eintragen, z. B. `203.0.113.10`. Der Port 8787 wird
+   automatisch ergänzt. Im Browser läuft die Oberfläche dann unter `http://203.0.113.10:8787`,
+   dort ohne Mikrofon und Kamera.
 
-Caddy holt das TLS-Zertifikat selbst. `https://brink.example.de` zeigt zusätzlich die
-Web-Oberfläche: Damit kann man ohne Installation im Browser mitspielen oder einen
-Gastgeber-Bildschirm am Fernseher öffnen. Im Browser gibt es kein Anti-Cheat.
+   **Mit Domain (HTTPS):** Die Domain per A-Eintrag auf die IP zeigen lassen. In `.env` die
+   Zeilen `DOMAIN=…` und `HTTP_BIND=127.0.0.1` einkommentieren und ausfüllen, dann starten mit:
+
+   ```bash
+   docker compose --profile https up -d --build
+   ```
+
+   In der App als Server die Domain eintragen, z. B. `brink.example.de`. Caddy holt das
+   Zertifikat selbst. Im Browser gehen dann auch Mikrofon und Kamera.
+
+Prüfen: `docker compose ps` zeigt die laufenden Dienste, `docker compose logs brinkgame` das
+Protokoll. Im Browser gibt es kein Anti-Cheat.
 
 Mehrere Server: Jeder Server ist unabhängig. In der App lassen sich beliebig viele eintragen.
 
