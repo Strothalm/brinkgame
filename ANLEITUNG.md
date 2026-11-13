@@ -51,17 +51,18 @@ Zurück zum Betrieb nur mit IP: `sudo bash install-server.sh --no-domain`
 
 ---
 
-## Schritt 3: Neue Windows-App
+## Schritt 3: Neue Windows-App (Version 1.1.0)
 
-Die App unter `windows-exe` auf GitHub ist noch der **alte Stand**. Sie kennt die Schwierigkeitsauswahl und
-das neue Layout nicht. Die neue exe ist noch nicht gebaut. Sag mir „exe bauen“, dann baue ich sie und lege sie
-auf GitHub. Bis dahin kannst du im Browser spielen (siehe unten), nur ohne Anti-Cheat.
+Die neue App liegt auf GitHub im Branch **windows-exe**: Datei `Brinkgame-1.1.0-portable.exe`
+(https://github.com/Strothalm/brinkgame/tree/windows-exe).
 
-Wenn die neue exe da ist:
-1. Auf GitHub den Branch `windows-exe` öffnen und die ZIP-Datei oder die exe herunterladen.
+1. Die Datei anklicken, dann **Download** (oder **Raw**) wählen. Die Datei ist 87 MB groß.
 2. Die alte App schließen und die neue starten. Windows warnt, weil die exe nicht signiert ist:
    **Weitere Informationen**, dann **Trotzdem ausführen**.
 3. In der App den Server eintragen (IP oder Domain). Du brauchst nichts neu einzurichten.
+
+Ob die Version stimmt, siehst du unten auf der Startseite (1.1.0). Die alte Datei `Brinkgame-1.0.0-portable.exe`
+ist auf dem Branch nicht mehr enthalten.
 
 ---
 
