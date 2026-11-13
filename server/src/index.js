@@ -17,6 +17,7 @@ const MIME = {
   '.woff2': 'font/woff2',
   '.woff': 'font/woff',
   '.map': 'application/json',
+  '.webmanifest': 'application/manifest+json',
 };
 
 export function createServer(options = {}) {

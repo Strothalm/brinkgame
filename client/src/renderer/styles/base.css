@@ -55,6 +55,9 @@ body {
 }
 
 #app, .app { height: 100%; }
+#app { padding: env(safe-area-inset-top) env(safe-area-inset-right) env(safe-area-inset-bottom) env(safe-area-inset-left); box-sizing: border-box; }
+@supports (height: 100dvh) { html, body { height: 100dvh; } }
+button, .btn { touch-action: manipulation; }
 .app { position: relative; display: flex; flex-direction: column; isolation: isolate; }
 .backdrop { position: absolute; inset: 0; z-index: -1; pointer-events: none; }
 

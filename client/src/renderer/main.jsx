@@ -5,6 +5,7 @@ import './styles/screens.css';
 import './styles/game.css';
 import './styles/themes.css';
 import './styles/backgrounds.css';
+import './styles/mobile.css';
 import { S, useStore, closeModal } from './store.js';
 import { bgUrl } from './backgrounds.js';
 import { init } from './actions.js';

@@ -43,6 +43,8 @@ function copyStatic() {
   }
   const icon = path.join(root, 'build/icon.png');
   if (fs.existsSync(icon)) fs.copyFileSync(icon, path.join(dist, 'icon.png'));
+  const pwa = path.join(root, 'src/renderer/pwa');
+  for (const f of fs.readdirSync(pwa)) fs.copyFileSync(path.join(pwa, f), path.join(dist, f));
 }
 
 copyStatic();

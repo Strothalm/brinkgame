@@ -127,6 +127,23 @@ Mehrere Server: Jeder Server ist unabhängig. In der App lassen sich beliebig vi
 Einstellungen des Servers (Umgebungsvariablen): `PORT`, `SERVER_NAME`, `SERVER_PASSWORD`,
 `MAX_LOBBIES`, `STUN_URLS`, `TURN_URLS`, `TURN_SECRET` (oder `TURN_USER` und `TURN_PASS`).
 
+## 2b. iPhone und iPad
+
+Eine native iOS-App gibt es nicht (dafür bräuchte man einen Mac mit Xcode und ein Apple-Entwicklerkonto).
+Stattdessen läuft Brinkgame im Safari-Browser und lässt sich wie eine App auf den Home-Bildschirm legen.
+
+1. Server mit **Domain und HTTPS** betreiben (siehe oben, `install-server.sh` mit Domain). Safari erlaubt
+   Mikrofon und Kamera nur über HTTPS. Ohne HTTPS kann man mitspielen, aber weder sprechen noch senden.
+2. Auf dem iPhone oder iPad die Adresse des Servers in **Safari** öffnen.
+3. Teilen-Symbol, dann **Zum Home-Bildschirm**. Brinkgame startet danach im Vollbild mit eigenem Symbol.
+4. Beim ersten Beitritt Mikrofon und Kamera erlauben. Ton startet erst nach dem ersten Tippen
+   (Einschränkung von iOS).
+
+Das Layout passt sich Handy und Tablet im Hochformat an: Das Board scrollt seitlich, Spieler und Regeln
+stehen untereinander, die Kameras laufen als Leiste unten. Geprüft ist das mit iPhone- und iPad-Emulation
+(`node tools/e2e-mobile.cjs`), nicht auf einem echten Gerät. Anti-Cheat gibt es im Browser nicht. Der
+Moderator sieht in der Lobby, wer im Browser spielt.
+
 ## 3. So läuft eine Runde
 
 1. Namen eingeben, Server wählen, Lobby erstellen. Wer die Lobby erstellt, moderiert.

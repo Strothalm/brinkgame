@@ -1,0 +1,52 @@
+/* Handy und Tablet im Hochformat (iPhone, iPad). Der Desktop-Aufbau bleibt unverändert. */
+.room { grid-template-columns: minmax(0, 1fr); }
+.app { min-width: 0; overflow: hidden; }
+
+@media (max-width: 900px) {
+  html { font-size: 14px; }
+  .topbar { flex-wrap: wrap; gap: 0.4rem 0.7rem; padding: 0.4rem 0.7rem; min-height: 0; }
+  .topbar-lobby { padding-left: 0.6rem; flex: 1 1 8rem; }
+  .screen { padding: 1rem 0.9rem 1.5rem; }
+  .screen-head { grid-template-columns: 1fr; justify-items: start; gap: 0.5rem; }
+  .screen-head h1 { text-align: left; }
+  .home-row, .q-form-row { grid-template-columns: 1fr; }
+  .home-foot { flex-direction: column; align-items: flex-start; }
+  .editor-body { grid-template-columns: 1fr; }
+  .q-main { grid-template-columns: 1fr; }
+  .final-row { grid-template-columns: 1fr; }
+  .pack-grid, .lib-grid, .ac-summary { grid-template-columns: 1fr; }
+  .modal { width: 100%; max-height: calc(100dvh - 1.5rem); }
+
+  /* Lobby: Spieler und Einstellungen untereinander, die Seite scrollt */
+  .room-main { overflow-y: auto; overflow-x: hidden; -webkit-overflow-scrolling: touch; }
+  .lobby { align-self: flex-start; grid-auto-rows: max-content; grid-template-columns: minmax(0, 1fr); padding: 0.7rem; gap: 0.7rem; min-height: auto; flex: none; width: 100%; box-sizing: border-box; }
+  .lobby > * { min-width: 0; max-height: none; height: auto; overflow: visible; }
+  .lobby .panel-body, .lobby .panel-scroll { overflow: visible; max-height: none; }
+
+  /* Spiel: Bühne oben, Moderator-Panel darunter */
+  .room.playing .room-main { flex-direction: column; padding: 0.6rem; gap: 0.6rem; }
+  .stage { flex: none; min-height: 0; }
+  .board-wrap { flex: none; }
+  .board { flex: none; min-height: 50dvh; }
+  .clue-stage { flex: none; }
+  .clue-card { flex: none; min-height: 32dvh; }
+  .modpanel { width: auto; flex: none; max-height: none; }
+  .board { overflow-x: auto; grid-template-columns: repeat(var(--cols), minmax(5.6rem, 1fr)); -webkit-overflow-scrolling: touch; }
+  .turn-banner { flex-wrap: wrap; gap: 0.3rem 0.7rem; font-size: 0.95rem; }
+  .clue-card { padding: 1rem 0.9rem; }
+  .clue-text { max-width: 100%; overflow-wrap: anywhere; }
+  .judge { grid-template-columns: 1fr 1fr; }
+
+  /* Kameraleiste unten: Bedienknöpfe in einer Reihe, Kameras scrollen seitlich */
+  .room-foot { flex-direction: column; gap: 0.4rem; padding: 0.4rem 0.6rem; min-height: 0; }
+  .voicebar { display: flex; flex-wrap: wrap; align-items: center; gap: 0.4rem; padding: 0 0 0.4rem; border-right: 0; border-bottom: var(--bw) solid var(--line); }
+  .voicebar .btn.round { --ctl-h: 2.6rem; }
+  .voicebar-note { max-width: none; text-align: left; grid-column: auto; margin-left: auto; }
+  .voicebar .btn.round { --ctl-h: 2.4rem; }
+  .podium { --cam-w: 4.6rem; overflow-x: auto; }
+  .podium.n-m, .podium.n-l { --cam-w: 4rem; }
+  .pod-list { flex-wrap: nowrap; justify-content: flex-start; max-height: none; overflow-y: hidden; overflow-x: auto; }
+  .pod { flex: none; }
+  .btn, button, input, select { min-height: 2.6rem; }
+}
+
