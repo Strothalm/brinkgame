@@ -220,3 +220,7 @@
 .cam.big { --cam-w: 11.5rem; }
 .cam.big .cam-name { display: none; }
 .podium.n-l .cam .avatar.lg { width: 1.9rem; height: 1.9rem; font-size: 0.75rem; }
+
+.answering-cams { display: flex; gap: 0.5rem; align-items: center; }
+.stage-note.turn { font-size: 1.15rem; color: var(--text); justify-content: center; text-align: center; min-height: 5rem; }
+.stage-note.turn.mine { color: var(--accent); font-weight: 600; }

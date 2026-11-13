@@ -129,7 +129,11 @@ async function connect(page, code) {
     // play all 15 clues
     let dd = 0;
     for (let i = 0; i < 15; i++) {
-      await mod.click('.tile:not(.used) >> nth=0');
+      await mod.click('.tile:not(.used) >> nth=0', { timeout: 8000 }).catch(async (e) => {
+        await shot(mod, `fehler-feld-${i}`);
+        console.log('Feld', i, 'Phase:', await mod.evaluate(() => document.querySelector('.modpanel')?.innerText.slice(0, 200)));
+        throw e;
+      });
       await sleep(250);
       if (await mod.locator('.dd').count()) {
         dd++;

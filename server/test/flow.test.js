@@ -121,7 +121,7 @@ test('lobby: roles, mixed teams and solo players', async (t) => {
 });
 
 test('game: pick, buzz, judge, rebuzz and scores for team and solo', async (t) => {
-  const { mod, a, b, c } = await setup(t, { rounds: 1, cols: 3, dailyDoubles: false, final: false, buzzTime: 0 });
+  const { mod, a, b, c } = await setup(t, { answerMode: 'buzzer', rounds: 1, cols: 3, dailyDoubles: false, final: false, buzzTime: 0 });
   const team = await a.req('team.create', { name: 'Team A' });
   await b.req('team.join', { teamId: team.teamId });
   assert.equal((await a.req('game.start', { board: makeBoard() })).error, 'forbidden');
@@ -196,7 +196,7 @@ test('game: pick, buzz, judge, rebuzz and scores for team and solo', async (t) =
 });
 
 test('game: simultaneous buzzes resolve to exactly one winner', async (t) => {
-  const { mod, a, b, c } = await setup(t, { rounds: 1, cols: 3, dailyDoubles: false, final: false, buzzMode: 'instant' });
+  const { mod, a, b, c } = await setup(t, { answerMode: 'buzzer', rounds: 1, cols: 3, dailyDoubles: false, final: false, buzzMode: 'instant' });
   await mod.req('game.start', { board: makeBoard() });
   await mod.do('pick', { c: 0, r: 0 });
   const results = await Promise.all([a.do('buzz'), b.do('buzz'), c.do('buzz')]);
@@ -209,7 +209,7 @@ test('game: simultaneous buzzes resolve to exactly one winner', async (t) => {
 });
 
 test('game: buzz timer runs out', async (t) => {
-  const { mod } = await setup(t, { rounds: 1, cols: 3, dailyDoubles: false, final: false, buzzMode: 'instant', buzzTime: 1 });
+  const { mod } = await setup(t, { answerMode: 'buzzer', rounds: 1, cols: 3, dailyDoubles: false, final: false, buzzMode: 'instant', buzzTime: 1 });
   await mod.req('game.start', { board: makeBoard() });
   await mod.do('pick', { c: 0, r: 0 });
   await sleep(30);
@@ -220,7 +220,7 @@ test('game: buzz timer runs out', async (t) => {
 });
 
 test('game: daily double, round change and final', async (t) => {
-  const { mod, a, b, c } = await setup(t, { rounds: 2, cols: 3, dailyDoubles: true, final: true, buzzMode: 'instant', finalTime: 0 });
+  const { mod, a, b, c } = await setup(t, { answerMode: 'buzzer', rounds: 2, cols: 3, dailyDoubles: true, final: true, buzzMode: 'instant', finalTime: 0 });
   await mod.req('game.start', { board: makeBoard(2) });
   await sleep(30);
   // find the daily double through the moderator view
@@ -298,7 +298,7 @@ test('game: daily double, round change and final', async (t) => {
 });
 
 test('anti-cheat: consent, live window list and log only reach the moderator', async (t) => {
-  const { mod, a, b, c } = await setup(t, { rounds: 1, cols: 3, dailyDoubles: false, final: false, anticheat: true, buzzMode: 'instant' });
+  const { mod, a, b, c } = await setup(t, { answerMode: 'buzzer', rounds: 1, cols: 3, dailyDoubles: false, final: false, anticheat: true, buzzMode: 'instant' });
   const blocked = await mod.req('game.start', { board: makeBoard() });
   assert.equal(blocked.error, 'ac_pending');
   assert.equal(blocked.names.length, 3);
@@ -376,4 +376,96 @@ test('server password and protocol check', async (t) => {
   ws.close();
   const info = await (await fetch(`http://127.0.0.1:${addr.port}/api/info`)).json();
   assert.equal(info.needsPassword, true);
+});
+
+test('chooser answers: the picking team answers first, then the others may steal, then it rotates', async (t) => {
+  const { mod, a, b, c } = await setup(t, { rounds: 1, cols: 3, dailyDoubles: false, final: false, buzzMode: 'instant', buzzTime: 0, answerMode: 'chooser' });
+  const team = await a.req('team.create', { name: 'Team A' });
+  await b.req('team.join', { teamId: team.teamId });
+  await mod.req('game.start', { board: makeBoard() });
+  await sleep(30);
+  const teamEnt = `t_${team.teamId}`;
+  const soloEnt = `p_${c.id}`;
+  const order = mod.state.lobby.entities.map((e) => e.id);
+  assert.deepEqual(order, [teamEnt, soloEnt], 'teams come first, then solo players');
+  // make the team the chooser
+  await mod.do('setChooser', { ent: teamEnt });
+  await sleep(30);
+  assert.equal((await c.do('pick', { c: 0, r: 0 })).error, 'not_chooser');
+  assert.equal((await a.do('pick', { c: 0, r: 0 })).ok, true);
+  await sleep(50);
+
+  // no buzzer race: the team answers right away, everybody in the team is an answerer
+  assert.equal(mod.game.phase, 'answering');
+  assert.equal(mod.game.cur.teamAnswer, true);
+  assert.equal(mod.game.cur.answerEnt, teamEnt);
+  assert.deepEqual([...mod.game.cur.answerers].sort(), [a.id, b.id].sort());
+  assert.equal(mod.game.cur.answerers[0], a.id, 'the captain comes first');
+  assert.equal((await c.do('buzz')).error, 'phase', 'the others cannot buzz during the team answer');
+
+  // wrong: the team loses points, is locked, the others may steal
+  await mod.do('judge', { correct: false });
+  await sleep(30);
+  assert.equal(mod.game.scores[teamEnt], -100);
+  assert.equal(mod.game.phase, 'buzz_open');
+  assert.equal(mod.game.cur.teamAnswer, false);
+  assert.equal((await a.do('buzz')).error, 'locked');
+  assert.equal((await b.do('buzz')).error, 'locked');
+  assert.equal((await c.do('buzz')).ok, true);
+  await sleep(150);
+  assert.equal(mod.game.phase, 'answering');
+  assert.equal(mod.game.cur.buzzer, c.id);
+  await mod.do('judge', { correct: true });
+  await sleep(30);
+  assert.equal(mod.game.scores[soloEnt], 100);
+  assert.equal(mod.game.phase, 'reveal');
+  assert.equal(a.game.cur.a, 'Antwort 0-0');
+
+  // the turn goes on to the next in line, not to the one who stole
+  await mod.do('next');
+  await sleep(30);
+  assert.equal(mod.game.phase, 'board');
+  assert.equal(mod.game.chooser, soloEnt, 'after the team comes the solo player');
+  assert.equal((await c.do('pick', { c: 1, r: 1 })).ok, true);
+  await sleep(50);
+  assert.equal(mod.game.cur.answerEnt, soloEnt);
+  assert.deepEqual(mod.game.cur.answerers, [c.id]);
+  await mod.do('judge', { correct: true });
+  await mod.do('next');
+  await sleep(30);
+  assert.equal(mod.game.chooser, teamEnt, 'and then it is the team again');
+  assert.equal(mod.game.scores[soloEnt], 300);
+});
+
+test('chooser answers: no stealing when rebuzz is off, and the manual release still works', async (t) => {
+  const { mod, a, c } = await setup(t, { rounds: 1, cols: 3, dailyDoubles: false, final: false, buzzMode: 'manual', buzzTime: 0, rebuzz: false, answerMode: 'chooser' });
+  await mod.req('game.start', { board: makeBoard() });
+  await sleep(30);
+  const chooser = mod.game.chooser;
+  const pickerClient = [a, c].find((x) => `p_${x.id}` === chooser) ?? a;
+  const picker = [a, c].find((x) => `p_${x.id}` === chooser) ? pickerClient : null;
+  if (!picker) {
+    // the random start chooser was somebody else: hand the turn to a player explicitly
+    await mod.do('setChooser', { ent: `p_${a.id}` });
+    await sleep(30);
+  }
+  const who = picker ?? a;
+  const ent = `p_${who.id}`;
+  assert.equal((await who.do('pick', { c: 0, r: 1 })).ok, true);
+  await sleep(30);
+  assert.equal(mod.game.phase, 'clue', 'in manual mode the moderator reads first');
+  assert.equal(mod.game.cur.turnEnt, ent);
+  const other = [a, c].find((x) => x !== who);
+  assert.equal((await other.do('buzz')).error, 'not_your_turn');
+  assert.equal((await mod.do('openBuzz')).ok, true);
+  await sleep(30);
+  assert.equal(mod.game.phase, 'answering');
+  assert.equal(mod.game.cur.answerers[0], who.id);
+  await mod.do('judge', { correct: false });
+  await sleep(30);
+  assert.equal(mod.game.phase, 'reveal', 'without rebuzz a wrong answer ends the clue');
+  assert.equal(mod.game.scores[ent], -200);
+  await mod.do('next');
+  await sleep(30);
+  assert.notEqual(mod.game.chooser, ent, 'the turn moved on');
 });

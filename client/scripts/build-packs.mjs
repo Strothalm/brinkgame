@@ -84,6 +84,13 @@ function check(pack) {
     if (seen.has(key)) notes.push(`doppelt: "${q.q.slice(0, 50)}" (${q.a})`);
     seen.set(key, true);
   }
+  const answers = new Map();
+  for (const q of pack.qs) {
+    if (q.img) continue;
+    const key = `${q.c}|${q.l}|${q.a.toLowerCase()}`;
+    if (answers.has(key)) notes.push(`gleiche Antwort in Kategorie und Stufe: "${q.a}"`);
+    answers.set(key, true);
+  }
   const ids = new Set(pack.qs.map((q) => q.id));
   if (ids.size !== pack.qs.length) notes.push('doppelte IDs');
   for (const cat of pack.cats) {
@@ -96,14 +103,34 @@ function check(pack) {
 
 if (process.argv[1] && path.resolve(process.argv[1]) === fileURLToPath(import.meta.url)) {
   const files = fs.existsSync(srcDir) ? fs.readdirSync(srcDir).filter((f) => f.endsWith('.txt')).sort() : [];
-  const packs = [];
-  let bad = 0;
+  // Several files may share one @id: the first one defines name, icon and color, the others add
+  // questions to categories of the same name (or new categories).
+  const merged = new Map();
+  const problemsById = new Map();
   for (const file of files) {
     const { pack, problems } = parsePack(fs.readFileSync(path.join(srcDir, file), 'utf8'), file);
-    const notes = [...problems, ...check(pack)];
+    const known = merged.get(pack.id);
+    if (!known) {
+      merged.set(pack.id, pack);
+      problemsById.set(pack.id, problems);
+      continue;
+    }
+    problemsById.get(pack.id).push(...problems);
+    for (const cat of pack.cats) if (!known.cats.some((c) => c.id === cat.id)) known.cats.push(cat);
+    const have = new Set(known.qs.map((q) => q.id));
+    for (const q of pack.qs) {
+      if (have.has(q.id)) problemsById.get(pack.id).push(`${file}: doppelte Frage "${q.q.slice(0, 50)}"`);
+      else known.qs.push(q);
+    }
+  }
+  const packs = [];
+  let bad = 0;
+  for (const pack of merged.values()) {
+    const notes = [...problemsById.get(pack.id), ...check(pack)];
     bad += notes.length;
     console.log(`${pack.icon || '·'} ${pack.name.padEnd(28)} ${String(pack.qs.length).padStart(4)} Fragen, ${pack.cats.length} Kategorien${notes.length ? `  ⚠ ${notes.length}` : ''}`);
-    for (const n of notes) console.log(`     - ${n}`);
+    for (const n of notes.slice(0, 25)) console.log(`     - ${n}`);
+    if (notes.length > 25) console.log(`     … und ${notes.length - 25} weitere`);
     packs.push(pack);
   }
   // file names carry a number prefix to fix the order in the library

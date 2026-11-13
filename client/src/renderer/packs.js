@@ -3,6 +3,26 @@ import builtin from './builtin-packs.json';
 import { load, save } from './storage.js';
 
 const LEVELS = [1, 2, 3, 4, 5];
+
+/** Which question level fills which board row, per difficulty. Row 1 is worth 100, row 5 worth 500. */
+export const DIFFICULTIES = [
+  { id: 'mix', label: 'Gemischt' },
+  { id: 'easy', label: 'Leicht' },
+  { id: 'medium', label: 'Mittel' },
+  { id: 'hard', label: 'Schwer' },
+];
+const ROWS = { mix: [1, 2, 3, 4, 5], easy: [1, 1, 2, 2, 3], medium: [2, 3, 3, 4, 4], hard: [3, 4, 4, 5, 5] };
+const FINAL_MIN = { mix: 4, easy: 2, medium: 3, hard: 4 };
+export const diffLabel = (id) => DIFFICULTIES.find((d) => d.id === id)?.label ?? 'Gemischt';
+export const rowLevels = (diff) => ROWS[diff] ?? ROWS.mix;
+
+/** How many questions of each level a column needs for a difficulty. */
+function need(diff) {
+  const n = [0, 0, 0, 0, 0];
+  for (const lv of rowLevels(diff)) n[lv - 1]++;
+  return n;
+}
+const meets = (per, diff) => need(diff).every((n, i) => per[i] >= n);
 const uid = (p = '') => p + Math.random().toString(36).slice(2, 10) + Date.now().toString(36).slice(-4);
 const slug = (s) => String(s).toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '').replace(/ß/g, 'ss').replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
 
@@ -96,10 +116,10 @@ export function newCategory(name) {
   return { id: uid('k'), name };
 }
 
-export function packStats(pack) {
+export function packStats(pack, diff = 'mix') {
   const cats = pack.cats.map((cat) => {
     const per = LEVELS.map((l) => pack.qs.filter((q) => q.c === cat.id && q.l === l && !q.off).length);
-    return { id: cat.id, name: cat.name, per, total: pack.qs.filter((q) => q.c === cat.id).length, active: per.reduce((a, b) => a + b, 0), playable: per.every((n) => n > 0) };
+    return { id: cat.id, name: cat.name, per, total: pack.qs.filter((q) => q.c === cat.id).length, active: per.reduce((a, b) => a + b, 0), playable: meets(per, diff) };
   });
   return {
     total: pack.qs.length,
@@ -292,18 +312,20 @@ function candidates(selection) {
   const out = [];
   for (const pack of selectedPacks(selection)) {
     const qs = activeQs(pack, selection[pack.id]);
+    const diff = selection[pack.id]?.diff ?? 'mix';
+    const rows = rowLevels(diff);
     let any = false;
     for (const cat of pack.cats) {
       const levels = LEVELS.map((l) => qs.filter((q) => q.c === cat.id && q.l === l));
-      if (levels.every((a) => a.length)) {
-        out.push({ pack, title: cat.name, catId: cat.id, levels });
+      if (meets(levels.map((a) => a.length), diff)) {
+        out.push({ pack, title: cat.name, catId: cat.id, levels, rows, diff });
         any = true;
       }
     }
     if (!any) {
       // no complete category: mix the whole pack into one column if every level exists
       const levels = LEVELS.map((l) => qs.filter((q) => q.l === l));
-      if (levels.every((a) => a.length)) out.push({ pack, title: pack.name, catId: null, levels });
+      if (meets(levels.map((a) => a.length), diff)) out.push({ pack, title: pack.name, catId: null, levels, rows, diff });
     }
   }
   return out;
@@ -314,7 +336,8 @@ function buildColumn(cand, usedIds) {
   // the same question can exist in two packs, so the text is tracked as well as the id
   const textKey = (q) => `t:${q.img ?? ''}|${q.q.toLowerCase()}`;
   const taken = (q) => usedIds.has(q.id) || usedIds.has(textKey(q));
-  const clues = cand.levels.map((pool) => {
+  const clues = cand.rows.map((lv) => {
+    const pool = cand.levels[lv - 1];
     const fresh = pool.filter((q) => !taken(q) && !played.has(q.id));
     const unused = pool.filter((q) => !taken(q));
     const q = pick(fresh.length ? fresh : unused.length ? unused : pool);
@@ -322,7 +345,7 @@ function buildColumn(cand, usedIds) {
     usedIds.add(textKey(q));
     return { id: q.id, packId: cand.pack.id, q: q.q, a: q.a, note: q.n ?? '', img: q.img ?? '' };
   });
-  return { title: cand.title, pack: cand.pack.name, packId: cand.pack.id, catId: cand.catId, icon: cand.pack.icon, clues };
+  return { title: cand.title, pack: cand.pack.name, packId: cand.pack.id, catId: cand.catId, icon: cand.pack.icon, diff: cand.diff, clues };
 }
 
 function pickFinal(selection, usedIds) {
@@ -330,7 +353,7 @@ function pickFinal(selection, usedIds) {
   for (const pack of selectedPacks(selection)) {
     const played = playedSet(pack.id);
     for (const q of activeQs(pack, selection[pack.id])) {
-      if (q.l >= 4 && !usedIds.has(q.id)) pool.push({ pack, q, fresh: !played.has(q.id) });
+      if (q.l >= (FINAL_MIN[selection[pack.id]?.diff ?? 'mix'] ?? 4) && !usedIds.has(q.id)) pool.push({ pack, q, fresh: !played.has(q.id) });
     }
   }
   if (!pool.length) return null;
@@ -411,7 +434,8 @@ export function rerollClue(board, ri, ci, ki, selection) {
   const pack = getPack(col.packId);
   if (!pack) return board;
   const used = usedIdsOf(board);
-  const pool = activeQs(pack, selection[pack.id]).filter((q) => q.l === ki + 1 && (col.catId ? q.c === col.catId : true) && !used.has(q.id));
+  const level = rowLevels(selection[pack.id]?.diff)[ki];
+  const pool = activeQs(pack, selection[pack.id]).filter((q) => q.l === level && (col.catId ? q.c === col.catId : true) && !used.has(q.id));
   if (!pool.length) return board;
   const q = pick(pool);
   const next = structuredClone(board);

@@ -2,6 +2,7 @@ import { Game, normalizeBoard } from './game.js';
 import { cleanText, clampInt, randomId, shuffle, PALETTE } from './util.js';
 
 export const DEFAULT_SETTINGS = {
+  answerMode: 'chooser', // 'chooser' = wer das Feld wählt, antwortet; 'buzzer' = alle buzzern
   mode: 'mixed', // 'mixed' = Teams und Einzelspieler gemischt, 'solo' = jeder für sich
   teamsLocked: false, // nur der Moderator teilt Teams ein
   maxPlayers: 20,
@@ -36,6 +37,7 @@ function sanitizeSettings(prev, patch) {
   const s = { ...prev };
   if (!patch || typeof patch !== 'object') return s;
   if (patch.mode === 'mixed' || patch.mode === 'solo') s.mode = patch.mode;
+  if (patch.answerMode === 'chooser' || patch.answerMode === 'buzzer') s.answerMode = patch.answerMode;
   for (const key of ['teamsLocked', 'dailyDoubles', 'final', 'negative', 'teamLockout', 'rebuzz', 'anticheat']) {
     if (typeof patch[key] === 'boolean') s[key] = patch[key];
   }
@@ -53,6 +55,7 @@ function sanitizeSettings(prev, patch) {
       name: cleanText(p?.name, 60),
       icon: cleanText(p?.icon, 8),
       n: clampInt(p?.n, 0, 100000, 0),
+      diff: ['mix', 'easy', 'medium', 'hard'].includes(p?.diff) ? p.diff : 'mix',
     }));
   }
   return s;

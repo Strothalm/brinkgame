@@ -15,7 +15,7 @@ const merge = (base, extra) => {
   return out;
 };
 
-export const RULE_KEYS = ['mode', 'teamsLocked', 'maxPlayers', 'rounds', 'cols', 'dailyDoubles', 'final', 'negative', 'buzzMode', 'buzzTime', 'answerTime', 'finalTime', 'teamLockout', 'rebuzz', 'anticheat'];
+export const RULE_KEYS = ['answerMode', 'mode', 'teamsLocked', 'maxPlayers', 'rounds', 'cols', 'dailyDoubles', 'final', 'negative', 'buzzMode', 'buzzTime', 'answerTime', 'finalTime', 'teamLockout', 'rebuzz', 'anticheat'];
 
 /** The moderator's local lobby draft: which packs are selected and the generated board. */
 export const draft = { selection: {}, board: null };
@@ -183,7 +183,7 @@ export function backToLobby() {
 export function packsInfo() {
   return allPacks()
     .filter((p) => draft.selection[p.id]?.on)
-    .map((p) => ({ id: p.id, name: p.name, icon: p.icon, n: packStats(p).active }));
+    .map((p) => ({ id: p.id, name: p.name, icon: p.icon, n: packStats(p).active, diff: draft.selection[p.id]?.diff ?? 'mix' }));
 }
 
 function persistDraft(settingsPatch) {
@@ -205,11 +205,23 @@ export function setSelection(selection) {
 
 export function togglePack(id) {
   const cur = draft.selection[id];
-  setSelection({ ...draft.selection, [id]: { on: !cur?.on, cats: cur?.cats ?? null } });
+  setSelection({ ...draft.selection, [id]: { on: !cur?.on, cats: cur?.cats ?? null, diff: cur?.diff ?? 'mix' } });
 }
 
 export function setPackCats(id, cats) {
-  setSelection({ ...draft.selection, [id]: { on: true, cats } });
+  setSelection({ ...draft.selection, [id]: { on: true, cats, diff: draft.selection[id]?.diff ?? 'mix' } });
+}
+
+export function setPackDiff(id, diff) {
+  const cur = draft.selection[id];
+  setSelection({ ...draft.selection, [id]: { on: true, cats: cur?.cats ?? null, diff } });
+}
+
+/** One difficulty for every pack that is switched on. */
+export function setAllDiff(diff) {
+  const next = {};
+  for (const [id, sel] of Object.entries(draft.selection)) next[id] = sel?.on ? { ...sel, diff } : sel;
+  setSelection(next);
 }
 
 export function makeBoard() {
@@ -390,6 +402,7 @@ export function canBuzz() {
   const g = S.game;
   if (!g || S.you?.role !== 'player' || g.paused) return false;
   if (g.phase !== 'buzz_open' && g.phase !== 'clue') return false;
+  if (g.phase === 'clue' && g.cur?.turnEnt) return false;
   const ent = S.you.entity;
   return !(g.cur.lockedEnt.includes(ent) || g.cur.lockedPl.includes(S.you.id));
 }

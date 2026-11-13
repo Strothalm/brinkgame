@@ -134,9 +134,14 @@ Einstellungen des Servers (Umgebungsvariablen): `PORT`, `SERVER_NAME`, `SERVER_P
    Lobby ist, und verbindet sich nach einem Abbruch von selbst neu. Der Platz bleibt reserviert.
 3. Der Moderator wählt Pakete (und auf Wunsch einzelne Kategorien), stellt die Regeln ein und
    startet. Mit „Board ansehen“ kann er vorher Kategorien und einzelne Fragen austauschen.
-4. Wer dran ist, wählt ein Feld. Der Moderator liest vor und gibt die Buzzer frei (Taste `B`).
-5. Gebuzzert wird mit der Leertaste. Der Server entscheidet, wer zuerst war, und gleicht dabei
-   unterschiedliche Verbindungszeiten aus. Wer zu früh drückt, ist kurz gesperrt.
+4. Wer dran ist, wählt ein Feld. Der Moderator liest vor und gibt die Antwort frei (Taste `B`).
+5. **Wer das Feld wählt, antwortet** (Standard). Das wählende Team, oder die einzelne Spielerin,
+   beantwortet die Frage selbst. Es gibt kein Buzzer-Rennen. Danach ist reihum das nächste Team
+   dran, nicht automatisch der Gewinner. Antwortet das Team falsch, dürfen die anderen klauen:
+   Dann buzzern sie mit der Leertaste, der Server entscheidet, wer zuerst war, und gleicht dabei
+   unterschiedliche Verbindungszeiten aus. Wer zu früh drückt, ist kurz gesperrt. Das lässt sich
+   ausschalten („Nach einer falschen Antwort dürfen die anderen klauen"). In den Regeln gibt es
+   auch die klassische Variante „Wer zuerst buzzert": Alle buzzern, wer zuerst ist, antwortet.
 6. Wer antwortet, bleibt laut. Alle anderen dürfen weiterreden, werden aber leiser gestellt
    (Standard 20 %). Jeder stellt diesen Wert für sich ein: Einstellungen → Sprachchat.
 7. Der Moderator sieht die Lösung und drückt `R` (richtig) oder `F` (falsch). Punkte werden
@@ -159,6 +164,10 @@ Unter Einstellungen → Design wählt jeder für sich:
 
 Die Fotos stammen von Unsplash (Unsplash-Lizenz: frei nutzbar, keine Namensnennung nötig).
 Fotografen, soweit bekannt, stehen unter dem Reiter in der App.
+
+**Schwierigkeit:** Der Moderator wählt sie je Paket (Gemischt, Leicht, Mittel, Schwer) oder für
+alle Pakete auf einmal. Gemischt steigert sich von einfach (100) bis schwer (500). Bei Leicht sind
+alle fünf Zeilen eher einfach, bei Schwer durchgehend schwer. Die Punktwerte bleiben 100 bis 500.
 
 ## 4. Fragenpakete
 

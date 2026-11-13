@@ -2,7 +2,7 @@ import { useState } from 'preact/hooks';
 import { S, emit, openModal, closeModal, isMod, member, toast, go } from '../store.js';
 import * as act from '../actions.js';
 import { draft } from '../actions.js';
-import { allPacks, getPack, packStats, selectionCapacity, rerollColumn, rerollClue, rerollFinal, imageSrc } from '../packs.js';
+import { allPacks, getPack, packStats, selectionCapacity, rerollColumn, rerollClue, rerollFinal, imageSrc, DIFFICULTIES, diffLabel, rowLevels } from '../packs.js';
 import { Avatar, Btn, Icon, Toggle, Seg, Field, Modal, LazyInput, Empty } from './common.jsx';
 
 // ---------- members and teams ----------
@@ -126,7 +126,7 @@ function People() {
 function CatsModal({ packId }) {
   const pack = getPack(packId);
   const sel = draft.selection[packId];
-  const stats = packStats(pack);
+  const stats = packStats(pack, sel?.diff);
   const all = stats.cats.filter((c) => c.playable).map((c) => c.id);
   const chosen = new Set(sel?.cats ?? all);
   const set = (next) => act.setPackCats(packId, next.size === all.length ? null : [...next]);
@@ -174,10 +174,16 @@ function PackPicker() {
         </label>
         <Btn size="sm" icon="edit" onClick={() => go('packs')}>Pakete bearbeiten</Btn>
       </div>
+      {chosen > 0 && (
+        <div class="all-diff">
+          <span class="label">Schwierigkeit für alle gewählten Pakete</span>
+          <span class="seg">{DIFFICULTIES.map((d) => <button type="button" key={d.id} onClick={() => act.setAllDiff(d.id)}>{d.label}</button>)}</span>
+        </div>
+      )}
       <div class="pack-grid">
         {packs.map((p) => {
           const sel = draft.selection[p.id];
-          const st = packStats(p);
+          const st = packStats(p, sel?.diff);
           const on = !!sel?.on;
           const partial = on && sel.cats;
           return (
@@ -190,6 +196,13 @@ function PackPicker() {
                 </span>
                 <span class="pack-check">{on && <Icon name="check" size={16} />}</span>
               </button>
+              {on && (
+                <div class="pack-diff" role="radiogroup" aria-label={`Schwierigkeit für ${p.name}`}>
+                  {DIFFICULTIES.map((d) => (
+                    <button type="button" key={d.id} role="radio" aria-checked={(sel.diff ?? 'mix') === d.id} class={(sel.diff ?? 'mix') === d.id ? 'on' : ''} onClick={() => act.setPackDiff(p.id, d.id)}>{d.label}</button>
+                  ))}
+                </div>
+              )}
               {on && <button type="button" class="pack-cats" onClick={() => openModal({ type: 'cats', packId: p.id })}>Kategorien wählen</button>}
             </div>
           );
@@ -242,10 +255,13 @@ function Rules({ readOnly }) {
 
       <div class="rule-group">
         <h3>Buzzer und Wertung</h3>
-        <Field label="Buzzer werden frei" hint={{ manual: 'Der Moderator gibt sie frei, wenn er fertig vorgelesen hat.', auto: 'Automatisch nach einer Lesezeit, die sich nach der Textlänge richtet.', instant: 'Sofort, sobald die Frage erscheint.' }[s.buzzMode]}>
+        <Field label="Wer antwortet?" hint={s.answerMode === 'chooser' ? 'Das Team (oder der Spieler), das ein Feld wählt, beantwortet die Frage selbst. Danach ist reihum das nächste Team dran.' : 'Alle buzzern, wer zuerst ist, antwortet.'}>
+          <Seg value={s.answerMode} disabled={readOnly} onChange={(answerMode) => set({ answerMode })} options={[{ value: 'chooser', label: 'Wer wählt, antwortet' }, { value: 'buzzer', label: 'Wer zuerst buzzert' }]} />
+        </Field>
+        <Field label={s.answerMode === 'chooser' ? 'Antwort wird freigegeben' : 'Buzzer werden frei'} hint={{ manual: 'Der Moderator gibt sie frei, wenn er fertig vorgelesen hat.', auto: 'Automatisch nach einer Lesezeit, die sich nach der Textlänge richtet.', instant: 'Sofort, sobald die Frage erscheint.' }[s.buzzMode]}>
           <Seg value={s.buzzMode} disabled={readOnly} onChange={(buzzMode) => set({ buzzMode })} options={[{ value: 'manual', label: 'Durch Moderator' }, { value: 'auto', label: 'Nach Lesezeit' }, { value: 'instant', label: 'Sofort' }]} />
         </Field>
-        <Field label="Zeit zum Buzzern" hint="0 = kein Limit, der Moderator löst auf" row>
+        <Field label={s.answerMode === 'chooser' ? 'Zeit zum Klauen' : 'Zeit zum Buzzern'} hint="0 = kein Limit, der Moderator löst auf" row>
           <span class="unit"><input type="number" min="0" max="120" value={s.buzzTime} disabled={readOnly} onChange={num('buzzTime', 0, 120)} /> s</span>
         </Field>
         <Field label="Zeit zum Antworten" hint="Nur eine Anzeige. Der Moderator entscheidet." row>
@@ -257,7 +273,7 @@ function Rules({ readOnly }) {
           </Field>
         )}
         <Toggle checked={s.negative} disabled={readOnly} onChange={(v) => set({ negative: v })} label="Falsche Antworten kosten Punkte" />
-        <Toggle checked={s.rebuzz} disabled={readOnly} onChange={(v) => set({ rebuzz: v })} label="Nach einer falschen Antwort dürfen andere buzzern" />
+        <Toggle checked={s.rebuzz} disabled={readOnly} onChange={(v) => set({ rebuzz: v })} label={s.answerMode === 'chooser' ? 'Nach einer falschen Antwort dürfen die anderen klauen' : 'Nach einer falschen Antwort dürfen andere buzzern'} />
         {s.mode === 'mixed' && <Toggle checked={s.teamLockout} disabled={readOnly} onChange={(v) => set({ teamLockout: v })} label="Falsche Antwort sperrt das ganze Team für diese Frage" />}
       </div>
 
@@ -421,6 +437,7 @@ function Summary() {
     ['Risiko-Felder', s.dailyDoubles ? 'an' : 'aus'],
     ['Finale', s.final ? 'an' : 'aus'],
     ['Falsche Antwort', s.negative ? 'kostet Punkte' : 'kostet nichts'],
+    ['Wer antwortet', s.answerMode === 'chooser' ? 'wer das Feld wählt' : 'wer zuerst buzzert'],
     ['Buzzer', { manual: 'gibt der Moderator frei', auto: 'öffnen nach Lesezeit', instant: 'sofort offen' }[s.buzzMode]],
     ['Anti-Cheat', s.anticheat ? 'an' : 'aus'],
   ];
@@ -428,7 +445,7 @@ function Summary() {
     <div class="summary">
       <h3>Themen dieser Runde</h3>
       {s.packs.length ? (
-        <ul class="chip-list">{s.packs.map((p) => <li key={p.id} class="chip">{p.icon} {p.name}</li>)}</ul>
+        <ul class="chip-list">{s.packs.map((p) => <li key={p.id} class="chip">{p.icon} {p.name}{p.diff && p.diff !== 'mix' ? ` · ${diffLabel(p.diff)}` : ''}</li>)}</ul>
       ) : (
         <p class="muted">Der Moderator hat noch keine Pakete gewählt.</p>
       )}

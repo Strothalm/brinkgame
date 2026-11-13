@@ -194,3 +194,10 @@ textarea.mono { font-family: var(--font-mono); font-size: 0.85rem; }
 .kv.keys { align-items: center; row-gap: 0.6rem; }
 .kv.keys kbd { margin: 0; font-size: 0.9rem; opacity: 1; }
 .user-head { display: flex; gap: 1rem; align-items: center; margin-bottom: 1.25rem; }
+
+.pack-diff { display: flex; gap: 2px; margin: 0 0.8rem 0.55rem; padding: 2px; background: var(--bg); border: var(--bw) solid var(--line2); border-radius: var(--radius); }
+.pack-diff button { flex: 1; height: 1.7rem; border-radius: calc(var(--radius) - 2px); font-size: 0.74rem; font-weight: 600; color: var(--muted); }
+.pack-diff button:hover { color: var(--text); }
+.pack-diff button.on { background: var(--c); color: #0a0a0a; }
+.all-diff { display: flex; align-items: center; gap: 0.8rem; flex-wrap: wrap; margin-bottom: 0.8rem; padding: 0.55rem 0.8rem; border: var(--bw) dashed var(--line2); border-radius: var(--radius); }
+.all-diff .seg button { height: 1.8rem; font-size: 0.78rem; }

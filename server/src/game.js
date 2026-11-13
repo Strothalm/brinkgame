@@ -193,12 +193,46 @@ export class Game {
   }
 
   _openBuzz() {
+    // "Wer wählt, antwortet": the team that picked the clue answers first, without a buzzer race
+    if (this.cur.turnEnt && !this.cur.turnDone) {
+      this._startTeamAnswer();
+      return;
+    }
     this.phase = 'buzz_open';
     this.cur.buzzer = null;
+    this.cur.teamAnswer = false;
     this.cur.answerers = [];
     this.cur.answerDeadline = 0;
     if (this.s.buzzTime > 0) this._arm('buzz', this.s.buzzTime * 1000);
     else this._clearTimer();
+  }
+
+  _startTeamAnswer() {
+    const cur = this.cur;
+    cur.turnDone = true;
+    const ent = this.ctx.entities().find((e) => e.id === cur.turnEnt);
+    if (!ent || !ent.members.length) {
+      // nobody left in that team: fall back to the buzzer round
+      this._openBuzz();
+      return;
+    }
+    this._clearTimer();
+    const lead = ent.captainId ?? ent.members[0];
+    cur.buzzer = lead;
+    cur.buzzerEnt = ent.id;
+    cur.teamAnswer = true;
+    cur.answerers = [lead, ...ent.members.filter((m) => m !== lead)];
+    cur.buzzOrder = [];
+    cur.answerDeadline = this.s.answerTime > 0 ? Date.now() + this.s.answerTime * 1000 : 0;
+    this.phase = 'answering';
+  }
+
+  /** Next entity in line after `from`, used in "Wer wählt, antwortet" so everybody gets a turn. */
+  _rotate(from) {
+    const ents = this.ctx.entities();
+    if (!ents.length) return;
+    const idx = ents.findIndex((e) => e.id === from);
+    this.chooser = ents[(idx + 1) % ents.length].id;
   }
 
   _toReveal(winnerEnt = null, winnerPid = null) {
@@ -238,6 +272,10 @@ export class Game {
       value: clue.value,
       dd: clue.dd,
       pickedBy: actor.id,
+      pickedEnt: this.chooser,
+      turnEnt: null,
+      turnDone: false,
+      teamAnswer: false,
       buzzer: null,
       answerers: [],
       answerDeadline: 0,
@@ -264,6 +302,9 @@ export class Game {
       }
     }
     this.phase = 'clue';
+    if (this.s.answerMode === 'chooser' && this.chooser && this.ctx.entities().some((e) => e.id === this.chooser)) {
+      this.cur.turnEnt = this.chooser;
+    }
     if (this.s.buzzMode === 'instant') this._openBuzz();
     else if (this.s.buzzMode === 'auto') {
       // rough reading time: 2s plus 55ms per character, capped
@@ -290,6 +331,7 @@ export class Game {
     const cur = this.cur;
     const now = Date.now();
     if (this.phase === 'clue' && cur) {
+      if (cur.turnEnt) return err('not_your_turn');
       // buzzing before the buzzers are open costs a short lockout, like on TV
       cur.early[actor.id] = now + EARLY_LOCK_MS;
       return err('early');
@@ -341,7 +383,7 @@ export class Game {
         st.correct++;
         st.points += cur.value;
         cur.attempts.push({ id: pid, ent, correct: true });
-        this.chooser = ent;
+        if (this.s.answerMode !== 'chooser') this.chooser = ent;
         this._toReveal(ent, pid);
       } else {
         if (this.s.negative) {
@@ -350,7 +392,7 @@ export class Game {
         }
         st.wrong++;
         cur.attempts.push({ id: pid, ent, correct: false });
-        if (this.s.teamLockout) cur.lockedEnt.push(ent);
+        if (this.s.teamLockout || cur.teamAnswer) cur.lockedEnt.push(ent);
         else cur.lockedPl.push(pid);
         if (this.s.rebuzz && this._anyEligible()) this._openBuzz();
         else this._toReveal();
@@ -424,7 +466,9 @@ export class Game {
     if (!this._isMod(actor)) return err('role');
     if (this.phase === 'reveal') {
       this._snap();
+      const picked = this.cur?.pickedEnt;
       this.cur = null;
+      if (this.s.answerMode === 'chooser') this._rotate(picked);
       this.phase = this._roundDone() ? 'round_end' : 'board';
       this._changed('next');
       return ok();
@@ -681,6 +725,9 @@ export class Game {
         a: showAnswer ? clue.a : undefined,
         note: mod ? clue.note : undefined,
         buzzer: this.cur.buzzer,
+        turnEnt: this.cur.turnEnt && !this.cur.turnDone ? this.cur.turnEnt : null,
+        teamAnswer: this.cur.teamAnswer,
+        answerEnt: this.cur.buzzerEnt ?? this.cur.ddEnt ?? null,
         answerers: this.cur.answerers,
         answerDeadline: this.cur.answerDeadline,
         lockedEnt: this.cur.lockedEnt,
@@ -723,6 +770,7 @@ export class Game {
       roundCount: this.rounds.length,
       mult: round.mult,
       hasFinal: !!this.final,
+      answerMode: this.s.answerMode,
       board,
       scores: this.scores,
       stats: this.stats,

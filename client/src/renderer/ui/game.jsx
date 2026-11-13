@@ -30,7 +30,7 @@ function Board() {
       <div class={`turn-banner ${mine ? 'mine' : ''}`}>
         <span class="round-tag">Runde {g.round + 1}{g.roundCount > 1 ? ` von ${g.roundCount}` : ''}</span>
         {chooser ? (
-          mine ? <strong>Du bist dran: Wähle ein Feld.</strong> : <span><strong style={{ color: chooser.color }}>{chooser.name}</strong> wählt das nächste Feld.</span>
+          mine ? <strong>{g.answerMode === 'chooser' ? 'Ihr seid dran: Wählt ein Feld und beantwortet es.' : 'Du bist dran: Wähle ein Feld.'}</strong> : <span><strong style={{ color: chooser.color }}>{chooser.name}</strong> {g.answerMode === 'chooser' ? 'wählt ein Feld und beantwortet es.' : 'wählt das nächste Feld.'}</span>
         ) : (
           <span>Der Moderator wählt das nächste Feld.</span>
         )}
@@ -83,15 +83,48 @@ function BuzzArea() {
     const ent = who ? entityOfPlayer(who.id) : null;
     const me = who?.id === S.conn.id;
     const mates = g.phase === 'dd_answer' ? cur.answerers.slice(1).map(member).filter(Boolean) : [];
+    if (cur.teamAnswer) {
+      // the team that picked the clue answers it together
+      const answerEnt = entity(cur.answerEnt);
+      const members = cur.answerers.map(member).filter(Boolean);
+      const mineTeam = S.you.entity === cur.answerEnt && S.you.role === 'player';
+      return (
+        <div class={`answering ${mineTeam ? 'me' : ''}`}>
+          <div class="answering-cams">{members.map((m) => <CamTile key={m.id} m={m} big={members.length === 1} />)}</div>
+          <div class="answering-text">
+            <span class="label">{answerEnt?.kind === 'team' ? 'Das Team antwortet' : 'Antwort'}</span>
+            <strong>{mineTeam ? (answerEnt?.kind === 'team' ? 'Ihr antwortet!' : 'Du antwortest!') : `${answerEnt?.name ?? '…'} antwortet`}</strong>
+            {answerEnt?.kind === 'team' && <span class="muted">{members.map((m) => m.name).join(', ')}</span>}
+            <AnswerClock deadline={cur.answerDeadline} />
+          </div>
+        </div>
+      );
+    }
     return (
       <div class={`answering ${me ? 'me' : ''}`}>
         {who && <CamTile m={who} big />}
         <div class="answering-text">
-          <span class="label">{g.phase === 'dd_answer' ? `Risiko · Einsatz ${fmtScore(cur.wager)}` : 'Gebuzzert'}</span>
+          <span class="label">{g.phase === 'dd_answer' ? `Risiko · Einsatz ${fmtScore(cur.wager)}` : cur.attempts.length && g.answerMode === 'chooser' ? 'Geklaut' : 'Gebuzzert'}</span>
           <strong>{me ? 'Du antwortest!' : `${who?.name ?? '…'} antwortet`}</strong>
           {ent?.kind === 'team' && <span class="muted">für {ent.name}{mates.length ? ` · mit ${mates.map((m) => m.name).join(', ')}` : ''}</span>}
           <AnswerClock deadline={cur.answerDeadline} />
         </div>
+      </div>
+    );
+  }
+
+  if (g.phase === 'clue' && cur.turnEnt) {
+    const turn = entity(cur.turnEnt);
+    const mineTurn = role === 'player' && S.you.entity === cur.turnEnt;
+    return (
+      <div class="buzz-area">
+        <p class={`stage-note turn ${mineTurn ? 'mine' : ''}`}>
+          {isMod()
+            ? `${turn?.name ?? 'Das Team'} antwortet gleich. Lies die Frage vor und gib dann die Antwort frei.`
+            : mineTurn
+              ? (turn?.kind === 'team' ? 'Ihr antwortet gleich. Hört gut zu.' : 'Du antwortest gleich. Hör gut zu.')
+              : `${turn?.name ?? 'Das Team'} antwortet gleich. Der Moderator liest vor.`}
+        </p>
       </div>
     );
   }
@@ -118,17 +151,17 @@ function BuzzArea() {
         <TimerBar deadline={g.deadline} total={S.lobby.settings.buzzTime} paused={g.paused} />
         {role === 'player' ? (
           locked ? (
-            <div class="buzzer locked"><span class="buzzer-main">Gesperrt</span><span class="buzzer-sub">Für diese Frage bist du raus</span></div>
+            <div class="buzzer locked"><span class="buzzer-main">Gesperrt</span><span class="buzzer-sub">{g.answerMode === 'chooser' && cur.attempts.some((a) => a.ent === S.you.entity) ? 'Ihr hattet eure Antwort' : 'Für diese Frage bist du raus'}</span></div>
           ) : (
             <button type="button" class="buzzer open" onClick={act.buzz}>
-              <span class="buzzer-main">BUZZER</span>
+              <span class="buzzer-main">{g.answerMode === 'chooser' ? 'KLAUEN' : 'BUZZER'}</span>
               <span class="buzzer-sub">{keyLabel(S.settings.keys.buzz)} oder klicken</span>
             </button>
           )
         ) : (
-          <p class="stage-note live"><span class="pulse" />Buzzer sind offen</p>
+          <p class="stage-note live"><span class="pulse" />{g.answerMode === 'chooser' ? 'Die anderen dürfen klauen' : 'Buzzer sind offen'}</p>
         )}
-        {cur.attempts.length > 0 && <p class="attempts">Schon falsch: {cur.attempts.map((a) => member(a.id)?.name ?? '?').join(', ')}</p>}
+        {cur.attempts.length > 0 && <p class="attempts">Schon falsch: {cur.attempts.map((a) => entity(a.ent)?.name ?? member(a.id)?.name ?? '?').join(', ')}</p>}
       </div>
     );
   }
@@ -459,7 +492,7 @@ function ModControls() {
       else if (p === 'final_reveal' && k === 'KeyF') act.game('finalJudge', { correct: false });
       else if (p === 'clue' && k === 'KeyB') act.game('openBuzz');
       else if ((p === 'reveal' || p === 'round_end') && (k === 'KeyN' || k === 'Enter')) act.game('next');
-      else if ((p === 'clue' || p === 'buzz_open') && k === 'KeyA') act.game('reveal');
+      else if ((p === 'clue' || p === 'buzz_open' || p === 'answering' || p === 'dd_answer') && k === 'KeyA') act.game('reveal');
       else return;
       ev.preventDefault();
     };
@@ -547,13 +580,15 @@ function ModControls() {
     <div class="mod-now">
       {answerBox(cur.a, cur.note)}
       {g.phase === 'dd_wager' && <p class="mod-hint">Risiko-Feld: {entName(cur.ddEnt)} setzt gerade. Frage: {cur.q || '(Bild)'}</p>}
-      {g.phase === 'clue' && <Btn kind="primary" size="lg" icon="bolt" onClick={() => act.game('openBuzz')}>Buzzer freigeben<kbd>B</kbd></Btn>}
-      {g.phase === 'buzz_open' && <p class="mod-hint live"><span class="pulse" />Buzzer offen{cur.attempts.length ? ` · schon falsch: ${cur.attempts.map((a) => member(a.id)?.name).join(', ')}` : ''}</p>}
+      {g.phase === 'clue' && cur.turnEnt && <p class="mod-hint">{entName(cur.turnEnt)} hat das Feld gewählt und antwortet.</p>}
+      {g.phase === 'clue' && <Btn kind="primary" size="lg" icon="bolt" onClick={() => act.game('openBuzz')}>{cur.turnEnt ? 'Antwort freigeben' : 'Buzzer freigeben'}<kbd>B</kbd></Btn>}
+      {g.phase === 'buzz_open' && <p class="mod-hint live"><span class="pulse" />{g.answerMode === 'chooser' ? 'Die anderen dürfen klauen' : 'Buzzer offen'}{cur.attempts.length ? ` · schon falsch: ${cur.attempts.map((a) => entity(a.ent)?.name ?? member(a.id)?.name).join(', ')}` : ''}</p>}
       {(g.phase === 'answering' || g.phase === 'dd_answer') && (
         <>
           <div class="mod-who">
-            <span class="label">{g.phase === 'dd_answer' ? `Risiko · Einsatz ${fmtScore(cur.wager)}` : 'Antwortet jetzt'}</span>
-            <strong>{who?.name ?? entName(cur.ddEnt)}</strong>
+            <span class="label">{g.phase === 'dd_answer' ? `Risiko · Einsatz ${fmtScore(cur.wager)}` : cur.teamAnswer ? 'Das wählende Team antwortet' : 'Antwortet jetzt'}</span>
+            <strong>{cur.teamAnswer ? entName(cur.answerEnt) : who?.name ?? entName(cur.ddEnt)}</strong>
+            {cur.teamAnswer && cur.answerers.length > 1 && <small class="muted">{cur.answerers.map((id) => member(id)?.name).filter(Boolean).join(', ')}</small>}
             {cur.buzzOrder.length > 1 && <small class="muted">Danach: {cur.buzzOrder.slice(1).map((b) => `${member(b.id)?.name} +${b.d} ms`).join(', ')}</small>}
           </div>
           <div class="judge">
