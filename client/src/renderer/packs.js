@@ -13,8 +13,33 @@ export const DIFFICULTIES = [
 ];
 const ROWS = { mix: [1, 2, 3, 4, 5], easy: [1, 1, 2, 2, 3], medium: [2, 3, 3, 4, 4], hard: [3, 4, 4, 5, 5] };
 const FINAL_MIN = { mix: 4, easy: 2, medium: 3, hard: 4 };
-export const diffLabel = (id) => DIFFICULTIES.find((d) => d.id === id)?.label ?? 'Gemischt';
-export const rowLevels = (diff) => ROWS[diff] ?? ROWS.mix;
+const SINGLE = ['easy', 'medium', 'hard'];
+
+/** Difficulty is 'mix' or a '+' joined subset such as 'easy+hard'. Returns the selected single levels ([] = mix). */
+export function parseDiff(diff) {
+  const set = new Set(String(diff ?? '').split('+'));
+  const ids = SINGLE.filter((x) => set.has(x));
+  return ids.length === 3 ? [] : ids;
+}
+export const normDiff = (diff) => parseDiff(diff).join('+') || 'mix';
+/** Switch one level on or off; 'mix' is what remains when none or all are on. */
+export function toggleDiff(diff, id) {
+  const cur = parseDiff(diff);
+  const next = cur.includes(id) ? cur.filter((x) => x !== id) : [...cur, id];
+  return normDiff(next.join('+'));
+}
+export const diffLabel = (diff) => {
+  const ids = parseDiff(diff);
+  return ids.length ? ids.map((id) => DIFFICULTIES.find((d) => d.id === id).label).join(' + ') : 'Gemischt';
+};
+/** One selected level fills the board as before; several split the rows into blocks from easy to hard (easy+hard skips the middle). */
+export function rowLevels(diff) {
+  const ids = parseDiff(diff);
+  if (ids.length === 0) return ROWS.mix;
+  if (ids.length === 1) return ROWS[ids[0]];
+  return [0, 1, 2, 3, 4].map((i) => ROWS[ids[Math.floor((i * ids.length) / 5)]][i]);
+}
+const finalMin = (diff) => { const ids = parseDiff(diff); return ids.length ? Math.max(...ids.map((i) => FINAL_MIN[i])) : FINAL_MIN.mix; };
 
 /** How many questions of each level a column needs for a difficulty. */
 function need(diff) {
@@ -335,7 +360,9 @@ function buildColumn(cand, usedIds) {
   const played = playedSet(cand.pack.id);
   // the same question can exist in two packs, so the text is tracked as well as the id
   const textKey = (q) => `t:${q.img ?? ''}|${q.q.toLowerCase()}`;
-  const taken = (q) => usedIds.has(q.id) || usedIds.has(textKey(q));
+  // a person or place that is already an answer on this board is not asked a second time
+  const answerKey = (q) => (q.img || q.a.length < 5 || /^[\d.,\s]+$/.test(q.a) ? null : `a:${q.a.toLowerCase()}`);
+  const taken = (q) => usedIds.has(q.id) || usedIds.has(textKey(q)) || (answerKey(q) !== null && usedIds.has(answerKey(q)));
   const clues = cand.rows.map((lv) => {
     const pool = cand.levels[lv - 1];
     const fresh = pool.filter((q) => !taken(q) && !played.has(q.id));
@@ -343,6 +370,7 @@ function buildColumn(cand, usedIds) {
     const q = pick(fresh.length ? fresh : unused.length ? unused : pool);
     usedIds.add(q.id);
     usedIds.add(textKey(q));
+    if (answerKey(q)) usedIds.add(answerKey(q));
     return { id: q.id, packId: cand.pack.id, q: q.q, a: q.a, note: q.n ?? '', img: q.img ?? '' };
   });
   return { title: cand.title, pack: cand.pack.name, packId: cand.pack.id, catId: cand.catId, icon: cand.pack.icon, diff: cand.diff, clues };
@@ -353,7 +381,7 @@ function pickFinal(selection, usedIds) {
   for (const pack of selectedPacks(selection)) {
     const played = playedSet(pack.id);
     for (const q of activeQs(pack, selection[pack.id])) {
-      if (q.l >= (FINAL_MIN[selection[pack.id]?.diff ?? 'mix'] ?? 4) && !usedIds.has(q.id)) pool.push({ pack, q, fresh: !played.has(q.id) });
+      if (q.l >= finalMin(selection[pack.id]?.diff) && !usedIds.has(q.id)) pool.push({ pack, q, fresh: !played.has(q.id) });
     }
   }
   if (!pool.length) return null;

@@ -1,0 +1,261 @@
+@id musik
+
+# Popstars international
+1 | Welche Sängerin ist mit „…Baby One More Time“ berühmt geworden? | Britney Spears
+1 | Wer singt „Roar“ und „Firework“? | Katy Perry
+1 | Wer sang 2014 „Uptown Funk“ mit Mark Ronson? | Bruno Mars
+1 | Wer sang „Wrecking Ball“ auf einer Abrissbirne? | Miley Cyrus
+1 | Wer sang „My Heart Will Go On“ für den Film Titanic? | Céline Dion
+1 | Wer sang „I Will Always Love You“ im Film „Bodyguard“? | Whitney Houston
+2 | Welche Sängerin ist für „thank u, next“ bekannt? | Ariana Grande
+2 | Welche Sängerin sang „Havana“? | Camila Cabello
+2 | Wer sang „Chandelier“? | Sia
+2 | Welche Sängerin sang „Girls Just Want to Have Fun“? | Cyndi Lauper
+2 | Welche Sängerin sang „Believe“ 1998 mit Autotune-Effekt? | Cher
+2 | Wer sang „Stay With Me“ 2014? | Sam Smith
+3 | Wer sang „Rockstar“ 2017 und „Circles“? | Post Malone
+3 | Welche Sängerin ist mit „Say So“ und „Kiss Me More“ bekannt? | Doja Cat
+3 | Welche Sängerin wurde als „Queen of Soul“ bezeichnet? | Aretha Franklin
+3 | Welche Sängerin ist als „Queen of Rock 'n' Roll“ bekannt? | Tina Turner
+3 | Wer sang „Locked Out of Heaven“ und „Just the Way You Are“? | Bruno Mars
+3 | Wer sang „Royals“ als 16-Jährige? | Lorde
+4 | Welche K-Pop-Girlgroup sang „Ddu-Du Ddu-Du“? | BLACKPINK
+4 | Welche Sängerin veröffentlichte 2012 das Album „Born to Die“? | Lana Del Rey
+4 | Welcher Sänger sang „Billie Jean“ und „Beat It“? | Michael Jackson
+4 | Welche Sängerin hieß früher Alecia Moore? | P!nk
+4 | Welche Sängerin sang „Rolling in the Deep“? | Adele
+5 | Welche Sängerin wurde 2008 durch „Poker Face“ bekannt? | Lady Gaga
+5 | Welche Sängerin gründete die Marke „Fenty“ und stammt aus Barbados? | Rihanna
+5 | Welcher Sänger trat 1985 beim Live-Aid-Konzert im Wembley-Stadion mit Queen auf? | Freddie Mercury
+5 | Welche Sängerin veröffentlichte 2016 das Album „Lemonade“? | Beyoncé
+5 | Welche Sängerin war als Teenagerin in der Serie „Hannah Montana“ zu sehen? | Miley Cyrus
+
+# Rock und Bands
+1 | Welche Band hat einen Sänger namens Bono? | U2
+1 | Wie heißt der Sänger der Band Rammstein? | Till Lindemann
+1 | Welche Band sang „Paranoid“? | Black Sabbath
+2 | Welche britische Band sang „Wonderwall“? | Oasis
+2 | Welche Band sang „Seven Nation Army“? | The White Stripes
+2 | Welche Band sang „Mr. Brightside“? | The Killers
+2 | Welche Band sang „Everlong“ und gründete Dave Grohl? | Foo Fighters
+2 | Welche Band sang „Californication“? | Red Hot Chili Peppers
+2 | Welche Band sang „Time“ und „Money“? | Pink Floyd
+3 | Welche Band sang „Sweet Home Alabama“? | Lynyrd Skynyrd
+3 | Welche Band sang „Born to Be Wild“? | Steppenwolf
+3 | Welche Band sang „Sultans of Swing“? | Dire Straits
+3 | Welche Band sang „Paint It Black“? | The Rolling Stones
+3 | Welche Band sang „Don't Stop Me Now“? | Queen
+4 | Welche Band aus Seattle sang „Black Hole Sun“? | Soundgarden
+4 | Welche Band aus Seattle sang „Alive“ und „Jeremy“? | Pearl Jam
+4 | Welche Band um Jim Morrison sang „The End“? | The Doors
+4 | Welche Band aus Manchester sang „Love Will Tear Us Apart“? | Joy Division
+4 | Welche Band sang „Ace of Spades“? | Motörhead
+5 | Welche Band aus Irland sang „Zombie“? | The Cranberries
+5 | Welche Band sang „Creep“ und „Karma Police“? | Radiohead
+5 | Welcher Gitarrist der Beatles starb 2001? | George Harrison
+5 | Welche deutsche Band sang „Du hast“? | Rammstein
+5 | Welche Band sang „Dream On“? | Aerosmith
+5 | Welche amerikanische Band um Brian Wilson sang „Good Vibrations“? | The Beach Boys
+
+# Deutsche Musik
+1 | Wer sang 2019 „Cordula Grün“? | Josh.
+1 | Welche Band sang „Dos Corazones“? | Die Fantastischen Vier
+1 | Welche Sängerin sang „Wie schön du bist“? | Sarah Connor
+2 | Welcher Sänger sang „Bochum“ und „Männer“? | Herbert Grönemeyer
+2 | Welche Sängerin gewann 2010 den Eurovision Song Contest? | Lena Meyer-Landrut
+2 | Welcher Sänger wurde mit „Ein Hoch auf uns“ bekannt? | Andreas Bourani
+2 | Welche Band sang „Mädchen“ und „Pest“? | Rammstein
+3 | Welcher Sänger sang „Ohne dich (schlaf ich heut Nacht nicht ein)“? | Münchener Freiheit
+3 | Welche Band sang „Kein Zurück“? | Wolfsheim
+3 | Welcher Sänger sang „Verdammt, ich lieb dich“? | Matthias Reim
+3 | Welche Band aus Hamburg sang „Hier kommt Alex“? | Die Toten Hosen
+3 | Welcher Sänger sang „Marmor, Stein und Eisen bricht“? | Drafi Deutscher
+4 | Welcher Rapper sang 2004 „Mein Block“? | Sido
+4 | Welcher Schlagersänger aus Österreich sang „Griechischer Wein“? | Udo Jürgens
+4 | Welche Münchner Band sang „Skandal im Sperrbezirk“? | Spider Murphy Gang
+4 | Welcher Sänger aus Bochum sang „Kinder an die Macht“? | Herbert Grönemeyer
+4 | Welcher Sänger sang 1982 „Ich will Spaß“? | Markus
+5 | Welcher Komponist schrieb die Musik zu „Das Boot“? | Klaus Doldinger
+5 | Welche Sängerin sang „Er gehört zu mir“? | Marianne Rosenberg
+5 | Welcher Sänger sang „Über den Wolken“? | Reinhard Mey
+5 | Welcher Sänger sang 1983 „Jenseits von Eden“? | Nino de Angelo
+
+# Deutschrap und Hip-Hop
+1 | Welche Rapperin sang „Anaconda“? | Nicki Minaj
+1 | Welcher Rapper veröffentlichte „Gods Plan“? | Drake
+2 | Welche Rapperin sang „WAP“ mit Megan Thee Stallion? | Cardi B
+2 | Welcher Rapper veröffentlichte das Album „Straight Outta Compton“ mit seiner Gruppe? | N.W.A
+2 | Welcher Rapper aus Stuttgart sang „Du“? | Cro
+3 | Welcher Rapper hat „Juicy“ veröffentlicht? | The Notorious B.I.G.
+3 | Welche Rapperin aus Atlanta rappte „Hot Girl Summer“? | Megan Thee Stallion
+3 | Welcher Rapper sang „Lose Yourself“? | Eminem
+4 | Welcher Rapper aus Frankfurt gründete das Label „Azzlackz“? | Haftbefehl
+4 | Welcher Rapper veröffentlichte „DAMN.“? | Kendrick Lamar
+5 | Welcher Rapper aus Wuppertal sang „Weck mich auf“? | Samy Deluxe
+5 | Welche New Yorker Rapgruppe ist mit „Rapper's Delight“ verbunden? | Sugarhill Gang
+5 | Welcher Rapper aus Compton ist der Gründer von Death Row Records? | Suge Knight
+5 | Welcher Rapper gründete das Label „Roc-A-Fella Records“ mit Jay-Z? | Damon Dash
+
+# Klassik
+1 | Welcher Komponist schrieb den „Radetzky-Marsch“? | Johann Strauss (Vater)
+1 | Welches Instrument spielt man mit einem Bogen? | Geige
+1 | Wie viele Symphonien schrieb Mozart ungefähr? | 41
+1 | Welcher Komponist schrieb den „Kaiserwalzer“? | Johann Strauss (Sohn)
+2 | Welcher Komponist schrieb „Die Moldau“? | Bedřich Smetana
+2 | Welcher Komponist schrieb „Nabucco“? | Giuseppe Verdi
+2 | Welcher Komponist schrieb „Peter und der Wolf“? | Sergei Prokofjew
+2 | Welcher Komponist schrieb „Rhapsody in Blue“? | George Gershwin
+2 | Welcher Komponist schrieb „Der Karneval der Tiere“? | Camille Saint-Saëns
+3 | Welcher Komponist schrieb „Tosca“? | Giacomo Puccini
+3 | Welcher Komponist schrieb „Bilder einer Ausstellung“? | Modest Mussorgski
+3 | Welcher Komponist schrieb „Eine Alpensinfonie“? | Richard Strauss
+3 | Welcher Komponist schrieb die „Symphonie fantastique“? | Hector Berlioz
+4 | Welcher Komponist schrieb „Das Lied von der Erde“? | Gustav Mahler
+4 | Welcher Komponist schrieb „Das wohltemperierte Klavier“? | Johann Sebastian Bach
+4 | Welcher Komponist schrieb „Jenůfa“? | Leoš Janáček
+4 | Welcher Komponist schrieb das „Violinkonzert in D-Dur“ und die „Symphonie Pathétique“? | Pjotr Tschaikowski
+4 | Welcher Komponist schrieb „Gymnopédies“? | Erik Satie
+5 | Welcher Komponist schrieb „Wozzeck“? | Alban Berg
+5 | Welcher Komponist schrieb „Boris Godunow“? | Modest Mussorgski
+5 | Welcher Komponist schrieb „Pierrot lunaire“? | Arnold Schönberg
+5 | Welcher Komponist schrieb „Das Rheingold“? | Richard Wagner
+5 | Welcher Komponist schrieb die „Goldberg-Variationen“? | Johann Sebastian Bach
+
+# Instrumente und Musiklehre
+1 | Wie viele Saiten hat eine Bassgitarre normalerweise? | Vier
+1 | Welches Blechblasinstrument mit Ventilen spielt man im Jazz sehr häufig? | Trompete
+1 | Welches Instrument hat Pedale und Tasten und klingt in Kirchen? | Orgel
+1 | Wie heißt das Streichinstrument, das kleiner als die Bratsche ist? | Geige
+1 | Wie heißen die weißen und schwarzen Tasten am Klavier zusammen? | Tastatur
+2 | Wie heißt das Instrument mit 47 Saiten und Pedalen? | Harfe
+2 | Wie heißt das Zeichen am Anfang eines Notensystems? | Notenschlüssel
+2 | Wie heißt das Holzblasinstrument mit einem Doppelrohrblatt, tiefer als die Flöte? | Oboe
+2 | Wie nennt man mehrere Töne, die gleichzeitig erklingen? | Akkord
+2 | Wie nennt man die Geschwindigkeit eines Musikstücks? | Tempo
+3 | Wie heißt das tiefste Streichinstrument im Orchester? | Kontrabass
+3 | Wie viele Pfeifen hat eine Orgel ungefähr? | Tausende
+3 | Welches Instrument spielt der Cellist? | Cello
+3 | Wie nennt man die Notenlinie, die man „Bass“ nennt? | Bassschlüssel
+3 | Wie nennt man eine Folge von acht Tönen? | Tonleiter
+3 | Wie heißt das Instrument mit Zugzungen, das man oft in der Volksmusik nutzt? | Akkordeon
+4 | Wie nennt man ein Stück für vier Instrumente? | Quartett
+4 | Wie nennt man ein Stück für drei Instrumente? | Trio
+4 | Wie heißt der Taktstock-Schwinger im Orchester? | Dirigent
+4 | Wie heißt das Saiteninstrument der Hawaiianer? | Ukulele
+4 | Wie heißt das Instrument aus Schottland mit einem Sack? | Dudelsack
+4 | Wie nennt man den Ton, auf den Orchester sich stimmt? | Kammerton a
+5 | Wie heißt das Saiteninstrument aus Russland mit Dreieck-Körper? | Balalaika
+5 | Wie heißt das Blasinstrument der Alpen mit langem Rohr? | Alphorn
+5 | Wie heißt das Streichinstrument aus Indien mit langem Hals? | Sarangi
+5 | Wie nennt man das Zusammenspiel zweier Melodien gleichzeitig? | Kontrapunkt
+5 | Wie heißt das Tempo „langsam und breit“ auf Italienisch? | Largo
+5 | Wie heißt das Instrument, das als „König der Instrumente“ gilt? | Orgel
+
+# Hits und Ohrwürmer
+1 | Welcher Song von Pharrell Williams machte glücklich? | Happy
+1 | Welcher Song gewann 2024 den Eurovision Song Contest für die Schweiz? | The Code
+1 | Welcher Song von Whitney Houston ist aus dem Film Bodyguard? | I Will Always Love You
+1 | Welcher Song von Queen beginnt mit „Is this the real life?“ | Bohemian Rhapsody
+1 | Welcher Song von Michael Jackson hat ein berühmtes Zombie-Video? | Thriller
+1 | Welcher Song von Mariah Carey ist ein Weihnachtshit? | All I Want for Christmas Is You
+2 | Welcher Song von Toto handelt von einem afrikanischen Kontinent? | Africa
+2 | Welcher Song von The Police warnt vor jedem Atemzug? | Every Breath You Take
+2 | Welcher Song von Survivor gehört zu „Rocky III“? | Eye of the Tiger
+2 | Welcher Song von A-ha ist mit Zeichentrick verbunden? | Take On Me
+2 | Welcher Song von Gotye feat. Kimbra war 2012 ein Hit? | Somebody That I Used to Know
+2 | Welcher Song von Lady Gaga und Bradley Cooper stammt aus „A Star Is Born“? | Shallow
+3 | Welcher Song von Adele wurde 2015 zum Welthit? | Hello
+3 | Welcher Song von Ed Sheeran erschien 2017 und wurde zum Rekordhit? | Shape of You
+3 | Welcher Song von Mark Ronson und Bruno Mars gab Funk-Gefühl? | Uptown Funk
+3 | Welcher Song von Lil Nas X mit Country-Touch war ein Rekordhit 2019? | Old Town Road
+3 | Welcher Song von Wham! ist ein Weihnachtsklassiker? | Last Christmas
+4 | Welcher Song von The Weeknd war 2020 Nummer eins? | Blinding Lights
+4 | Welcher Song von Dua Lipa wurde 2020 berühmt? | Levitating
+4 | Welcher Song von Rick Astley wird für „Rickroll“ genutzt? | Never Gonna Give You Up
+4 | Welcher Song von Harry Styles erschien 2022? | As It Was
+4 | Welcher Song von Olivia Rodrigo erschien 2021? | drivers license
+4 | Welcher Song von Billie Eilish gewann 2020 den Grammy als Aufnahme des Jahres? | Bad Guy
+5 | Welcher Song von Nena heißt auf Englisch „99 Red Balloons“? | 99 Luftballons
+5 | Welcher Song von Falco wurde 1986 Nummer eins in den USA? | Rock Me Amadeus
+5 | Welcher Song der Scorpions steht für das Ende des Kalten Krieges? | Wind of Change
+5 | Welcher Song von Culture Club war 1983 ein Hit? | Karma Chameleon
+5 | Welcher Song von Eurythmics stammt von 1983? | Sweet Dreams (Are Made of This)
+5 | Welcher Song von Bonnie Tyler stammt von 1983? | Total Eclipse of the Heart
+
+# Musikgeschichte und Rekorde
+1 | Wie hieß der Musiker, der als „King of Pop“ gilt? | Michael Jackson
+1 | In welcher Stadt wurden die Beatles gegründet? | Liverpool
+1 | Welche Sängerin hatte 1992 den Hit „I Will Always Love You“? | Whitney Houston
+1 | Wie heißt die Plattform, auf der man Musik streamt und deren Logo grün ist? | Spotify
+1 | Wie nennt man die Musikrichtung, die in New Orleans entstand? | Jazz
+2 | Wie hieß die Sängerin der Band ABBA mit Vornamen Agnetha? | Agnetha Fältskog
+2 | Welche Band wurde 1962 in Liverpool als „Fab Four“ bekannt? | The Beatles
+2 | Wie nennt man das Format, bei dem Musik auf einer Platte gespeichert ist? | Schallplatte
+2 | Welche Stadt gilt als Wiege des Hip-Hop? | New York
+2 | Wie heißt das berühmte Musikfestival in Kalifornien mit Wüste im Namen? | Coachella
+3 | Wie hieß der Sänger der Band „Nirvana“? | Kurt Cobain
+3 | Welcher Musiker starb 1977 in Graceland? | Elvis Presley
+3 | Welche Sängerin starb 2011 mit 27 Jahren? | Amy Winehouse
+3 | Welcher Sänger der Doors starb 1971 in Paris? | Jim Morrison
+3 | Welcher Musiker spielte beim Konzert „Live 8“ 2005 mit Pink Floyd wieder zusammen? | Roger Waters
+3 | Wie heißt das größte Rockfestival Deutschlands in Schleswig-Holstein, Wacken? | Wacken Open Air
+4 | Welcher Musiker war Mitgründer von Pink Floyd und verließ die Band 1968? | Syd Barrett
+4 | In welcher Stadt wurde der Eurovision Song Contest 2025 ausgetragen? | Basel
+4 | Welches Land gewann den ESC 2023 mit Loreen? | Schweden
+4 | Welcher Musiker wurde 2016 mit dem Literaturnobelpreis ausgezeichnet? | Bob Dylan
+5 | Wie heißt das Opernhaus in Mailand? | Teatro alla Scala
+5 | Welche Band wurde 1964 mit „A Hard Day's Night“ berühmt? | The Beatles
+5 | Welcher Komponist schrieb als erste Rockoper „Tommy“? | Pete Townshend
+
+# Filmmusik und Musicals
+1 | Aus welchem Film stammt „Eye of the Tiger“? | Rocky III
+1 | Aus welchem Film stammt „Let It Go“? | Die Eiskönigin
+1 | Aus welchem Film stammt „A Whole New World“? | Aladdin
+1 | Aus welchem Film stammt das Lied „Under the Sea“? | Arielle, die Meerjungfrau
+1 | Aus welchem Film stammt „You've Got a Friend in Me“? | Toy Story
+2 | Aus welchem Film stammt „Moon River“? | Frühstück bei Tiffany
+2 | Aus welchem Film stammt „Singin' in the Rain“? | Du sollst mein Glücksstern sein
+2 | Aus welchem Film stammt „Hakuna Matata“? | Der König der Löwen
+2 | Aus welchem Film stammt „Remember Me“? | Coco
+3 | Aus welchem Film stammt „Streets of Philadelphia“? | Philadelphia
+3 | Aus welchem Film stammt „The Power of Love“ von Huey Lewis? | Zurück in die Zukunft
+3 | Aus welchem Film stammt „Stayin' Alive“? | Saturday Night Fever
+3 | Aus welchem Film stammt „Danger Zone“? | Top Gun
+4 | Welcher Komponist schrieb die Musik zu „Fluch der Karibik“? | Hans Zimmer
+4 | Welcher Komponist schrieb die Musik zu „Psycho“? | Bernard Herrmann
+4 | Welcher Komponist schrieb die Musik zu „Die Schindlers Liste“? | John Williams
+4 | Welcher Komponist schrieb die Musik zu „Der Pate“? | Nino Rota
+5 | Welcher Komponist schrieb die Musik zu „Das Piano“? | Michael Nyman
+5 | Welcher Komponist schrieb die Musik zu „Amélie“? | Yann Tiersen
+5 | Welcher Komponist schrieb die Musik zu „Vertigo“? | Bernard Herrmann
+5 | Welcher Komponist schrieb die Musik zu „Blade Runner“? | Vangelis
+
+# Echte Namen und Spitznamen
+1 | Wie wird Elvis Presley genannt? | The King
+1 | Wie wird Michael Jackson genannt? | King of Pop
+1 | Wie wird Madonna genannt? | Queen of Pop
+1 | Wie heißt die Sängerin von „Umbrella“ mit Künstlernamen? | Rihanna
+2 | Wie heißt der Sänger von Queen mit bürgerlichem Namen? | Farrokh Bulsara
+2 | Wie heißt der Sänger „Sting“ mit bürgerlichem Namen? | Gordon Sumner
+2 | Wie heißt die Sängerin „Pink“ mit bürgerlichem Namen? | Alecia Moore
+2 | Wie heißt der Rapper „Snoop Dogg“ mit Vornamen? | Calvin
+2 | Wie heißt der Sänger „Bruno Mars“ mit bürgerlichem Nachnamen? | Hernandez
+2 | Wie heißt der Rapper „50 Cent“ mit bürgerlichem Namen? | Curtis Jackson
+3 | Wie heißt die Sängerin „Lorde“ mit bürgerlichem Namen? | Ella Yelich-O'Connor
+3 | Wie heißt der Sänger „Elton John“ mit bürgerlichem Namen? | Reginald Dwight
+3 | Wie heißt der Sänger „Bob Marley“ mit Vornamen? | Robert
+3 | Wie heißt die Sängerin „Lana Del Rey“ mit bürgerlichem Namen? | Elizabeth Grant
+3 | Wie heißt der Rapper „Eminem“ mit Künstlernamen als Alter Ego? | Slim Shady
+3 | Wie heißt der Rapper „Snoop Dogg“ früher mit Künstlernamen? | Snoop Doggy Dogg
+4 | Wie heißt der Rapper „Ice Cube“ mit bürgerlichem Namen? | O'Shea Jackson
+4 | Wie heißt der Sänger „Bono“ mit bürgerlichem Namen? | Paul Hewson
+4 | Wie heißt der Sänger „The Edge“ mit bürgerlichem Namen? | David Evans
+4 | Wie heißt der Rapper „Dr. Dre“ mit bürgerlichem Namen? | Andre Young
+4 | Wie heißt die Sängerin „Sia“ mit Nachnamen? | Furler
+4 | Wie heißt der Rapper „Kanye West“ heute mit Künstlernamen? | Ye
+5 | Wie heißt der Sänger „Meat Loaf“ mit bürgerlichem Namen? | Marvin Lee Aday
+5 | Wie heißt der Rapper „Tupac“ mit vollem Namen? | Tupac Amaru Shakur
+5 | Wie heißt die Sängerin „Cher“ mit vollem Namen? | Cherilyn Sarkisian
+5 | Wie heißt die Sängerin „Lady Gaga“ mit zweitem Namen? | Joanne
+5 | Wie heißt der Musiker „Prince“ mit bürgerlichem Namen? | Prince Rogers Nelson
+5 | Wie heißt der Sänger „Slash“ mit bürgerlichem Namen? | Saul Hudson

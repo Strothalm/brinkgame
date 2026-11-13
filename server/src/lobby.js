@@ -33,6 +33,13 @@ const AC_LOG_MAX = 5000;
 const ok = (data) => ({ ok: true, ...data });
 const err = (error, extra) => ({ ok: false, error, ...extra });
 
+/** 'mix' or a '+' joined, ordered subset of easy/medium/hard (e.g. 'easy+hard'). */
+function normDiff(d) {
+  const set = new Set(String(d ?? '').split('+'));
+  const ids = ['easy', 'medium', 'hard'].filter((x) => set.has(x));
+  return ids.length === 0 || ids.length === 3 ? 'mix' : ids.join('+');
+}
+
 function sanitizeSettings(prev, patch) {
   const s = { ...prev };
   if (!patch || typeof patch !== 'object') return s;
@@ -55,7 +62,7 @@ function sanitizeSettings(prev, patch) {
       name: cleanText(p?.name, 60),
       icon: cleanText(p?.icon, 8),
       n: clampInt(p?.n, 0, 100000, 0),
-      diff: ['mix', 'easy', 'medium', 'hard'].includes(p?.diff) ? p.diff : 'mix',
+      diff: normDiff(p?.diff),
     }));
   }
   return s;

@@ -1,0 +1,290 @@
+@id allgemeinwissen
+
+# Sprache und Sprichwörter
+1 | Vervollständige: „Übung macht …“ | … den Meister.
+1 | Vervollständige: „Wer rastet, der …“ | … rostet.
+1 | Vervollständige: „Aller Anfang ist …“ | … schwer.
+1 | Vervollständige: „Ohne Fleiß kein …“ | … Preis.
+1 | Wie nennt man einen Text, der sich reimt und gesungen wird? | Lied
+1 | Wie heißt das Gegenteil von „heiß“? | Kalt
+2 | Vervollständige: „Morgenstund hat …“ | … Gold im Mund.
+2 | Vervollständige: „Der Apfel fällt nicht weit vom …“ | … Stamm.
+2 | Vervollständige: „Eine Schwalbe macht noch keinen …“ | … Sommer.
+2 | Wie nennt man ein Wort, das ein Ding oder Lebewesen bezeichnet? | Nomen | Auch „Substantiv“.
+2 | Wie nennt man ein Wort, das eine Tätigkeit beschreibt? | Verb
+2 | Wie viele Fälle hat die deutsche Sprache? | Vier
+3 | Vervollständige: „Wer zuletzt lacht, …“ | … lacht am besten.
+3 | Vervollständige: „Kleinvieh macht auch …“ | … Mist.
+3 | Wie nennt man die Mehrzahl von „Wort“, die zwei Formen hat? | Wörter und Worte
+3 | Wie heißt die Verkleinerungsform von „Haus“? | Häuschen
+3 | Was bedeutet das Sprichwort „Tomaten auf den Augen haben“? | Etwas Offensichtliches nicht sehen
+3 | Wie nennt man ein Wort mit gleicher Bedeutung wie ein anderes? | Synonym
+4 | Vervollständige: „Wo gehobelt wird, …“ | … da fallen Späne.
+4 | Wie nennt man ein Wort, das aus zwei Wörtern zusammengesetzt ist, wie „Haustür“? | Kompositum
+4 | Was bedeutet die Redewendung „Das ist nicht mein Bier“? | Das geht mich nichts an
+4 | Wie heißt die Zeitform von „ich habe gelacht“? | Perfekt
+4 | Aus welcher Sprache kommt das Wort „Tsunami“? | Japanisch
+5 | Vervollständige: „Der Klügere gibt …“ | … nach.
+5 | Wie nennt man den Gebrauch eines Wortes mit der entgegengesetzten Bedeutung, um zu spotten? | Ironie
+5 | Wie nennt man ein Wort, das aus Anfangsbuchstaben gebildet und als Wort gesprochen wird, wie „Nato“? | Akronym
+
+# Essen und Trinken
+1 | Aus welcher Frucht macht man Apfelsaft? | Apfel
+1 | Welches Gemüse ist orange und gut für die Augen? | Karotte
+1 | Aus welchem Getreide wird Brot meistens gebacken? | Weizen
+1 | Aus welchem Tier gewinnt man Milch am häufigsten? | Kuh
+1 | Welche Frucht ist gelb und krumm? | Banane
+1 | Wie nennt man ein Frühstücksei, das 3 Minuten gekocht wurde? | Weiches Ei
+2 | Aus welchem Land stammt die Kartoffel ursprünglich? | Peru | Aus den Anden in Südamerika.
+2 | Welches Gewürz ist die Hauptzutat von Pesto Genovese neben Basilikum? | Pinienkerne
+2 | Wie nennt man italienische Nudeln in Röhrenform? | Penne
+2 | Aus welcher Pflanze wird Zucker in Europa vor allem gewonnen? | Zuckerrübe
+2 | Welches Getränk ist in England traditionell am beliebtesten? | Tee
+2 | Aus welchem Land stammt der Döner Kebab in seiner heutigen Form? | Deutschland | Die Berliner Variante wurde hier erfunden.
+3 | Welcher Käse wird aus Büffelmilch gemacht und gehört auf Pizza Margherita? | Mozzarella
+3 | Welche Hülsenfrucht ist die Hauptzutat von Tofu? | Sojabohne
+3 | Aus welchem Land kommt die Currywurst? | Deutschland
+3 | Wie nennt man das französische Gebäck in Halbmondform? | Croissant
+3 | Welche Beere ist die Hauptzutat von Wein? | Weintraube
+3 | Aus welchem Land stammt das Gericht Gulasch ursprünglich? | Ungarn
+4 | Aus welchem Land stammt die Marke Parmesan, der Hartkäse? | Italien
+4 | Wie heißt der japanische Rettich, der oft zu Sushi gereicht wird? | Daikon
+4 | Aus welchem Land kommt das Getränk Absinth ursprünglich? | Schweiz
+4 | Wie heißt die schwedische Fischspezialität aus vergorenem Hering? | Surströmming
+4 | Welches Gewürz stammt aus der Blüte der Krokuspflanze? | Safran
+4 | Wie heißt die spanische kalte Gemüsesuppe? | Gazpacho
+5 | Aus welchem Land kommt das Getränk Sake? | Japan
+5 | Wie heißt die russische Teigtasche mit Fleischfüllung? | Pelmeni
+5 | Aus welcher Pflanze wird Vanille gewonnen? | Orchidee
+5 | Wie heißt der italienische Schinken aus Parma? | Prosciutto di Parma
+5 | Wie heißt das georgische Käsebrot in Bootsform? | Chatschapuri
+5 | Wie heißt das indische Fladenbrot, das im Tonofen gebacken wird? | Naan
+
+# Tiere
+1 | Welches Tier macht „Muh“? | Kuh
+1 | Welches Tier hat einen Panzer und ist langsam? | Schildkröte
+1 | Wie nennt man das Junge einer Katze? | Kätzchen
+1 | Welches Tier ist als Haustier der „beste Freund des Menschen“? | Hund
+1 | Welches Tier hat Stacheln und rollt sich zusammen? | Igel
+1 | Welcher Vogel ruft „Kuckuck“? | Kuckuck
+2 | Welches Tier lebt im Bau und frisst gern Karotten? | Kaninchen
+2 | Wie viele Beine hat ein Hund? | Vier
+2 | Welches Tier produziert Wolle? | Schaf
+2 | Wie nennt man das Männchen einer Ente? | Erpel
+2 | Welche Tiere leben im Rudel und heulen? | Wölfe
+2 | Wie nennt man das Junge einer Kuh? | Kalb
+3 | Welcher Vogel ist das Symbol des Friedens? | Taube
+3 | Wie heißt das größte Tier, das auf dem Land lebt? | Elefant
+3 | Wie nennt man ein männliches Rind, das nicht kastriert ist? | Stier
+3 | Welches Tier kann seine Farbe wechseln? | Chamäleon
+3 | Welches Tier baut Dämme in Flüssen? | Biber
+4 | Welches Tier ist das Wappentier der USA? | Weißkopfseeadler
+4 | Wie heißt das größte Nagetier der Welt? | Wasserschwein
+4 | Welches Tier ist das Symbol für Klugheit in der Antike? | Eule
+4 | Wie heißt die größte Schlangenart der Welt, die im Wasser lebt? | Anakonda
+5 | Wie heißt der Fachbegriff für Tiere, die in zwei Lebensräumen leben, Wasser und Land? | Amphibien
+5 | Welcher Vogel legt das größte Ei? | Strauß
+5 | Wie heißt das einzige Säugetier, das aktiv fliegen kann? | Fledermaus
+5 | Wie heißt die Tierart, die Seide produziert? | Seidenraupe
+5 | Wie nennt man den Zugvogel mit dem längsten Flug von Pol zu Pol? | Küstenseeschwalbe
+5 | Welcher Hund wurde als erstes Lebewesen ins All geschickt? | Laika
+
+# Alltag und Technik
+1 | Womit putzt man seine Zähne? | Zahnbürste
+1 | Wie viele Tage hat eine Woche? | Sieben
+1 | Wie viele Monate hat ein Jahr? | Zwölf
+1 | Welches Gerät braucht man zum Telefonieren unterwegs? | Handy
+1 | Wie heißt das Fahrzeug, das auf Schienen fährt und viele Wagen zieht? | Zug
+1 | Wie nennt man das Geld, das man in den Händen hält, wenn es Münzen und Scheine sind? | Bargeld
+2 | Wie viele Stunden hat ein Tag? | 24
+2 | Wie heißt das Gerät, das den Boden saugt? | Staubsauger
+2 | Was bedeutet die Abkürzung „PIN“? | Persönliche Identifikationsnummer
+2 | Welcher Knopf auf der Tastatur macht große Buchstaben? | Umschalttaste | Auch „Shift“.
+2 | Was bedeutet die Abkürzung „App“? | Anwendung | Von „Application“.
+2 | Welches Gerät wärmt Essen schnell auf mit Wellen? | Mikrowelle
+3 | Wofür steht die Abkürzung „PC“? | Personal Computer
+3 | Wie heißt das Netzwerk, das alle Computer der Welt verbindet? | Internet
+3 | Wie heißt das Betriebssystem von Apple für Handys? | iOS
+3 | Wofür steht „LED“? | Leuchtdiode | Englisch „Light Emitting Diode“.
+3 | Welche Taste löscht auf der Tastatur Zeichen links vom Cursor? | Rücktaste
+3 | Wie heißt das berühmte Online-Lexikon, das jeder bearbeiten kann? | Wikipedia
+4 | Wofür steht die Abkürzung „WLAN“? | Wireless Local Area Network
+4 | Wie heißt das Dateiformat für Bilder, das oft für Fotos benutzt wird, mit vier Buchstaben? | JPEG
+4 | Wie heißt die Technik, mit der Handys ohne Kabel bezahlen? | NFC
+4 | Wofür steht die Abkürzung „SMS“? | Short Message Service
+4 | Wie heißt die Suchmaschine von Microsoft? | Bing
+5 | Wie heißt das Verschlüsselungsprotokoll für sichere Webseiten, das auf HTTPS folgt? | TLS | Früher „SSL“.
+5 | Wofür steht „DSL“? | Digital Subscriber Line
+5 | Wie heißt die erste Spielkonsole mit Modulen von Atari, aus dem Jahr 1977? | Atari 2600
+5 | Wie heißt die Abkürzung für die Datenmenge „Terabyte“? | TB
+
+# Geschichte kompakt
+1 | In welchem Jahr begann das 21. Jahrhundert? | 2001 | Gelten lassen: 2000 als Alltagsantwort.
+1 | Wer war der erste Mensch auf dem Mond? | Neil Armstrong
+1 | Welches Land baute die Pyramiden? | Ägypten
+1 | In welchem Land gab es die Samurai? | Japan
+1 | Welche Stadt wurde 79 n. Chr. unter Vulkanasche begraben? | Pompeji
+1 | Wie hieß das Schiff, mit dem die Pilgerväter 1620 nach Amerika segelten? | Mayflower
+2 | Welches Volk baute Machu Picchu? | Inka
+2 | Wie hieß der erste römische Kaiser? | Augustus
+2 | In welchem Jahr endete die Teilung Deutschlands? | 1990
+2 | Wie hieß das Schiff von Kolumbus, auf dem er Amerika erreichte? | Santa María
+2 | Welche Seuche tötete im 14. Jahrhundert ein Drittel der Europäer? | Pest
+3 | Welches Reich wurde von Dschingis Khan gegründet? | Mongolisches Reich
+3 | In welchem Jahr fiel die Bastille in Paris? | 1789
+3 | Welcher Krieg dauerte von 1618 bis 1648? | Dreißigjähriger Krieg
+3 | In welchem Jahr begann der Zweite Weltkrieg? | 1939
+3 | Wie hieß der Anführer der Kubanischen Revolution 1959? | Fidel Castro
+4 | Welche Stadt war bis 1949 die Hauptstadt des Deutschen Reiches? | Berlin
+4 | In welchem Jahr wurde die Europäische Union durch den Vertrag von Maastricht gegründet? | 1993
+4 | Welcher Vertrag beendete den Ersten Weltkrieg für Deutschland 1919? | Versailler Vertrag
+4 | In welchem Jahr stürzte der Eiserne Vorhang mit Ungarns Grenzöffnung? | 1989
+4 | Wie hieß die Dynastie, die Frankreich bis zur Revolution regierte? | Bourbonen
+4 | Wer war der erste Bundespräsident der Bundesrepublik Deutschland? | Theodor Heuss
+5 | In welchem Jahr landete die Mondfähre Apollo 11? | 1969
+5 | Welche Schlacht beendete 1815 die Herrschaft Napoleons? | Waterloo
+5 | Welches Jahr gilt als Beginn des Mittelalters? | 476
+5 | Wie hieß das Bündnis der Ostblockstaaten im Kalten Krieg? | Warschauer Pakt
+5 | Wer war der erste Kanzler des Deutschen Kaiserreichs? | Otto von Bismarck
+
+# Politik und Gesellschaft
+1 | Wie heißt der Regierungschef in Deutschland? | Bundeskanzler
+1 | Wie oft wird der Bundestag in der Regel gewählt, in Jahren? | Vier
+1 | In welcher Stadt sitzt die Europäische Kommission? | Brüssel
+1 | Wie viele Bundesländer hat Deutschland? | 16
+2 | Wie heißt das Staatsoberhaupt der Bundesrepublik Deutschland? | Bundespräsident
+2 | Wie heißt die Staatsform Deutschlands? | Bundesrepublik
+2 | Wie viele Stimmen hat man bei der Bundestagswahl? | Zwei
+2 | Welche Stadt war vor Berlin die Hauptstadt der Bundesrepublik? | Bonn
+2 | Wie heißt die Organisation, in der fast alle Staaten der Welt Mitglied sind? | Vereinte Nationen
+2 | Wie heißt das Parlament der EU? | Europäisches Parlament
+3 | Wie heißt das Bündnis der westlichen Staaten, das 1949 gegründet wurde? | NATO
+3 | Welcher Ort ist der Sitz der UNO in Europa? | Genf
+3 | Wie heißt die Währungsunion in Europa seit 1999? | Eurozone
+3 | Wie heißt der Vertrag, der 1957 die Europäische Wirtschaftsgemeinschaft begründete? | Römische Verträge
+4 | Wie heißt das höchste Amt der EU-Kommission? | Präsident der EU-Kommission
+4 | Wie heißt die Wahlhürde für Parteien bei der Bundestagswahl? | Fünf-Prozent-Hürde
+4 | Wie viele Mitglieder hat die NATO seit 2024? | 32
+4 | Wie heißt der Sitz der Bundesregierung in Berlin? | Bundeskanzleramt
+4 | Wie heißt der oberste Gerichtshof der USA? | Supreme Court
+4 | Welches Land stellt den Generalsekretär der UNO seit 2017? | Portugal
+5 | Wie heißt das Wahlsystem in Deutschland, das Erststimme und Zweitstimme kombiniert? | Personalisierte Verhältniswahl
+5 | Wie heißt die UN-Organisation für Kinder? | UNICEF
+5 | Wie heißt das Gremium der Staats- und Regierungschefs der EU? | Europäischer Rat
+5 | Wie heißt die UN-Organisation für Bildung, Wissenschaft und Kultur? | UNESCO
+5 | Wie viele Artikel hat das Grundgesetz ungefähr? | 146
+5 | Wie heißt der Gerichtshof der EU mit Sitz in Luxemburg? | Europäischer Gerichtshof
+
+# Zahlen und Maße
+1 | Wie viele Zentimeter hat ein Meter? | 100
+1 | Wie viele Tage hat ein normales Jahr? | 365
+1 | Wie viele Stunden hat eine Woche? | 168
+1 | Wie viele Seiten hat ein Dreieck? | Drei
+2 | Wie viele Gramm hat ein Pfund in Deutschland? | 500
+2 | Wie viele Millimeter hat ein Zentimeter? | Zehn
+2 | Wie viele Liter sind ein Kubikmeter? | 1000
+2 | Wie viele Kartenfarben hat ein Skatblatt? | Vier
+2 | Wie viele Pfeile hat ein Dartspiel pro Wurf? | Drei
+2 | Wie viele Sekunden hat eine Minute? | 60
+3 | Wie viele Karten hat ein Pokerspiel ohne Joker? | 52
+3 | Wie viele Zentimeter hat ein Fuß ungefähr? | 30
+3 | Wie viele Meter hat eine Meile ungefähr? | 1609
+3 | Wie viele Tage hat der Februar im Schaltjahr? | 29
+3 | Wie viele Gramm sind ein Kilogramm? | 1000
+4 | Wie viele Zentimeter hat ein Zoll? | 2,54
+4 | Wie viele Quadratmeter hat ein Hektar? | 10.000
+4 | Wie viele Karat hat 1 Gramm? | Fünf
+4 | Wie viele Gramm hat eine Unze ungefähr? | 28
+4 | Wie viele Quadratmeter hat ein Ar? | 100
+5 | Wie viele Pfund sind ein Zentner in Deutschland? | 100
+5 | Wie viele Fuß hat eine Meile? | 5280
+5 | Wie viele Liter hat ein Gallon in den USA ungefähr? | 3,8
+5 | Wie viele Sekunden hat ein Jahr ungefähr? | 31,5 Millionen | 31 bis 32 Millionen gelten lassen.
+
+# Wirtschaft und Marken
+1 | Welche Marke hat drei Streifen als Logo? | Adidas
+1 | Welches Unternehmen stellt Cola mit rotem Logo her? | Coca-Cola
+1 | Welche Marke hat ein Krokodil als Logo? | Lacoste
+1 | Welche Firma stellt die Marke Nutella her? | Ferrero
+2 | Welche Firma produziert die Playstation? | Sony
+2 | Welches Unternehmen betreibt die Suchmaschine Google? | Alphabet
+2 | Welche Firma baut die Autos Golf und Polo? | Volkswagen
+2 | Welche Firma ist für Schokoriegel wie Snickers und Mars bekannt? | Mars
+2 | Wie heißt die schwedische Möbelkette mit gelb-blauem Logo? | IKEA
+3 | Aus welchem Land kommt die Marke Toyota? | Japan
+3 | Wie heißt das größte deutsche Chemieunternehmen mit Sitz in Ludwigshafen? | BASF
+3 | Welches Unternehmen stellt die Marke Zara her? | Inditex
+3 | Wie heißt das größte deutsche Versicherungsunternehmen mit Sitz in München? | Allianz
+3 | Aus welchem Land stammt die Marke Nestlé? | Schweiz
+3 | Wie heißt der Hersteller der Marke Haribo mit Sitz in Bonn? | Haribo
+4 | Wie heißt der größte Sportartikelhersteller der Welt mit dem „Swoosh“? | Nike
+4 | Wie heißt die deutsche Fluggesellschaft mit dem Kranich als Logo? | Lufthansa
+4 | Welche Firma baute den ersten Computer mit grafischer Oberfläche für den Massenmarkt, den Macintosh? | Apple
+4 | Wie heißt die größte Handelskette der Welt nach Umsatz? | Walmart
+4 | Wie heißt der Hersteller der Marke Lego mit Sitz in Billund? | Lego Group
+4 | Wie heißt das größte Bankhaus der Schweiz? | UBS
+5 | Wie heißt die weltgrößte Reederei mit Sitz in Genf? | MSC
+5 | Wer wurde 2008 Chef von Tesla und ist heute das bekannteste Gesicht der Firma? | Elon Musk
+5 | Wie heißt das Unternehmen hinter Instagram und WhatsApp? | Meta
+5 | Wie heißt das deutsche Unternehmen mit dem Gründer Ferdinand Porsche? | Porsche
+5 | Welche Firma gründete Bill Gates mit Paul Allen? | Microsoft
+
+# Religion und Mythen
+1 | Wie heißt das Fest zur Auferstehung Jesu? | Ostern
+1 | Wie heißt das Gebetshaus der Muslime? | Moschee
+1 | Wie heißt das Gebetshaus der Juden? | Synagoge
+1 | Wie viele Tage dauert die Fastenzeit vor Ostern? | 40
+1 | Wie heißt der Weihnachtsmann in den USA? | Santa Claus
+2 | Wie heißt die Göttin der Liebe bei den Griechen? | Aphrodite
+2 | Wie heißt der Gott des Meeres bei den Griechen? | Poseidon
+2 | Wie nennt man den Anführer der katholischen Kirche? | Papst
+2 | Wie heißt der heilige Berg der Griechen? | Olymp
+2 | Wie heißt das jüdische Lichterfest im Winter? | Chanukka
+2 | Wie heißt der Prophet des Islam? | Mohammed
+3 | Wie heißt die römische Göttin der Liebe? | Venus
+3 | Wie heißt der römische Gott des Meeres? | Neptun
+3 | Wie heißt der Weltenbaum bei den Germanen? | Yggdrasil
+3 | Wie heißt die Stadt, in der der Papst lebt? | Vatikanstadt
+3 | Wie heißt das hinduistische Lichterfest? | Diwali
+3 | Wie nennt man die überlieferten Aussprüche und Taten des Propheten Mohammed? | Hadithe
+4 | Wie heißt der Götterbote der griechischen Mythologie? | Hermes
+4 | Wie heißt der Gott des Weins bei den Griechen? | Dionysos
+4 | Wie heißt die Göttin der Weisheit in Rom? | Minerva
+4 | Wie heißt der Tag des Fastenbrechens am Ende des Ramadan? | Zuckerfest | Auch „Id al-Fitr“.
+4 | Wie nennt man den buddhistischen Weg zur Erleuchtung? | Achtfacher Pfad
+4 | Wie heißt die Stadt, in der Buddha geboren wurde? | Lumbini
+5 | Wie heißt die Unterwelt der griechischen Mythologie? | Hades
+5 | Wie heißt der Fährmann, der Tote über den Styx bringt? | Charon
+5 | Wie heißt der Gott der Nordmänner mit dem einen Auge? | Odin
+5 | Wie heißt die Göttin der Unterwelt bei den Nordmännern? | Hel
+5 | Wie heißt das heilige Buch der Sikhs? | Guru Granth Sahib
+5 | Wie heißt der Berg, auf dem Moses die Zehn Gebote bekam? | Sinai
+
+# Kurioses und Rekorde
+1 | Welches ist das höchste Tier der Welt? | Giraffe
+1 | Wie viele Zähne hat ein erwachsener Mensch ohne Weisheitszähne? | 28
+1 | Wie heißt das größte Land der Erde? | Russland
+1 | Welcher Planet ist unser Nachbar mit dem roten Glanz? | Mars
+1 | Welche Zahl gilt in Deutschland als Unglückszahl? | 13
+1 | Wie heißt das berühmteste Rätsel der Sphinx? | Was geht morgens auf vier, mittags auf zwei und abends auf drei Beinen?
+2 | Wie heißt der längste Fluss der Welt? | Nil
+2 | Wie viele Weltwunder gibt es in der klassischen Liste der Antike? | Sieben
+2 | Welches Land hat die meisten Einwohner? | Indien
+2 | Wie heißt das kleinste Land der Welt? | Vatikanstadt
+2 | Welcher Berg ist der höchste der Welt? | Mount Everest
+2 | Wie heißt das berühmteste Buch der Welt, das am meisten gedruckt wurde? | Bibel
+3 | Welches ist das einzige noch erhaltene antike Weltwunder? | Pyramiden von Gizeh
+3 | Welches Tier schläft am wenigsten, kaum zwei Stunden am Tag? | Giraffe
+3 | Wie viele Zeitzonen hat die Erde? | 24
+3 | Wie heißt die längste Mauer der Welt? | Chinesische Mauer
+3 | Wie nennt man die Angst vor großen Menschenmengen? | Agoraphobie
+4 | Wie alt wurde die älteste Frau der Welt, Jeanne Calment? | 122 Jahre
+4 | Wie heißt das berühmteste Gemälde der Welt von Leonardo da Vinci? | Mona Lisa
+4 | Welches ist das teuerste Gewürz der Welt? | Safran
+4 | Wie heißt die tiefste Stelle der Meere? | Challengertief
+4 | Wie viele Spiele hat die Fußball-WM seit 1930 zuletzt in einem Turnier, 2022? | 64
+4 | Wie heißt das größte Säugetier der Meere? | Blauwal
+5 | Wie heißt das älteste bekannte Musikinstrument, eine Flöte, die in Deutschland gefunden wurde? | Flöte von Hohle Fels
+5 | Wie heißt das teuerste Gemälde, das je verkauft wurde, Stand 2017? | Salvator Mundi
+5 | Welche Stadt hat die meisten Brücken der Welt? | Hamburg
+5 | Wie heißt das älteste Land der Welt, das noch besteht? | San Marino | San Marino gilt als älteste Republik.

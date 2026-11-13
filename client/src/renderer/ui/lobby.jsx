@@ -2,7 +2,7 @@ import { useState } from 'preact/hooks';
 import { S, emit, openModal, closeModal, isMod, member, toast, go } from '../store.js';
 import * as act from '../actions.js';
 import { draft } from '../actions.js';
-import { allPacks, getPack, packStats, selectionCapacity, rerollColumn, rerollClue, rerollFinal, imageSrc, DIFFICULTIES, diffLabel, rowLevels } from '../packs.js';
+import { allPacks, getPack, packStats, selectionCapacity, rerollColumn, rerollClue, rerollFinal, imageSrc, DIFFICULTIES, diffLabel, rowLevels, parseDiff, toggleDiff } from '../packs.js';
 import { Avatar, Btn, Icon, Toggle, Seg, Field, Modal, LazyInput, Empty } from './common.jsx';
 
 // ---------- members and teams ----------
@@ -177,7 +177,12 @@ function PackPicker() {
       {chosen > 0 && (
         <div class="all-diff">
           <span class="label">Schwierigkeit für alle gewählten Pakete</span>
-          <span class="seg">{DIFFICULTIES.map((d) => <button type="button" key={d.id} onClick={() => act.setAllDiff(d.id)}>{d.label}</button>)}</span>
+          <span class="seg">{DIFFICULTIES.map((d) => {
+            const first = packs.find((p) => draft.selection[p.id]?.on);
+            const cur = first ? draft.selection[first.id].diff ?? 'mix' : 'mix';
+            const active = d.id === 'mix' ? parseDiff(cur).length === 0 : parseDiff(cur).includes(d.id);
+            return <button type="button" key={d.id} class={active ? 'on' : ''} aria-pressed={active} onClick={() => act.setAllDiff(d.id === 'mix' ? 'mix' : toggleDiff(cur, d.id))}>{d.label}</button>;
+          })}</span>
         </div>
       )}
       <div class="pack-grid">
@@ -197,10 +202,11 @@ function PackPicker() {
                 <span class="pack-check">{on && <Icon name="check" size={16} />}</span>
               </button>
               {on && (
-                <div class="pack-diff" role="radiogroup" aria-label={`Schwierigkeit für ${p.name}`}>
-                  {DIFFICULTIES.map((d) => (
-                    <button type="button" key={d.id} role="radio" aria-checked={(sel.diff ?? 'mix') === d.id} class={(sel.diff ?? 'mix') === d.id ? 'on' : ''} onClick={() => act.setPackDiff(p.id, d.id)}>{d.label}</button>
-                  ))}
+                <div class="pack-diff" role="group" aria-label={`Schwierigkeit für ${p.name} (mehrere möglich)`}>
+                  {DIFFICULTIES.map((d) => {
+                    const active = d.id === 'mix' ? parseDiff(sel.diff).length === 0 : parseDiff(sel.diff).includes(d.id);
+                    return <button type="button" key={d.id} aria-pressed={active} class={active ? 'on' : ''} onClick={() => act.setPackDiff(p.id, d.id === 'mix' ? 'mix' : toggleDiff(sel.diff, d.id))}>{d.label}</button>;
+                  })}
                 </div>
               )}
               {on && <button type="button" class="pack-cats" onClick={() => openModal({ type: 'cats', packId: p.id })}>Kategorien wählen</button>}

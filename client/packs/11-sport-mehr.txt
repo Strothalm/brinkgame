@@ -1,0 +1,278 @@
+@id sport
+
+# Fußball: Bundesliga
+1 | Wie heißt das Stadion des FC Bayern München? | Allianz Arena
+1 | In welcher Stadt spielt Borussia Dortmund? | Dortmund
+1 | Welche Farben trägt der FC Bayern München? | Rot und Weiß
+1 | In welcher Stadt spielt Werder? | Bremen
+1 | Aus welchem Hamburger Stadtteil kommt der FC St. Pauli? | St. Pauli
+1 | Wie viele Punkte gibt es in der Bundesliga für ein Unentschieden? | Einen
+2 | Welcher Verein spielt im Weserstadion? | Werder Bremen
+2 | Wie heißt der Verein aus Leipzig, der in der Bundesliga spielt? | RB Leipzig
+2 | Welcher Verein spielt in der Veltins-Arena? | FC Schalke 04
+2 | Welcher Trainer führte den FC Bayern 2013 zum Triple? | Jupp Heynckes
+2 | Welcher Trainer führte den FC Bayern 2020 zum Triple? | Hansi Flick
+2 | Welcher Torwart war lange Kapitän des FC Bayern und Nationalmannschaft? | Manuel Neuer
+3 | Welcher Trainer wurde mit Borussia Dortmund 2011 und 2012 Meister? | Jürgen Klopp
+3 | Welcher Verein wurde 2004 Meister und gewann das Double? | Werder Bremen
+3 | Welcher Verein gewann 2022 die Europa League? | Eintracht Frankfurt
+3 | Welcher Verein trägt den Spitznamen „Vizekusen“? | Bayer 04 Leverkusen
+3 | Welcher Trainer prägte lange den SC Freiburg bis 2024? | Christian Streich
+4 | Welcher Verein gewann 1997 die Champions League? | Borussia Dortmund
+4 | Welcher Verein gewann 1997 den UEFA-Pokal als „Eurofighter“? | FC Schalke 04
+4 | Welcher Trainer führte Borussia Dortmund 1997 zum Champions-League-Titel? | Ottmar Hitzfeld
+4 | Wie heißt der Mäzen, der die TSG Hoffenheim stark förderte? | Dietmar Hopp
+4 | Welcher Verein gewann 2022 den DFB-Pokal, erstmals in seiner Geschichte? | RB Leipzig
+4 | Wie heißt der Preis für den besten Torschützen der Bundesliga? | Torjägerkanone
+5 | Welcher Spieler schoss Dortmund 1997 im Champions-League-Finale das 3:1 kurz nach der Einwechslung? | Lars Ricken
+5 | Welcher Trainer gewann 2004 mit Werder Bremen das Double? | Thomas Schaaf
+5 | Wie heißt das Stadion des SC Freiburg seit 2021? | Europa-Park Stadion
+5 | Welcher Verein war der erste deutsche Meister 1903? | VfB Leipzig
+
+# Fußball: Welt und Europa
+1 | Welches Land wurde 2018 Fußball-Weltmeister? | Frankreich
+1 | In welchem Land fand die WM 2006 statt? | Deutschland
+1 | Welche Nationalmannschaft trägt den Spitznamen „Squadra Azzurra“? | Italien
+1 | Welche Nationalmannschaft nennt man „La Roja“? | Spanien
+2 | Welcher Verein gewann 2023 die Champions League? | Manchester City
+2 | Welcher Verein verlor 2024 das Champions-League-Finale gegen Real Madrid? | Borussia Dortmund
+2 | In welcher Stadt steht das Wembley-Stadion? | London
+2 | Welche zwei Vereine standen 2013 im Champions-League-Finale in Wembley? | Bayern München und Borussia Dortmund
+2 | Wie heißt der Klub, bei dem Messi 2021 vom FC Barcelona hinwechselte? | Paris Saint-Germain
+3 | Wer war 2014 Trainer der deutschen Weltmeister? | Joachim Löw
+3 | Wer war 2014 Kapitän der deutschen Nationalmannschaft? | Philipp Lahm
+3 | Wer gewann 2018 den Ballon d'Or? | Luka Modrić
+3 | In welchem Land fand die erste Europameisterschaft 1960 statt? | Frankreich
+3 | Welcher Brasilianer schoss 2002 beide Tore im WM-Finale gegen Deutschland? | Ronaldo
+3 | Wo findet die WM 2026 statt? | USA, Kanada und Mexiko
+4 | Welches Land gewann 1992 als Nachrücker die Europameisterschaft? | Dänemark
+4 | Wer ist Rekordnationalspieler Deutschlands? | Lothar Matthäus
+4 | Wie viele Länderspieltore schoss Miroslav Klose für Deutschland? | 71
+4 | Welches Land gewann 1991 die erste Frauen-WM? | USA
+4 | Welcher Verein gewann 2019 die Champions League mit Trainer Jürgen Klopp? | FC Liverpool
+5 | Wer erzielte 1996 im EM-Finale das Golden Goal für Deutschland? | Oliver Bierhoff
+5 | Wer schoss im WM-Finale 1990 den entscheidenden Elfmeter für Deutschland? | Andreas Brehme
+5 | Wer war 1990 Torhüter der deutschen Weltmeister? | Bodo Illgner
+5 | Wer erhielt 2014 den Goldenen Ball als bester Spieler der WM? | Lionel Messi
+5 | Welche zwei Länder richteten die WM 2002 gemeinsam aus? | Japan und Südkorea
+5 | Welcher Italiener erhielt 2006 im WM-Finale den Kopfstoß von Zidane? | Marco Materazzi
+
+# Olympia
+1 | In welcher Stadt fanden die Sommerspiele 2012 statt? | London
+1 | Welche Stadt war 2016 Gastgeber der Sommerspiele? | Rio de Janeiro
+1 | Wo wird die olympische Flamme für die Spiele entzündet? | Olympia
+1 | Welche Medaille bekommt der Zweitplatzierte? | Silber
+1 | Welche Medaille bekommt der Dritte? | Bronze
+1 | In welcher Stadt fanden die Sommerspiele 2008 statt? | Peking
+2 | In welcher Stadt fanden die Sommerspiele 2004 statt? | Athen
+2 | Welche Stadt war 2000 Gastgeber der Sommerspiele? | Sydney
+2 | In welcher Stadt fanden die Winterspiele 2014 statt? | Sotschi
+2 | In welchem Land fanden die Winterspiele 2018 statt? | Südkorea
+2 | In welcher Stadt fanden die Sommerspiele 1992 statt? | Barcelona
+2 | Welche deutsche Stadt war 1936 Gastgeber der Winterspiele? | Garmisch-Partenkirchen
+3 | Welche Schwimmerin gewann 1988 sechs Goldmedaillen für die DDR? | Kristin Otto
+3 | Welcher Sprinter gewann 1960 in Rom das 100-Meter-Rennen für Deutschland? | Armin Hary
+3 | Welche Kanutin gewann acht olympische Goldmedaillen? | Birgit Fischer
+3 | Welcher amerikanische Leichtathlet gewann bei den Spielen 1984 vier Goldmedaillen und insgesamt neun? | Carl Lewis
+3 | Wo fanden die Winterspiele 2010 statt? | Vancouver
+3 | In welcher Stadt fanden die Sommerspiele 1980 statt? | Moskau
+4 | Welche amerikanische Turnerin gewann bei den Spielen 2016 viermal Gold? | Simone Biles
+4 | Welche Stadt war 1976 Gastgeber der Sommerspiele? | Montreal
+4 | Wo fanden die Winterspiele 1994 statt? | Lillehammer
+4 | Welche Stadt war 1968 Gastgeber der Sommerspiele? | Mexiko-Stadt
+4 | Wo fanden die Winterspiele 1984 statt? | Sarajevo
+5 | Welcher finnische Läufer gewann in den 1920er-Jahren neun Goldmedaillen? | Paavo Nurmi
+5 | Welche Turnerin der Sowjetunion gewann 18 olympische Medaillen und war lange Rekordhalterin? | Larissa Latynina
+5 | Welcher deutsche Weitspringer gab 1936 Jesse Owens einen Tipp und gewann Silber? | Luz Long
+5 | Welche Stadt war 1988 Gastgeber der Sommerspiele? | Seoul
+5 | Welche Stadt war 1956 Gastgeber der Sommerspiele? | Melbourne
+
+# Motorsport
+1 | Wo steht der Hauptsitz von Ferrari? | Maranello
+1 | Welche Farbe hat die Flagge, die Gefahr anzeigt? | Gelb
+1 | Wie heißt der Rennfahrer, der 2021 bis 2024 Weltmeister der Formel 1 wurde? | Max Verstappen
+1 | Wie viele Weltmeistertitel hat Lewis Hamilton? | Sieben
+1 | Welche Flagge zeigt einen Abbruch des Rennens an? | Rote Flagge
+2 | Welches Team gewann 2014 bis 2020 sieben Konstrukteurstitel in Folge? | Mercedes
+2 | Welcher Finne wurde 2007 Weltmeister im Ferrari? | Kimi Räikkönen
+2 | Welcher Brite wurde 2009 Weltmeister im Brawn GP? | Jenson Button
+2 | In welchem Land liegt die Rennstrecke von Monza? | Italien
+2 | In welchem Land liegt der Kurs von Spa-Francorchamps? | Belgien
+2 | In welchem Land liegt der Kurs Silverstone? | Großbritannien
+3 | Welcher Spanier wurde 2005 und 2006 Weltmeister? | Fernando Alonso
+3 | Welcher Franzose wurde viermal Weltmeister in den 1980ern und 1990ern? | Alain Prost
+3 | Welcher Finne wurde 1998 und 1999 Weltmeister im McLaren? | Mika Häkkinen
+3 | Welches Team fährt in der Formel 1 mit dem Hauptsitz in Woking? | McLaren
+3 | Wie viele Siege hat Michael Schumacher in der Formel 1 errungen? | 91
+3 | In welchem Land liegt die Strecke Suzuka? | Japan
+4 | Welcher Brite wurde 1996 Weltmeister? | Damon Hill
+4 | Welcher Italiener wurde 15-mal Motorrad-Weltmeister? | Giacomo Agostini
+4 | Welcher Deutsche gewann 1994 seinen ersten Titel? | Michael Schumacher
+4 | Welcher Brite wurde 1992 Weltmeister im Williams? | Nigel Mansell
+4 | In welchem Land liegt der Kurs von Interlagos? | Brasilien
+4 | Welcher Spanier ist achtfacher Motorrad-Weltmeister, bekannt als „Baby Alien“? | Marc Márquez
+5 | Welcher Australier gewann 1959, 1960 und 1966 den Weltmeistertitel? | Jack Brabham
+5 | Welcher Brite gewann in den 1960ern zwei Titel mit Lotus und starb 1968? | Jim Clark
+5 | Welcher Schotte gewann dreimal die WM und wurde „Flying Scot“ genannt? | Jackie Stewart
+5 | Welches Rennen wurde 2008 erstmals als Nachtrennen in der Formel 1 ausgetragen? | Großer Preis von Singapur
+5 | Welcher Brasilianer wurde 1981, 1983 und 1987 Weltmeister? | Nelson Piquet
+5 | Welche deutsche Rennstrecke in Baden liegt bei Walldorf? | Hockenheimring
+
+# Tennis und Rückschlagspiele
+1 | In welcher Stadt findet das Turnier Wimbledon statt? | London
+1 | In welcher Stadt findet das Turnier Roland Garros statt? | Paris
+1 | Wie viele Punkte hat man nach dem ersten Punkt im Tennis? | 15
+1 | Wie nennt man einen Aufschlag, den der Gegner nicht berühren kann? | Ass
+1 | Was gibt es beim Tennis nach vier gewonnenen Punkten? | Ein Spiel
+1 | Wie viele Spieler stehen im Doppel auf dem Platz? | Vier
+2 | Welcher Deutsche gewann 2021 olympisches Gold in Tokio im Tennis? | Alexander Zverev
+2 | Welche Deutsche gewann 2016 die Australian Open und die US Open? | Angelique Kerber
+2 | Welcher Brite gewann 2013 und 2016 Wimbledon? | Andy Murray
+2 | In welchem New Yorker Stadtteil finden die US Open statt? | Queens | Auch „Flushing Meadows“.
+2 | Welcher Deutsche gewann 1991 Wimbledon? | Michael Stich
+2 | Welche Linie begrenzt das Spielfeld beim Tennis? | Grundlinie
+3 | Welcher Amerikaner gewann 14 Grand-Slam-Titel und war berühmt für seinen Aufschlag? | Pete Sampras
+3 | Welche Tschechin gewann neunmal Wimbledon? | Martina Navratilova
+3 | Welche Polin gewann mehrfach die French Open seit 2020? | Iga Świątek
+3 | Welcher Spanier gewann 2022 die US Open mit 19 Jahren? | Carlos Alcaraz
+3 | Welcher Italiener gewann 2024 die Australian Open? | Jannik Sinner
+3 | Wie nennt man die Entscheidung bei 6:6 im Satz? | Tie-Break
+4 | Welcher Schweizer gewann 2014 die Australian Open, 2015 die French Open und 2016 die US Open? | Stan Wawrinka
+4 | Welcher Australier gewann 1962 und 1969 alle vier Grand Slams im selben Jahr? | Rod Laver
+4 | Welche Spielerin gewann als Teenager bis 1993 acht Grand-Slam-Titel und wurde 1993 auf dem Platz attackiert? | Monica Seles
+4 | Welche Amerikanerin gewann in den 1970ern und 1980ern 18 Grand-Slam-Titel? | Chris Evert
+5 | Welcher Rumäne gewann 1972 die US Open und wurde „Nasty“ genannt? | Ilie Năstase
+5 | Welcher Amerikaner war als Rüpel der 1980er berühmt und gewann Wimbledon dreimal? | John McEnroe
+5 | Welcher Deutsche gewann 2018 die ATP Finals? | Alexander Zverev
+5 | Welcher Tscheche-Amerikaner gewann in den 1980ern acht Grand-Slam-Titel? | Ivan Lendl
+5 | Aus wie vielen Millimetern besteht der Durchmesser eines Tischtennisballs? | 40
+5 | Welche Deutsche gewann 2018 Wimbledon? | Angelique Kerber
+
+# US-Sport
+1 | Welches Team gewann den Super Bowl 2024? | Kansas City Chiefs
+1 | Welche Sportart spielt man mit einem Schläger und Basis? | Baseball
+1 | Wie viele Punkte bekommt man für einen Dreier im Basketball? | Drei
+1 | Wie nennt man die Position, die im American Football den Ball wirft? | Quarterback
+2 | Welche Farben tragen die Los Angeles Lakers? | Lila und Gold
+2 | Welcher Quarterback führte die Chiefs 2020 und 2023 zum Titel? | Patrick Mahomes
+2 | Welcher Spieler führte die Warriors zu mehreren Titeln und ist bekannt für Dreier? | Stephen Curry
+2 | Wie viele Spieler hat ein Baseballteam im Feld? | Neun
+2 | Welches Team spielt in Green Bay und trägt Grün-Gold? | Green Bay Packers
+3 | Welches Team hat die meisten NBA-Titel? | Boston Celtics
+3 | Welcher Baseballspieler trug die Nummer 3 und war berühmt als „Babe“? | Babe Ruth
+3 | Welcher deutsche Eishockeyspieler gewann 2020 die Hart Memorial Trophy als MVP? | Leon Draisaitl
+3 | Welcher Basketballer war unter dem Spitznamen „Magic“ bei den Lakers bekannt? | Earvin Johnson
+3 | Wie heißt die Halbzeitshow im Super Bowl? | Halftime Show
+4 | Welcher deutsche Basketballer wurde 2023 mit der Nationalmannschaft Weltmeister und spielt in der NBA bei den Orlando Magic? | Franz Wagner
+4 | Welcher Russe ist einer der besten Torjäger der NHL und spielt für die Washington Capitals? | Alexander Owetschkin
+4 | Welches Team gewann sechs Super Bowls mit Tom Brady? | New England Patriots
+4 | Wie heißen die Football-Mannschaften aus Dallas? | Dallas Cowboys
+4 | Welcher Forward der Boston Celtics gewann in den 1980ern drei NBA-Titel? | Larry Bird
+5 | Welcher Centerspieler der Lakers gewann vier Titel in den 2000ern, genannt „Shaq“? | Shaquille O'Neal
+5 | Welcher Eishockeyspieler aus Kanada heißt „Sid the Kid“? | Sidney Crosby
+5 | Welcher NBA-Spieler erzielte mit über 38.000 Punkten lange den Rekord? | Kareem Abdul-Jabbar
+5 | Welche deutsche Basketballerin spielt in der WNBA für Dallas? | Satou Sabally
+5 | Welcher deutsche Footballer spielt als Profi für die Detroit Lions? | Amon-Ra St. Brown | Er ist Deutsch-Amerikaner.
+5 | Wie heißt das berühmte Baseballstadion der Boston Red Sox? | Fenway Park
+
+# Wintersport
+1 | Welches Gerät benutzt man beim Rodeln? | Schlitten
+1 | In welchem Sport werden Steine auf dem Eis geschoben? | Curling
+1 | Wie heißt die große Skisprungschanze in Oberstdorf? | Heini-Klopfer-Skiflugschanze
+1 | Wie nennt man Eiskunstlauf zu zweit? | Paarlauf
+2 | Welche Biathletin gewann 2018 zwei olympische Goldmedaillen für Deutschland? | Laura Dahlmeier
+2 | Welcher Österreicher wurde „Herminator“ genannt? | Hermann Maier
+2 | Welcher Deutsche gewann 2018 und 2022 Gold im Bob? | Francesco Friedrich
+2 | Welche Deutsche gewann mehrmals Gold im Rodeln? | Natalie Geisenberger
+2 | Welcher Norweger gewann in den 1990ern acht olympische Goldmedaillen im Langlauf? | Bjørn Dæhlie
+2 | Welche deutsche Skirennläuferin gewann 2010 zwei olympische Goldmedaillen? | Maria Höfl-Riesch
+3 | Welcher Pole gewann 2001 und 2003 die Vierschanzentournee? | Adam Małysz
+3 | Welcher Schweizer gewann 2002 und 2010 jeweils zwei olympische Goldmedaillen im Skispringen? | Simon Ammann
+3 | Welcher Österreicher gewann 1976 in Innsbruck die Abfahrt? | Franz Klammer
+3 | Welcher Deutsche gewann 4-mal die Vierschanzentournee? | Jens Weißflog
+3 | Welche US-Amerikanerin gewann viermal den Gesamtweltcup und über 80 Weltcuprennen? | Lindsey Vonn
+3 | Welcher Franzose gewann sieben Gesamtweltcups im Biathlon in Folge? | Martin Fourcade
+4 | Welche Eiskunstläufer gewannen 2018 Olympiagold im Paarlauf für Deutschland? | Aljona Savchenko und Bruno Massot
+4 | Welcher Finne gewann 1980er mehrere Olympiasiege im Skispringen? | Matti Nykänen
+4 | Welcher Deutsche gewann mehrfach olympisches Gold in der Nordischen Kombination? | Eric Frenzel
+4 | Welche Norwegerin gewann viele Langlauf-Titel nach 2018, Therese? | Therese Johaug
+5 | Welche Deutsche gewann olympisches Gold im Eisschnelllauf 2002 und hieß Anni? | Anni Friesinger
+5 | Welcher Deutsche gewann 2018 olympisches Gold im Skispringen von der Normalschanze, Andreas? | Andreas Wellinger
+5 | Wie heißt die erste Frau, die 2014 olympisches Gold im Skispringen erhielt, Carina? | Carina Vogt
+5 | Welcher US-Amerikaner gewann 1980 fünf Goldmedaillen im Eisschnelllauf? | Eric Heiden
+
+# Regeln und Begriffe
+1 | Wie viele Spieler hat ein Basketballteam auf dem Feld? | Fünf
+1 | Wie nennt man im Fußball das Spiel nach Verlängerung ohne Sieger? | Elfmeterschießen
+1 | Wie viele Minuten hat eine Halbzeit beim Handball? | 30
+1 | Was bekommt man im Fußball bei einem Foul im Strafraum? | Elfmeter
+1 | Wie viele Spieler hat eine Volleyballmannschaft auf dem Feld? | Sechs
+1 | Wie heißt das Netz im Fußball, in das man schießt? | Tor
+2 | Wie nennt man im Golf ein Loch mit einem Schlag? | Hole-in-One
+2 | Wie viele Punkte gibt ein Try im Rugby? | Fünf
+2 | Wie heißt die Zeit, die im Basketball zum Werfen bleibt, in der NBA? | 24 Sekunden
+2 | Wie viele Runden dauert ein Boxkampf in der Weltmeisterschaft maximal? | Zwölf
+2 | Wie nennt man im Eishockey die Strafzeit? | Strafbank
+2 | Wie nennt man den Punktgewinn im Tischtennis? | Punkt
+3 | Wie viele Punkte braucht man für einen Satz im Volleyball? | 25
+3 | Wie heißt die höchste Wertung im Judo? | Ippon
+3 | Wie lang ist die Strecke eines Marathons? | 42,195 Kilometer
+3 | Wie viele Minuten dauert ein Eishockeydrittel? | 20
+3 | Wie lang ist ein Fußballfeld in der Regel? | 105 Meter
+3 | Wie breit ist ein Fußballfeld in der Regel? | 68 Meter
+4 | Wie viele Hürden gibt es beim 110-Meter-Hürdenlauf? | Zehn
+4 | Wie nennt man im Golf einen Schlag über Par? | Bogey
+4 | Wie heißt die Position im Volleyball, die nur in der Abwehr steht? | Libero
+4 | Wie lange dauert ein Rugby-Spiel in der Union-Variante? | 80 Minuten
+5 | Welche Regel verbietet im Fußball das Warten hinter der letzten Abwehrreihe? | Abseits
+5 | Wie viele Punkte gibt ein Touchdown im American Football plus Extrapunkt? | Sieben
+5 | Wie heißt der Strafwurf im Handball, der aus sieben Metern ausgeführt wird? | Siebenmeter
+5 | Wie hoch ist ein Handballtor? | Zwei Meter
+
+# Legenden des Sports
+1 | Welcher Torhüter wurde „Titan“ genannt? | Oliver Kahn
+1 | Welcher Fußballer wurde 2006 mit einem Kopfstoß im WM-Finale berühmt? | Zinedine Zidane
+1 | Welcher Engländer war Fußballstar und Ehemann einer Popsängerin der Spice Girls? | David Beckham
+1 | Welcher Basketballer trug bei den Chicago Bulls die Nummer 23? | Michael Jordan
+1 | Welcher Berliner Boxer besiegte 1936 Joe Louis? | Max Schmeling
+1 | Wie hieß der Bundestrainer, der „Der Ball ist rund“ sagte? | Sepp Herberger
+2 | Welcher deutsche Fußballer schoss 1954 das Siegtor im WM-Finale? | Helmut Rahn
+2 | Welcher Fußballer wurde Rekordnationalspieler Deutschlands mit 150 Länderspielen? | Lothar Matthäus
+2 | Welcher Hamburger Stürmer war „Uns Uwe“? | Uwe Seeler
+2 | Welcher Fußballer aus Frankreich schoss 2018 im WM-Finale? | Kylian Mbappé
+2 | Welcher deutsche Torhüter wurde 1954 Weltmeister? | Toni Turek
+2 | Wie hieß der Kapitän der Weltmeister von 1954? | Fritz Walter
+3 | Welcher Torwart ist bislang der einzige Gewinner des Ballon d'Or? | Lew Jaschin
+3 | Welcher Niederländer gewann 1988 mit den Niederlanden die EM, Marco? | Marco van Basten
+3 | Welcher Brasilianer wurde „Phänomen“ genannt? | Ronaldo
+3 | Welcher Portugiese war in den 1960ern Fußballstar bei Benfica, Eusébio? | Eusébio
+4 | Welcher Radfahrer gewann 1992 bis 1995 fünfmal die Tour de France in Folge? | Miguel Indurain
+4 | Welcher Deutsche gewann 1997 die Tour de France? | Jan Ullrich
+4 | Welcher Radrennfahrer aus Frankreich gewann fünfmal die Tour de France in den 1960ern? | Jacques Anquetil
+4 | Welcher Brite gewann 2012 die Tour de France als Erster Brite? | Bradley Wiggins
+5 | Welcher brasilianische Dribbler der 1950er und 1960er wurde „Engel mit den krummen Beinen“ genannt? | Garrincha
+5 | Welcher Argentinier gewann 1978 die WM als Torschützenkönig, Mario? | Mario Kempes
+5 | Welcher Ungar war der berühmte Stürmer von 1954? | Ferenc Puskás
+5 | Welcher Franzose gewann 1998 als Spielmacher die WM? | Zinedine Zidane
+
+# Rekorde und Zahlen
+1 | Wie viele Spieler stehen in einem Handballteam auf dem Feld? | Sieben
+1 | Wie viele Runden hat ein Formel-1-Rennen in Monaco ungefähr? | 78
+1 | Wie viele Tore braucht man für einen Hattrick? | Drei
+1 | Wie viele Spieler hat ein Eishockeyteam auf dem Eis? | Sechs
+1 | Wie viele Minuten dauert ein Fußballspiel mit Nachspielzeit nicht eingerechnet? | 90
+2 | Wie viele Weltmeistertitel hat Brasilien im Fußball? | Fünf
+3 | Wie lang ist ein Schwimmbecken in der Kurzbahn? | 25 Meter
+3 | Wie viele Tore erzielte Cristiano Ronaldo etwa im Profifußball? | Über 900
+3 | Wie viele Grand-Slam-Titel hat Roger Federer? | 20
+3 | Wie viele Spieler pro Team stehen beim Cricket auf dem Feld? | Elf
+3 | Wie viele Medaillen gewann Michael Phelps bei Olympia insgesamt? | 28
+4 | Wie viele Tore erzielte Gerd Müller bei Weltmeisterschaften? | 14
+4 | Wie schwer ist ein Basketball in Gramm ungefähr? | 600
+4 | Wie lang ist ein Tennisplatz in Metern? | 23,77
+4 | Wie breit ist ein Tennisplatz im Einzel in Metern? | 8,23
+5 | Wie viele Etappen hatte die erste Tour de France 1903? | Sechs
+5 | Wie viele Zentimeter hat ein Fußball im Umfang ungefähr? | 70
+5 | Wie weit ist der Weltrekord im Speerwurf der Männer ungefähr? | 98 Meter
+5 | Wie viel wiegt der Hammer beim Hammerwurf der Männer? | 7,26 Kilogramm
+5 | Wie viele Sekunden dauert der Weltrekord über 100 Meter von Bolt ungefähr? | 9,58

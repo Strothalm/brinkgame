@@ -1,0 +1,302 @@
+@id wissenschaft
+
+# Weltall
+1 | Wie heißt der Planet mit den bekannten Ringen? | Saturn
+1 | Wie nennt man ein Gebiet, in dem Astronomen den Himmel beobachten? | Sternwarte | Auch „Observatorium“.
+1 | Wie viele Monde hat die Erde? | Einen
+1 | Welcher Planet ist der Erde am ähnlichsten in der Größe und wird „Schwesterplanet“ genannt? | Venus
+1 | Wie heißt das Sternbild mit dem „Wagen“, das man im Norden gut sieht? | Großer Wagen | Auch „Großer Bär“.
+2 | Wie heißt der Planet, der als einziger im Sonnensystem auf der Seite liegend kreist? | Uranus
+2 | Wie heißt der Stern, der als Nordstern zur Orientierung dient? | Polarstern
+2 | Welche Raumfahrtbehörde der USA schickte Menschen zum Mond? | NASA
+2 | Wie nennt man eine große Ansammlung von Milliarden Sternen? | Galaxie
+2 | Wie heißt der rote Fleck auf dem Jupiter? | Großer Roter Fleck
+2 | Wie nennt man die Bahn eines Planeten um die Sonne? | Umlaufbahn
+3 | Wie viele Monde hat der Mars? | Zwei | Phobos und Deimos.
+3 | Welcher Planet ist der kälteste im Sonnensystem? | Uranus
+3 | Wie heißt der größte Mond des Saturn? | Titan
+3 | Wie nennt man den Teil der Sonne, den wir als leuchtende Oberfläche sehen? | Photosphäre
+3 | Wie nennt man ein Himmelsobjekt mit leuchtendem Schweif? | Komet
+3 | Wie lange braucht der Mond für einen Umlauf um die Erde ungefähr? | 27 Tage | 27 bis 29 Tage gelten lassen.
+4 | Wie heißt das Fahrzeug, mit dem NASA 2021 auf dem Mars landete und das ein kleines Hubschrauberchen mitbrachte? | Perseverance
+4 | Wie heißt der erste Hubschrauber auf dem Mars? | Ingenuity
+4 | Wie heißt die Sonde, die 2015 Pluto erreichte? | New Horizons
+4 | Wie nennt man die Umlaufzeit der Erde um die Sonne? | Ein Jahr
+5 | Wie heißt der Mond des Jupiter mit den aktiven Vulkanen? | Io
+5 | Wie heißt der Mond des Saturn mit den Eisfontänen und einem Ozean unter dem Eis? | Enceladus
+5 | Welcher deutsche Astronom entdeckte 1781 den Uranus? | Wilhelm Herschel | Er war Deutsch-Brite.
+5 | Welches Teleskop wurde 1990 in die Erdumlaufbahn gebracht? | Hubble
+
+# Der menschliche Körper
+1 | Mit welchem Organ sehen wir? | Auge
+1 | Welches Organ pumpt Blut durch den Körper? | Herz
+1 | Wie viele Finger hat ein Mensch an beiden Händen zusammen? | Zehn
+1 | Wie nennt man die Knochen, die das Gehirn schützen? | Schädel
+1 | Welcher Sinn sitzt in der Nase? | Geruchssinn
+1 | Wie viele Zähne hat ein Kind mit Milchzähnen vollständig? | 20
+2 | Wie heißt das Organ, das Nahrung zerkleinert und mit Magensäure vermischt? | Magen
+2 | Wie heißt der Muskel, der beim Atmen unter der Lunge liegt? | Zwerchfell
+2 | Welches Organ ist das größte innere Organ des Menschen? | Leber
+2 | Wie nennt man die Blutgefäße, die Blut zum Herzen zurückführen? | Venen
+2 | Wie nennt man die Blutgefäße, die Blut vom Herzen wegführen? | Arterien
+2 | Wie heißt der Stoff in roten Blutkörperchen, der Sauerstoff bindet? | Hämoglobin
+3 | Wie viele Kammern hat das menschliche Herz? | Vier
+3 | Wie heißt der Knochen im Oberarm? | Oberarmknochen | Fachwort „Humerus“.
+3 | Wie nennt man die kleinsten Blutgefäße? | Kapillaren
+3 | Wie heißt der Teil des Auges, durch den Licht ins Auge fällt? | Pupille
+3 | Wie heißt das Verdauungsorgan, in dem Nährstoffe ins Blut aufgenommen werden? | Dünndarm
+3 | Wie viele Wirbel hat die menschliche Wirbelsäule ungefähr? | 33 | 24 bewegliche, dazu Kreuz- und Steißbein.
+4 | Wie heißt die Schicht der Haut, in der Haare wachsen? | Lederhaut
+4 | Welche Blutzellen bekämpfen Krankheitserreger? | Weiße Blutkörperchen
+4 | Wie heißt der Teil des Gehirns, der Gedanken und Bewusstsein steuert? | Großhirn
+4 | Wie heißt die Flüssigkeit, die Gelenke schmiert? | Gelenkschmiere | Fachwort „Synovia“.
+4 | Wie heißt das Hormon, das den Blutzucker senkt? | Insulin
+4 | Wie heißt der Nerv, der vom Gehirn bis in die Bauchorgane reicht? | Vagusnerv
+5 | Wie heißt die Drüse im Gehirn, die viele andere Hormondrüsen steuert? | Hypophyse | Auch „Hirnanhangsdrüse“.
+5 | Wie nennt man den Vorgang, bei dem Zellen sich teilen? | Mitose
+5 | Wie heißt die Schutzschicht um Nervenfasern? | Myelinscheide
+5 | Wie heißt das Hormon, das bei Stress ausgeschüttet wird und den Puls erhöht? | Adrenalin
+5 | Wie heißt die Drüse im Hals, die den Stoffwechsel reguliert? | Schilddrüse
+5 | Wie heißt der größte Knochen im Gesicht? | Unterkiefer
+
+# Chemie
+1 | Wie nennt man Wasser, wenn es gefroren ist? | Eis
+1 | Was ist das chemische Zeichen für Sauerstoff? | O
+1 | Welches Metall rostet an feuchter Luft? | Eisen
+1 | Wie nennt man Wasser, wenn es als Gas vorliegt? | Wasserdampf
+1 | Welcher Stoff gibt dem Meerwasser den salzigen Geschmack? | Salz
+2 | Was ist das chemische Zeichen für Kohlenstoff? | C
+2 | Wie nennt man Stoffe mit einem pH-Wert unter 7? | Säuren
+2 | Wie nennt man Stoffe mit einem pH-Wert über 7? | Laugen | Auch „Basen“.
+2 | Welches Metall leitet Strom besonders gut und wird für Kabel benutzt? | Kupfer
+2 | Welches Element hat das Zeichen „H“? | Wasserstoff
+3 | Welches Edelmetall hat das Zeichen „Pt“? | Platin
+3 | Wie nennt man ein Gemisch aus Metallen? | Legierung
+3 | Aus welchen zwei Metallen besteht Bronze hauptsächlich? | Kupfer und Zinn
+3 | Welches Element hat das Zeichen „K“? | Kalium
+3 | Wie heißt das Gas in der Luft, das 21 Prozent ausmacht? | Sauerstoff
+3 | Wie heißt das Verfahren, mit dem man Wasser in Wasserstoff und Sauerstoff zerlegt? | Elektrolyse
+4 | Welches Element hat das Zeichen „Pb“? | Blei
+4 | Welches Element hat die Ordnungszahl 6? | Kohlenstoff
+4 | Wie nennt man die positiv geladenen Teilchen im Atomkern? | Protonen
+4 | Welches Edelgas leuchtet orange-rot in Leuchtreklamen? | Neon
+4 | Wie heißt die Säure in Zitronen? | Zitronensäure
+4 | Aus welchen Elementen besteht Kochsalz? | Natrium und Chlor
+5 | Welches Element hat das Zeichen „Sn“? | Zinn
+5 | Welches Element hat das Zeichen „Hg“? | Quecksilber
+5 | Wie nennt man ein Teilchen mit gleicher Protonenzahl, aber anderer Neutronenzahl? | Isotop
+5 | Wie heißt das leichteste Metall? | Lithium
+5 | Wie nennt man den Übergang von fest direkt zu gasförmig, wie bei Trockeneis? | Sublimation
+5 | Welches Element ist das häufigste in der Erdkruste? | Sauerstoff
+
+# Physik
+1 | Wie nennt man die Kraft, die Magnete aufeinander ausüben? | Magnetismus
+1 | Was leuchtet, wenn man den Schalter einer Lampe betätigt? | Glühbirne | Auch „Lampe“.
+1 | Wie heißt die Einheit der Temperatur in Europa? | Grad Celsius
+1 | Was schmilzt bei null Grad Celsius? | Eis
+1 | Wie nennt man den Weg, den ein Körper in einer Zeit zurücklegt, geteilt durch diese Zeit? | Geschwindigkeit
+2 | In welcher Einheit misst man die Stromstärke? | Ampere
+2 | Wie nennt man Stoffe, die Strom gut leiten? | Leiter
+2 | Wie nennt man Stoffe, die keinen Strom leiten? | Isolatoren
+2 | Wie heißt die Einheit der Arbeit und Energie? | Joule
+2 | Wie nennt man die Brechung von Licht in einem Prisma? | Dispersion | Es entsteht ein Regenbogen.
+2 | Wie viele Farben hat ein Regenbogen traditionell? | Sieben
+3 | Welcher Physiker entdeckte die Gesetze der Bewegung und der Gravitation? | Isaac Newton
+3 | In welcher Einheit misst man die Lautstärke? | Dezibel
+3 | Wie nennt man die Bewegungsenergie? | Kinetische Energie
+3 | Wie nennt man die gespeicherte Energie, zum Beispiel eines gehobenen Steins? | Potenzielle Energie | Auch „Lageenergie“.
+3 | Wie heißt der Effekt, bei dem Licht in einem Medium abgelenkt wird? | Brechung
+3 | Wie nennt man die Zahl der Schwingungen pro Sekunde? | Frequenz
+4 | Wie heißt die Einheit der Kraft? | Newton
+4 | Wie heißt die Einheit des Drucks? | Pascal
+4 | Wie heißt die Einheit der elektrischen Ladung? | Coulomb
+4 | Wie nennt man Strahlung, die ionisiert und beim Atomzerfall entsteht? | Radioaktive Strahlung
+4 | Wie heißt die Skala für die Temperatur, die bei absolutem Nullpunkt beginnt? | Kelvin
+4 | Wie heißt der Physiker, der die Quantentheorie begründete und 1918 den Nobelpreis erhielt? | Max Planck
+5 | Wie heißt das Gesetz, nach dem Spannung gleich Widerstand mal Stromstärke ist? | Ohmsches Gesetz
+5 | Wie heißt der Effekt, bei dem Licht Elektronen aus Metall löst? | Fotoeffekt
+5 | Welcher Physiker erhielt 1921 den Nobelpreis für die Erklärung des Fotoeffekts? | Albert Einstein
+5 | Wie nennt man einen Stoff, der bei sehr tiefen Temperaturen Strom ohne Widerstand leitet? | Supraleiter
+5 | Wie heißt das Teilchen, das keine Ladung hat und im Atomkern steckt? | Neutron
+5 | Wie heißt die Einheit der magnetischen Flussdichte? | Tesla
+
+# Mathematik
+1 | Wie viel ist 9 mal 9? | 81
+1 | Wie viele Seiten hat ein Quadrat? | Vier
+1 | Wie viel ist 100 geteilt durch 4? | 25
+1 | Wie viel ist 15 plus 27? | 42
+1 | Wie nennt man eine gerade Linie ohne Anfang und Ende? | Gerade
+1 | Wie nennt man ein Viereck mit vier gleich langen Seiten und vier rechten Winkeln? | Quadrat
+2 | Wie viel ist 7 mal 12? | 84
+2 | Wie viele Ecken hat ein Würfel? | Acht
+2 | Wie viele Kanten hat ein Würfel? | Zwölf
+2 | Wie viel ist die Wurzel aus 64? | 8
+2 | Wie viel ist 25 Prozent von 80? | 20
+2 | Wie nennt man den Umfang eines Kreises geteilt durch seinen Durchmesser? | Pi
+3 | Wie viel ist 13 mal 13? | 169
+3 | Wie viele Diagonalen hat ein Viereck? | Zwei
+3 | Wie heißt eine Zahl, die durch 2 teilbar ist? | Gerade Zahl
+3 | Wie nennt man die längste Seite im rechtwinkligen Dreieck? | Hypotenuse
+3 | Wie viel ist 3 hoch 4? | 81
+3 | Wie viele Primzahlen gibt es zwischen 1 und 20? | Acht
+4 | Wie viel ist die Summe der Winkel in einem Viereck? | 360 Grad
+4 | Wie viele Seiten hat ein Sechseck? | Sechs
+4 | Wie nennt man die Zahl, mit der man dividiert? | Divisor
+4 | Wie lautet die Formel für die Fläche eines Kreises? | Pi mal Radius zum Quadrat
+4 | Wie nennt man ein Dreieck mit drei gleich langen Seiten? | Gleichseitiges Dreieck
+4 | Wie viel ist 2 hoch 8? | 256
+5 | Wie heißt der griechische Mathematiker, der als „Vater der Geometrie“ gilt? | Euklid
+5 | Wie nennt man eine Zahl, die sich nicht als Bruch schreiben lässt, wie Pi? | Irrationale Zahl
+5 | Wie viele Nullen hat eine Billion? | Zwölf
+5 | Welcher Mathematiker soll als Schüler die Zahlen von 1 bis 100 blitzschnell addiert haben? | Carl Friedrich Gauß
+5 | Wie nennt man die Menge aller natürlichen Zahlen als mathematisches Zeichen? | N
+5 | Wie heißt die Zahl, die mit i bezeichnet wird und deren Quadrat minus eins ist? | Imaginäre Einheit
+
+# Pflanzen und Tiere
+1 | Welches Tier hat einen Rüssel und große Ohren? | Elefant
+1 | Wie nennt man die Jungen eines Hundes? | Welpen
+1 | Welche Pflanze liefert Honig-Bienen den Nektar? | Blumen
+1 | Welches Tier legt Eier und gackert? | Huhn
+1 | Wie nennt man die Jungen eines Pferdes? | Fohlen
+1 | Wie viele Beine hat ein Käfer? | Sechs
+2 | Welches Tier ist ein Beuteltier aus Australien? | Känguru
+2 | Welcher Vogel kann nicht fliegen und lebt im Eis der Antarktis? | Pinguin
+2 | Wie heißt das Männchen der Biene, das nicht sticht? | Drohne
+2 | Wie nennt man Pflanzen, die Insekten fangen? | Fleischfressende Pflanzen
+2 | Wie heißt der Baum, dessen Früchte Eicheln sind? | Eiche
+2 | Wie heißt das größte Landraubtier Europas? | Braunbär
+3 | Welcher Fisch ist die größte Fischart der Welt neben dem Walhai? | Riesenhai | Der Walhai ist größer. Auch „Riesenhai“ gelten lassen.
+3 | Wie heißt das Säugetier, das Eier legt und Stacheln hat? | Ameisenigel
+3 | Wie nennt man Tiere, die nur nachts aktiv sind? | Nachtaktiv
+3 | Wie heißt die Pflanze, aus der Leinen hergestellt wird? | Flachs
+3 | Wie heißt die größte Katzenart in Afrika? | Löwe
+4 | Wie heißt der größte lebende Landvogel? | Strauß
+4 | Welche Pflanze produziert Kautschuk? | Kautschukbaum
+4 | Wie nennt man Tiere, die ihre Jungen mit Milch ernähren? | Säugetiere
+4 | Wie heißt der Fachbegriff für Tiere ohne Knochenskelett? | Wirbellose
+4 | Wie heißt das größte Säugetier an Land in Südamerika? | Tapir
+5 | Wie heißt der Baum mit dem dicksten Stamm, der in Afrika wächst? | Affenbrotbaum | Auch „Baobab“.
+5 | Welches Tier hat das größte Gehirn aller Tiere? | Pottwal
+5 | Wie heißt die Pflanzenfamilie, zu der Rose, Apfel und Kirsche gehören? | Rosengewächse
+5 | Wie nennt man Tiere, die ihre Körpertemperatur selbst konstant halten? | Gleichwarm
+5 | Wie heißt das Gift des Fliegenpilzes, das Rausch auslöst? | Muscimol
+5 | Wie nennt man die Vermehrung von Pflanzen durch Samen ohne Befruchtung? | Apomixis
+
+# Erde und Wetter
+1 | Wie nennt man Wasser, das vom Himmel fällt? | Regen
+1 | Welche Jahreszeit folgt auf den Frühling? | Sommer
+1 | Was misst man mit einem Thermometer? | Temperatur
+1 | Wie nennt man die Wolke, die bis zum Boden reicht? | Nebel
+1 | Wie heißt der Kontinent, auf dem Deutschland liegt? | Europa
+1 | Wie nennt man die Erdkugel in kleinem Maßstab? | Globus
+2 | Wie heißt die Schicht der Atmosphäre, in der die Ozonschicht liegt? | Stratosphäre
+2 | Was entsteht, wenn Sonne und Regen gleichzeitig am Himmel sind? | Regenbogen
+2 | Wie heißt der Aggregatzustand von Wasser bei 50 Grad? | Flüssig
+2 | Wie nennt man einen Sturm mit Drehwind und Trichterwolke? | Tornado
+2 | Wie heißt die Schicht unter der Erdkruste? | Erdmantel
+2 | Wie heißt die Linie, die die Erde in Ost und West teilt? | Nullmeridian
+3 | Wie nennt man ein Hochdruckgebiet mit meist schönem Wetter? | Hoch
+3 | Wie nennt man ein Tiefdruckgebiet mit Regen und Wind? | Tief
+3 | Wie nennt man den Blitz, der Donner auslöst, in der Wissenschaft? | Elektrische Entladung
+3 | Wie nennt man die Platte, auf der Deutschland liegt? | Eurasische Platte
+3 | Wie heißt die Wissenschaft vom Wetter? | Meteorologie
+3 | Wie heißt die Wissenschaft von der Erde und ihren Gesteinen? | Geologie
+4 | Wie heißt das Gestein, das beim Erkalten von Magma entsteht? | Magmatit | Auch „Erstarrungsgestein“.
+4 | Wie heißt der Fachbegriff für ein Erdbeben-Messgerät? | Seismograph
+4 | Wie heißt die Gesteinsart Marmor, die aus Kalk entsteht? | Metamorphes Gestein
+4 | Wie heißt der Ort im Erdinneren, an dem ein Erdbeben beginnt? | Hypozentrum
+4 | Wie nennt man ein Gewitter-Wolkenbild mit Amboss-Form? | Cumulonimbus
+4 | Wie nennt man den Übergang von Wasserdampf zu Wasser? | Kondensation
+5 | Wie heißt das Zeitalter, in dem wir heute leben? | Holozän
+5 | Welches Erdzeitalter folgte auf das Perm? | Trias
+5 | Wie nennt man eine Wolke aus Asche, die ein Vulkan ausstößt? | Aschewolke
+5 | Wie nennt man ein Gestein, das aus Ablagerungen entsteht, wie Sandstein? | Sedimentgestein
+5 | Wie heißt die Schicht der Atmosphäre, in der Satelliten kreisen? | Thermosphäre
+
+# Technik und Erfindungen
+1 | Welches Gerät misst die Zeit? | Uhr
+1 | Womit fährt man schnell auf zwei Rädern ohne Motor? | Fahrrad
+1 | Welches Gerät braucht man, um E-Mails zu schreiben? | Computer
+1 | Wie nennt man ein Fahrzeug, das fliegt und Passagiere transportiert? | Flugzeug
+1 | Welches Gerät macht Fotos? | Kamera
+1 | Welches Gerät benutzt man, um in die Ferne zu telefonieren? | Telefon
+2 | Wer erfand den Buchdruck mit beweglichen Lettern? | Johannes Gutenberg
+2 | Welches Gerät wandelt Sonnenlicht in Strom? | Solarzelle
+2 | Wie nennt man ein Fahrzeug, das unter Wasser fährt? | U-Boot
+2 | Wie nennt man ein Gerät, das Lebensmittel mit Mikrowellen erhitzt? | Mikrowelle
+2 | Was benutzt man, um sich im Auto zu orientieren, über Satelliten? | Navigationssystem
+2 | Welcher Italiener erfand das Radio und erhielt 1909 den Nobelpreis? | Guglielmo Marconi
+3 | Wie heißt das Gerät, das Wechselstrom in Gleichstrom umwandelt? | Gleichrichter
+3 | Wie heißt der Erfinder der Dampflokomotive für den Alltagsverkehr? | George Stephenson
+3 | Wie heißt das Material, aus dem Computerchips hauptsächlich gemacht werden? | Silizium
+3 | Wie nennt man das Internet-Protokoll für Webseiten, das mit „http“ beginnt? | Hypertext Transfer Protocol
+3 | Wie heißt das Gerät, das Bilder von Dokumenten digitalisiert? | Scanner
+3 | Wie nennt man ein Gerät, das Schall in elektrische Signale verwandelt? | Mikrofon
+4 | Wer entwickelte das Telefon, das 1876 patentiert wurde? | Alexander Graham Bell
+4 | Welcher deutsche Ingenieur entwickelte 1928 das Magnetband für Tonaufnahmen? | Fritz Pfleumer
+4 | Wie heißt die Technik, bei der Daten per Licht durch Glasfasern gesendet werden? | Glasfaser
+4 | Wer erfand das Dynamit? | Alfred Nobel
+4 | Wie heißt der Erfinder des Reißverschlusses in seiner heutigen Form? | Gideon Sundback
+4 | Welches Gerät misst die Luftfeuchtigkeit? | Hygrometer
+5 | Wie heißt die Kernspeicher-Technik der 1950er, mit der Computer Daten merkten? | Kernspeicher
+5 | Wie heißt das Verfahren, mit dem Daten im Internet verschlüsselt werden, benannt nach seinen Erfindern Rivest, Shamir und Adleman? | RSA
+5 | Wie hieß das erste Computernetzwerk, aus dem das Internet entstand? | ARPANET
+5 | Wie heißt die Kamera-Technik, die Licht auf einen Chip statt auf Film aufnimmt? | CCD-Sensor
+5 | Wie nennt man die Technik, mit der Gegenstände Schicht für Schicht gedruckt werden? | 3D-Druck
+
+# Medizin und Gesundheit
+1 | Wie heißt der Arzt, der Augen behandelt? | Augenarzt
+1 | Womit misst man das Fieber? | Fieberthermometer
+1 | Wie viele Stunden Schlaf braucht ein Erwachsener ungefähr? | Acht
+1 | Welches Vitamin steckt in Karotten und gut für die Augen sein soll? | Vitamin A
+1 | Was schützt Haut vor der Sonne? | Sonnencreme
+1 | Wie nennt man das Waschen der Hände, um Keime zu entfernen? | Händewaschen | Auch „Hygiene“.
+2 | Wie nennt man das Medikament, das Schmerzen lindert? | Schmerzmittel
+2 | Wie heißt die Krankheit, die durch Bakterien in Zahnbelägen entsteht? | Karies
+2 | Wie nennt man eine Impfung gegen Grippe? | Grippeimpfung
+2 | Wie heißt die Behörde, die in den USA Medikamente zulässt? | FDA
+2 | Welches Organ wird durch Hepatitis entzündet? | Leber
+2 | Wie heißt der Fachbegriff für Zuckerkrankheit? | Diabetes mellitus
+3 | Wie heißt der Erfinder der Pockenimpfung? | Edward Jenner
+3 | Wie heißt der Arzt, der Penicillin 1928 entdeckte? | Alexander Fleming
+3 | Wie heißt die Technik, mit der Ärzte den Körper mit Röntgenstrahlen durchleuchten? | Röntgen
+3 | Welches Vitamin verhindert Rachitis? | Vitamin D
+3 | Wie nennt man die Behandlung durch Bestrahlung bei Krebs? | Strahlentherapie
+3 | Wie nennt man einen Arzt für Frauenkrankheiten und Geburten? | Gynäkologe
+4 | Wie heißt die Krankheit, bei der Knochen porös werden? | Osteoporose
+4 | Wie heißt der Erreger der Malaria? | Plasmodium
+4 | Wie nennt man ein Medikament, das gegen Viren wirkt? | Virostatikum
+4 | Wie heißt der Mediziner, der als Erster das Blutgruppensystem AB0 entdeckte? | Karl Landsteiner
+4 | Wie nennt man die operative Entfernung des Blinddarms? | Appendektomie
+4 | Wie heißt die Krankheit, die durch das HI-Virus ausgelöst wird? | AIDS
+5 | Wie nennt man ein bildgebendes Verfahren mit Ultraschall am Herzen? | Echokardiographie
+5 | Wie heißt die Abkürzung für das Herzstromdiagramm? | EKG
+5 | Wie nennt man einen Test, der Antikörper im Blut nachweist? | Antikörpertest
+5 | Wie nennt man die Lehre von den Krankheitserregern? | Mikrobiologie
+5 | Wie nennt man die Lehre vom Altern und von Alterskrankheiten? | Geriatrie
+
+# Rekorde der Natur
+1 | Welcher Vogel kann am schnellsten laufen? | Strauß
+1 | Welches Landtier wird am größten? | Elefant
+1 | Wie heißt der längste Fluss der Erde nach klassischer Angabe? | Nil
+1 | Welche Raubkatze lebt in Afrika und ist die schnellste an Land? | Gepard
+1 | Wie heißt das höchste Tier der Erde? | Giraffe
+2 | Welches Säugetier legt mit rund 20.000 Kilometern im Jahr die längste Wanderung zurück? | Grauwal
+2 | Welche Schlange ist die längste der Welt? | Netzpython
+2 | Welches Insekt kann am meisten Eigengewicht tragen, als Verhältnis? | Ameise
+2 | Welches Tier ist das giftigste Meerestier, eine Würfelqualle? | Seewespe
+2 | Welches Tier kann am längsten die Luft anhalten unter den Säugetieren? | Schnabelwal
+3 | Welcher Baum ist der älteste lebende Einzelbaum? | Langlebige Kiefer
+3 | Welches Tier schläft am längsten, bis zu 22 Stunden? | Koala | Auch „Faultier“.
+3 | Welches Tier wird am ältesten unter den Landwirbeltieren? | Riesenschildkröte
+3 | Welcher Vogel ist der kleinste der Welt? | Hummelkolibri
+4 | Welches Tier hat das größte Auge der Welt? | Riesenkalmar
+4 | Welches Säugetier hat die längste Tragzeit? | Elefant | Etwa 22 Monate.
+4 | Welcher Vogel brütet bei der extremsten Kälte im antarktischen Winter? | Kaiserpinguin
+4 | Welche Pflanze hat die größte Blüte der Welt? | Titanenwurz
+4 | Welches Tier hat die meisten Beine, über 700? | Tausendfüßer
+4 | Welcher Wal singt die längsten Lieder? | Buckelwal
+5 | Welches Tier hat den höchsten Blutdruck? | Giraffe
+5 | Welches Insekt lebt am kürzesten, manche nur einen Tag? | Eintagsfliege
+5 | Welcher Baum ist der höchste der Welt? | Küstenmammutbaum
+5 | Welches Säugetier hat das dichteste Fell der Welt? | Seeotter

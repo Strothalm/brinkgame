@@ -1,0 +1,144 @@
+@id gaming
+
+# Nintendo
+1 | Wie heißt die Prinzessin, die Mario immer retten muss? | Peach
+2 | Wie heißt das Spiel, in dem man mit Tieren ein Dorf aufbaut, in dem Tom Nook einen Kredit vergibt? | Animal Crossing
+3 | Wie heißt Nintendos Konsole mit Bewegungssteuerung von 2006? | Wii
+3 | Wie heißt der Gegenspieler in „The Legend of Zelda“, der oft Ganon genannt wird, mit vollem Namen? | Ganondorf
+4 | Wie heißt Nintendos erster Handheld mit Wechselmodulen von 1989? | Game Boy
+4 | Wie heißt der Entwickler von „Super Mario“, der Nintendo prägte? | Shigeru Miyamoto
+4 | Wie heißt das Pokémon mit der Nummer 1 im Pokédex? | Bisasam
+4 | Wie heißt das erste Super-Mario-Spiel für das NES von 1985? | Super Mario Bros.
+5 | Wie heißt das Nintendo-Spiel, in dem man als Kämpfer aus Nintendo-Welten gegeneinander antritt? | Super Smash Bros.
+5 | Wie heißt Nintendos Konsole mit zwei Bildschirmen von 2004? | Nintendo DS
+5 | Welche Firma war ursprünglich Hersteller von Spielkarten, bevor sie Videospiele machte? | Nintendo
+5 | Wie heißt Nintendos erste Heimkonsole in Japan von 1983? | Famicom
+
+# Minecraft
+1 | Welcher Block wird aus Bäumen gewonnen? | Holz
+1 | Wie heißt der Spielmodus, in dem man unbegrenzt Blöcke hat und fliegen kann? | Kreativmodus
+3 | Wie heißt der Schöpfer von Minecraft? | Markus „Notch“ Persson
+4 | Wie heißt der Boss in Minecraft, der aus Seelensand und drei Wither-Skelettschädeln gebaut wird? | Wither
+4 | Wie heißt das schwedische Studio, das Minecraft entwickelt hat? | Mojang
+5 | Wie heißt der Rohstoff für Netherite-Barren? | Antiker Schrott
+
+# Shooter und Battle Royale
+1 | Wie heißt das Spiel, in dem man als Terroristen oder Counter-Terroristen spielt? | Counter-Strike
+1 | In welchem Spiel kämpft man als Master Chief? | Halo
+2 | Wie heißt das Shooter-Spiel von Blizzard mit Helden wie Tracer? | Overwatch
+2 | Wie heißt die Reihe von Activision, in der man in modernen Kriegen kämpft? | Call of Duty
+3 | Wie heißt der Entwickler von Fortnite? | Epic Games
+3 | Wie heißt der Entwickler von Counter-Strike und Dota 2 und Betreiber von Steam? | Valve
+3 | In welchem Spiel gibt es den Modus „Warzone“? | Call of Duty
+4 | Wie heißt die berühmte Wüstenkarte aus Counter-Strike mit den Bombenplätzen A und B? | Dust II
+4 | In welchem Jahr erschien Fortnite Battle Royale? | 2017
+5 | Wie heißt der Shooter von id Software von 1993? | Doom
+5 | Wie heißt der Shooter von 1992, in dem man Nazis in einem Schloss bekämpft? | Wolfenstein 3D
+5 | Wie heißt der Shooter von 1996 mit dem Ego-Helden Duke? | Duke Nukem 3D
+
+# Rollenspiele und Abenteuer
+1 | In welchem Spiel ist man der Hexer Geralt von Riva? | The Witcher 3
+1 | In welchem Spiel erlebt man als Drachenblut die Welt von Himmelsrand? | The Elder Scrolls V: Skyrim
+1 | Wie heißt das Rollenspiel von Square Enix mit Cloud Strife? | Final Fantasy VII
+2 | Wie heißt die Archäologin in „Tomb Raider“? | Lara Croft
+2 | Wie heißt der Held in „Uncharted“? | Nathan Drake
+2 | Wie heißt das Rollenspiel von Bethesda mit Ödland und Vault Boy? | Fallout
+2 | Wie heißt die Reihe von BioWare, in der man als Commander Shepard die Galaxie rettet? | Mass Effect
+3 | Wie heißt das Spiel von CD Projekt Red, das in Night City spielt? | Cyberpunk 2077
+3 | Wie heißt die Hauptfigur in „The Last of Us“ neben Joel? | Ellie
+3 | Wie heißt das Rollenspiel von FromSoftware, das für hohe Schwierigkeit bekannt ist? | Dark Souls
+3 | Wie heißt das Spiel von Rockstar im Wilden Westen mit Arthur Morgan? | Red Dead Redemption 2
+4 | Wie heißt der Entwickler von „The Witcher“? | CD Projekt Red
+4 | Wie heißt das Spiel von Larian Studios, das 2023 als Rollenspiel erschien und viele Preise gewann? | Baldur's Gate 3
+4 | Wie heißt der Entwickler von „Elden Ring“? | FromSoftware
+4 | Wie heißt der Autor, dessen Buchreihe „The Witcher“ zugrunde liegt? | Andrzej Sapkowski
+5 | Wie heißt der Hauptheld in „Assassin's Creed II“? | Ezio Auditore
+5 | Wie heißt die Stadt in „Assassin's Creed Unity“? | Paris
+5 | Wie heißt das erste „Zelda“-Spiel in voller Bezeichnung? | The Legend of Zelda
+
+# Konsolen und Technik
+1 | Wie heißt die Konsole von Sony mit PS im Namen? | PlayStation
+1 | Wie heißt die Konsole von Microsoft? | Xbox
+2 | Wie heißt die Konsole von Sony, die 2020 erschien? | PlayStation 5
+2 | Wie heißt die 16-Bit-Konsole von Sega, auf der Sonic erschien? | Mega Drive
+2 | Wie heißt die Plattform von Epic mit kostenlosen Spielen? | Epic Games Store
+2 | Wie viele Tasten hat ein klassischer PlayStation-Controller auf der rechten Seite? | Vier
+3 | Wie heißt der Konkurrent von Nvidia mit Radeon? | AMD
+3 | Wie heißt Sonys erster Handheld, der 2004 erschien? | PlayStation Portable
+4 | Wie heißt der Handheld von Valve? | Steam Deck
+4 | Wie heißt die Konsole von Sega, die 1998 erschien und die letzte der Firma war? | Dreamcast
+4 | Wie heißt die VR-Brille von Meta, früher Oculus? | Meta Quest
+5 | Wie heißt Sonys erste Konsole, die 1994 in Japan erschien? | PlayStation
+
+# E-Sport und Online-Spiele
+1 | Wie heißt die Plattform, auf der viele E-Sport-Turniere übertragen werden? | Twitch
+1 | Wie heißt das Spiel von Blizzard, in dem man Orks und Menschen befehligt? | WarCraft
+2 | Wie heißt das Kartenspiel von Blizzard? | Hearthstone
+3 | Wie heißt das Strategiespiel von Blizzard mit Zerg, Protoss und Terranern? | StarCraft
+3 | Wie heißt die Weltmeisterschaft von League of Legends? | Worlds
+3 | Wie heißt der koreanische Spieler, der als bester LoL-Spieler gilt und Faker genannt wird? | Lee Sang-hyeok
+4 | Wie heißt das Preisgeld-Turnier von Dota 2 mit dem höchsten Preisgeld? | The International
+4 | Welches Spiel ist „Counter-Strike: Global Offensive“ als Nachfolger veröffentlicht worden? | Counter-Strike 2
+5 | Wie heißt der Entwickler von „League of Legends“? | Riot Games
+5 | Wie heißt das Jahr, in dem das erste „League of Legends“ erschien? | 2009
+5 | Wie heißt der Entwickler von „World of Warcraft“? | Blizzard Entertainment
+5 | Wie heißt der Entwickler von „Among Us“? | Innersloth
+
+# Klassiker und Retro
+2 | Wie heißt das Spiel mit dem Affen, der Fässer wirft? | Donkey Kong
+2 | Wie heißt das Spiel, in dem man eine Schlange immer länger werden lässt? | Snake
+2 | Wie heißt das Spiel auf Windows, bei dem man Minen vermeiden muss? | Minesweeper
+3 | Wie heißt das Spiel von 1981, in dem ein Frosch Straße und Fluss überqueren muss? | Frogger
+3 | Wie heißt der Spieleentwickler hinter „Sonic“? | Sega
+3 | Wie heißt das Spiel mit der Hauptfigur Samus Aran? | Metroid
+4 | Wie heißt das Spiel von Maxis, in dem man eine Stadt baut? | SimCity
+
+# Indie und moderne Hits
+1 | Wie heißt das Dungeon-Spiel von Supergiant Games, in dem Zagreus aus der Unterwelt fliehen will? | Hades
+2 | Wie heißt das Indie-Spiel mit einem kleinen Ritter im Käferreich Hallownest? | Hollow Knight
+2 | Wie heißt das Pixel-Spiel, in dem Madeline einen Berg besteigt? | Celeste
+3 | Wer schuf das Indie-Rollenspiel „Undertale“ fast allein? | Toby Fox
+3 | Wie heißt das Spiel, in dem man in einem Sonnensystem in einer Zeitschleife von 22 Minuten ein Rätsel löst? | Outer Wilds
+3 | Wie heißt der Entwickler von „Stardew Valley“? | Eric Barone
+4 | Wie heißt der Entwickler von „Hades“? | Supergiant Games
+4 | Wie heißt das Spiel vom Studio Team Cherry? | Hollow Knight
+5 | Wie heißt das Spiel mit einem Fuchs im Ziegenland von 2022? | Tunic
+
+# Figuren und Welten
+1 | Wie heißt der Held von „The Legend of Zelda“? | Link
+1 | Wie heißt der blaue Igel mit Turboschuhen? | Sonic
+1 | Wie heißt das Pokémon-Maskottchen? | Pikachu
+1 | Wie heißt der Klempner in Super Mario? | Mario
+2 | Wie heißt die Heldin von „Tomb Raider“? | Lara Croft
+2 | Wie heißt der Held von „Halo“? | Master Chief
+2 | Wie heißt der Dinosaurier-Freund von Mario? | Yoshi
+2 | Wie heißt der Gorilla, der Fässer wirft? | Donkey Kong
+3 | Wie heißt der Held von „God of War“? | Kratos
+3 | Wie heißt der Held von „Final Fantasy VII“? | Cloud Strife
+3 | Wie heißt der Fuchs in Sonic, der zwei Schwänze hat? | Tails
+4 | Wie heißt der Gegner von Sonic, der Doktor? | Dr. Eggman
+4 | Wie heißt die Heldin von „Metroid“? | Samus Aran
+4 | Wie heißt der Held von „Kingdom Hearts“? | Sora
+4 | Wie heißt der Held von „Resident Evil 2“ als Polizist? | Leon S. Kennedy
+5 | Wie heißt die Welt in „Skyrim“? | Himmelsrand
+5 | Wie heißt die Stadt in „Grand Theft Auto V“? | Los Santos
+
+# Spielewissen und Rekorde
+1 | Wie heißt die Abkürzung für „Massively Multiplayer Online“? | MMO
+1 | Wie heißt die Abkürzung für „Non-Player Character“? | NPC
+1 | Wie heißt die Abkürzung für „Frames per Second“? | FPS
+2 | Wie heißt die Messe für Computerspiele in Köln? | Gamescom
+2 | Wie nennt man die Verzögerung bei schlechter Internetverbindung im Spiel? | Lag
+2 | Wie heißt die Spieleplattform von Valve? | Steam
+3 | Wie heißt die große US-Spielemesse, die jährlich in Los Angeles stattfand? | E3
+3 | Wie heißt der Begriff für Einkäufe innerhalb eines Spiels? | Mikrotransaktionen
+3 | Wie heißt das Genre von „Civilization“? | Rundenstrategie
+3 | Wie heißt das Genre von „Die Sims“? | Lebenssimulation
+4 | Wie heißt die Auszeichnung, die in der Spielebranche jährlich in Los Angeles vergeben wird? | The Game Awards
+4 | Wie heißt das Spiel, das 2013 mit mehr als einer Milliarde Dollar Einnahmen in drei Tagen den Rekord brach? | Grand Theft Auto V
+4 | Wie heißt die Abkürzung „RPG“ ausgeschrieben? | Role-Playing Game
+4 | Wie heißt die Abkürzung „DLC“ ausgeschrieben? | Downloadable Content
+5 | Wie heißt die Spielemesse in Japan, die jährlich in Chiba stattfindet? | Tokyo Game Show
+5 | Wie heißt das erste Spiel der Reihe „Grand Theft Auto“, das 1997 erschien? | Grand Theft Auto
+5 | Wie heißt das meistverkaufte Spiel auf Nintendo Switch? | Mario Kart 8 Deluxe
+5 | Wie heißt die Stelle, die in Deutschland Altersfreigaben für Spiele vergibt? | USK

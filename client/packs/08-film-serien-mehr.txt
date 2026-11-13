@@ -1,0 +1,188 @@
+@id film-serien
+
+# Blockbuster
+1 | In welchem Film kämpft ein junger Wikinger mit einem Drachen als Freund? | Drachenzähmen leicht gemacht
+1 | In welchem Film wird Tom Hanks auf einer Insel gestrandet und freundet sich mit einem Volleyball an? | Cast Away
+1 | Welcher Regisseur drehte „Titanic“ und „Avatar“? | James Cameron
+1 | Wie heißt der Freund von Harry Potter mit roten Haaren? | Ron Weasley
+1 | In welchem Film besucht ein Außerirdischer ein Kind auf der Erde und will nach Hause? | E.T. – Der Außerirdische
+2 | Welcher Film von Christopher Nolan spielt in Träumen? | Inception
+2 | In welchem Film spielt Russell Crowe einen römischen General? | Gladiator
+2 | Wer spielte Rose in „Titanic“? | Kate Winslet
+2 | Wer führte Regie bei „E.T. – Der Außerirdische“? | Steven Spielberg
+2 | Welcher Film erzählt vom Leben eines einfachen Mannes mit der Schachtel Pralinen? | Forrest Gump
+3 | Welcher Schauspieler spielte den Zauberer Gandalf in „Der Herr der Ringe“? | Ian McKellen
+3 | Welche Schauspielerin spielte Trinity in „Matrix“? | Carrie-Anne Moss
+3 | Welcher Film von 1994 spielt in einem Gefängnis und handelt von Hoffnung? | Die Verurteilten
+3 | Welcher Regisseur drehte „Schindlers Liste“? | Steven Spielberg
+3 | Welcher Regisseur drehte „Der Herr der Ringe“? | Peter Jackson
+4 | Welcher Schauspieler spielte Aragorn in „Der Herr der Ringe“? | Viggo Mortensen
+4 | Welcher Regisseur drehte „Goodfellas“ und „Taxi Driver“? | Martin Scorsese
+4 | Welcher Regisseur drehte „Das Boot“? | Wolfgang Petersen
+5 | Welcher Regisseur drehte „Apocalypse Now“? | Francis Ford Coppola
+5 | Welcher Schauspieler spielte Vito Corleone im „Paten“? | Marlon Brando
+5 | Welcher Regisseur drehte „2001: Odyssee im Weltraum“? | Stanley Kubrick
+
+# Serienhits
+1 | In welcher Serie kämpfen Lehrer Walter White und sein Partner Jesse? | Breaking Bad
+2 | In welcher Serie lebt Sheldon Cooper mit seinen Freunden? | The Big Bang Theory
+2 | In welcher Serie arbeitet Dr. House als Arzt? | Dr. House
+2 | In welcher Serie steht Don Draper in einer Werbeagentur der 1960er im Mittelpunkt? | Mad Men
+2 | In welcher Serie jagt Dexter Morgan Mörder? | Dexter
+2 | In welcher Serie versuchen Überlebende einer Flugzeugkatastrophe auf einer Insel zu überleben? | Lost
+3 | In welcher Serie spielt Jon Snow eine große Rolle? | Game of Thrones
+3 | In welcher Serie geht es um den Mafioso Tony Soprano? | Die Sopranos
+3 | In welcher Serie ermittelt Sherlock Holmes in der Gegenwart mit Benedict Cumberbatch? | Sherlock
+3 | Welche Serie über einen krebskranken Chemielehrer spielt in Albuquerque? | Breaking Bad
+3 | In welcher Serie spielt Rachel Green eine Kellnerin im Central Perk? | Friends
+4 | In welcher Serie geht es um den Kampf um die Macht in Westeros, geschrieben von George R. R. Martin? | Game of Thrones
+4 | In welcher Serie kämpft Eleven gegen Wesen aus dem Upside Down? | Stranger Things
+5 | In welcher Serie lebt die Familie Pritchett-Dunphy? | Modern Family
+5 | In welcher Serie leitet Leslie Knope eine Parkverwaltung? | Parks and Recreation
+5 | In welcher Serie spielen die Mitglieder der Familie Roy um Medienmacht? | Succession
+
+# Animation und Disney
+1 | Welcher Disney-Film erzählt von zwei Schwestern, von denen eine Eis erschaffen kann? | Die Eiskönigin
+1 | Wie heißt der Löwenkönig in „Der König der Löwen“? | Mufasa
+1 | Wie heißt der Esel in „Shrek“? | Esel
+1 | Wie heißt das Mädchen mit dem Glasschuh im Disney-Märchen? | Cinderella
+1 | Wie heißt die Hauptfigur in „Findet Nemo“, die einen Gedächtnisverlust hat? | Dorie
+2 | Wie heißt der Freund von Mickey Mouse mit Entenschnabel? | Donald Duck
+2 | Wie heißt die Hauptfigur in „Mulan“? | Mulan
+2 | Wie heißt der Hund von Mickey Mouse? | Pluto
+2 | Wie heißt die Prinzessin in „Aladdin“? | Jasmin
+3 | Welcher Pixar-Film spielt in einer Monsterfabrik? | Die Monster AG
+3 | Welcher Film erzählt von einem Rennwagen namens Lightning McQueen? | Cars
+3 | Wie heißt der Superheld in „Die Unglaublichen“ mit Vornamen? | Bob
+3 | Wie heißt der Dschinn in „Aladdin“ im Original gesprochen von Robin Williams? | Dschinni
+4 | Welcher Pixar-Film handelt von einem Koch-Ratte? | Ratatouille
+4 | Welcher Studio-Ghibli-Film handelt von einem Mädchen, das in einer Badehaus-Welt arbeitet? | Chihiros Reise ins Zauberland
+4 | Welcher Pixar-Film handelt von einem alten Mann, der mit Luftballons sein Haus fliegen lässt? | Oben
+5 | Welcher Zeichentrickfilm von 1940 zeigt Mickey Mouse als Zauberlehrling? | Fantasia
+5 | Wie heißt der Hund in „Susi und Strolch“? | Strolch
+5 | Wer zeichnete „Mein Nachbar Totoro“? | Hayao Miyazaki
+5 | Welcher Disney-Film von 1942 erzählt von einem Rehkitz? | Bambi
+
+# Superhelden
+1 | Welcher Held trägt ein Fledermauskostüm? | Batman
+1 | Wie heißt der grüne Riese bei den Avengers? | Hulk
+1 | Wie heißt der Held mit dem Schild als Waffe? | Captain America
+2 | Wie heißt die Amazone der DC-Comics? | Wonder Woman
+2 | Wie heißt der Wikingergott bei den Avengers? | Thor
+2 | Wie heißt der Gegenspieler von Superman mit Glatze? | Lex Luthor
+2 | Wie heißt der Schüler, der Spider-Man wird, im Film mit Tom Holland? | Peter Parker
+2 | Wie heißt die Schauspielerin, die Black Widow spielt? | Scarlett Johansson
+3 | Wie heißt Batmans Butler? | Alfred
+3 | Wie heißt Batmans Gehilfe im Kostüm? | Robin
+3 | Wie heißt der Gegenspieler von Spider-Man mit der Goblin-Maske? | Green Goblin
+3 | Wie heißt der Anführer der Guardians of the Galaxy mit bürgerlichem Namen? | Peter Quill
+4 | Wie heißt der Gegenspieler von Captain America in „The Winter Soldier“? | Bucky Barnes
+4 | Wie heißt Thors Schwester, die Göttin des Todes, in „Thor: Ragnarok“? | Hela
+4 | Wie heißt die Schauspielerin, die Wonder Woman spielt? | Gal Gadot
+4 | Wie heißt der Schauspieler, der Thor spielt? | Chris Hemsworth
+5 | Wie heißt die Heimat von Superman? | Krypton
+5 | Wie heißt Supermans Alter Ego mit Vor- und Nachnamen? | Clark Kent
+5 | Wie heißt Batmans Heimatstadt? | Gotham City
+
+# Berühmte Zitate
+1 | Aus welchem Film stammt „Hasta la vista, Baby“? | Terminator 2
+1 | Aus welchem Film stammt „Ich bin der König der Welt“? | Titanic
+2 | Aus welchem Film stammt „Nobody puts Baby in a corner“? | Dirty Dancing
+3 | Aus welchem Film stammt „Show me the money!“? | Jerry Maguire
+4 | Aus welchem Film stammt „Frankly, my dear, I don't give a damn“? | Vom Winde verweht
+4 | Aus welchem Film stammt „Ihr werdet ein größeres Boot brauchen“? | Der weiße Hai
+4 | Aus welchem Film stammt „Rosebud“? | Citizen Kane
+5 | Aus welcher Serie stammt „I am the one who knocks“? | Breaking Bad
+5 | Aus welchem Film stammt „Here's looking at you, kid“? | Casablanca
+5 | Aus welchem Film stammt „You talking to me?“? | Taxi Driver
+
+# Schauspielerinnen und Schauspieler
+1 | Welcher Schauspieler spielte den Joker 2008? | Heath Ledger
+2 | Welcher Schauspieler spielte Neo in „Matrix“? | Keanu Reeves
+2 | Welcher Schauspieler spielte Captain America? | Chris Evans
+2 | Welche Schauspielerin spielte Elsa in „Frozen“ als Stimme in der Originalfassung? | Idina Menzel
+2 | Welcher Schauspieler spielte Thanos? | Josh Brolin
+3 | Welche Schauspielerin gewann 2021 den Oscar für „Nomadland“? | Frances McDormand
+3 | Welcher Schauspieler gewann 2016 endlich den Oscar für „The Revenant“? | Leonardo DiCaprio
+3 | Welcher Schauspieler spielt in „Fluch der Karibik“ Will Turner? | Orlando Bloom
+4 | Welcher Schauspieler spielt in „Pulp Fiction“ den Gangster Vincent Vega? | John Travolta
+4 | Welcher Schauspieler spielte den Joker 2019? | Joaquin Phoenix
+5 | Welcher Schauspieler spielte den jungen Vito Corleone in „Der Pate II“? | Robert De Niro
+5 | Welche Schauspielerin gewann 2016 den Oscar für „Room“? | Brie Larson
+5 | Welcher Schauspieler spielte den Bösewicht Hans Gruber in „Stirb langsam“? | Alan Rickman
+
+# Deutsches Kino und Fernsehen
+1 | Wie heißt die Krimiserie mit dem Titel „Tatort“ an welchem Tag? | Sonntag
+1 | Welcher Moderator führt durch „Wer wird Millionär?“? | Günther Jauch
+1 | Wie heißt die Kindersendung mit der Maus? | Die Sendung mit der Maus
+2 | Welcher Film spielt in der DDR und heißt „Good Bye, ...“? | Good Bye, Lenin!
+2 | Welche Fernsehshow moderierte Thomas Gottschalk samstags? | Wetten, dass..?
+2 | Welcher Schauspieler spielt in „Fack ju Göhte“ den Lehrer? | Elyas M'Barek
+2 | Welche Show sucht den Superstar? | Deutschland sucht den Superstar
+3 | Welcher deutsche Film gewann 2007 den Oscar? | Das Leben der Anderen
+3 | Welche Serie über Berlin in den 1920ern lief seit 2017? | Babylon Berlin
+3 | Welche Krimireihe spielt in Münster und hat Professor Boerne? | Tatort Münster
+3 | Welche Figur spielt Jan Josef Liefers im Tatort? | Professor Boerne
+4 | Welcher Film von Wim Wenders spielt in Berlin und heißt „Der Himmel über ...“? | Berlin
+4 | Welcher Schauspieler spielte den Kommissar Derrick? | Horst Tappert
+4 | Welcher Regisseur drehte „Lola rennt“? | Tom Tykwer
+5 | Welcher Regisseur drehte „Nosferatu“ 1922? | F. W. Murnau
+5 | Welche Schauspielerin spielte in „Der blaue Engel“ 1930? | Marlene Dietrich
+
+# Fantasy und Science-Fiction
+1 | Wie heißt der Zauberlehrling mit der Narbe in Hogwarts? | Harry Potter
+1 | Wie heißt das Raumschiff im Film „Star Trek“ der Hauptfigur Kirk? | Enterprise
+1 | Wie heißt der Ritter mit dem Lichtschwert in „Star Wars“, Luke mit Nachnamen? | Skywalker
+1 | Wie heißt der böse Lord im Dunkeln bei „Star Wars“? | Darth Vader
+1 | Wie heißt das Land in „Narnia“, in das man durch den Schrank kommt? | Narnia
+2 | Wie heißt der treue Freund von Frodo, der Gärtner? | Samweis Gamdschie
+2 | Wie heißt die Schule von Harry Potter? | Hogwarts
+2 | Wie heißt die Schauspielerin, die Prinzessin Leia spielt? | Carrie Fisher
+2 | Wie heißt der Roboter in „Star Wars“, der mit Bleeps spricht? | R2-D2
+3 | Wie heißt der kleine Meister in „Star Wars“ mit grüner Haut? | Yoda
+3 | Wie heißt der Planet von Luke Skywalker, ein Wüstenplanet? | Tatooine
+3 | Wie heißt der Ort, an dem „Dune“ spielt? | Arrakis
+3 | Wie heißt der Zauberer in „Der Herr der Ringe“, der zu den Grauen gehört? | Gandalf
+3 | Wie heißt der Elbenprinz im „Herr der Ringe“, der mit Pfeil und Bogen kämpft? | Legolas
+4 | Wie heißt der dunkle Herrscher, der den Einen Ring schuf? | Sauron
+4 | Wie heißt der Bruder von Loki bei den Avengers? | Thor
+4 | Wie heißt der Roboter in „Wall-E“, der ihn begleitet? | EVA
+5 | Wie heißt der Autor der „Chroniken von Narnia“? | C. S. Lewis
+5 | Wie heißt der Autor von „Dune“? | Frank Herbert
+5 | Wie heißt der Autor der „Foundation“-Reihe? | Isaac Asimov
+5 | Wie heißt der Autor von „Per Anhalter durch die Galaxis“? | Douglas Adams
+
+# Horror, Krimi und Action
+1 | Wie heißt der Partner von Sherlock Holmes? | Dr. Watson
+1 | Welcher Agent mit der Nummer 007 trinkt seinen Martini geschüttelt, nicht gerührt? | James Bond
+1 | Wie heißt der Held in „Stirb langsam“? | John McClane
+1 | Welcher Film zeigt einen weißen Hai, der Badende jagt? | Der weiße Hai
+2 | Welche Autorin schrieb Krimis um Miss Marple? | Agatha Christie
+2 | Wie heißt der belgische Detektiv von Agatha Christie? | Hercule Poirot
+2 | Welcher Film von Alfred Hitchcock spielt in einem Motel? | Psycho
+2 | Wie heißt der Mann mit der Hockeymaske in „Freitag der 13.“? | Jason Voorhees
+3 | Welcher Film zeigt ein besessenes Mädchen? | Der Exorzist
+3 | In welchem Film jagt FBI-Agentin Clarice Starling einen Serienmörder und holt sich Rat von Hannibal Lecter? | Das Schweigen der Lämmer
+4 | Welcher Film von Quentin Tarantino zeigt ein Gangsterduo, das ein Café überfällt? | Pulp Fiction
+4 | Wie heißt der Gangster in „Scarface“? | Tony Montana
+4 | Welcher Regisseur drehte „Shining“? | Stanley Kubrick
+4 | Welcher Schauspieler spielte in „Shining“ den Jack Torrance? | Jack Nicholson
+5 | Wie heißt der Regisseur von „Alien“? | Ridley Scott
+5 | Wie heißt der Regisseur von „Der Pate“? | Francis Ford Coppola
+5 | Wie heißt der Regisseur von „Psycho“ und „Vertigo“? | Alfred Hitchcock
+5 | Wie heißt der Killer in „Halloween“? | Michael Myers
+
+# Preise und Rekorde
+1 | Wie heißt der Preis der Filmfestspiele von Cannes? | Goldene Palme
+1 | Wie heißt der Preis der Berlinale? | Goldener Bär
+1 | Wie heißt der wichtigste Fernsehpreis in den USA? | Emmy
+3 | Welcher Film erhielt 1998 elf Oscars? | Titanic
+3 | Welcher Film erhielt 2004 elf Oscars? | Der Herr der Ringe: Die Rückkehr des Königs
+3 | Welche Schauspielerin hat die meisten Oscar-Nominierungen? | Meryl Streep
+3 | Welcher Regisseur gewann 2020 den Oscar für „Parasite“? | Bong Joon-ho
+4 | Welcher Film gewann 2019 den Oscar für den besten Film? | Green Book
+4 | Welcher Film gewann 2023 den Oscar für den besten Film? | Everything Everywhere All at Once
+4 | Welcher Film gewann 2024 den Oscar für den besten Film? | Oppenheimer
+4 | Welcher Film gewann 2025 den Oscar für den besten Film? | Anora
+5 | Welcher Film gewann 2017 den Oscar für den besten Film nach einer Verwechslung bei der Verkündung? | Moonlight
+5 | Welcher Film von Steven Spielberg gewann den Oscar für den besten Film und zeigt die Rettung jüdischer Arbeiter? | Schindlers Liste

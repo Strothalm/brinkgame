@@ -1,0 +1,218 @@
+@id historische-personen
+
+# Antike
+1 | Welcher griechische Philosoph war der Schüler von Sokrates und Lehrer von Aristoteles? | Platon
+1 | Welcher römische Kaiser weihte im Jahr 80 das Kolosseum ein? | Titus
+1 | Welcher Gott der Ägypter mit Schakalkopf begleitete die Toten ins Jenseits? | Anubis
+1 | Welcher griechische Arzt gilt als Vater der Medizin? | Hippokrates
+1 | Welcher Pharao ließ die Cheops-Pyramide bauen? | Cheops
+1 | Welcher griechische Held kämpfte vor Troja und war nur an der Ferse verwundbar? | Achilles
+2 | Welche Königin von Karthago nahm sich laut Sage das Leben, als Aeneas sie verließ? | Dido
+2 | Welcher römische Dichter schrieb die „Aeneis“? | Vergil
+2 | Welcher Athener gilt als Begründer der athenischen Demokratie um 508 v. Chr.? | Kleisthenes
+2 | Welcher römische Kaiser teilte das Reich 395 in Ost und West? | Theodosius I.
+2 | Wie hieß der berühmte Geschichtsschreiber, der als „Vater der Geschichtsschreibung“ gilt? | Herodot
+2 | Welche Frau war die Gemahlin von Kaiser Augustus und Mutter von Kaiser Tiberius? | Livia
+3 | Welcher römische Kaiser bekam als Kind den Spitznamen „Stiefelchen“? | Caligula
+3 | Welcher römische Politiker wurde berühmt für den Satz „Ceterum censeo Carthaginem esse delendam“? | Cato der Ältere
+3 | Wie hieß der berühmte Mathematiker aus Alexandria, der „Die Elemente“ schrieb? | Euklid
+3 | Welcher Feldherr besiegte die Römer bei Cannae 216 v. Chr.? | Hannibal
+3 | Wie hieß der griechische Redner, der gegen Philipp von Makedonien warnte? | Demosthenes
+4 | Welcher römische Kaiser ließ das Pantheon in Rom neu errichten? | Hadrian
+4 | Welcher spartanische König fiel 480 v. Chr. bei den Thermopylen? | Leonidas
+4 | Welcher griechische Dichter schrieb die Tragödie „Antigone“? | Sophokles
+4 | Wie hieß die letzte Königin Ägyptens aus der Familie der Ptolemäer? | Kleopatra VII.
+4 | Welcher Tyrann soll das Schwert des Damokles über dem Thron aufgehängt haben? | Dionysios
+5 | Welcher Senator führte neben Brutus die Verschwörung gegen Caesar an? | Cassius
+5 | Welcher griechische Dichter schrieb die „Orestie“? | Aischylos
+5 | Welcher römische Schriftsteller schrieb „Metamorphosen“ und wurde nach Tomi verbannt? | Ovid
+5 | Welcher Pharao führte die Religionsreform zu einem einzigen Gott Aton ein? | Echnaton
+5 | Welcher römische Kaiser teilte die Herrschaft in der Tetrarchie? | Diokletian
+5 | Welcher Geschichtsschreiber schrieb „Der Peloponnesische Krieg“? | Thukydides
+
+# Mittelalter
+1 | Wie hieß der Anführer der Wikinger, der Grönland entdeckte? | Erik der Rote
+1 | Welcher Mönch gilt als Erfinder des Champagners, so sagt die Legende? | Dom Pérignon
+1 | Welcher englische König unterzeichnete die Magna Carta? | Johann Ohneland
+2 | Welcher Kaiser gründete das Heilige Römische Reich im Jahr 962? | Otto I.
+2 | Welcher Papst rief 1095 zum ersten Kreuzzug auf? | Urban II.
+3 | Welcher Stauferkaiser starb auf einem Kreuzzug beim Baden im Fluss Saleph? | Friedrich I. Barbarossa
+3 | Wie hieß der byzantinische Kaiser, der die Hagia Sophia bauen ließ? | Justinian I.
+3 | Welcher englische König gewann 1415 die Schlacht von Azincourt? | Heinrich V.
+3 | Wie hieß der Anführer der Hunnen im 5. Jahrhundert? | Attila
+4 | Wie hieß der letzte Kaiser von Ostrom, der 1453 fiel? | Konstantin XI.
+4 | Wie hieß der Kaiser, der die Goldene Bulle 1356 erließ? | Karl IV.
+5 | Welcher Kalif von Bagdad war berühmt für seine Märchen aus Tausendundeiner Nacht? | Harun ar-Raschid
+5 | Welcher Seefahrer umsegelte als Erster Afrikas Südspitze, die später Kap der Guten Hoffnung hieß? | Bartolomeu Dias
+5 | Wie hieß der Sachse, der gegen Karl den Großen kämpfte? | Widukind
+5 | Welcher Papst starb 1303 nach der Gefangennahme in Anagni? | Bonifatius VIII.
+5 | Wie hieß der Kreuzfahrer-König von Jerusalem, der 1187 von Saladin besiegt wurde? | Guido von Lusignan
+
+# Entdecker und Abenteurer
+1 | Welcher Astronaut war der zweite Mensch auf dem Mond? | Buzz Aldrin
+1 | Welcher Forscher erreichte als Erster den Nordpol, umstritten 1909? | Robert Peary
+1 | Welcher Engländer umsegelte als Erster die Welt, 1577 bis 1580? | Francis Drake
+3 | Welcher norwegische Polarforscher reiste mit dem Schiff „Fram“? | Fridtjof Nansen
+3 | Welcher Brite wurde als Erster beim Versuch bekannt, den Nordwestpassage zu finden und verschwand 1845? | John Franklin
+4 | Welcher Mann umrundete die Welt 1522 nach Magellans Tod? | Juan Sebastián Elcano
+4 | Welcher Forscher fand den Ursprung des Nils im Victoriasee, 1858? | John Hanning Speke
+4 | Welcher Seefahrer erreichte Brasilien 1500? | Pedro Álvares Cabral
+4 | Welcher Forscher bestieg als Erster den Kilimandscharo 1889 mit Hans Meyer? | Ludwig Purtscheller
+5 | Welcher Franzose entdeckte 1534 den Sankt-Lorenz-Strom? | Jacques Cartier
+5 | Welcher Tscheche war der erste Mensch im All aus dem Ostblock außerhalb der UdSSR? | Vladimír Remek
+5 | Welche Frau bestieg 1975 als Erste den Everest? | Junko Tabei
+5 | Wer war der erste Deutsche im All? | Sigmund Jähn
+
+# Erfinder und Forscher
+1 | Wer erfand die Glühbirne in ihrer praktisch nutzbaren Form? | Thomas Edison
+2 | Wer erfand den Blitzableiter? | Benjamin Franklin
+2 | Wer entwickelte das erste funktionsfähige Luftschiff? | Ferdinand von Zeppelin
+2 | Wer erfand die Dampfmaschine in verbesserter Form? | James Watt
+2 | Wer entwickelte die Impfung gegen Tollwut? | Louis Pasteur
+3 | Wer erfand 1817 die Laufmaschine, den Vorläufer des Fahrrads? | Karl Drais
+3 | Wer wies 1886 die elektromagnetischen Wellen nach? | Heinrich Hertz
+3 | Wer entdeckte den Erreger der Cholera? | Robert Koch
+3 | Wer schrieb die „Principia Mathematica“? | Isaac Newton
+3 | Wer erfand das Streichholz in sicherer Form? | Johan Edvard Lundström
+3 | Wer erfand die Nähmaschine, patentiert 1846? | Elias Howe
+4 | Wer erfand den Kunststoff Bakelit? | Leo Baekeland
+4 | Wer entdeckte das Elektron? | J. J. Thomson
+4 | Wer entdeckte die Radioaktivität? | Henri Becquerel
+4 | Wer entwickelte das Periodensystem unabhängig von Mendelejew? | Lothar Meyer
+5 | Wer entdeckte den Atomkern? | Ernest Rutherford
+5 | Wer erfand das Telefon vor Bell, der Deutsche aus Friedrichsdorf? | Philipp Reis
+5 | Welcher Physiker begründete die Quantenmechanik gemeinsam mit Bohr, die Unschärferelation? | Werner Heisenberg
+5 | Wer erfand den Computer-Vorläufer „Z1“ im Wohnzimmer seiner Eltern? | Konrad Zuse
+5 | Wer entdeckte die Kernspaltung 1938? | Otto Hahn
+5 | Wer entdeckte den Mikrokosmos der Bakterien mit selbstgebauten Mikroskopen? | Antoni van Leeuwenhoek
+
+# Könige und Kaiserinnen
+1 | Welche Königin regierte Großbritannien 63 Jahre im 19. Jahrhundert? | Victoria
+2 | Welcher preußische König war ein Förderer der Aufklärung und spielte Flöte? | Friedrich II.
+2 | Welche Zarin regierte Russland von 1762 bis 1796? | Katharina II.
+2 | Welcher spanische König ließ den Escorial bauen? | Philipp II.
+2 | Welche Königin von England ließ Maria Stuart hinrichten? | Elisabeth I.
+2 | Welcher König von Frankreich wurde 1793 hingerichtet? | Ludwig XVI.
+2 | Welcher römisch-deutsche Kaiser war ein Habsburger und regierte von 1519 bis 1556? | Karl V.
+3 | Welcher König von Schweden fiel in der Schlacht von Lützen 1632? | Gustav II. Adolf
+3 | Welcher Kaiser von Österreich regierte von 1848 bis 1916? | Franz Joseph I.
+3 | Welcher bayerische König wurde im Starnberger See tot aufgefunden? | Ludwig II.
+3 | Wie hieß die Tochter von Maria Theresia, die in Frankreich Königin wurde? | Marie Antoinette
+3 | Welcher Kaiser regierte Deutschland im „Dreikaiserjahr“ 1888 nur 99 Tage? | Friedrich III.
+3 | Wie hieß der König von England, der die anglikanische Kirche gründete? | Heinrich VIII.
+4 | Welcher Kaiser von Russland wurde 1881 ermordet? | Alexander II.
+4 | Wie hieß die Kaiserin von Österreich und Königin von Ungarn und Böhmen im 18. Jahrhundert? | Maria Theresia
+4 | Wer regierte England nach der Hinrichtung Karls I. 1649 als Lordprotektor? | Oliver Cromwell
+4 | Welcher Herrscher von Preußen wurde 1871 deutscher Kaiser? | Wilhelm I.
+4 | Welcher französische König baute Versailles aus? | Ludwig XIV.
+4 | Wie hieß der letzte König von Frankreich vor der Revolution von 1848? | Louis-Philippe
+5 | Welcher Kaiser von Äthiopien wurde 1974 abgesetzt? | Haile Selassie
+5 | Welche Kaiserin von China regierte im 7. Jahrhundert als einzige Frau auf dem Thron? | Wu Zetian
+5 | Welcher Kaiser von Japan regierte in der Meiji-Zeit? | Mutsuhito
+5 | Welcher König von Preußen erhielt den Beinamen „Soldatenkönig“? | Friedrich Wilhelm I.
+5 | Welcher Zar wurde „der Schreckliche“ genannt? | Iwan IV.
+
+# Politik im 19. und 20. Jahrhundert
+1 | Wer war 1933 bis 1945 deutscher Reichskanzler und Diktator? | Adolf Hitler
+1 | Wer führte die Sowjetunion im Zweiten Weltkrieg als Diktator? | Josef Stalin
+2 | Welcher Amerikaner führte das Land durch den Bürgerkrieg? | Abraham Lincoln
+2 | Welcher Mann war Bundeskanzler von 1982 bis 1998? | Helmut Kohl
+2 | Wer wurde 1990 in Südafrika nach 27 Jahren Haft freigelassen? | Nelson Mandela
+3 | Wer war Präsident der USA im Zweiten Weltkrieg? | Franklin D. Roosevelt
+3 | Welcher Mann wurde 1948 Staatsgründer Israels? | David Ben-Gurion
+3 | Wer war die erste Premierministerin Indiens? | Indira Gandhi
+3 | Wer regierte Kuba von 1959 bis 2008? | Fidel Castro
+4 | Wer war Reichspräsident, als Hitler 1933 Kanzler wurde? | Paul von Hindenburg
+4 | Wer führte China von 1978 bis 1989 faktisch an und öffnete das Land? | Deng Xiaoping
+4 | Wer war US-Präsident während der Kubakrise? | John F. Kennedy
+4 | Wer war der erste Ministerpräsident der DDR? | Otto Grotewohl
+5 | Wer war Chef der DDR von 1971 bis 1989? | Erich Honecker
+5 | Wer war der erste deutsche Bundesverteidigungsminister? | Theodor Blank
+5 | Welcher Außenminister unterzeichnete 1919 den Versailler Vertrag für Deutschland? | Hermann Müller
+5 | Welcher Premier von Großbritannien verhandelte 1938 das Münchner Abkommen? | Neville Chamberlain
+5 | Wer war der letzte Staatsratsvorsitzende der DDR vor der Wende? | Egon Krenz
+
+# Kunst und Musik
+1 | Wer komponierte das „Weihnachtsoratorium“? | Johann Sebastian Bach
+2 | Wer komponierte die „Vier Jahreszeiten“? | Antonio Vivaldi
+2 | Wer komponierte „Eine kleine Nachtmusik“? | Wolfgang Amadeus Mozart
+3 | Wer malte „Der Kuss“ in Gold? | Gustav Klimt
+3 | Wer komponierte das „Requiem“, das unvollendet blieb? | Wolfgang Amadeus Mozart
+3 | Welcher Komponist schrieb den „Bolero“? | Maurice Ravel
+3 | Wer komponierte „Die Moldau“? | Bedřich Smetana
+4 | Wer malte „Sonntagnachmittag auf der Insel La Grande Jatte“? | Georges Seurat
+4 | Wer komponierte die Oper „Carmen“? | Georges Bizet
+4 | Wer malte „Die Geburt der Venus“? | Sandro Botticelli
+4 | Wer komponierte „Die Schöpfung“? | Joseph Haydn
+4 | Wer malte „Der Garten der Lüste“? | Hieronymus Bosch
+4 | Wer komponierte „Peer Gynt“? | Edvard Grieg
+5 | Wer malte „Las Meninas“? | Diego Velázquez
+5 | Wer komponierte die „Kunst der Fuge“? | Johann Sebastian Bach
+5 | Wer malte „Das Floß der Medusa“? | Théodore Géricault
+5 | Wer komponierte die Oper „Fidelio“? | Ludwig van Beethoven
+5 | Wer malte „Die Sixtinische Madonna“? | Raffael
+5 | Wer komponierte „Die Planeten“? | Gustav Holst
+
+# Dichter und Denker
+1 | Wer schrieb „Der kleine Prinz“? | Antoine de Saint-Exupéry
+1 | Wer schrieb „Harry Potter“? | J. K. Rowling
+1 | Wer schrieb „Die Abenteuer des Tom Sawyer“? | Mark Twain
+1 | Wer schrieb „Pinocchio“? | Carlo Collodi
+2 | Wer schrieb „Oliver Twist“? | Charles Dickens
+2 | Wer schrieb „1984“? | George Orwell
+2 | Wer schrieb „Moby Dick“? | Herman Melville
+3 | Wer schrieb „Die Blechtrommel“? | Günter Grass
+3 | Wer schrieb „Madame Bovary“? | Gustave Flaubert
+3 | Wer schrieb „Anna Karenina“? | Leo Tolstoi
+3 | Wer schrieb „Die Brüder Karamasow“? | Fjodor Dostojewski
+4 | Wer schrieb „Die Pest“? | Albert Camus
+4 | Wer schrieb „Ulysses“? | James Joyce
+4 | Wer schrieb „Der Prozess“? | Franz Kafka
+4 | Wer schrieb „Der Tod in Venedig“? | Thomas Mann
+4 | Wer schrieb „Das Parfum“? | Patrick Süskind
+4 | Wer schrieb „Berlin Alexanderplatz“? | Alfred Döblin
+5 | Wer schrieb „Die Göttliche Komödie“? | Dante Alighieri
+5 | Wer schrieb „Der Mann ohne Eigenschaften“? | Robert Musil
+5 | Wer schrieb „Die Elixiere des Teufels“? | E. T. A. Hoffmann
+5 | Wer schrieb „Effi Briest“? | Theodor Fontane
+5 | Wer schrieb „Der Steppenwolf“? | Hermann Hesse
+5 | Wer schrieb „Die Ästhetische Erziehung des Menschen“? | Friedrich Schiller
+
+# Mutige Menschen und Rebellen
+1 | Welcher Inder protestierte mit dem Salzmarsch? | Mahatma Gandhi
+2 | Welche Britin kämpfte für das Frauenwahlrecht und gründete die WSPU? | Emmeline Pankhurst
+2 | Welcher Mann wurde 1944 nach dem Attentat auf Hitler erschossen? | Claus von Stauffenberg
+2 | Welche Frau wurde 1990 nach 15 Jahren Hausarrest in Birma bekannt und erhielt den Friedensnobelpreis? | Aung San Suu Kyi
+2 | Welcher Mann stellte sich 1989 in Peking vor einen Panzer? | Unbekannter Mann
+2 | Welche Frau wurde 2014 mit 17 Jahren jüngste Friedensnobelpreisträgerin? | Malala Yousafzai
+3 | Welcher Amerikaner schrieb den Brief aus dem Gefängnis von Birmingham 1963? | Martin Luther King
+3 | Welcher schwedische Diplomat rettete in Budapest 1944 tausende Juden? | Raoul Wallenberg
+3 | Welcher Pastor widersetzte sich Hitler und gründete die Bekennende Kirche? | Martin Niemöller
+3 | Welcher Boxer verweigerte den Dienst im Vietnamkrieg? | Muhammad Ali
+3 | Welche Frau rettete im Zweiten Weltkrieg 2500 Kinder aus dem Warschauer Ghetto? | Irena Sendler
+4 | Welcher Redner der Nation of Islam wurde 1965 in New York erschossen? | Malcolm X
+4 | Welcher Mann wurde 1948 in Indien von einem Hindu-Nationalisten ermordet? | Mahatma Gandhi
+4 | Welcher polnische Gewerkschafter gründete die Solidarność? | Lech Wałęsa
+4 | Welcher tschechische Dramatiker wurde nach 1989 Präsident? | Václav Havel
+4 | Welcher chilenische Präsident starb 1973 beim Putsch? | Salvador Allende
+4 | Welche Frau wurde 2011 Friedensnobelpreisträgerin aus Liberia? | Ellen Johnson Sirleaf
+5 | Welcher Mann versuchte 1944 gemeinsam mit Stauffenberg die Verschwörung zu führen? | Henning von Tresckow
+5 | Welcher Mann gründete die Hilfsorganisation „Ärzte ohne Grenzen“ mit? | Bernard Kouchner
+5 | Welche amerikanische Sängerin sang 1939 „Strange Fruit“ gegen Rassismus? | Billie Holiday
+
+# Wer hat das gesagt?
+1 | Wer sagte „Wir schaffen das“? | Angela Merkel
+1 | Wer sagte „Yes, we can“? | Barack Obama
+2 | Wer sagte „Es lebe die Freiheit“? | Hans Scholl
+2 | Wer sagte „Der Mensch ist zur Freiheit verurteilt“? | Jean-Paul Sartre
+3 | Wer sagte „Es gibt keinen Weg zum Frieden, der Frieden ist der Weg“? | Mahatma Gandhi
+3 | Wer sagte „Mit der Dummheit kämpfen Götter selbst vergebens“? | Friedrich Schiller
+3 | Wer sagte „Man kann nicht nicht kommunizieren“? | Paul Watzlawick
+4 | Wer sagte „Panta rhei – alles fließt“? | Heraklit
+4 | Wer sagte „Wer nicht kämpft, hat schon verloren“? | Bertolt Brecht
+4 | Wer sagte „Wir sind das Volk“? | Montagsdemonstranten
+4 | Wer sagte „Ich habe nichts zu verzollen außer meinem Genie“? | Oscar Wilde
+5 | Wer sagte „Man sieht nur mit dem Herzen gut“? | Antoine de Saint-Exupéry
+5 | Wer sagte „Das Ende der Geschichte“? | Francis Fukuyama
+5 | Wer sagte „Mein Reich für ein Pferd“ in Shakespeares Drama? | Richard III.
+5 | Wer sagte „Gebt mir einen festen Punkt, und ich bewege die Welt“? | Archimedes

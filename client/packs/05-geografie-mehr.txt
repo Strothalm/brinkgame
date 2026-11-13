@@ -1,0 +1,280 @@
+@id geografie
+
+# Hauptstädte Europas
+1 | Wie heißt die Hauptstadt von Großbritannien? | London
+1 | Wie heißt die Hauptstadt der Niederlande? | Amsterdam
+1 | Wie heißt die Hauptstadt von Belgien? | Brüssel
+1 | Wie heißt die Hauptstadt von Dänemark? | Kopenhagen
+1 | Wie heißt die Hauptstadt von Irland? | Dublin
+1 | Welches Land hat Berlin als Hauptstadt? | Deutschland
+2 | Wie heißt die Hauptstadt von Tschechien? | Prag
+2 | Wie heißt die Hauptstadt der Ukraine? | Kiew | Auch „Kyjiw“ gilt.
+2 | Wie heißt die Hauptstadt von Serbien? | Belgrad
+2 | Wie heißt die Hauptstadt von Bulgarien? | Sofia
+2 | Wie heißt die Hauptstadt von Litauen? | Vilnius
+2 | Wie heißt die Hauptstadt von Estland? | Tallinn
+3 | Wie heißt die Hauptstadt von Luxemburg? | Luxemburg | Die Stadt heißt wie das Land.
+3 | Wie heißt die Hauptstadt von Malta? | Valletta
+3 | Wie heißt die Hauptstadt von Albanien? | Tirana
+3 | Wie heißt die Hauptstadt von Bosnien und Herzegowina? | Sarajevo
+3 | Wie heißt die Hauptstadt von Belarus? | Minsk
+3 | Wie heißt die Hauptstadt von Zypern? | Nikosia
+4 | Wie heißt die Hauptstadt von Nordmazedonien? | Skopje
+4 | Wie heißt die Hauptstadt von Liechtenstein? | Vaduz
+4 | Wie heißt die Hauptstadt von Andorra? | Andorra la Vella
+4 | Wie heißt die Hauptstadt des Kosovo? | Pristina
+4 | Wie heißt die Hauptstadt von San Marino? | San Marino
+4 | Welches Land hat Vilnius als Hauptstadt? | Litauen
+5 | Welches Land hat Valletta als Hauptstadt? | Malta
+5 | Welches Land hat Tirana als Hauptstadt? | Albanien
+5 | Welches Land hat Chișinău als Hauptstadt? | Moldau
+5 | Welches Land hat Podgorica als Hauptstadt? | Montenegro
+5 | Welches Land hat Ljubljana als Hauptstadt? | Slowenien
+5 | Welche Stadt ist der Regierungssitz der Niederlande, obwohl Amsterdam die Hauptstadt ist? | Den Haag
+
+# Hauptstädte der Welt
+1 | Wie heißt die Hauptstadt von Mexiko? | Mexiko-Stadt
+1 | Wie heißt die Hauptstadt von Thailand? | Bangkok
+1 | Wie heißt die Hauptstadt von Südafrika, wenn man den Regierungssitz meint? | Pretoria
+1 | Wie heißt die Hauptstadt von Kuba? | Havanna
+1 | Wie heißt die Hauptstadt von Chile? | Santiago | Auch „Santiago de Chile“.
+1 | Wie heißt die Hauptstadt von Israel? | Jerusalem | Tel Aviv ist der Sitz der meisten Botschaften.
+2 | Wie heißt die Hauptstadt von Kenia? | Nairobi
+2 | Wie heißt die Hauptstadt von Indonesien? | Jakarta
+2 | Wie heißt die Hauptstadt von Pakistan? | Islamabad
+2 | Wie heißt die Hauptstadt von Saudi-Arabien? | Riad
+2 | Wie heißt die Hauptstadt von Iran? | Teheran
+2 | Wie heißt die Hauptstadt von Kolumbien? | Bogotá
+3 | Wie heißt die Hauptstadt von Äthiopien? | Addis Abeba
+3 | Wie heißt die Hauptstadt von Ghana? | Accra
+3 | Wie heißt die Hauptstadt von Bangladesch? | Dhaka
+3 | Wie heißt die Hauptstadt von Sri Lanka, wenn man die gesetzgebende Hauptstadt meint? | Sri Jayawardenepura Kotte | Colombo gilt auch.
+3 | Wie heißt die Hauptstadt von Ecuador? | Quito
+3 | Wie heißt die Hauptstadt von Venezuela? | Caracas
+4 | Wie heißt die Hauptstadt von Tansania, dem offiziellen Regierungssitz? | Dodoma | Daressalam war die frühere Hauptstadt.
+4 | Wie heißt die Hauptstadt von Usbekistan? | Taschkent
+4 | Wie heißt die Hauptstadt von Mali? | Bamako
+4 | Wie heißt die Hauptstadt von Laos? | Vientiane
+4 | Wie heißt die Hauptstadt von Bolivien, dem Regierungssitz? | La Paz | Sucre ist der Verfassungssitz.
+4 | Wie heißt die Hauptstadt von Aserbaidschan? | Baku
+5 | Wie heißt die Hauptstadt von Eritrea? | Asmara
+5 | Wie heißt die Hauptstadt von Burkina Faso? | Ouagadougou
+5 | Wie heißt die Hauptstadt von Surinam? | Paramaribo
+5 | Wie heißt die Hauptstadt von Brunei? | Bandar Seri Begawan
+5 | Wie heißt die Hauptstadt von Tuvalu? | Funafuti
+
+# Flüsse und Seen
+1 | Welcher Fluss fließt durch Berlin? | Spree
+1 | Welcher Fluss fließt durch Frankfurt am Main? | Main
+1 | An welchem See liegt Konstanz? | Bodensee
+1 | Welcher Fluss fließt durch Dresden? | Elbe
+2 | Welcher Fluss fließt durch Prag? | Moldau
+2 | Welcher Fluss fließt durch Madrid? | Manzanares
+2 | Wie heißt der Fluss, der durch Köln und Düsseldorf fließt? | Rhein
+3 | Wie heißt der längste Fluss Frankreichs? | Loire
+3 | Welcher Fluss bildet über weite Strecken die Grenze zwischen Deutschland und Polen? | Oder
+3 | Wie heißt der Fluss, an dem Bonn liegt? | Rhein
+3 | Wie heißt der längste Fluss Italiens? | Po
+3 | Wie heißt der längste Fluss der Iberischen Halbinsel? | Tajo
+3 | Welcher See ist der größte in Italien? | Gardasee
+4 | Welcher Fluss ist der längste Südamerikas? | Amazonas
+4 | Welcher Fluss ist der längste Nordamerikas? | Missouri
+4 | Wie heißt der längste Fluss Australiens? | Murray
+4 | Wie heißt der größte See Europas, wenn man das Kaspische Meer nicht mitzählt? | Ladogasee
+4 | Wie heißt der Fluss, der durch Bagdad fließt? | Tigris
+5 | Wie heißt der längste Fluss Afrikas neben dem Nil? | Kongo
+5 | Wie heißt der längste Fluss, der ganz in Russland fließt? | Lena
+5 | Welcher Fluss bildet die Grenze zwischen Texas und Mexiko? | Rio Grande
+5 | Wie heißt der größte See Afrikas nach Fläche? | Victoriasee
+5 | Welcher See ist der größte der Welt, der vollständig in einem Land liegt? | Oberer See | Er liegt zwischen den USA und Kanada, deshalb gilt auch der Baikalsee oder Michigansee als Gegenbeispiel. Oberer See gelten lassen.
+
+# Berge und Gebirge
+1 | Wie heißt der höchste Berg Europas, wenn man den Kaukasus mitzählt? | Elbrus
+1 | Wie heißt das Gebirge zwischen Deutschland und Tschechien? | Erzgebirge
+1 | Wie heißt das höchste Gebirge der Erde? | Himalaya
+1 | Wie heißt das Mittelgebirge, in dem der Brocken liegt? | Harz
+2 | Wie heißt der höchste Berg der Pyrenäen? | Aneto
+2 | Wie heißt das Gebirge, das sich entlang der Westküste Südamerikas zieht? | Anden
+2 | Wie heißt das Gebirge zwischen Europa und Asien in Russland? | Ural
+3 | Wie heißt der höchste Berg der Karpaten? | Gerlach | Gerlachovský štít in der Slowakei.
+3 | Wie heißt das Gebirge, das Italien der Länge nach durchzieht? | Apennin
+3 | Wie heißt das höchste Gebirge Nordamerikas im Westen der USA? | Rocky Mountains
+3 | Wie heißt der höchste Berg der USA? | Denali
+3 | Wie heißt der höchste Berg Deutschlands mit Nachbarland Österreich? | Zugspitze
+4 | Wie heißt der höchste Berg Australiens auf dem Festland? | Mount Kosciuszko
+4 | Wie heißt das Gebirge in Skandinavien? | Skanden
+4 | Wie heißt der höchste Berg Kanadas? | Mount Logan
+4 | Wie heißt der heilige Berg Japans? | Fuji
+4 | Wie heißt der höchste Berg Spaniens auf dem Festland? | Mulhacén
+4 | Welcher Berg in Griechenland gilt als Sitz der Götter? | Olymp
+5 | Wie heißt der höchste Vulkan der Anden? | Ojos del Salado
+5 | Wie heißt das Gebirge zwischen Indien und Tibet, in dem auch der K2 steht? | Karakorum
+5 | Wie heißt das Gebirge im Süden Afrikas mit dem Tafelberg? | Kapgebirge
+5 | Wie heißt der höchste Berg Südkoreas? | Hallasan
+5 | Wie heißt der höchste Berg Afrikas, der ein erloschener Vulkan ist? | Kilimandscharo
+5 | Wie heißt das Gebirge mit dem Mount Kenya? | Kenia-Massiv
+
+# Inseln und Meere
+1 | Wie heißt die größte Insel Deutschlands? | Rügen
+1 | Zu welchem Land gehört Mallorca? | Spanien
+1 | Wie heißt das Meer zwischen Deutschland und Dänemark im Norden? | Nordsee
+1 | Wie heißt das Meer im Osten von Deutschland? | Ostsee
+1 | Welcher Ozean liegt zwischen Europa und Amerika? | Atlantik
+2 | Wie heißt der Inselstaat im Nordatlantik mit der Hauptstadt Reykjavík? | Island
+2 | Wie heißt die größte Insel der Kanaren? | Teneriffa
+2 | Welche Inselgruppe vor Spanien im Atlantik ist für Strände und Vulkane bekannt? | Kanarische Inseln
+2 | Wie heißt das Meer zwischen Europa und Asien in der Türkei? | Schwarzes Meer
+2 | Wie heißt das Meer zwischen Arabien und Afrika? | Rotes Meer
+2 | Wie heißt die Insel im Indischen Ozean vor Afrika? | Madagaskar
+3 | Wie heißt die Insel, auf der Hawaiis Hauptstadt Honolulu liegt? | Oahu
+3 | Wie heißt die größte Insel der Karibik? | Kuba
+3 | Zu welchem Land gehört die Insel Sardinien? | Italien
+3 | Wie heißt das Meer östlich von Italien und westlich von Albanien? | Adria
+3 | Wie heißt die größte Insel Griechenlands? | Kreta
+3 | Wie heißt das Meer zwischen Australien und Neuseeland? | Tasmansee
+4 | Wie heißt die größte Insel Japans? | Honshū
+4 | Wie heißt die nördlichste der vier japanischen Hauptinseln? | Hokkaido
+4 | Wie heißt die größte Insel der Britischen Inseln? | Großbritannien
+4 | Wie heißt das Meer nördlich von Russland? | Nordpolarmeer
+4 | Welche Inselgruppe gehört zu Ecuador und ist durch Darwin berühmt? | Galápagos
+4 | Wie heißt die Insel, die zwischen Irland und Großbritannien liegt? | Isle of Man
+5 | Wie heißt die Meerenge zwischen Sizilien und dem italienischen Festland? | Straße von Messina
+5 | Wie heißt die größte Insel der Welt, die zu Dänemark gehört? | Grönland
+5 | Wie heißt das Meer zwischen Korea und Japan? | Japanisches Meer
+5 | Wie heißt die Insel im Pazifik, auf der Tahiti liegt? | Französisch-Polynesien | Tahiti gilt auch.
+5 | Wie heißt der tiefste Ozean der Erde? | Pazifik
+5 | Wie heißt die Meerenge zwischen Dänemark und Schweden? | Öresund
+
+# Länder und Grenzen
+1 | Welches Land liegt südlich von Deutschland und hat Wien als Hauptstadt? | Österreich
+1 | Welches Land hat die meisten Einwohner in Europa ohne Russland? | Deutschland
+1 | Auf welchem Kontinent liegt Ägypten? | Afrika
+1 | Welches Land ist das größte in Südamerika? | Brasilien
+1 | Wie heißt das Land, in dem Kängurus leben? | Australien
+1 | Welches Land liegt westlich von Deutschland und hat Paris als Hauptstadt? | Frankreich
+2 | Wie viele Bundesstaaten haben die USA? | 50
+2 | Welches Land liegt nördlich der USA? | Kanada
+2 | Welches Land liegt südlich der USA? | Mexiko
+2 | Welche zwei Länder teilen sich die Insel Irland? | Irland und Großbritannien | Genauer: Republik Irland und Nordirland.
+2 | Welches Land grenzt im Osten an Deutschland und hat Warschau als Hauptstadt? | Polen
+2 | Wie heißt der Kontinent, auf dem Indien liegt? | Asien
+3 | Welches Land hat die meisten Nachbarländer der Welt? | China | Es hat 14 Nachbarländer, Russland ebenso.
+3 | Welche zwei Länder teilen sich die Insel Neuguinea? | Indonesien und Papua-Neuguinea
+3 | Welches Land liegt zwischen Frankreich und Portugal? | Spanien
+3 | Wie heißt das Land mit der Hauptstadt Kairo? | Ägypten
+3 | Welches Land wird von Kanada und Mexiko begrenzt? | USA
+3 | Welches Land liegt zwischen Italien, Österreich, Frankreich und Deutschland? | Schweiz
+4 | Welche drei Länder bilden das Benelux? | Belgien, Niederlande und Luxemburg
+4 | Welches ist das kleinste Land der Erde nach Fläche? | Vatikanstadt
+4 | Welches Land ist von Südafrika vollständig umschlossen? | Lesotho
+4 | Welches Land hat die Hauptstadt Ulaanbaatar? | Mongolei
+4 | Welches Land liegt am Horn von Afrika und hat Mogadischu als Hauptstadt? | Somalia
+5 | Wie heißt das einzige Land der Erde, das auf zwei Kontinenten liegt und Istanbul als größte Stadt hat? | Türkei
+5 | Welche drei südamerikanischen Länder liegen am Äquator? | Ecuador, Kolumbien und Brasilien
+5 | Welches Land wurde 2011 der jüngste Staat der Welt? | Südsudan
+5 | Wie hieß das Land, das 1993 in Tschechien und die Slowakei geteilt wurde? | Tschechoslowakei
+
+# Deutschland
+1 | Wie heißt die Hauptstadt von Baden-Württemberg? | Stuttgart
+1 | Wie heißt die Hauptstadt von Sachsen? | Dresden
+1 | Wie heißt die größte Stadt Hessens? | Frankfurt am Main
+1 | In welchem Bundesland liegt München? | Bayern
+1 | Welche Stadt ist die Hauptstadt von Rheinland-Pfalz? | Mainz
+1 | Wie heißt die Hauptstadt von Thüringen? | Erfurt
+2 | Wie heißt die Hauptstadt von Brandenburg? | Potsdam
+2 | Wie heißt das östlichste Bundesland von Deutschland? | Sachsen
+2 | Wie heißt das nördlichste Bundesland? | Schleswig-Holstein
+2 | Welche zwei Stadtstaaten außer Berlin hat Deutschland? | Hamburg und Bremen
+2 | Wie heißt die Insel in der Nordsee, die zu Schleswig-Holstein gehört und für ihre Strände bekannt ist? | Sylt
+3 | Wie heißt der längste Fluss, der komplett in Deutschland liegt? | Weser | Genauer: Die Weser, mit Werra, ist der längste.
+3 | Wie heißt das Mittelgebirge südlich von Frankfurt und östlich des Rheins? | Odenwald
+3 | Wie heißt das Bundesland mit der Hauptstadt Saarbrücken? | Saarland
+3 | Welches Bundesland hat die Hauptstadt Magdeburg? | Sachsen-Anhalt
+3 | Welcher Berg ist der höchste im Schwarzwald? | Feldberg
+3 | Wie heißt der größte Binnensee Deutschlands in Mecklenburg-Vorpommern? | Müritz
+4 | In welchem Bundesland liegt die Stadt Rostock? | Mecklenburg-Vorpommern
+4 | Wie heißt die Halbinsel an der Nordseeküste mit St. Peter-Ording? | Eiderstedt
+4 | Welcher Fluss mündet bei Koblenz in den Rhein? | Mosel
+4 | Wie heißt das Mittelgebirge zwischen Hessen und Thüringen mit der Wasserkuppe? | Rhön
+5 | Welche deutsche Stadt liegt am südlichsten von allen größeren Städten? | München | Garmisch-Partenkirchen liegt weiter südlich.
+5 | Wie heißt der höchste Berg Nordrhein-Westfalens? | Langenberg | Im Rothaargebirge, 843 Meter.
+5 | Wie heißt der längste Nebenfluss der Elbe, der ganz in Deutschland fließt? | Saale
+5 | Wie heißt die Bucht an der Ostsee bei Kiel? | Kieler Förde
+5 | Wie heißt die Ostsee-Insel, die über die Fehmarnsundbrücke mit dem Festland verbunden ist? | Fehmarn
+5 | Wie heißt das größte Weinanbaugebiet Deutschlands nach Fläche? | Rheinhessen
+
+# Rekorde der Erde
+1 | Welches Land hat die meisten Einwohner der Erde? | Indien
+1 | Welches ist das größte Land der Erde nach Fläche? | Russland
+1 | Wie heißt der längste Fluss der Erde nach klassischer Angabe? | Nil
+2 | Wie heißt die größte Stadt der USA? | New York
+2 | Welches ist die größte Wüste der Erde außerhalb der Polargebiete? | Sahara
+2 | Wie heißt die größte Insel der Welt, die nicht als Kontinent zählt? | Grönland
+2 | Wie heißt der tiefste Punkt aller Ozeane? | Marianengraben
+2 | Wie heißt der größte Binnensee der Welt? | Kaspisches Meer
+2 | Welches Land hat die längste Küste der Welt? | Kanada
+3 | Wie hoch ist der Mount Everest ungefähr? | 8849 Meter | 8848 oder 8849 gelten lassen.
+3 | Welches Land ist das am dichtesten besiedelte Land der Erde (ohne Stadtstaaten)? | Bangladesch
+3 | Welcher Wasserfall der Erde ist der höchste? | Salto Ángel
+3 | Wie heißt das größte Korallenriff der Erde? | Great Barrier Reef
+4 | Welches Land hat die meisten Zeitzonen? | Frankreich | Wegen der Überseegebiete.
+4 | Wie heißt der längste Gebirgszug der Erde unter Wasser? | Mittelozeanischer Rücken
+4 | Wie heißt der kälteste bewohnte Ort der Erde in Sibirien? | Oimjakon
+4 | Wie heißt die trockenste Wüste der Erde? | Atacama
+4 | Welches Land hat die meisten Inseln der Welt? | Schweden
+5 | Wie heißt der größte See der Welt nach Volumen und Tiefe? | Baikalsee
+5 | Wie heißt die größte Hochebene der Erde in Asien? | Tibet
+5 | Wie heißt der höchste Vulkan der Erde über dem Meeresboden? | Mauna Kea
+5 | Wie heißt die größte Salzwüste der Welt in Bolivien? | Salar de Uyuni
+5 | Wie heißt das größte Delta der Erde, das von Ganges und Brahmaputra gebildet wird? | Sundarbans | Auch „Ganges-Delta“ gilt.
+
+# Wüsten, Wälder und Klima
+1 | Wie nennt man die kälteste Jahreszeit in Europa? | Winter
+1 | In welchem Klima wachsen Palmen und Bananen? | Tropen
+1 | Wie heißt der heißeste Kontinent? | Afrika
+1 | Wie nennt man einen großen Wald in den Tropen mit viel Regen? | Regenwald
+1 | Wie nennt man ein sehr trockenes Gebiet mit wenig Pflanzen? | Wüste
+2 | Wie heißt die größte Sandwüste der Erde? | Rub al-Chali | Auch „Leeres Viertel“ gilt. Die Sahara ist größer, aber keine reine Sandwüste.
+2 | Wie heißt die Wüste im Westen Südamerikas? | Atacama
+2 | Wie nennt man den Wechsel von Regenzeit und Trockenzeit in Indien? | Monsun
+2 | Wie heißt der Wirbelsturm im Atlantik, der viel Schaden anrichten kann? | Hurrikan
+2 | Wie heißt die Wüste in Südafrika und Botswana? | Kalahari
+3 | Wie heißt die Wüste in Australien? | Große Victoriawüste | Auch „Gibsonwüste“ oder „Outback“ gilt.
+3 | Wie nennt man den warmen Fallwind an den Alpen? | Föhn
+3 | Wie heißt die kälteste Region der Erde? | Antarktis
+3 | Wie nennt man die Hochebene in Argentinien mit Gräsern? | Pampa
+3 | Wie nennt man einen Wirbelsturm im Indischen Ozean? | Zyklon
+3 | Wie heißt die Wüste in der Mongolei und im Norden Chinas? | Gobi
+4 | Wie heißt der warme Meeresstrom vor der Küste Europas? | Golfstrom
+4 | Wie heißt das Klimaphänomen, das alle paar Jahre den Pazifik erwärmt? | El Niño
+4 | Wie heißt das Waldgebiet im Südwesten Deutschlands mit Kuckucksuhren? | Schwarzwald
+4 | Wie heißt die größte Sandwüste Asiens? | Taklamakan
+4 | Wie nennt man die dauerhaft gefrorene Schicht im Boden des hohen Nordens? | Permafrost
+5 | Wie heißt die Wüste an der Küste Namibias, die als älteste der Welt gilt? | Namib
+5 | Wie heißt der Wind in der Sahara, der heißen Sand bis nach Europa trägt? | Schirokko | Auch „Sirocco“ gilt.
+5 | Welcher Regenwald liegt am Kongo? | Kongobecken
+5 | Wie nennt man die baumlosen Kältesteppen in Nordeuropa und Nordasien? | Tundra
+5 | Wie heißt die Klimazone mit milden, feuchten Wintern und trockenen, heißen Sommern am Mittelmeer? | Mittelmeerklima
+
+# Städte der Welt
+1 | Wie heißt die Stadt, in der die Beatles gegründet wurden? | Liverpool
+1 | Wie heißt die größte Stadt Argentiniens? | Buenos Aires
+1 | Wie heißt die Hauptstadt von Portugal, die am Fluss Tejo liegt? | Lissabon
+2 | Wie heißt die größte Stadt von Kanada? | Toronto
+2 | Wie heißt die zweitgrößte Stadt Australiens? | Melbourne
+2 | Welche Stadt ist die größte der Türkei? | Istanbul
+2 | Wie heißt die größte Stadt Spaniens? | Madrid
+2 | Wie heißt die größte Stadt Italiens? | Rom
+3 | In welcher Stadt steht die Basilius-Kathedrale? | Moskau
+3 | Wie heißt die größte Stadt Chinas? | Shanghai
+3 | Wie heißt die größte Stadt Indiens? | Mumbai
+3 | Wie heißt die Stadt, in der der Taj Mahal in der Nähe steht? | Agra
+4 | Wie heißt die Stadt in Peru, von der aus man Machu Picchu besucht? | Cusco
+4 | Wie heißt die größte Stadt Afrikas nach Einwohnern im Ballungsraum? | Kairo | Lagos gilt auch.
+4 | Wie heißt die Stadt am Nil, in der die Pyramiden von Gizeh stehen? | Gizeh
+5 | Wie heißt die Hauptstadt von Bhutan? | Thimphu
+5 | Wie heißt die Stadt in Usbekistan an der Seidenstraße mit blauen Kuppeln? | Samarkand
+5 | Wie heißt die Hauptstadt von Papua-Neuguinea? | Port Moresby
+5 | Wie heißt die höchste Hauptstadt Europas? | Andorra la Vella
+5 | Wie heißt die größte Stadt Neuseelands? | Auckland
+5 | Wie heißt die Hauptstadt von Madagaskar? | Antananarivo

@@ -102,7 +102,9 @@ function check(pack) {
 }
 
 if (process.argv[1] && path.resolve(process.argv[1]) === fileURLToPath(import.meta.url)) {
-  const files = fs.existsSync(srcDir) ? fs.readdirSync(srcDir).filter((f) => f.endsWith('.txt')).sort() : [];
+  // main file first, then its "-mehr" files, so name and icon come from the main file
+  const sortKey = (f) => `${f.replace(/-mehr[^.]*/, '')}|${/-mehr/.test(f) ? 1 : 0}|${f}`;
+  const files = fs.existsSync(srcDir) ? fs.readdirSync(srcDir).filter((f) => f.endsWith('.txt')).sort((a, b) => (sortKey(a) < sortKey(b) ? -1 : 1)) : [];
   // Several files may share one @id: the first one defines name, icon and color, the others add
   // questions to categories of the same name (or new categories).
   const merged = new Map();
