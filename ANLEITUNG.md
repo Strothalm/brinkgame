@@ -96,6 +96,16 @@ Die Belegung steht auch in der App.
 
 ---
 
+## Weitere Downloads
+
+- **Brinkgame.exe (nevercrash.de):** https://nevercrash.de/share/yu9yAw2i
+  Das ist nur die Programmhülle von Electron (211 MB, Version 1.0.0.0, Stand 13.11.). Ihr fehlt die Datei
+  `resources/app.asar` mit dem Spiel, **allein startet sie das Spiel nicht**. Zum Spielen die portable
+  Datei `Brinkgame-1.1.0-portable.exe` vom Branch `windows-exe` nehmen. Der Link läuft über einen
+  eigenen Server und kann ablaufen.
+
+---
+
 ## Wenn etwas nicht klappt
 
 | Problem | Lösung |
