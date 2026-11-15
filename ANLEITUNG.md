@@ -51,9 +51,9 @@ Zurück zum Betrieb nur mit IP: `sudo bash install-server.sh --no-domain`
 
 ---
 
-## Schritt 3: Neue Windows-App (Version 1.1.0)
+## Schritt 3: Neue Windows-App (Version 1.2.0)
 
-Die neue App liegt auf GitHub im Branch **windows-exe**: Datei `Brinkgame-1.1.0-portable.exe`
+Die neue App liegt auf GitHub im Branch **windows-exe**: Datei `Brinkgame-1.2.0-portable.exe`
 (https://github.com/Strothalm/brinkgame/tree/windows-exe).
 
 1. Die Datei anklicken, dann **Download** (oder **Raw**) wählen. Die Datei ist 87 MB groß.
@@ -61,7 +61,7 @@ Die neue App liegt auf GitHub im Branch **windows-exe**: Datei `Brinkgame-1.1.0-
    **Weitere Informationen**, dann **Trotzdem ausführen**.
 3. In der App den Server eintragen (IP oder Domain). Du brauchst nichts neu einzurichten.
 
-Ob die Version stimmt, siehst du unten auf der Startseite (1.1.0). Die alte Datei `Brinkgame-1.0.0-portable.exe`
+Ob die Version stimmt, siehst du unten auf der Startseite (1.2.0). Die alte Datei `Brinkgame-1.0.0-portable.exe`
 ist auf dem Branch nicht mehr enthalten.
 
 ---
@@ -101,7 +101,7 @@ Die Belegung steht auch in der App.
 - **Brinkgame.exe (nevercrash.de):** https://nevercrash.de/share/yu9yAw2i
   Das ist nur die Programmhülle von Electron (211 MB, Version 1.0.0.0, Stand 13.11.). Ihr fehlt die Datei
   `resources/app.asar` mit dem Spiel, **allein startet sie das Spiel nicht**. Zum Spielen die portable
-  Datei `Brinkgame-1.1.0-portable.exe` vom Branch `windows-exe` nehmen. Der Link läuft über einen
+  Datei `Brinkgame-1.2.0-portable.exe` vom Branch `windows-exe` nehmen. Der Link läuft über einen
   eigenen Server und kann ablaufen.
 
 ---
