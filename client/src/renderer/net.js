@@ -254,6 +254,13 @@ export function disconnect(silent = false) {
   }
 }
 
+/** Address of a song clip: the server fetches a fresh 30 second preview and forwards the player to it. */
+export function audioUrl(snd) {
+  const m = /^dz:(\d{1,12})$/.exec(snd ?? '');
+  const base = S.conn.server ? parseServer(S.conn.server.url)?.http : '';
+  return m && base ? `${base}/audio/dz/${m[1]}` : '';
+}
+
 export function isOnline() {
   return ws?.readyState === 1 && S.conn.status === 'online';
 }

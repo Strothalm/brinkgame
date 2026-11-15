@@ -20,6 +20,31 @@ const MIME = {
   '.webmanifest': 'application/manifest+json',
 };
 
+// Song clips: the pack only stores a Deezer track number. Deezer's preview links expire, so the
+// server asks for a fresh one and sends the player there (30 second preview, nothing is stored).
+const previewCache = new Map(); // id -> { url, until }
+let previewWindow = { start: 0, count: 0 };
+
+async function deezerPreview(id) {
+  const hit = previewCache.get(id);
+  if (hit && hit.until > Date.now()) return hit.url;
+  const res = await fetch(`https://api.deezer.com/track/${id}`, { signal: AbortSignal.timeout(8000) });
+  if (!res.ok) return null;
+  const data = await res.json();
+  const url = typeof data?.preview === 'string' && data.preview.startsWith('https://') ? data.preview : null;
+  if (url) {
+    if (previewCache.size > 500) previewCache.clear();
+    previewCache.set(id, { url, until: Date.now() + 5 * 60_000 });
+  }
+  return url;
+}
+
+function allowPreviewRequest() {
+  const now = Date.now();
+  if (now - previewWindow.start > 60_000) previewWindow = { start: now, count: 0 };
+  return ++previewWindow.count <= 240;
+}
+
 export function createServer(options = {}) {
   const config = {
     name: options.name ?? process.env.SERVER_NAME ?? 'Brinkgame Server',
@@ -42,6 +67,30 @@ export function createServer(options = {}) {
     if (url.pathname === '/api/info') {
       res.writeHead(200, { 'Content-Type': MIME['.json'], 'Cache-Control': 'no-store' });
       res.end(JSON.stringify(hub.info()));
+      return;
+    }
+    const sound = url.pathname.match(/^\/audio\/dz\/(\d{1,12})$/);
+    if (sound && (req.method === 'GET' || req.method === 'HEAD')) {
+      if (!allowPreviewRequest()) {
+        res.writeHead(429, { 'Content-Type': 'text/plain' });
+        res.end('zu viele Anfragen');
+        return;
+      }
+      deezerPreview(sound[1]).then(
+        (target) => {
+          if (!target) {
+            res.writeHead(404, { 'Content-Type': 'text/plain' });
+            res.end('kein Ausschnitt');
+            return;
+          }
+          res.writeHead(302, { Location: target, 'Cache-Control': 'no-store' });
+          res.end();
+        },
+        () => {
+          res.writeHead(502, { 'Content-Type': 'text/plain' });
+          res.end('Ausschnitt nicht erreichbar');
+        },
+      );
       return;
     }
     if (req.method !== 'GET' && req.method !== 'HEAD') {

@@ -225,6 +225,26 @@ Die Fragen wurden von Hand geschrieben und geprüft, bei 2600 Stück können tro
 sein, vor allem bei Creatorn, deren Zahlen sich schnell ändern. Der Moderator hat immer das
 letzte Wort und kann Punkte korrigieren.
 
+### Tonfragen („Wie heißt der Song?“)
+
+Im Paket Musik gibt es die Kategorie **Wie heißt der Song?** mit 31 Songs. Bei diesen Fragen spielt die
+App allen Spielern gleichzeitig einen 30-Sekunden-Ausschnitt vor. Die Ausschnitte liegen **nicht** im Projekt:
+Im Paket steht nur die Deezer-Titelnummer, der **Server** holt beim Spielen einen frischen Vorschau-Link
+(`/audio/dz/<Nummer>`) und leitet die App dorthin. Dafür muss der Server das Internet erreichen.
+Ein Ausschnitt lässt sich mit „Nochmal hören“ wiederholen, die Lautstärke steht in den Einstellungen.
+
+Schreibweise in einer Paketdatei:
+
+```
+3 | [snd:dz:846446152] Wie heißt dieser Song? | GTA | Künstler: Standart Skill
+2! | [snd:dz:3090545901] Wie heißt dieser Song? | Photoshop | Künstler: ApoRed
+```
+
+Ein `!` hinter der Stufe hält die Frage **immer in ihrer Zeile** (hier Stufe 2, also 200 Punkte), egal welche
+Schwierigkeit gewählt ist. So bleibt „Photoshop“ immer bei 200. Die Songs sind Studioversionen und eher keine
+Superhits. Welcher Song zu welcher Stufe gehört, ist meine Einschätzung und lässt sich in der Datei
+`client/packs/09-musik-mehr-songs.txt` ändern. Auf dem Handy startet der Ton nur nach einem Tippen.
+
 ## 5. Anti-Cheat
 
 Der Moderator schaltet es in den Regeln ein. Jeder Spieler bekommt dann eine Erklärung und muss

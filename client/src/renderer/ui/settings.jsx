@@ -145,6 +145,15 @@ function DesignTab() {
           <Btn size="sm" onClick={() => sfx.correct()}>Probe hören</Btn>
         </Field>
       )}
+      <Field label="Lautstärke der Tonfragen">
+        <Slider
+          value={s.musicVolume ?? 70}
+          onChange={(v) => {
+            s.musicVolume = v;
+            act.saveSettings();
+          }}
+        />
+      </Field>
       {S.desktop && (
         <Field label="Fenster" row>
           <Btn icon="monitor" onClick={() => window.brink.app.toggleFullscreen()}>Vollbild umschalten (F11)</Btn>

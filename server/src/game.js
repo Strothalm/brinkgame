@@ -19,6 +19,11 @@ function cleanImage(value) {
   return '';
 }
 
+/** Sound clips are Deezer track numbers; the server turns them into a fresh preview link when a client asks. */
+function cleanSound(value) {
+  return typeof value === 'string' && /^dz:\d{1,12}$/.test(value) ? value : '';
+}
+
 function cleanClue(raw, value) {
   return {
     value,
@@ -26,6 +31,7 @@ function cleanClue(raw, value) {
     a: cleanText(raw?.a, 300),
     note: cleanText(raw?.note, 300),
     img: cleanImage(raw?.img),
+    snd: cleanSound(raw?.snd),
     dd: false,
     used: false,
     result: null, // entity id that scored, 'none', or null while unused
@@ -722,6 +728,7 @@ export class Game {
         wagerMax: this.cur.ddEnt ? Math.max(this._score(this.cur.ddEnt), 500 * round.mult) : 0,
         q: showClue ? clue.q : '',
         img: showClue ? clue.img : '',
+        snd: showClue ? clue.snd : '',
         a: showAnswer ? clue.a : undefined,
         note: mod ? clue.note : undefined,
         buzzer: this.cur.buzzer,

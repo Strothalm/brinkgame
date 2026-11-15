@@ -1,0 +1,35 @@
+// Tonausschnitte: 30 Sekunden Vorschau von Deezer, geholt beim Spielen. Die Zeile mit "2!" bleibt immer in Zeile 200.
+@id musik
+
+# Wie heißt der Song?
+1 | [snd:dz:15593566] Wie heißt dieser Song? | Black or White | Künstler: Michael Jackson
+1 | [snd:dz:1006092782] Wie heißt dieser Song? | Männer sind Schweine | Künstler: Die Ärzte
+1 | [snd:dz:142986200] Wie heißt dieser Song? | Castle on the Hill | Künstler: Ed Sheeran
+1 | [snd:dz:426347072] Wie heißt dieser Song? | Chöre | Künstler: Mark Forster
+1 | [snd:dz:676847] Wie heißt dieser Song? | What I've Done | Künstler: Linkin Park
+1 | [snd:dz:14525574] Wie heißt dieser Song? | We Found Love | Künstler: Rihanna (mit Calvin Harris)
+2 | [snd:dz:596296] Wie heißt dieser Song? | Symphonie | Künstler: Silbermond
+2 | [snd:dz:3782844882] Wie heißt dieser Song? | Traum | Künstler: Cro
+2 | [snd:dz:121123256] Wie heißt dieser Song? | Pocahontas | Künstler: AnnenMayKantereit
+2 | [snd:dz:75716617] Wie heißt dieser Song? | Magic | Künstler: Coldplay
+2 | [snd:dz:2200204] Wie heißt dieser Song? | Alles neu | Künstler: Peter Fox
+2 | [snd:dz:3135555] Wie heißt dieser Song? | Digital Love | Künstler: Daft Punk
+2! | [snd:dz:3090545901] Wie heißt dieser Song? | Photoshop | Künstler: ApoRed (mit KsFreak und Krappi)
+3 | [snd:dz:846446152] Wie heißt dieser Song? | GTA | Künstler: Standart Skill (mit JURI und Mavie)
+3 | [snd:dz:15914088] Wie heißt dieser Song? | Songs für Liam | Künstler: Kraftklub
+3 | [snd:dz:1753937087] Wie heißt dieser Song? | Willst du | Künstler: Alligatoah
+3 | [snd:dz:103052662] Wie heißt dieser Song? | The Less I Know the Better | Künstler: Tame Impala
+3 | [snd:dz:70322130] Wie heißt dieser Song? | Do I Wanna Know? | Künstler: Arctic Monkeys
+3 | [snd:dz:486399342] Wie heißt dieser Song? | A New Error | Künstler: Moderat
+4 | [snd:dz:70267013] Wie heißt dieser Song? | Hinterland | Künstler: Casper
+4 | [snd:dz:3782857202] Wie heißt dieser Song? | Lila Wolken | Künstler: Marteria (mit Yasha und Miss Platnum)
+4 | [snd:dz:130850266] Wie heißt dieser Song? | Ahnma | Künstler: Beginner
+4 | [snd:dz:144206510] Wie heißt dieser Song? | Anti Anti | Künstler: Bonaparte
+4 | [snd:dz:3558285081] Wie heißt dieser Song? | Emanuela | Künstler: Fettes Brot
+4 | [snd:dz:3786035262] Wie heißt dieser Song? | Nur geträumt | Künstler: Nena
+5 | [snd:dz:16417898] Wie heißt dieser Song? | Lied vom Ende des Kapitalismus | Künstler: PeterLicht
+5 | [snd:dz:3283333] Wie heißt dieser Song? | Weck mich auf | Künstler: Samy Deluxe
+5 | [snd:dz:502251372] Wie heißt dieser Song? | Landungsbrücken raus | Künstler: Kettcar
+5 | [snd:dz:1230266182] Wie heißt dieser Song? | Pure Vernunft darf niemals siegen | Künstler: Tocotronic
+5 | [snd:dz:4300847] Wie heißt dieser Song? | Sie ist weg | Künstler: Die Fantastischen Vier
+5 | [snd:dz:3090911] Wie heißt dieser Song? | Müssen nur wollen | Künstler: Wir sind Helden

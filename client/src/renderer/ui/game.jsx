@@ -1,7 +1,8 @@
-import { useEffect, useState } from 'preact/hooks';
+import { useEffect, useRef, useState } from 'preact/hooks';
 import { S, isMod, member, entity, entityOfPlayer, openModal } from '../store.js';
 import * as act from '../actions.js';
 import { imageSrc } from '../packs.js';
+import { audioUrl } from '../net.js';
 import { Avatar, Btn, Icon, TimerBar, fmtScore, useCountdown, Seg } from './common.jsx';
 import { CamTile, keyLabel } from './cams.jsx';
 import { AnticheatPanel } from './anticheat.jsx';
@@ -213,6 +214,32 @@ function DailyDouble() {
   );
 }
 
+/** Plays the clip of a song question for everyone as soon as the clue opens. */
+function Sound({ snd }) {
+  const ref = useRef(null);
+  const [st, setSt] = useState('loading'); // loading | playing | ended | blocked | error
+  const src = audioUrl(snd);
+  const play = () => {
+    const a = ref.current;
+    if (!a) return;
+    a.volume = Math.min(1, Math.max(0, (S.settings.musicVolume ?? 70) / 100));
+    setSt('loading');
+    a.currentTime = 0;
+    const p = a.play();
+    if (p?.catch) p.catch((e) => setSt(e?.name === 'NotAllowedError' ? 'blocked' : 'error'));
+  };
+  useEffect(play, [src]);
+  const text = { loading: 'Ton wird geladen …', playing: 'Hört genau hin', ended: 'Ausschnitt zu Ende', blocked: 'Der Browser wartet auf einen Klick', error: 'Ton nicht verfügbar. Der Moderator kann die Frage zurücklegen.' }[st];
+  return (
+    <div class={`snd snd-${st}`}>
+      <audio ref={ref} src={src} preload="auto" onPlaying={() => setSt('playing')} onEnded={() => setSt('ended')} onError={() => setSt('error')} />
+      <span class="snd-bars" aria-hidden="true"><i /><i /><i /><i /><i /></span>
+      <span class="snd-text">{text}</span>
+      <Btn size="sm" onClick={play}>{st === 'blocked' ? 'Abspielen' : 'Nochmal hören'}</Btn>
+    </div>
+  );
+}
+
 function Clue() {
   const g = S.game;
   const cur = g.cur;
@@ -229,6 +256,7 @@ function Clue() {
       </header>
       <div class={`clue-card ${textSize(cur.q, !!cur.img)}`}>
         {cur.img && <img class="clue-img" src={imageSrc(cur.img)} alt="" />}
+        {cur.snd && <Sound snd={cur.snd} />}
         {cur.q && <p class="clue-text">{cur.q}</p>}
         {reveal && (
           <div class="clue-answer">

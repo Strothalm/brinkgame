@@ -6,6 +6,8 @@
 //   # Kategoriename
 //   Stufe | Frage | Antwort | Hinweis für den Moderator (optional)
 //   Ein Bild steht vorn in der Frage: [flag:de] oder [img:https://…]
+//   Ein Tonausschnitt: [snd:dz:12345] (Deezer-Titelnummer, 30 s Vorschau, wird beim Spielen über den Server geholt)
+//   Stufe mit ! (zum Beispiel 2!) hält die Frage immer in der Zeile dieser Stufe, egal welche Schwierigkeit gewählt ist
 import fs from 'node:fs';
 import path from 'node:path';
 import crypto from 'node:crypto';
@@ -41,13 +43,15 @@ export function parsePack(text, file = '') {
       return;
     }
     const parts = raw.split('|').map((p) => p.trim());
-    const level = Number(parts[0]);
+    const pin = /!$/.test(parts[0]);
+    const level = Number(parts[0].replace(/!$/, ''));
     if (!cat || !(level >= 1 && level <= 5) || parts.length < 3) {
       problems.push(`${file}:${idx + 1} unlesbar: ${raw.slice(0, 60)}`);
       return;
     }
     let q = parts[1];
     let img = '';
+    let snd = '';
     const a = parts[2];
     const n = parts[3] ?? '';
     if (type === 'flags') {
@@ -57,6 +61,11 @@ export function parsePack(text, file = '') {
         problems.push(`${file}:${idx + 1} Flagge fehlt: ${img}`);
       }
     } else {
+      const sm = q.match(/^\[snd:(dz:\d{1,12})\]\s*/);
+      if (sm) {
+        snd = sm[1];
+        q = q.slice(sm[0].length);
+      }
       const im = q.match(/^\[(flag:[a-z-]+|img:[^\]]+)\]\s*/);
       if (im) {
         img = im[1].startsWith('img:') ? im[1].slice(4) : im[1];
@@ -67,9 +76,11 @@ export function parsePack(text, file = '') {
       problems.push(`${file}:${idx + 1} Frage oder Antwort leer`);
       return;
     }
-    const item = { id: `q${hash(`${pack.id}|${q}|${a}|${img}`)}`, c: cat.id, l: level, q, a };
+    const item = { id: `q${hash(`${pack.id}|${q}|${a}|${img}|${snd}`)}`, c: cat.id, l: level, q, a };
     if (n) item.n = n;
     if (img) item.img = img;
+    if (snd) item.snd = snd;
+    if (pin) item.pin = level;
     pack.qs.push(item);
   });
   if (!pack.id) pack.id = slug(pack.name || path.basename(file, '.txt'));
@@ -80,13 +91,13 @@ function check(pack) {
   const notes = [];
   const seen = new Map();
   for (const q of pack.qs) {
-    const key = q.img ? q.img : q.q.toLowerCase();
+    const key = q.img ? q.img : q.snd ? q.snd : q.q.toLowerCase();
     if (seen.has(key)) notes.push(`doppelt: "${q.q.slice(0, 50)}" (${q.a})`);
     seen.set(key, true);
   }
   const answers = new Map();
   for (const q of pack.qs) {
-    if (q.img) continue;
+    if (q.img || q.snd) continue;
     const key = `${q.c}|${q.l}|${q.a.toLowerCase()}`;
     if (answers.has(key)) notes.push(`gleiche Antwort in Kategorie und Stufe: "${q.a}"`);
     answers.set(key, true);

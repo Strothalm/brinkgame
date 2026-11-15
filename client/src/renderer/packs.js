@@ -143,8 +143,8 @@ export function newCategory(name) {
 
 export function packStats(pack, diff = 'mix') {
   const cats = pack.cats.map((cat) => {
-    const per = LEVELS.map((l) => pack.qs.filter((q) => q.c === cat.id && q.l === l && !q.off).length);
-    return { id: cat.id, name: cat.name, per, total: pack.qs.filter((q) => q.c === cat.id).length, active: per.reduce((a, b) => a + b, 0), playable: meets(per, diff) };
+    const per = LEVELS.map((l) => pack.qs.filter((q) => q.c === cat.id && q.l === l && !q.off && !q.pin).length);
+    return { id: cat.id, name: cat.name, per, total: pack.qs.filter((q) => q.c === cat.id).length, active: pack.qs.filter((q) => q.c === cat.id && !q.off).length, playable: meets(per, diff) };
   });
   return {
     total: pack.qs.length,
@@ -171,6 +171,8 @@ function sanitizePack(raw) {
       a: str(q.a, 300),
       ...(q.n ? { n: str(q.n, 300) } : {}),
       ...(q.img ? { img: str(q.img, 1_400_000) } : {}),
+      ...(/^dz:\d{1,12}$/.test(q.snd) ? { snd: q.snd } : {}),
+      ...(q.pin >= 1 && q.pin <= 5 ? { pin: Math.round(q.pin) } : {}),
       ...(q.off ? { off: true } : {}),
     }))
     .filter((q) => q.c && q.a && (q.q || q.img));
@@ -206,12 +208,18 @@ export function parseTextQuestions(text, pack) {
       continue;
     }
     const parts = raw.split('|').map((p) => p.trim());
-    const level = Number(parts[0]);
+    const pin = /!$/.test(parts[0]);
+    const level = Number(parts[0].replace(/!$/, ''));
     if (!cat || !(level >= 1 && level <= 5) || !parts[1] || !parts[2]) {
       skipped++;
       continue;
     }
-    const item = { id: uid('q'), c: cat.id, l: level, q: parts[1].slice(0, 600), a: parts[2].slice(0, 300) };
+    let qText = parts[1];
+    const snd = qText.match(/^\[snd:(dz:\d{1,12})\]\s*/);
+    if (snd) qText = qText.slice(snd[0].length);
+    const item = { id: uid('q'), c: cat.id, l: level, q: qText.slice(0, 600), a: parts[2].slice(0, 300) };
+    if (snd) item.snd = snd[1];
+    if (pin) item.pin = level;
     if (parts[3]) item.n = parts[3].slice(0, 300);
     qs.push(item);
   }
@@ -223,7 +231,7 @@ export function packToText(pack) {
   for (const cat of pack.cats) {
     lines.push(`# ${cat.name}`);
     for (const q of pack.qs.filter((x) => x.c === cat.id).sort((a, b) => a.l - b.l)) {
-      lines.push([q.l, q.q.replace(/\|/g, '/'), q.a.replace(/\|/g, '/'), q.n ?? ''].filter((x, i) => i < 3 || x).join(' | '));
+      lines.push([`${q.l}${q.pin ? '!' : ''}`, `${q.snd ? `[snd:${q.snd}] ` : ''}${q.q.replace(/\|/g, '/')}`, q.a.replace(/\|/g, '/'), q.n ?? ''].filter((x, i) => i < 3 || x).join(' | '));
     }
     lines.push('');
   }
@@ -341,15 +349,16 @@ function candidates(selection) {
     const rows = rowLevels(diff);
     let any = false;
     for (const cat of pack.cats) {
-      const levels = LEVELS.map((l) => qs.filter((q) => q.c === cat.id && q.l === l));
+      const levels = LEVELS.map((l) => qs.filter((q) => q.c === cat.id && q.l === l && !q.pin));
+      const pins = qs.filter((q) => q.c === cat.id && q.pin);
       if (meets(levels.map((a) => a.length), diff)) {
-        out.push({ pack, title: cat.name, catId: cat.id, levels, rows, diff });
+        out.push({ pack, title: cat.name, catId: cat.id, levels, pins, rows, diff });
         any = true;
       }
     }
     if (!any) {
       // no complete category: mix the whole pack into one column if every level exists
-      const levels = LEVELS.map((l) => qs.filter((q) => q.l === l));
+      const levels = LEVELS.map((l) => qs.filter((q) => q.l === l && !q.pin));
       if (meets(levels.map((a) => a.length), diff)) out.push({ pack, title: pack.name, catId: null, levels, rows, diff });
     }
   }
@@ -359,19 +368,20 @@ function candidates(selection) {
 function buildColumn(cand, usedIds) {
   const played = playedSet(cand.pack.id);
   // the same question can exist in two packs, so the text is tracked as well as the id
-  const textKey = (q) => `t:${q.img ?? ''}|${q.q.toLowerCase()}`;
+  const textKey = (q) => `t:${q.img ?? ''}|${q.snd ?? ''}|${q.q.toLowerCase()}`;
   // a person or place that is already an answer on this board is not asked a second time
-  const answerKey = (q) => (q.img || q.a.length < 5 || /^[\d.,\s]+$/.test(q.a) ? null : `a:${q.a.toLowerCase()}`);
+  const answerKey = (q) => (q.img || q.snd || q.a.length < 5 || /^[\d.,\s]+$/.test(q.a) ? null : `a:${q.a.toLowerCase()}`);
   const taken = (q) => usedIds.has(q.id) || usedIds.has(textKey(q)) || (answerKey(q) !== null && usedIds.has(answerKey(q)));
-  const clues = cand.rows.map((lv) => {
-    const pool = cand.levels[lv - 1];
+  const clues = cand.rows.map((lv, ri) => {
+    // a pinned question (level written like 2!) may only appear in its own row, whatever the difficulty
+    const pool = [...cand.levels[lv - 1], ...(cand.pins ?? []).filter((p) => p.pin === ri + 1)];
     const fresh = pool.filter((q) => !taken(q) && !played.has(q.id));
     const unused = pool.filter((q) => !taken(q));
     const q = pick(fresh.length ? fresh : unused.length ? unused : pool);
     usedIds.add(q.id);
     usedIds.add(textKey(q));
     if (answerKey(q)) usedIds.add(answerKey(q));
-    return { id: q.id, packId: cand.pack.id, q: q.q, a: q.a, note: q.n ?? '', img: q.img ?? '' };
+    return { id: q.id, packId: cand.pack.id, q: q.q, a: q.a, note: q.n ?? '', img: q.img ?? '', snd: q.snd ?? '' };
   });
   return { title: cand.title, pack: cand.pack.name, packId: cand.pack.id, catId: cand.catId, icon: cand.pack.icon, diff: cand.diff, clues };
 }
@@ -381,7 +391,7 @@ function pickFinal(selection, usedIds) {
   for (const pack of selectedPacks(selection)) {
     const played = playedSet(pack.id);
     for (const q of activeQs(pack, selection[pack.id])) {
-      if (q.l >= finalMin(selection[pack.id]?.diff) && !usedIds.has(q.id)) pool.push({ pack, q, fresh: !played.has(q.id) });
+      if (q.l >= finalMin(selection[pack.id]?.diff) && !q.snd && !q.pin && !usedIds.has(q.id)) pool.push({ pack, q, fresh: !played.has(q.id) });
     }
   }
   if (!pool.length) return null;
@@ -389,7 +399,7 @@ function pickFinal(selection, usedIds) {
   const { pack, q } = pick(fresh.length ? fresh : pool);
   const cat = pack.cats.find((c) => c.id === q.c);
   usedIds.add(q.id);
-  return { id: q.id, packId: pack.id, category: cat ? `${pack.name}: ${cat.name}` : pack.name, q: q.q, a: q.a, note: q.n ?? '', img: q.img ?? '' };
+  return { id: q.id, packId: pack.id, category: cat ? `${pack.name}: ${cat.name}` : pack.name, q: q.q, a: q.a, note: q.n ?? '', img: q.img ?? '', snd: q.snd ?? '' };
 }
 
 /**
@@ -463,11 +473,11 @@ export function rerollClue(board, ri, ci, ki, selection) {
   if (!pack) return board;
   const used = usedIdsOf(board);
   const level = rowLevels(selection[pack.id]?.diff)[ki];
-  const pool = activeQs(pack, selection[pack.id]).filter((q) => q.l === level && (col.catId ? q.c === col.catId : true) && !used.has(q.id));
+  const pool = activeQs(pack, selection[pack.id]).filter((q) => (q.pin ? q.pin === ki + 1 : q.l === level) && (col.catId ? q.c === col.catId : true) && !used.has(q.id));
   if (!pool.length) return board;
   const q = pick(pool);
   const next = structuredClone(board);
-  next.rounds[ri].cats[ci].clues[ki] = { id: q.id, packId: pack.id, q: q.q, a: q.a, note: q.n ?? '', img: q.img ?? '' };
+  next.rounds[ri].cats[ci].clues[ki] = { id: q.id, packId: pack.id, q: q.q, a: q.a, note: q.n ?? '', img: q.img ?? '', snd: q.snd ?? '' };
   return next;
 }
 
@@ -486,7 +496,7 @@ export function selectionCapacity(selection) {
 export function boardForServer(board) {
   return {
     rounds: board.rounds.map((r) => ({
-      cats: r.cats.map((c) => ({ title: c.title, pack: c.pack, clues: c.clues.map((k) => ({ q: k.q, a: k.a, note: k.note, img: k.img })) })),
+      cats: r.cats.map((c) => ({ title: c.title, pack: c.pack, clues: c.clues.map((k) => ({ q: k.q, a: k.a, note: k.note, img: k.img, snd: k.snd })) })),
     })),
     final: board.final ? { category: board.final.category, q: board.final.q, a: board.final.a, note: board.final.note, img: board.final.img } : null,
   };

@@ -5,6 +5,7 @@ export const DEFAULT_SETTINGS = {
   bg: { id: 'wald-lichtung', dim: 45, blur: 0, custom: '' }, // 'none' = nur die Farbe des Designs, 'custom' = eigenes Bild
   sfx: true,
   sfxVolume: 60,
+  musicVolume: 70, // Tonausschnitte bei "Wie heißt der Song?"
   audio: {
     input: 'default',
     output: 'default',
