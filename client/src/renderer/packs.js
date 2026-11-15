@@ -371,7 +371,9 @@ function buildColumn(cand, usedIds) {
   const textKey = (q) => `t:${q.img ?? ''}|${q.snd ?? ''}|${q.q.toLowerCase()}`;
   // a person or place that is already an answer on this board is not asked a second time
   const answerKey = (q) => (q.img || q.snd || q.a.length < 5 || /^[\d.,\s]+$/.test(q.a) ? null : `a:${q.a.toLowerCase()}`);
-  const taken = (q) => usedIds.has(q.id) || usedIds.has(textKey(q)) || (answerKey(q) !== null && usedIds.has(answerKey(q)));
+  // one song is used once per board, even if the pack has a title and an artist question for it
+  const soundKey = (q) => (q.snd ? `s:${q.snd}` : null);
+  const taken = (q) => usedIds.has(q.id) || usedIds.has(textKey(q)) || (answerKey(q) !== null && usedIds.has(answerKey(q))) || (soundKey(q) !== null && usedIds.has(soundKey(q)));
   const clues = cand.rows.map((lv, ri) => {
     // a pinned question (level written like 2!) may only appear in its own row, whatever the difficulty
     const pool = [...cand.levels[lv - 1], ...(cand.pins ?? []).filter((p) => p.pin === ri + 1)];
@@ -381,6 +383,7 @@ function buildColumn(cand, usedIds) {
     usedIds.add(q.id);
     usedIds.add(textKey(q));
     if (answerKey(q)) usedIds.add(answerKey(q));
+    if (soundKey(q)) usedIds.add(soundKey(q));
     return { id: q.id, packId: cand.pack.id, q: q.q, a: q.a, note: q.n ?? '', img: q.img ?? '', snd: q.snd ?? '' };
   });
   return { title: cand.title, pack: cand.pack.name, packId: cand.pack.id, catId: cand.catId, icon: cand.pack.icon, diff: cand.diff, clues };

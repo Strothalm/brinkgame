@@ -91,7 +91,7 @@ function check(pack) {
   const notes = [];
   const seen = new Map();
   for (const q of pack.qs) {
-    const key = q.img ? q.img : q.snd ? q.snd : q.q.toLowerCase();
+    const key = q.img ? q.img : q.snd ? `${q.snd}|${q.q.toLowerCase()}` : q.q.toLowerCase();
     if (seen.has(key)) notes.push(`doppelt: "${q.q.slice(0, 50)}" (${q.a})`);
     seen.set(key, true);
   }

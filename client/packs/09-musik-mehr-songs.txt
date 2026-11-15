@@ -33,3 +33,24 @@
 5 | [snd:dz:1230266182] Wie heißt dieser Song? | Pure Vernunft darf niemals siegen | Künstler: Tocotronic
 5 | [snd:dz:4300847] Wie heißt dieser Song? | Sie ist weg | Künstler: Die Fantastischen Vier
 5 | [snd:dz:3090911] Wie heißt dieser Song? | Müssen nur wollen | Künstler: Wir sind Helden
+1 | [snd:dz:15593566] Wer singt diesen Song? | Michael Jackson | Titel: Black or White
+1 | [snd:dz:1006092782] Wer singt diesen Song? | Die Ärzte | Titel: Männer sind Schweine
+1 | [snd:dz:676847] Wer singt diesen Song? | Linkin Park | Titel: What I've Done
+1 | [snd:dz:14525574] Wer singt diesen Song? | Rihanna | Titel: We Found Love
+2 | [snd:dz:596296] Wer singt diesen Song? | Silbermond | Titel: Symphonie
+2 | [snd:dz:3782844882] Wer singt diesen Song? | Cro | Titel: Traum
+2 | [snd:dz:121123256] Wer singt diesen Song? | AnnenMayKantereit | Titel: Pocahontas
+2 | [snd:dz:3135555] Wer singt diesen Song? | Daft Punk | Titel: Digital Love
+2! | [snd:dz:3090545901] Wer singt diesen Song? | ApoRed | Titel: Photoshop
+3 | [snd:dz:846446152] Wer singt diesen Song? | Standart Skill | Titel: GTA
+3 | [snd:dz:15914088] Wer singt diesen Song? | Kraftklub | Titel: Songs für Liam
+3 | [snd:dz:103052662] Wer singt diesen Song? | Tame Impala | Titel: The Less I Know the Better
+3 | [snd:dz:70322130] Wer singt diesen Song? | Arctic Monkeys | Titel: Do I Wanna Know?
+4 | [snd:dz:70267013] Wer singt diesen Song? | Casper | Titel: Hinterland
+4 | [snd:dz:3782857202] Wer singt diesen Song? | Marteria | Titel: Lila Wolken
+4 | [snd:dz:144206510] Wer singt diesen Song? | Bonaparte | Titel: Anti Anti
+4 | [snd:dz:3786035262] Wer singt diesen Song? | Nena | Titel: Nur geträumt
+5 | [snd:dz:502251372] Wer singt diesen Song? | Kettcar | Titel: Landungsbrücken raus
+5 | [snd:dz:1230266182] Wer singt diesen Song? | Tocotronic | Titel: Pure Vernunft darf niemals siegen
+5 | [snd:dz:4300847] Wer singt diesen Song? | Die Fantastischen Vier | Titel: Sie ist weg
+5 | [snd:dz:3090911] Wer singt diesen Song? | Wir sind Helden | Titel: Müssen nur wollen

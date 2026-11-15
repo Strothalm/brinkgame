@@ -227,7 +227,9 @@ letzte Wort und kann Punkte korrigieren.
 
 ### Tonfragen („Wie heißt der Song?“)
 
-Im Paket Musik gibt es die Kategorie **Wie heißt der Song?** mit 31 Songs. Bei diesen Fragen spielt die
+Im Paket Musik gibt es die Kategorie **Wie heißt der Song?** mit 31 Songs. Bei 21 davon gibt es zwei Fragen:
+mal wird der **Titel** gefragt („Wie heißt dieser Song?“), mal der **Künstler** („Wer singt diesen Song?“).
+Derselbe Song kommt nie zweimal auf ein Board. Bei diesen Fragen spielt die
 App allen Spielern gleichzeitig einen 30-Sekunden-Ausschnitt vor. Die Ausschnitte liegen **nicht** im Projekt:
 Im Paket steht nur die Deezer-Titelnummer, der **Server** holt beim Spielen einen frischen Vorschau-Link
 (`/audio/dz/<Nummer>`) und leitet die App dorthin. Dafür muss der Server das Internet erreichen.
